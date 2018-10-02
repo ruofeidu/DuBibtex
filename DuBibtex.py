@@ -1,81 +1,254 @@
-# Merge duplicated bibtex, capitalize the titles, and resolve missing DOI
-import re, requests
-
-SEARCH_DOI = True
+# DuBibtex
+# This script merges duplicated bibtex items from a list of .bib files, capitalize the titles,
+# and more importantly, resolve missing DOIs, years.
+# This script assumes the first line of each bibtex item contains its bib iD.
+# This is typically true if the bibtex item is from Google Scholar or DBLP.
+# Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 # Reference: http://www.bibtex.org/Format/
+# Sources of DOI: Google, ACM, IEEE, Springer, Caltech, Wiley
+import re, requests, json, configparser
 
-re_id = re.compile('\s*\@(\w+)\{([\w\d\.]+),')
-re_item = re.compile('\s*(\w+)\s*=\s*[\{"]+([^\}]*)\s*[\}"]+')
-re_end = re.compile('\s*}\s*')
-re_doi = re.compile('doi\.org\\?\/([\w\d\.\\\/]*)', flags=re.MULTILINE)
-re_doi3 = re.compile('doi\.org\/([\w\d\.\\\/]*)', flags=re.MULTILINE)
-re_doi2 = re.compile('"DOI":"([\w\.\\\/]*)"', flags=re.MULTILINE)
-re_doi_springer = re.compile('chapter\/([\w\.\\\/\_\-]*)', flags=re.MULTILINE)
-re_acm = re.compile('citation\.cfm\?id\=(\d+)', flags=re.MULTILINE)
-
-bib_set = {}
-bib = ''
-duplicated = False
-hasDOI = False
-doi = ''
-title = ''
-cur = None
-fout = open('output.bib', 'w')
-num_missing, num_duplicated, num_fixed = 0, 0, 0
-header = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36'}
+__author__ = "Ruofei Du"
 
 
-def crossref_lookup(s):
-    global header
-    url = 'https://api.crossref.org/works?rows=5&query.title=%s' % s
-    content = requests.get(url, headers=header).text
-    # content = open('example.txt', 'r').readline()
-    print(content)
-    m = re_doi2.search(content)
+class Paras:
+    section = "DuBibtex"
+    searchDOI = True
+    inputFileList = []
+    outputFile = ""
+    useOfflineDOI = False
+    keepComments = False
+    debugBibCrawler = True
+    debugStatistics = True
+    doiJsonFile = ""
+    header = {}
 
-    m = re_doi.search(content)
+
+def request_url(url):
+    return requests.get(url, headers=Paras.header).text
+
+
+class Re:
+    bib = re.compile('\s*\@(\w+)\{([\w\d\.]+),')
+    item = re.compile('\s*(\w+)\s*=\s*[\{"]\s*(.*)\s*[\}"],')
+    item2 = re.compile('\s*(\w+)\s*=\s*[\{"]\{\s*(.*)\s*[\}"]\}')
+    endl = re.compile('\s*}\s*')
+    doiJson = re.compile('doi\.org\\?\/([\w\d\.\\\/]*)', flags=re.MULTILINE)
+    doiUrl = re.compile('doi\.org\/([\w\d\.\\\/]*)', flags=re.MULTILINE)
+    doiJavascript = re.compile('doi\"\:\"([\w\d\.\\\/]*)\"', flags=re.MULTILINE)
+    doiText = re.compile('"DOI":"([\w\.\\\/]*)"', flags=re.MULTILINE)
+    doiSpringer = re.compile('chapter\/([\w\.\\\/\_\-]*)', flags=re.MULTILINE)
+    doiWiley = re.compile('doi\/abs\/([\w\.\\\/\_\-]*)', flags=re.MULTILINE)
+    doiCaltech = re.compile('authors\.library\.caltech\.edu\/(\d+)', flags=re.MULTILINE)
+    acm = re.compile('citation\.cfm\?id\=(\d+)', flags=re.MULTILINE)
+    ieee = re.compile('ieee\.org\/document\/(\d+)', flags=re.MULTILINE)
+    year = re.compile('\w+(\d+)')
+
+
+class Parser:
+    fout = None
+    bibDict = {}
+    doiDict = {}
+    duplicated = False
+    numMissing, numDuplicated, numFixed = 0, 0, 0
+    # current bibitem and bib ID
+    cur, bib = None, ''
+
+    def __init__(self):
+        config = configparser.ConfigParser()
+        config.read("config.ini")
+        Paras.header['User-Agent'] = config.get(Paras.section, "header").strip()
+        Paras.searchDOI = config.getboolean(Paras.section, "searchDOI")
+        Paras.useOfflineDOI = config.getboolean(Paras.section, "useOfflineDOI")
+        Paras.keepComments = config.getboolean(Paras.section, "keepComments")
+        Paras.debugBibCrawler = config.getboolean(Paras.section, "debugBibCrawler")
+        Paras.debugStatistics = config.getboolean(Paras.section, "debugStatistics")
+        Paras.inputFileList = config.get(Paras.section, "inputFileList").strip().split(",")
+        Paras.doiJsonFile = config.get(Paras.section, "doiJsonFile").strip()
+        Paras.outputFile = config.get(Paras.section, "outputFile").strip()
+
+        self.fout = open(Paras.outputFile, 'w')
+        with open(Paras.doiJsonFile) as f:
+            self.doiDict = json.load(f)
+
+    def clear(self):
+        self.duplicated = False
+        self.bib, self.title = '', ''
+
+    def write_current_item(self):
+        self.fout.write('@%s{%s,\n' % (self.cur['type'], self.bib))
+
+        if 'year' not in self.cur:
+            m = Re.year.search(self.bib)
+            if m and m.groups():
+                self.cur['year'] = m.groups()[0]
+
+        if self.bib in self.doiDict:
+            if Paras.debugBibCrawler:
+                print('Missing DOI, get from local dict.')
+            if Paras.debugStatistics:
+                self.numMissing += 1
+                self.numFixed += 1
+            self.cur['doi'] = self.doiDict[self.bib]
+
+        if Paras.searchDOI and 'doi' not in self.cur and self.cur['type'].lower() not in ['misc', 'book']:
+            # search for DOI
+            if Paras.debugBibCrawler:
+                print('Missing DOI, search "%s"...' % self.cur['title'])
+            d = google_lookup(self.cur['title'])
+            if d:
+                self.cur['doi'] = d
+            else:
+                d = crossref_lookup(self.cur['title'])
+                if d:
+                    self.cur['doi'] = d
+            self.numMissing += 1
+            if d:
+                self.numFixed += 1
+
+        if 'doi' in self.cur:
+            self.cur['doi'] = fix_underscore(self.cur['doi'])
+            self.doiDict[self.bib] = self.cur['doi']
+
+        del self.cur['type']
+        n = len(self.cur.keys())
+        for i, key in enumerate(self.cur.keys()):
+            if key in ['booktitle', 'journal', 'title']:
+                self.cur[key] = capitalize(self.cur[key])
+                # print(cur[key])
+
+            if key in ['title']:
+                self.fout.write('  %s={{%s}}' % (key, self.cur[key]))
+            else:
+                self.fout.write('  %s={%s}' % (key, self.cur[key]))
+
+            if i != n - 1:
+                self.fout.write(',')
+            self.fout.write('\n')
+        self.fout.write('}\n\n')
+
+    def add_new_bib(self, bib_id, bib_type):
+        self.bib = bib_id
+        if self.bib in self.bibDict:
+            self.duplicated = True
+            return
+        self.bibDict[self.bib] = {}
+        self.cur = self.bibDict[self.bib]
+        self.cur['type'] = bib_type
+
+    def parse_line(self, line):
+        # match EOF
+        if Re.endl.match(line):
+            if not self.duplicated:
+                self.write_current_item()
+            self.clear()
+            return
+
+        # match duplicates
+        if self.duplicated:
+            if Paras.debugStatistics:
+                print("* duplicated %s" % self.bib)
+                self.numDuplicated += 1
+            return
+
+        # match new bib item
+        m = Re.bib.match(line)
+        if m and len(m.groups()) > 0:
+            self.add_new_bib(m.groups()[1], m.groups()[0])
+
+        # output comments
+        if not self.bib:
+            if Paras.keepComments:
+                self.fout.write(line)
+            return
+
+        # for each bibtex, first match {{}} or {""}, then match {} or ""
+        m = Re.item2.match(line)
+        if not m:
+            m = Re.item.match(line)
+        if m and len(m.groups()) > 0:
+            self.cur[m.groups()[0]] = m.groups()[1]
+
+    def print_statistics(self):
+        print("%d missing doi, %d fixed, %d duplicated" % (self.numMissing, self.numFixed, self.numDuplicated))
+
+    def shut_down(self):
+        self.fout.close()
+        with open(Paras.doiJsonFile, 'w') as outfile:
+            json.dump(self.doiDict, outfile)
+            print("Known DOI saved to JSON.")
+        self.print_statistics()
+
+
+def crossref_lookup(_title):
+    content = request_url('https://api.crossref.org/works?rows=5&query.title=%s' % _title)
+    m = Re.doiJson.search(content)
     if m and len(m.groups()) > 0:
         res = m.groups()[0]
         res = res.replace('\\', '')
-        print(res)
+        if Paras.debugBibCrawler:
+            print("DOI from CrossRef Lookup:", res)
         return res
     return None
 
 
-def google_loopup(s):
-    url = 'https://www.google.com/search?q=%s' % s
-    content = requests.get(url, headers=header).text
-    m = re_doi_springer.search(content)
+def google_lookup(s):
+    content = request_url('https://www.google.com/search?q=%s' % s)
 
+    m = Re.doiSpringer.search(content)
     if m and len(m.groups()) > 0:
-        res = m.groups()[0]
-        res = res.replace('\\', '')
+        res = m.groups()[0].replace('\\', '')
         print("DOI from Google and Springer: %s\n" % res)
         return res
 
-    m = re_doi3.search(content, re.M)
+    m = Re.doiWiley.search(content)
     if m and len(m.groups()) > 0:
-        res = m.groups()[0]
-        print("DOI from Google and DOI.org: %s\n" % res)
+        res = m.groups()[0].replace('\\', '')
+        print("DOI from Google and Wiley: %s\n" % res)
         return res
 
-    m = re_acm.search(content)
+    m = Re.doiUrl.search(content, re.M)
     if m and len(m.groups()) > 0:
         res = m.groups()[0]
-        url = 'https://dl.acm.org/citation.cfm?id=%s' % res
-        content = requests.get(url, headers=header).text
-        # content = ''.join(open('example.txt', 'r').readlines())
-        m = re_doi3.search(content, re.M)
-        # print("content", content)
+        if Paras.debugBibCrawler:
+            print("DOI from Google and DOI.org: %s\n" % res)
+        return res
+
+    m = Re.acm.search(content)
+    if m and len(m.groups()) > 0:
+        content = request_url('https://dl.acm.org/citation.cfm?id=%s' % m.groups()[0])
+        m = Re.doiUrl.search(content, re.M)
 
         if m and len(m.groups()) > 0:
             res = m.groups()[0]
             res = res.replace('\\', '')
-            print("DOI from Google and ACM: %s\n" % res)
+            if Paras.debugBibCrawler:
+                print("DOI from Google and ACM: %s\n" % res)
+            return res
 
-        return res
+    m = Re.ieee.search(content)
+    if m and len(m.groups()) > 0:
+        content = request_url('https://ieeexplore.ieee.org/document/%s/' % m.groups()[0])
+        m = Re.doiJavascript.search(content, re.M)
+        if m and len(m.groups()) > 0:
+            res = m.groups()[0].replace('\\', '')
+            print("DOI from Google and IEEE: %s\n" % res)
+            return res
+
+    m = Re.doiCaltech.search(content)
+    if m and len(m.groups()) > 0:
+        content = request_url('https://authors.library.caltech.edu/%s/' % m.groups()[0])
+        m = Re.doiUrl.search(content, re.M)
+        if m and len(m.groups()) > 0:
+            res = m.groups()[0]
+            res = res.replace('\\', '')
+            print("DOI from Google and Caltech: %s\n" % res)
+            return res
     return None
+
+
+def fix_underscore(s):
+    return re.sub('[^\_]\_', '\\\_', s)
 
 
 def capitalize(s, spliter=' '):
@@ -100,79 +273,13 @@ def capitalize(s, spliter=' '):
     return s if spliter == '-' else capitalize(s, '-')
 
 
-def output(fout, cur, bib):
-    global num_missing, num_fixed
+if __name__ == "__main__":
+    p = Parser()
 
-    fout.write('@%s{%s,\n' % (cur['type'], bib))
-    del cur['type']
+    for filename in Paras.inputFileList:
+        with open(filename, 'r') as f:
+            lines = f.readlines()
+            for line in lines:
+                p.parse_line(line)
 
-    if SEARCH_DOI and doi not in cur:
-        # search for DOI
-        print('Missing DOI, search "%s"...' % cur['title'])
-        d = google_loopup(cur['title'])
-        if d:
-            cur['doi'] = d
-        else:
-            d = crossref_lookup(cur['title'])
-            if d:
-                cur['doi'] = d
-        num_missing += 1
-        num_fixed += 1
-        # if num_fixed > 9:
-        #     exit(0)
-
-    n = cur.keys()
-    for i, key in enumerate(cur.keys()):
-        if key in ['booktitle', 'journal', 'title']:
-            cur[key] = capitalize(cur[key])
-            # print(cur[key])
-
-        if key == 'title':
-            fout.write('  %s={{%s}}' % (key, cur[key]))
-        else:
-            fout.write('  %s={%s}' % (key, cur[key]))
-
-        if i != n:
-            fout.write(',\n')
-        else:
-            fout.write('\n')
-    fout.write('}\n\n')
-
-
-with open('input.bib', 'r') as f:
-    lines = f.readlines()
-    for line in lines:
-        if re_end.match(line):
-            if not duplicated:
-                output(fout, cur, bib)
-
-            duplicated = False
-            doi, title = '', ''
-            continue
-        if duplicated:
-            print("* duplicated %s" % bib)
-            num_duplicated += 1
-            continue
-
-        m = re_id.match(line)
-        if m and len(m.groups()) > 0:
-            bib = m.groups()[1]
-            if bib in bib_set:
-                duplicated = True
-                continue
-            bib_set[bib] = {}
-            cur = bib_set[bib]
-            cur['type'] = m.groups()[0]
-            print(bib)
-
-        if not bib:
-            fout.write(line)
-            continue
-
-        m = re_item.match(line)
-        if m and len(m.groups()) > 0:
-            cur[m.groups()[0]] = m.groups()[1]
-
-fout.close()
-
-print("%d missing doi, %d fixed, %d duplicated" % (num_missing, num_fixed, num_duplicated))
+    p.shut_down()
