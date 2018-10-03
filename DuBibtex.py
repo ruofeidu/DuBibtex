@@ -30,7 +30,7 @@ def request_url(url):
 
 class Re:
     bib = re.compile('\s*\@(\w+)\{([\w\d\.]+),')
-    item = re.compile('\s*(\w+)\s*=\s*[\{"]\s*(.*)\s*[\}"],')
+    item = re.compile('\s*(\w+)\s*=\s*[\{"]\s*(.*)\s*[\}"]')
     item2 = re.compile('\s*(\w+)\s*=\s*[\{"]\{\s*(.*)\s*[\}"]\}')
     endl = re.compile('\s*}\s*')
     doiJson = re.compile('doi\.org\\?\/([\w\d\.\\\/]*)', flags=re.MULTILINE)
@@ -40,6 +40,7 @@ class Re:
     doiSpringer = re.compile('chapter\/([\w\.\\\/\_\-]*)', flags=re.MULTILINE)
     doiWiley = re.compile('doi\/abs\/([\w\.\\\/\_\-]*)', flags=re.MULTILINE)
     doiCaltech = re.compile('authors\.library\.caltech\.edu\/(\d+)', flags=re.MULTILINE)
+    urlArxiv = re.compile('arxiv\.org\/pdf\/([\d\.]+)', flags=re.MULTILINE)
     acm = re.compile('citation\.cfm\?id\=(\d+)', flags=re.MULTILINE)
     ieee = re.compile('ieee\.org\/document\/(\d+)', flags=re.MULTILINE)
     year = re.compile('\w+(\d+)')
@@ -73,38 +74,49 @@ class Parser:
 
     def clear(self):
         self.duplicated = False
-        self.bib, self.title = '', ''
+        self.bib = ''
+
+    def debug_bib(self, s):
+        if not Paras.debugBibCrawler:
+            return
+        print(s)
+
+    def fix_doi(self, _doi):
+        if Paras.debugStatistics:
+            self.numMissing += 1
+            self.numFixed += 1
+        self.cur['doi'] = _doi
 
     def write_current_item(self):
         self.fout.write('@%s{%s,\n' % (self.cur['type'], self.bib))
 
-        if 'year' not in self.cur:
+        if 'year' not in self.cur or len(self.cur['year']) < 4:
             m = Re.year.search(self.bib)
             if m and m.groups():
                 self.cur['year'] = m.groups()[0]
 
         if self.bib in self.doiDict:
-            if Paras.debugBibCrawler:
-                print('Missing DOI, get from local dict.')
-            if Paras.debugStatistics:
-                self.numMissing += 1
-                self.numFixed += 1
-            self.cur['doi'] = self.doiDict[self.bib]
+            self.debug_bib('Missing DOI, but obtained from the local dict JSON.')
+            self.fix_doi(self.doiDict[self.bib])
 
         if Paras.searchDOI and 'doi' not in self.cur and self.cur['type'].lower() not in ['misc', 'book']:
             # search for DOI
-            if Paras.debugBibCrawler:
-                print('Missing DOI, search "%s"...' % self.cur['title'])
-            d = google_lookup(self.cur['title'])
-            if d:
-                self.cur['doi'] = d
+            self.debug_bib('Missing DOI, search "%s"...' % self.cur['title'])
+
+            if 'journal' in self.cur and self.cur['journal'][:5].lower() == 'arxiv':
+                content = request_url('https://www.google.com/search?q=%s' % self.cur['title'])
+                m = Re.urlArxiv.search(content)
+                if m and len(m.groups()) > 0:
+                    self.cur['url'] = "https://arxiv.org/pdf/%s" % m.groups()[0]
+                    self.debug_bib('Missing DOI, search "%s"...' % self.cur['title'])
             else:
-                d = crossref_lookup(self.cur['title'])
+                d = google_lookup(self.cur['title'])
+                if not d:
+                    d = crossref_lookup(self.cur['title'])
                 if d:
-                    self.cur['doi'] = d
-            self.numMissing += 1
-            if d:
-                self.numFixed += 1
+                    self.fix_doi(d)
+                else:
+                    self.numMissing += 1
 
         if 'doi' in self.cur:
             self.cur['doi'] = fix_underscore(self.cur['doi'])

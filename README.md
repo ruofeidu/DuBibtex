@@ -7,8 +7,11 @@ Sources of DOI:
 * Springer
 * Caltech
 * Wiley
+* arxiv
 
-Feel free to make any pull requests!
+Please feel free to make any pull requests!
+
+Another useful tool for LaTeX writing is extracting the abstract: http://tool.duruofei.com/abstract, whose source code is added as a submodule here.
 
 Known issues:
 * It assumes the first line of each bibtex item contains its bib ID. This is typically true if the bibtex item is from Google Scholar or DBLP
