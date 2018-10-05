@@ -21,6 +21,7 @@ class Paras:
     debugBibCrawler = True
     debugStatistics = True
     doiJsonFile = ""
+    minYear = 1995
     header = {}
 
 
@@ -67,6 +68,7 @@ class Parser:
         Paras.inputFileList = config.get(Paras.section, "inputFileList").strip().split(",")
         Paras.doiJsonFile = config.get(Paras.section, "doiJsonFile").strip()
         Paras.outputFile = config.get(Paras.section, "outputFile").strip()
+        Paras.minYear = config.getint(Paras.section, "minYear")
 
         self.fout = open(Paras.outputFile, 'w')
         with open(Paras.doiJsonFile) as f:
@@ -99,7 +101,8 @@ class Parser:
             self.debug_bib('Missing DOI, but obtained from the local dict JSON.')
             self.fix_doi(self.doiDict[self.bib])
 
-        if Paras.searchDOI and 'doi' not in self.cur and self.cur['type'].lower() not in ['misc', 'book']:
+        if Paras.searchDOI and int(self.cur['year']) > Paras.minYear and 'doi' not in self.cur \
+                and self.cur['type'].lower() not in ['misc', 'book']:
             # search for DOI
             self.debug_bib('Missing DOI, search "%s"...' % self.cur['title'])
 
