@@ -41,8 +41,9 @@ class Re:
     doiSpringer = re.compile('chapter\/([\w\.\\\/\_\-]*)', flags=re.MULTILINE)
     doiWiley = re.compile('doi\/abs\/([\w\.\\\/\_\-]*)', flags=re.MULTILINE)
     doiCaltech = re.compile('authors\.library\.caltech\.edu\/(\d+)', flags=re.MULTILINE)
+    doiPubmed = re.compile('nlm\.nih\.gov\/pubmed\/(\d+)', flags=re.MULTILINE)
     urlArxiv = re.compile('arxiv\.org\/pdf\/([\d\.]+)', flags=re.MULTILINE)
-    acm = re.compile('citation\.cfm\?id\=(\d+)', flags=re.MULTILINE)
+    acm = re.compile('citation\.cfm\?id\=([\d\.]+)', flags=re.MULTILINE)
     ieee = re.compile('ieee\.org\/document\/(\d+)', flags=re.MULTILINE)
     year = re.compile('\w+(\d+)')
 
@@ -231,8 +232,8 @@ def google_lookup(s):
 
     m = Re.acm.search(content)
     if m and len(m.groups()) > 0:
-        content = request_url('https://dl.acm.org/citation.cfm?id=%s' % m.groups()[0])
-        m = Re.doiUrl.search(content, re.M)
+        content_acm = request_url('https://dl.acm.org/citation.cfm?id=%s' % m.groups()[0])
+        m = Re.doiUrl.search(content_acm, re.M)
 
         if m and len(m.groups()) > 0:
             res = m.groups()[0]
@@ -243,8 +244,8 @@ def google_lookup(s):
 
     m = Re.ieee.search(content)
     if m and len(m.groups()) > 0:
-        content = request_url('https://ieeexplore.ieee.org/document/%s/' % m.groups()[0])
-        m = Re.doiJavascript.search(content, re.M)
+        content_ieee = request_url('https://ieeexplore.ieee.org/document/%s' % m.groups()[0])
+        m = Re.doiJavascript.search(content_ieee, re.M)
         if m and len(m.groups()) > 0:
             res = m.groups()[0].replace('\\', '')
             print("DOI from Google and IEEE: %s\n" % res)
@@ -252,13 +253,24 @@ def google_lookup(s):
 
     m = Re.doiCaltech.search(content)
     if m and len(m.groups()) > 0:
-        content = request_url('https://authors.library.caltech.edu/%s/' % m.groups()[0])
-        m = Re.doiUrl.search(content, re.M)
+        content_cal = request_url('https://authors.library.caltech.edu/%s' % m.groups()[0])
+        m = Re.doiUrl.search(content_cal, re.M)
         if m and len(m.groups()) > 0:
             res = m.groups()[0]
             res = res.replace('\\', '')
             print("DOI from Google and Caltech: %s\n" % res)
             return res
+
+    m = Re.doiPubmed.search(content)
+    if m and len(m.groups()) > 0:
+        content_pubmed = request_url('https://www.ncbi.nlm.nih.gov/pubmed/%s' % m.groups()[0])
+        m = Re.doiUrl.search(content_pubmed, re.M)
+        if m and len(m.groups()) > 0:
+            res = m.groups()[0]
+            res = res.replace('\\', '')
+            print("DOI from Google and PubMed: %s\n" % res)
+            return res
+    print("Nothing was found.")
     return None
 
 
@@ -269,6 +281,7 @@ def fix_underscore(s):
 def capitalize(s, spliter=' '):
     lower_cases = {'a', 'an', 'the', 'to', 'on', 'in', 'of', 'at', 'by', 'for', 'or', 'and', 'vs.'}
 
+    s = s.strip(',.- ')
     # reverse IEEE conferences
     if s.rfind(',') > 0 and s[-3:].lower() == ' on':
         p = s.rfind(',')
