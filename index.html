@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Abstract Extraction from LaTeX | Ruofei Du</title>
+ <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+</head>
+
+<body>
+<div class="container">
+<div class="row" align="center">
+<h1>Abstract Extraction from LaTeX</h1>
+<a href="http://duruofei.com" target="_blank"><h3>Ruofei Du</h3></a>
+<p align="left">In paper writing, we often need to extract the abstract from LaTeX source and paste to the submission system.
+Reformating the abstract is painful. So I develop this software for automatically remove LaTeX symbols. Put the LaTeX source code in the left, the extracted abstract is shown on the right.</p>
+</div>
+
+<div class="row" align="center">
+  <div class="col-md-6">
+  <textarea rows="20" id="in_a" style="width:100%; font-size:1.5em">
+  % Comments
+\abstract{This paper presents an awesome \textit{System} that describes~\textbf{a lot of}~things. 
+% Another comments
+We have a {\sc Great Name\/} that implies {\em something important\/}.
+
+
+
+Both 100\% and 100\degree~field of view can be intepreted correctly.
+In the experiment, we observe an $100X$ speedup.
+}
+% Comments 
+ 
+  </textarea>
+  </div>
+
+  <div class="col-md-6">
+  <textarea rows="20" id="out" style="width:100%; font-size:1.5em">
+Clean results
+  </textarea>
+  </div>
+</div>
+
+<div class="row" align="center">
+  <button type="button" id="analyze">Show me the abstract!</button>
+</div>
+
+  
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

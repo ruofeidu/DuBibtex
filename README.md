@@ -17,15 +17,15 @@ Known issues:
 * It assumes the first line of each bibtex item contains its bib ID. This is typically true if the bibtex item is from Google Scholar or DBLP
 
 ## Run
-Edit config.ini and put your list of bib files to 
+First, edit _config.ini_ and modify your list of input bib files. For example: 
 ```sh
 inputFileList       =   input.bib,test.bib
 ```
-, next run
+Next, run
 ```sh
 python Dubibtex
 ```
-the new bib file will be generated as output.bib by default
+The new bib file will be generated as output.bib by default.
 
 ## Dependencies
 * Python 3.6
@@ -39,4 +39,4 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 
 ## References
-[BibTeX Format Description](http://www.bibtex.org/Format/)
+[BibTeX Format Description](http://www.bibtex.org/Format)
