@@ -43,7 +43,7 @@ def request_url(url):
 
 
 class Re:
-  bib = re.compile('\s*\@(\w+)\s*\{\s*([\w\d\.\:]+),')
+  bib = re.compile('\s*\@(\w+)\s*\{\s*([\w\d\.\:\-]+),')
   item = re.compile('\s*(\w+)\s*=\s*[\{"]\s*(.*)\s*[\}"]')
   item2 = re.compile('\s*(\w+)\s*=\s*[\{"]\{\s*(.*)\s*[\}"]\}')
   endl = re.compile('\s*}\s*')
@@ -132,10 +132,10 @@ class Parser:
       self.bib = self.cur['author'].split(
           ',', 1)[0] + self.cur['year'] + self.cur['title'].split(
               ' ', 1)[0].capitalize()
-    
+
     if not 'author' in self.cur:
       print('Error: No author for ' + self.bib)
-    
+
     if not 'title' in self.cur:
       print('Error: No title for ' + self.bib)
 
@@ -217,9 +217,10 @@ class Parser:
 
   def add_new_bib(self, bib_id, bib_type):
     self.bib = bib_id
-    if self.bib in self.bibDict:
+    if self.bib.lower() in self.bibDict:
       self.duplicated = True
       return
+    self.bibDict[self.bib.lower()] = {}
     self.bibDict[self.bib] = {}
     self.cur = self.bibDict[self.bib]
     self.cur['type'] = bib_type
@@ -239,7 +240,7 @@ class Parser:
         self.numDuplicated += 1
       return
 
-    # Matches new bib item.
+    # Matches new bib item with type and bib id.
     m = Re.bib.match(line)
     if m and len(m.groups()) > 0:
       self.add_new_bib(m.groups()[1], m.groups()[0])
@@ -435,6 +436,7 @@ if __name__ == "__main__":
       lines = f.readlines()
       print(filename)
       for line in lines:
+        print(line)
         p.parse_line(line)
 
   p.shut_down()
