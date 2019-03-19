@@ -43,7 +43,7 @@ def request_url(url):
 
 
 class Re:
-  bib = re.compile('\s*\@(\w+)\s*\{\s*([\w\d\.\:\-]+),')
+  bib = re.compile('\s*\@(\w+)\s*\{\s*([^\{\,\}]+),')
   item = re.compile('\s*(\w+)\s*=\s*[\{"]\s*(.*)\s*[\}"]')
   item2 = re.compile('\s*(\w+)\s*=\s*[\{"]\{\s*(.*)\s*[\}"]\}')
   endl = re.compile('\s*}\s*')
@@ -121,6 +121,8 @@ class Parser:
       self.cur['url'] = 'http://doi.org/%s' % _doi
 
   def write_current_item(self):
+    self.debug_bib(self.cur['title'])
+
     # Ensures there is year field.
     if 'year' not in self.cur or len(self.cur['year']) < 4:
       m = Re.year.search(self.bib)
@@ -146,6 +148,9 @@ class Parser:
 
     if Paras.defaultAddress and 'address' not in self.cur:
       self.cur['address'] = 'New York, NY, USA'
+
+    if self.cur['type'] == 'article' and 'address' in self.cur:
+      del self.cur['address']
 
     if Paras.defaultPublisher and 'publisher' not in self.cur:
       if 'organization' in self.cur:
@@ -434,9 +439,7 @@ if __name__ == "__main__":
   for filename in Paras.inputFileList:
     with open(filename, 'r') as f:
       lines = f.readlines()
-      print(filename)
       for line in lines:
-        print(line)
         p.parse_line(line)
 
   p.shut_down()
