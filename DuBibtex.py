@@ -1,9 +1,19 @@
-""" DuBibtex merges duplicated bibtex items and resolve missing DOIs, years, wrong titles, etc.
+""" DuBibtex merges duplicated bibtex items and resolve missing DOIs, years,
+wrong titles, etc.
 
 This script assumes the first line of each bibtex item contains its bib iD.
 This is typically true if the bibtex item is from Google Scholar or DBLP.
 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Creative Commons Attribution-ShareAlike 3.0 License with 996 ICU clause:
+
+The above license is only granted to entities that act in concordance with
+local labor laws. In addition, the following requirements must be observed:
+The licensee must not, explicitly or implicitly, request or schedule their
+employees to work more than 45 hours in any single week. The licensee must
+not, explicitly or implicitly, request or schedule their employees to be at
+work consecutively for 10 hours. For more information about this protest, see
+http://996.icu
+
 Reference: http://www.bibtex.org/Format/
 Sources of DOI: Google, ACM, IEEE, Springer, Caltech, Wiley
 """
@@ -178,8 +188,8 @@ class Parser:
       self.debug_bib('Missing DOI, search "%s"...' % self.cur['title'])
 
       if 'journal' in self.cur and self.cur['journal'][:5].lower() == 'arxiv':
-        content = request_url(
-            'https://www.google.com/search?q=%s' % self.cur['title'])
+        content = request_url('https://www.google.com/search?q=%s' %
+                              self.cur['title'])
         m = Re.urlArxiv.search(content)
         if m and len(m.groups()) > 0:
           self.cur['url'] = "https://arxiv.org/pdf/%s" % m.groups()[0]
@@ -278,8 +288,8 @@ class Parser:
 
 
 def crossref_lookup(_title):
-  content = request_url(
-      'https://api.crossref.org/works?rows=5&query.title=%s' % _title)
+  content = request_url('https://api.crossref.org/works?rows=5&query.title=%s' %
+                        _title)
   m = Re.doiJson.search(content)
   if m and len(m.groups()) > 0:
     res = m.groups()[0]
@@ -370,8 +380,8 @@ def google_lookup(s, parser):
 
   m = Re.ieee.search(html)
   if m and len(m.groups()) > 0:
-    html_ieee = request_url(
-        'https://ieeexplore.ieee.org/document/%s' % m.groups()[0])
+    html_ieee = request_url('https://ieeexplore.ieee.org/document/%s' %
+                            m.groups()[0])
     m = Re.doiJavascript.search(html_ieee, re.M)
     if m and len(m.groups()) > 0:
       res = m.groups()[0].replace('\\', '')
@@ -380,8 +390,8 @@ def google_lookup(s, parser):
 
   m = Re.doiCaltech.search(html)
   if m and len(m.groups()) > 0:
-    html_cal = request_url(
-        'https://authors.library.caltech.edu/%s' % m.groups()[0])
+    html_cal = request_url('https://authors.library.caltech.edu/%s' %
+                           m.groups()[0])
     m = Re.doiUrl.search(html_cal, re.M)
     if m and len(m.groups()) > 0:
       res = m.groups()[0]
@@ -391,8 +401,8 @@ def google_lookup(s, parser):
 
   m = Re.doiPubmed.search(html)
   if m and len(m.groups()) > 0:
-    html_pubmed = request_url(
-        'https://www.ncbi.nlm.nih.gov/pubmed/%s' % m.groups()[0])
+    html_pubmed = request_url('https://www.ncbi.nlm.nih.gov/pubmed/%s' %
+                              m.groups()[0])
     m = Re.doiUrl.search(html_pubmed, re.M)
     if m and len(m.groups()) > 0:
       res = m.groups()[0]
