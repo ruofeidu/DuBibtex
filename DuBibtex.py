@@ -1,19 +1,9 @@
-""" DuBibtex merges duplicated bibtex items and resolve missing DOIs, years,
-wrong titles, etc.
+""" DuBibtex merges duplicated bibtex items and resolve missing DOIs, years, wrong titles, etc.
 
 This script assumes the first line of each bibtex item contains its bib iD.
 This is typically true if the bibtex item is from Google Scholar or DBLP.
 
-Creative Commons Attribution-ShareAlike 3.0 License with 996 ICU clause:
-
-The above license is only granted to entities that act in concordance with
-local labor laws. In addition, the following requirements must be observed:
-The licensee must not, explicitly or implicitly, request or schedule their
-employees to work more than 45 hours in any single week. The licensee must
-not, explicitly or implicitly, request or schedule their employees to be at
-work consecutively for 10 hours. For more information about this protest, see
-http://996.icu
-
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Reference: http://www.bibtex.org/Format/
 Sources of DOI: Google, ACM, IEEE, Springer, Caltech, Wiley
 """
@@ -57,12 +47,14 @@ class Re:
   item = re.compile('\s*(\w+)\s*=\s*[\{"]\s*(.*)\s*[\}"]')
   item2 = re.compile('\s*(\w+)\s*=\s*[\{"]\{\s*(.*)\s*[\}"]\}')
   endl = re.compile('\s*}\s*')
-  doiJson = re.compile('doi\.org\\?\/([\w\d\.\\\/]*)', flags=re.MULTILINE)
-  doiUrl = re.compile('doi\.org\/([\w\d\.\\\/]*)', flags=re.MULTILINE)
-  doiJavascript = re.compile('doi\"\:\"([\w\d\.\\\/]*)\"', flags=re.MULTILINE)
+  doiJson = re.compile('doi\.org\\?\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
+  doiUrl = re.compile('doi\.org\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
+  doiAcmUrl = re.compile(
+      'https://dl\.acm\.org\/doi\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
+  doiJavascript = re.compile('doi\"\:\"([\w\d\.\\\/]+)\"', flags=re.MULTILINE)
   doiText = re.compile('"DOI":"([\w\.\\\/]*)"', flags=re.MULTILINE)
-  doiSpringer = re.compile('chapter\/([\w\.\\\/\_\-]*)', flags=re.MULTILINE)
-  doiWiley = re.compile('doi\/abs\/([\w\.\\\/\_\-]*)', flags=re.MULTILINE)
+  doiSpringer = re.compile('chapter\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
+  doiWiley = re.compile('doi\/abs\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
   doiCaltech = re.compile(
       'authors\.library\.caltech\.edu\/(\d+)', flags=re.MULTILINE)
   doiPubmed = re.compile('nlm\.nih\.gov\/pubmed\/(\d+)', flags=re.MULTILINE)
@@ -106,11 +98,11 @@ class Parser:
     Paras.DOI2URL = config.getboolean(Paras.section, "DOI2URL")
     Paras.defaultAddress = config.getboolean(Paras.section, "defaultAddress")
 
-    self.fout = open(Paras.outputFile, 'w')
+    self.fout = open(Paras.outputFile, 'w', encoding='utf8')
     if Paras.printSelfInfo:
       self.fout.write('%s%s' % (Paras.autoCommentCredit, Paras.autoCommentUrl))
     if Paras.useOfflineDOI:
-      with open(Paras.doiJsonFile) as f:
+      with open(Paras.doiJsonFile, encoding='utf8') as f:
         self.doiDict = json.load(f)
 
   def clear(self):
@@ -169,7 +161,7 @@ class Parser:
         self.cur['publisher'] = 'arXiv'
       else:
         self.debug_bib('PUB\t' + self.cur['title'])
-        self.cur['publisher'] = 'ACM'
+        # self.cur['publisher'] = 'ACM'
 
     if self.bib in self.doiDict:
       # self.debug_bib('Missing DOI, but obtained from the local dict JSON.')
@@ -281,7 +273,7 @@ class Parser:
   def shut_down(self):
     self.fout.close()
     if Paras.useOfflineDOI:
-      with open(Paras.doiJsonFile, 'w') as outfile:
+      with open(Paras.doiJsonFile, 'w', encoding='utf8') as outfile:
         json.dump(self.doiDict, outfile)
         print("DuBibTeX has saved known DOI to %s." % Paras.doiJsonFile)
     self.print_statistics()
@@ -324,40 +316,59 @@ def levenshtein(s1, s2):
 
 def google_lookup(s, parser):
   html = request_url('https://www.google.com/search?q=%s' % s)
+  with open('debug.txt', 'w', encoding='utf8') as f:
+    f.write(html)
 
+  m = Re.doiAcmUrl.search(html)
+  if m and len(m.groups()) > 0:
+    res = m.groups()[0].replace('\\', '')
+    print("DOI from Google and ACM DOI: %s\n" % res)
+    return res
+
+  # acm = re.compile('citation\.cfm\?id\=([\d\.]+)', flags=re.MULTILINE)
   m = Re.acm.search(html)
   if m and len(m.groups()) > 0:
-    content_acm = request_url(
-        'https://dl.acm.org/exportformats.cfm?id=%s&expformat=bibtex' %
-        m.groups()[0])
-    m = Re.acmBib.search(content_acm, re.M)
-    # TODO: month
+    # print(m.groups()[0])
+    content_acm = request_url('https://dl.acm.org/citation.cfm?id=%s' %
+                              m.groups()[0])
+    m = Re.doiUrl.search(content_acm, re.M)
     if m and len(m.groups()) > 0:
-      acm_lines = m.groups()[0].splitlines()
-      res = ''
-      for l in acm_lines:
-        if len(l) < 3 or l[0] == '@' or l[0] == '}':
-          continue
-        mm = Re.item.search(l)
-        old_cur = parser.cur.copy()
-        if mm and len(mm.groups()) > 0:
-          cur_left, cur_right = mm.groups()[0].strip(), mm.groups()[1].strip()
-          if cur_left == 'doi':
-            res = cur_right
-          if cur_left in ['class', 'href', 'doi', 'numpages']:
-            continue
-          parser.cur[cur_left] = cur_right
+      print(m.groups()[0])
+      res = m.groups()[0]
+      if Paras.debugBibCrawler:
+        print("DOI from Google and ACM CFM: %s\n" % res)
+      return res
+    # content_acm = request_url(
+    #     'https://dl.acm.org/exportformats.cfm?id=%s&expformat=bibtex' %
+    #     m.groups()[0])
+    # m = Re.acmBib.search(content_acm, re.M)
+    # # TODO: month
+    # if m and len(m.groups()) > 0:
+    #   acm_lines = m.groups()[0].splitlines()
+    #   res = ''
+    #   for l in acm_lines:
+    #     if len(l) < 3 or l[0] == '@' or l[0] == '}':
+    #       continue
+    #     mm = Re.item.search(l)
+    #     old_cur = parser.cur.copy()
+    #     if mm and len(mm.groups()) > 0:
+    #       cur_left, cur_right = mm.groups()[0].strip(), mm.groups()[1].strip()
+    #       if cur_left == 'doi':
+    #         res = cur_right
+    #       if cur_left in ['class', 'href', 'doi', 'numpages']:
+    #         continue
+    #       parser.cur[cur_left] = cur_right
 
-      dist = levenshtein(old_cur['title'], parser.cur['title'])
-      print(dist, old_cur['title'], parser.cur['title'])
-      if dist > 2:
-        parser.cur = old_cur
-        res = ''
+    #   dist = levenshtein(old_cur['title'], parser.cur['title'])
+    #   print(dist, old_cur['title'], parser.cur['title'])
+    #   if dist > 2:
+    #     parser.cur = old_cur
+    #     res = ''
 
-      if res:
-        if Paras.debugBibCrawler:
-          print("DOI from Google and ACM BibTeX: %s\n" % res)
-        return res
+    #   if res:
+    #     if Paras.debugBibCrawler:
+    #       print("DOI from Google and ACM BibTeX: %s\n" % res)
+    #     return res
 
   m = Re.doiSpringer.search(html)
   if m and len(m.groups()) > 0:
@@ -447,7 +458,7 @@ if __name__ == "__main__":
   p = Parser()
 
   for filename in Paras.inputFileList:
-    with open(filename, 'r') as f:
+    with open(filename, 'r', encoding='utf8') as f:
       lines = f.readlines()
       for line in lines:
         p.parse_line(line)

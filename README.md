@@ -26,7 +26,7 @@ Known issues:
 
 ## Run
 
-First, edit _config.ini_ and modify your list of input bib files. For example:
+First, edit `config.ini` and modify your list of input bib files. For example:
 
 ```sh
 inputFileList       =   input.bib,test.bib
