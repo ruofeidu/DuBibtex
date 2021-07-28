@@ -264,7 +264,7 @@ class Parser:
     if not m:
       m = Re.item.match(line)
     if m and len(m.groups()) > 0:
-      self.cur[m.groups()[0]] = m.groups()[1]
+      self.cur[m.groups()[0].lower()] = m.groups()[1]
 
   def print_statistics(self):
     print("%d missing doi, %d fixed, %d duplicated" %
