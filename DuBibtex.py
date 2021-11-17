@@ -49,20 +49,19 @@ class Re:
   endl = re.compile('\s*}\s*')
   doiJson = re.compile('doi\.org\\?\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
   doiUrl = re.compile('doi\.org\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
-  doiAcmUrl = re.compile(
-      'https://dl\.acm\.org\/doi\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
+  doiAcmUrl = re.compile('https://dl\.acm\.org\/doi\/([\w\d\.\\\/]+)',
+                         flags=re.MULTILINE)
   doiJavascript = re.compile('doi\"\:\"([\w\d\.\\\/]+)\"', flags=re.MULTILINE)
   doiText = re.compile('"DOI":"([\w\.\\\/]*)"', flags=re.MULTILINE)
   doiSpringer = re.compile('chapter\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
   doiWiley = re.compile('doi\/abs\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
-  doiCaltech = re.compile(
-      'authors\.library\.caltech\.edu\/(\d+)', flags=re.MULTILINE)
+  doiCaltech = re.compile('authors\.library\.caltech\.edu\/(\d+)',
+                          flags=re.MULTILINE)
   doiPubmed = re.compile('nlm\.nih\.gov\/pubmed\/(\d+)', flags=re.MULTILINE)
   urlArxiv = re.compile('arxiv\.org\/pdf\/([\d\.]+)', flags=re.MULTILINE)
   acm = re.compile('citation\.cfm\?id\=([\d\.]+)', flags=re.MULTILINE)
-  acmBib = re.compile(
-      '<PRE id="[\d\.]+">(.+)<\/pre>',
-      flags=re.MULTILINE | re.IGNORECASE | re.S)
+  acmBib = re.compile('<PRE id="[\d\.]+">(.+)<\/pre>',
+                      flags=re.MULTILINE | re.IGNORECASE | re.S)
   ieee = re.compile('ieee\.org\/document\/(\d+)', flags=re.MULTILINE)
   year = re.compile('\w+(\d+)')
 
@@ -118,6 +117,8 @@ class Parser:
     if Paras.debugStatistics:
       self.numMissing += 1
       self.numFixed += 1
+    if len(_doi) > 4 and (_doi[:3] == 'pdf' or _doi[:3] == 'abs'):
+      _doi = _doi[4:]
     self.cur['doi'] = _doi
     if Paras.DOI2URL:
       self.cur['url'] = 'http://doi.org/%s' % _doi
@@ -420,6 +421,19 @@ def google_lookup(s, parser):
       res = res.replace('\\', '')
       print("DOI from Google and PubMed: %s\n" % res)
       return res
+
+  # Nowadays, CVPR papers are hard to fetch DOI without ieee keyword.
+  html = request_url('https://www.google.com/search?q=ieee+%s' % s)
+  m = Re.ieee.search(html)
+  if m and len(m.groups()) > 0:
+    html_ieee = request_url('https://ieeexplore.ieee.org/document/%s' %
+                            m.groups()[0])
+    m = Re.doiJavascript.search(html_ieee, re.M)
+    if m and len(m.groups()) > 0:
+      res = m.groups()[0].replace('\\', '')
+      print("DOI from Google and IEEE: %s\n" % res)
+      return res
+
   print("* Nothing was found.\n")
   return None
 
