@@ -131,6 +131,9 @@ class Parser:
       m = Re.year.search(self.bib)
       if m and m.groups():
         self.cur['year'] = m.groups()[0]
+      else:
+        print('warning of empty year: ', self.cur['title'])
+        self.cur['year'] = 2022
 
     # Optimizes self.bib id.
     if Paras.optimizeBibId and 'author' in self.cur and 'title' in self.cur and 'year' in self.cur:
