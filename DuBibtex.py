@@ -167,15 +167,15 @@ class Parser:
         self.debug_bib('PUB\t' + self.cur['title'])
         # self.cur['publisher'] = 'ACM'
 
-    if self.bib in self.doiDict:
-      # self.debug_bib('Missing DOI, but obtained from the local dict JSON.')
+    if self.bib in self.doiDict and not self.cur['doi']:
+      self.debug_bib('Missing DOI, but obtained from the local dict JSON.')
       self.fix_doi(self.doiDict[self.bib])
 
     # Removes invalid DOI field.
     if 'doi' in self.cur and '/' not in self.cur['doi']:
       del self.cur['doi']
-    if self.cur['type'].lower() in ['misc', 'book'] and 'doi' in self.cur:
-      del self.cur['doi']
+    # if self.cur['type'].lower() in ['misc', 'book'] and 'doi' in self.cur:
+    #   del self.cur['doi']
 
     # Searches DOI field if the field was missing.
     if Paras.searchDOI and int(self.cur['year']) > Paras.minYear and 'doi' not in self.cur \
@@ -202,6 +202,7 @@ class Parser:
     # Fixes underscore and stores it in the hash table.
     if 'doi' in self.cur:
       self.cur['doi'] = fix_underscore(self.cur['doi'])
+      self.cur['doi'] = fix_abs_pdf(self.cur['doi'])
       self.doiDict[self.bib] = self.cur['doi']
 
     del self.cur['type']
@@ -443,6 +444,10 @@ def google_lookup(s, parser):
 
 def fix_underscore(s):
   return re.sub('[^\_]\_', '\\\_', s)
+
+
+def fix_abs_pdf(s):
+  return s
 
 
 def capitalize(s, spliter=' '):
