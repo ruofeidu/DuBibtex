@@ -47,6 +47,7 @@ class Re:
   item = re.compile('\s*(\w+)\s*=\s*[\{"]\s*(.*)\s*[\}"]')
   item2 = re.compile('\s*(\w+)\s*=\s*[\{"]\{\s*(.*)\s*[\}"]\}')
   endl = re.compile('\s*}\s*')
+  abbr = re.compile('@string', flags=re.IGNORECASE)
   doiJson = re.compile('doi\.org\\?\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
   doiUrl = re.compile('doi\.org\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
   doiAcmUrl = re.compile('https://dl\.acm\.org\/doi\/([\w\d\.\\\/]+)',
@@ -71,6 +72,8 @@ class Parser:
   bibDict = {}
   doiDict = {}
   duplicated = False
+  # abbreviation: @String(PAMI = {IEEE Trans. Pattern Anal. Mach. Intell.})
+  abbreviations = ''
   numMissing, numDuplicated, numFixed = 0, 0, 0
   # current bibitem and bib ID
   cur, bib = None, ''
@@ -167,7 +170,8 @@ class Parser:
         self.debug_bib('PUB\t' + self.cur['title'])
         # self.cur['publisher'] = 'ACM'
 
-    if self.bib in self.doiDict and not self.cur['doi']:
+    if self.bib in self.doiDict and ('doi' not in self.cur or
+                                     not self.cur['doi']):
       self.debug_bib('Missing DOI, but obtained from the local dict JSON.')
       self.fix_doi(self.doiDict[self.bib])
 
@@ -243,6 +247,11 @@ class Parser:
       if not self.duplicated:
         self.write_current_item()
       self.clear()
+      return
+
+    if Re.abbr.match(line):
+      # abbreciation
+      self.fout.write(line)
       return
 
     # Matches duplicates.
@@ -451,26 +460,34 @@ def fix_abs_pdf(s):
 
 
 def capitalize(s, spliter=' '):
-  lower_cases = {
+  SPECIAL_WORDS = [
       'a', 'an', 'the', 'to', 'on', 'in', 'of', 'at', 'by', 'for', 'or', 'and',
-      'vs.', 'iOS'
-  }
+      'vs.', 'iOS', '3D', '4D'
+  ]
+
+  SPECIAL_WORDS_LOWER = list(map(lambda x: x.lower(), SPECIAL_WORDS))
+  LOWER_CASES = dict(zip(SPECIAL_WORDS, SPECIAL_WORDS_LOWER))
 
   s = s.strip(',.- ')
-  # reverse IEEE conferences
+  # Reverses wrong order for IEEE proceedings.
+  # if comma is found and last word is 'on'.
   if s.rfind(',') > 0 and s[-3:].lower() == ' on':
     p = s.rfind(',')
     s = s[p + 2:] + s[:p]
 
+  # Split the words and capitalize with filters.
   words = s.split(spliter)
   capitalized_words = []
-  for i, word in enumerate(words):
+  start = True
+  for word in words:
     if len(word) == 0:
       continue
-    if 0 < i < len(words) - 1 and word.lower() in lower_cases:
-      capitalized_words.append(word.lower())
+    if not start and word.lower() in LOWER_CASES:
+      capitalized_words.append(LOWER_CASES[word.lower()])
     else:
       capitalized_words.append(word[0].upper() + word[1:])
+    start = word[-1] in '.:'
+
   s = spliter.join(capitalized_words)
 
   return s if spliter == '-' else capitalize(s, '-')
