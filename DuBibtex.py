@@ -127,6 +127,7 @@ class Parser:
       self.cur['url'] = 'http://doi.org/%s' % _doi
 
   def write_current_item(self):
+    # print(self.cur)
     self.debug_bib(self.cur['title'])
 
     # Ensures there is year field.
