@@ -463,7 +463,7 @@ def fix_abs_pdf(s):
 def capitalize(s, spliter=' '):
   SPECIAL_WORDS = [
       'a', 'an', 'the', 'to', 'on', 'in', 'of', 'at', 'by', 'for', 'or', 'and',
-      'vs.', 'iOS', '3D', '4D'
+      'vs.', 'iOS', '2D', '3D', '4D', '6DoF', 'via'
   ]
 
   SPECIAL_WORDS_LOWER = list(map(lambda x: x.lower(), SPECIAL_WORDS))
