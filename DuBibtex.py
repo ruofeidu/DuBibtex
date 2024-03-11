@@ -48,12 +48,12 @@ class Re:
   item2 = re.compile('\s*(\w+)\s*=\s*[\{"]\{\s*(.*)\s*[\}"]\}')
   endl = re.compile('\s*}\s*')
   abbr = re.compile('@string', flags=re.IGNORECASE)
-  doiJson = re.compile('doi\.org\\?\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
-  doiUrl = re.compile('doi\.org\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
+  doiJson = re.compile('doi\.org\\?\/([\w\d\.\-\\\/]+)', flags=re.MULTILINE)
+  doiUrl = re.compile('doi\.org\/([\w\d\.\-\\\/]+)', flags=re.MULTILINE)
   doiAcmUrl = re.compile(
-      'https:\/\/dl\.acm\.org\/doi\/(?:\w+\/)?([\w\d\.\\\/]+)',
+      'https:\/\/dl\.acm\.org\/doi\/(?:\w+\/)?([\w\d\.\-\\\/]+)',
       flags=re.MULTILINE)
-  doiJavascript = re.compile('doi\"\:\"([\w\d\.\\\/]+)\"', flags=re.MULTILINE)
+  doiJavascript = re.compile('doi\"\:\"([\w\d\.\-\\\/]+)\"', flags=re.MULTILINE)
   doiText = re.compile('"DOI":"([\w\.\\\/]*)"', flags=re.MULTILINE)
   doiSpringer = re.compile('chapter\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
   doiWiley = re.compile('doi\/abs\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
