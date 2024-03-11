@@ -50,8 +50,9 @@ class Re:
   abbr = re.compile('@string', flags=re.IGNORECASE)
   doiJson = re.compile('doi\.org\\?\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
   doiUrl = re.compile('doi\.org\/([\w\d\.\\\/]+)', flags=re.MULTILINE)
-  doiAcmUrl = re.compile('https://dl\.acm\.org\/doi\/([\w\d\.\\\/]+)',
-                         flags=re.MULTILINE)
+  doiAcmUrl = re.compile(
+      'https:\/\/dl\.acm\.org\/doi\/(?:\w+\/)?([\w\d\.\\\/]+)',
+      flags=re.MULTILINE)
   doiJavascript = re.compile('doi\"\:\"([\w\d\.\\\/]+)\"', flags=re.MULTILINE)
   doiText = re.compile('"DOI":"([\w\.\\\/]*)"', flags=re.MULTILINE)
   doiSpringer = re.compile('chapter\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
