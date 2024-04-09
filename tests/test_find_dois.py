@@ -9,6 +9,7 @@ from DuBibtex import Parser
 
 @pytest.mark.parametrize("filename,correct_doi", [
     ("signet.bib", "10.1109/ICCV48922.2021.01396"),
+    ("qdiffusion.bib", "10.1109/ICCV51070.2023.01608"),
 ])
 def test_iccv_doi(filename, correct_doi):
     input_file = os.path.join("tests", "inputs", filename)
