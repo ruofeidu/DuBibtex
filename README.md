@@ -43,7 +43,7 @@ The new bib file will be generated as output.bib by default.
 ## Dependencies
 
 - Python 3.6
-- pip install requests
+- `pip install -r requirements.txt`
 
 ## License
 

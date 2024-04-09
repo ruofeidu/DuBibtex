@@ -12,6 +12,8 @@ import requests
 import json
 import configparser
 
+import bibtexparser
+
 
 class Paras:
   section = "DuBibtex"
@@ -282,6 +284,12 @@ class Parser:
     if m and len(m.groups()) > 0:
       self.cur[m.groups()[0].lower()] = m.groups()[1]
 
+
+  def copy_from_parsed_entry(self, entry):
+    self.add_new_bib(entry.key, entry.entry_type)
+    for field in entry.fields:
+      self.cur[field.key] = field.value
+
   def print_statistics(self):
     print("%d missing doi, %d fixed, %d duplicated" %
           (self.numMissing, self.numFixed, self.numDuplicated))
@@ -499,9 +507,9 @@ if __name__ == "__main__":
   p = Parser()
 
   for filename in Paras.inputFileList:
-    with open(filename, 'r', encoding='utf8') as f:
-      lines = f.readlines()
-      for line in lines:
-        p.parse_line(line)
+    library = bibtexparser.parse_file(filename)
+    for entry in library.entries:
+      p.copy_from_parsed_entry(entry)
+      p.write_current_item()
 
   p.shut_down()

@@ -10,6 +10,7 @@
 *.avi
 *.bib
 *.txt
+!requirements.txt
 
 # User-specific files
 *.suo
