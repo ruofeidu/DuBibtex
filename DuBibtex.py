@@ -81,7 +81,7 @@ class Parser:
   # current bibitem and bib ID
   cur, bib = None, ''
 
-  def __init__(self):
+  def __init__(self, output_file=None):
     config = configparser.ConfigParser()
     config.read("config.ini")
     Paras.header['User-Agent'] = config.get(Paras.section, "header").strip()
@@ -95,7 +95,7 @@ class Parser:
     Paras.inputFileList = config.get(Paras.section,
                                      "inputFileList").strip().split(",")
     Paras.doiJsonFile = config.get(Paras.section, "doiJsonFile").strip()
-    Paras.outputFile = config.get(Paras.section, "outputFile").strip()
+    Paras.outputFile = output_file if output_file else config.get(Paras.section, "outputFile").strip()
     Paras.fieldRemovalList = config.get(Paras.section,
                                         "fieldRemovalList").strip().split(",")
     Paras.minYear = config.getint(Paras.section, "minYear")
