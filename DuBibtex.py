@@ -467,6 +467,10 @@ def google_lookup(s, parser, use_scholar=False):
       res = m.groups()[0].replace('\\', '')
       print("DOI from Google and IEEE: %s\n" % res)
       return res
+    
+  if use_scholar and "HoloCamera" in s:
+    # Debugging for HoloCamera on GH Actions.
+    print(html)
 
   print("* Nothing was found.\n")
   return None
