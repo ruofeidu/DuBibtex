@@ -25,8 +25,11 @@ def search_and_check_doi(filename, correct_doi):
         assert len(generated_library.entries) == len(
             library.entries), "Number of entries should be the same"
         for entry in generated_library.entries:
-            assert "doi" in entry
-            assert entry.fields_dict["doi"].value == correct_doi
+            if correct_doi:
+                assert "doi" in entry
+                assert entry.fields_dict["doi"].value == correct_doi
+            else:
+                assert "doi" not in entry
 
 
 @pytest.mark.parametrize("filename,correct_doi", [
@@ -42,3 +45,10 @@ def test_iccv_doi(filename, correct_doi):
 ])
 def test_tvcg_doi(filename, correct_doi):
     search_and_check_doi(filename, correct_doi)
+
+@pytest.mark.parametrize("filename", [
+    ("ddpm.bib"),
+])
+def test_neurips_doi(filename):
+    # NeuroIPS does not have a DOI
+    search_and_check_doi(filename, "")

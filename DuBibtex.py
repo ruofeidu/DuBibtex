@@ -67,6 +67,7 @@ class Re:
   acmBib = re.compile('<PRE id="[\d\.]+">(.+)<\/pre>',
                       flags=re.MULTILINE | re.IGNORECASE | re.S)
   ieee = re.compile('ieee\.org(?:\/abstract)?\/document\/(\d+)', flags=re.MULTILINE)
+  neurips = re.compile(r'proceedings.neurips.cc\/paper', flags=re.MULTILINE)
   year = re.compile('\w+(\d+)')
 
 
@@ -351,17 +352,21 @@ def google_lookup(s, parser, use_scholar=False):
     f.write(html)
 
 
-  url_regexes = ['doiAcmUrl', 'acm', 'doiSpringer', 'doiWiley', 'doiUrl', 'ieee', 'doiCaltech', 'doiPubmed']
+  url_regexes = ['doiAcmUrl', 'acm', 'doiSpringer', 'doiWiley', 'doiUrl', 'ieee', 'doiCaltech', 'doiPubmed', 'neurips']
 
   found_urls = []
   for url_regex in url_regexes:
     m = getattr(Re, url_regex).search(html)
-    if m and len(m.groups()) > 0:
+    if m:
       found_urls.append((url_regex, m, m.start()))
   # Sort by start position
   found_urls.sort(key=lambda x: x[2])
 
   for url_regex, m, _ in found_urls:
+
+    if url_regex == 'neurips':
+      # NeurIPS does not have a DOI.
+      return None
 
     if url_regex == 'doiAcmUrl' and m and len(m.groups()) > 0:
       res = m.groups()[0].replace('\\', '')
