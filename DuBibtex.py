@@ -460,6 +460,10 @@ def google_lookup(s, parser, use_scholar=False):
         res = res.replace('\\', '')
         print("DOI from Google and PubMed: %s\n" % res)
         return res
+    
+  if use_scholar and "HoloCamera" in s:
+    # Debugging for HoloCamera on GH Actions.
+    print(html)
 
   # Nowadays, CVPR papers are hard to fetch DOI without ieee keyword.
   html = request_url('https://www.google.com/search?q=ieee+%s' % s)
@@ -472,10 +476,6 @@ def google_lookup(s, parser, use_scholar=False):
       res = m.groups()[0].replace('\\', '')
       print("DOI from Google and IEEE: %s\n" % res)
       return res
-    
-  if use_scholar and "HoloCamera" in s:
-    # Debugging for HoloCamera on GH Actions.
-    print(html)
 
   print("* Nothing was found.\n")
   return None
