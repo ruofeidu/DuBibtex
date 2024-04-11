@@ -52,3 +52,10 @@ def test_tvcg_doi(filename, correct_doi):
 def test_neurips_doi(filename):
     # NeurIPS does not have a DOI
     search_and_check_doi(filename, "")
+
+@pytest.mark.parametrize("filename", [
+    ("diffusion.bib"),
+])
+def test_icml_doi(filename):
+    # ICML does not have a DOI
+    search_and_check_doi(filename, "")
