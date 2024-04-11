@@ -196,7 +196,7 @@ class Parser:
       title_without_brackets = re.sub(r'\{|\}', '', self.cur['title'])
       if ('journal' in self.cur and any([x in self.cur['journal'].lower() for x in ["ieee"]]) or
           'booktitle' in self.cur and any([x in self.cur['booktitle'].lower() for x in ["ieee", "iccv"]])):
-        d = google_lookup_ieee_only(title_without_brackets, self)
+        d = ieee_xplore_lookup(title_without_brackets, self)
         if d:
           self.fix_doi(d)
         else:
@@ -347,6 +347,32 @@ def levenshtein(s1, s2):
 
   return previous_row[-1]
 
+def ieee_xplore_lookup(s, parser):
+  # Search IEEE Xplore
+  xplore_search_url='https://ieeexplore.ieee.org/rest/search'
+  payload={
+    "newsearch": "true",
+    "queryText": s,
+    "highlight": "true",
+    "returnFacets": [
+      "ALL"
+    ],
+    "returnType": "SEARCH",
+    "matchPubs": "true"
+  }
+  response = requests.post(xplore_search_url, json=payload, headers={
+    "User-Agent": Paras.header["User-Agent"],
+    "Origin": "https://ieeexplore.ieee.org",
+    "Referer": "https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText="
+  })
+  try:
+    result = response.json()
+    if result["records"]:
+      return result["records"][0]["doi"]
+  except Exception as e:
+    pass
+  return None
+
 def google_lookup_ieee_only(s, parser):
   # Search Google with IEEE keyword
   html = request_url('https://www.google.com/search?q=ieee+%s' % s)
@@ -357,7 +383,7 @@ def google_lookup_ieee_only(s, parser):
     m = Re.doiJavascript.search(html_ieee, re.M)
     if m and len(m.groups()) > 0:
       res = m.groups()[0].replace('\\', '')
-      print("DOI from Google and IEEE (2): %s\n" % res)
+      print("DOI from Google and IEEE: %s\n" % res)
       return res
   return None
 
