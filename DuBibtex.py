@@ -66,7 +66,7 @@ class Re:
   acm = re.compile('citation\.cfm\?id\=([\d\.]+)', flags=re.MULTILINE)
   acmBib = re.compile('<PRE id="[\d\.]+">(.+)<\/pre>',
                       flags=re.MULTILINE | re.IGNORECASE | re.S)
-  ieee = re.compile('ieee\.org\/document\/(\d+)', flags=re.MULTILINE)
+  ieee = re.compile('ieee\.org(?:\/abstract)?\/document\/(\d+)', flags=re.MULTILINE)
   year = re.compile('\w+(\d+)')
 
 
@@ -191,17 +191,21 @@ class Parser:
       # Searches for DOI.
       self.debug_bib('Missing DOI, search "%s"...' % self.cur['title'])
 
+      title_without_brackets = re.sub(r'\{|\}', '', self.cur['title'])
       if 'journal' in self.cur and self.cur['journal'][:5].lower() == 'arxiv':
         content = request_url('https://www.google.com/search?q=%s' %
-                              self.cur['title'])
+                              title_without_brackets)
         m = Re.urlArxiv.search(content)
         if m and len(m.groups()) > 0:
           self.cur['url'] = "https://arxiv.org/pdf/%s" % m.groups()[0]
-          self.debug_bib('Missing DOI, search "%s"...' % self.cur['title'])
+          self.debug_bib('Missing DOI, search "%s"...' % title_without_brackets)
       else:
-        d = google_lookup(self.cur['title'], self)
+        d = google_lookup(title_without_brackets, self)
         if not d:
-          d = crossref_lookup(self.cur['title'])
+          # Try again with google scholar.
+          d = google_lookup(title_without_brackets, self, use_scholar=True)
+        if not d:
+          d = crossref_lookup(title_without_brackets)
         if d:
           self.fix_doi(d)
         else:
@@ -338,8 +342,11 @@ def levenshtein(s1, s2):
   return previous_row[-1]
 
 
-def google_lookup(s, parser):
-  html = request_url('https://www.google.com/search?q=%s' % s)
+def google_lookup(s, parser, use_scholar=False):
+  if use_scholar:
+    html = request_url('https://scholar.google.com/scholar?q=%s' % s)
+  else:
+    html = request_url('https://www.google.com/search?q=%s' % s)
   with open('debug.txt', 'w', encoding='utf8') as f:
     f.write(html)
 
