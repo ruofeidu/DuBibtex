@@ -67,7 +67,7 @@ class Re:
   acmBib = re.compile('<PRE id="[\d\.]+">(.+)<\/pre>',
                       flags=re.MULTILINE | re.IGNORECASE | re.S)
   ieee = re.compile('ieee\.org(?:\/abstract)?\/document\/(\d+)', flags=re.MULTILINE)
-  neurips = re.compile(r'proceedings.neurips.cc\/paper', flags=re.MULTILINE)
+  neurips = re.compile(r'proceedings.neurips.cc', flags=re.MULTILINE)
   year = re.compile('\w+(\d+)')
 
 
@@ -202,9 +202,6 @@ class Parser:
           self.debug_bib('Missing DOI, search "%s"...' % title_without_brackets)
       else:
         d = google_lookup(title_without_brackets, self)
-        if not d:
-          # Try again with google scholar.
-          d = google_lookup(title_without_brackets, self, use_scholar=True)
         if not d:
           d = crossref_lookup(title_without_brackets)
         if d:
@@ -343,14 +340,10 @@ def levenshtein(s1, s2):
   return previous_row[-1]
 
 
-def google_lookup(s, parser, use_scholar=False):
-  if use_scholar:
-    html = request_url('https://scholar.google.com/scholar?q=%s' % s)
-  else:
-    html = request_url('https://www.google.com/search?q=%s' % s)
+def google_lookup(s, parser):
+  html = request_url('https://www.google.com/search?q=%s' % s)
   with open('debug.txt', 'w', encoding='utf8') as f:
     f.write(html)
-
 
   url_regexes = ['doiAcmUrl', 'acm', 'doiSpringer', 'doiWiley', 'doiUrl', 'ieee', 'doiCaltech', 'doiPubmed', 'neurips']
 
@@ -358,6 +351,7 @@ def google_lookup(s, parser, use_scholar=False):
   for url_regex in url_regexes:
     m = getattr(Re, url_regex).search(html)
     if m:
+      print("Found URL: %s" % url_regex)
       found_urls.append((url_regex, m, m.start()))
   # Sort by start position
   found_urls.sort(key=lambda x: x[2])
@@ -371,6 +365,9 @@ def google_lookup(s, parser, use_scholar=False):
     if url_regex == 'doiAcmUrl' and m and len(m.groups()) > 0:
       res = m.groups()[0].replace('\\', '')
       print("DOI from Google and ACM DOI: %s\n" % res)
+      if res.startswith('10.5555'):
+        # ACM DOI is not valid. 5555 is a test DOI.
+        return None
       return res
 
     if url_regex == 'acm' and m and len(m.groups()) > 0:
@@ -461,10 +458,6 @@ def google_lookup(s, parser, use_scholar=False):
         print("DOI from Google and PubMed: %s\n" % res)
         return res
     
-  if use_scholar and "HoloCamera" in s:
-    # Debugging for HoloCamera on GH Actions.
-    print(html)
-
   # Nowadays, CVPR papers are hard to fetch DOI without ieee keyword.
   html = request_url('https://www.google.com/search?q=ieee+%s' % s)
   m = Re.ieee.search(html)
@@ -474,7 +467,7 @@ def google_lookup(s, parser, use_scholar=False):
     m = Re.doiJavascript.search(html_ieee, re.M)
     if m and len(m.groups()) > 0:
       res = m.groups()[0].replace('\\', '')
-      print("DOI from Google and IEEE: %s\n" % res)
+      print("DOI from Google and IEEE (2): %s\n" % res)
       return res
 
   print("* Nothing was found.\n")
