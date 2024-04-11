@@ -192,8 +192,16 @@ class Parser:
       # Searches for DOI.
       self.debug_bib('Missing DOI, search "%s"...' % self.cur['title'])
 
+      
       title_without_brackets = re.sub(r'\{|\}', '', self.cur['title'])
-      if 'journal' in self.cur and self.cur['journal'][:5].lower() == 'arxiv':
+      if ('journal' in self.cur and any([x in self.cur['journal'].lower() for x in ["ieee"]]) or
+          'booktitle' in self.cur and any([x in self.cur['booktitle'].lower() for x in ["ieee", "iccv"]])):
+        d = google_lookup_ieee_only(title_without_brackets, self)
+        if d:
+          self.fix_doi(d)
+        else:
+          self.numMissing += 1
+      elif 'journal' in self.cur and self.cur['journal'][:5].lower() == 'arxiv':
         content = request_url('https://www.google.com/search?q=%s' %
                               title_without_brackets)
         m = Re.urlArxiv.search(content)
@@ -339,6 +347,19 @@ def levenshtein(s1, s2):
 
   return previous_row[-1]
 
+def google_lookup_ieee_only(s, parser):
+  # Search Google with IEEE keyword
+  html = request_url('https://www.google.com/search?q=ieee+%s' % s)
+  m = Re.ieee.search(html)
+  if m and len(m.groups()) > 0:
+    html_ieee = request_url('https://ieeexplore.ieee.org/document/%s' %
+                            m.groups()[0])
+    m = Re.doiJavascript.search(html_ieee, re.M)
+    if m and len(m.groups()) > 0:
+      res = m.groups()[0].replace('\\', '')
+      print("DOI from Google and IEEE (2): %s\n" % res)
+      return res
+  return None
 
 def google_lookup(s, parser):
   html = request_url('https://www.google.com/search?q=%s' % s)
