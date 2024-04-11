@@ -81,12 +81,12 @@ class Parser:
   # current bibitem and bib ID
   cur, bib = None, ''
 
-  def __init__(self, output_file=None):
+  def __init__(self, output_file=None, use_offline_doi=None):
     config = configparser.ConfigParser()
     config.read("config.ini")
     Paras.header['User-Agent'] = config.get(Paras.section, "header").strip()
     Paras.searchDOI = config.getboolean(Paras.section, "searchDOI")
-    Paras.useOfflineDOI = config.getboolean(Paras.section, "useOfflineDOI")
+    Paras.useOfflineDOI = use_offline_doi if use_offline_doi is not None else config.getboolean(Paras.section, "useOfflineDOI")
     Paras.printSelfInfo = config.getboolean(Paras.section, "printSelfInfo")
     Paras.keepComments = config.getboolean(Paras.section, "keepComments")
     Paras.debugBibCrawler = config.getboolean(Paras.section, "debugBibCrawler")
@@ -350,107 +350,111 @@ def google_lookup(s, parser, use_scholar=False):
   with open('debug.txt', 'w', encoding='utf8') as f:
     f.write(html)
 
-  m = Re.doiAcmUrl.search(html)
-  if m and len(m.groups()) > 0:
-    res = m.groups()[0].replace('\\', '')
-    print("DOI from Google and ACM DOI: %s\n" % res)
-    return res
 
-  # acm = re.compile('citation\.cfm\?id\=([\d\.]+)', flags=re.MULTILINE)
-  m = Re.acm.search(html)
-  if m and len(m.groups()) > 0:
-    # print(m.groups()[0])
-    content_acm = request_url('https://dl.acm.org/citation.cfm?id=%s' %
-                              m.groups()[0])
-    m = Re.doiUrl.search(content_acm, re.M)
+  url_regexes = ['doiAcmUrl', 'acm', 'doiSpringer', 'doiWiley', 'doiUrl', 'ieee', 'doiCaltech', 'doiPubmed']
+
+  found_urls = []
+  for url_regex in url_regexes:
+    m = getattr(Re, url_regex).search(html)
     if m and len(m.groups()) > 0:
-      print(m.groups()[0])
+      found_urls.append((url_regex, m, m.start()))
+  # Sort by start position
+  found_urls.sort(key=lambda x: x[2])
+
+  for url_regex, m, _ in found_urls:
+
+    if url_regex == 'doiAcmUrl' and m and len(m.groups()) > 0:
+      res = m.groups()[0].replace('\\', '')
+      print("DOI from Google and ACM DOI: %s\n" % res)
+      return res
+
+    if url_regex == 'acm' and m and len(m.groups()) > 0:
+      # print(m.groups()[0])
+      content_acm = request_url('https://dl.acm.org/citation.cfm?id=%s' %
+                                m.groups()[0])
+      m = Re.doiUrl.search(content_acm, re.M)
+      if m and len(m.groups()) > 0:
+        print(m.groups()[0])
+        res = m.groups()[0]
+        if Paras.debugBibCrawler:
+          print("DOI from Google and ACM CFM: %s\n" % res)
+        return res
+      # content_acm = request_url(
+      #     'https://dl.acm.org/exportformats.cfm?id=%s&expformat=bibtex' %
+      #     m.groups()[0])
+      # m = Re.acmBib.search(content_acm, re.M)
+      # # TODO: month
+      # if m and len(m.groups()) > 0:
+      #   acm_lines = m.groups()[0].splitlines()
+      #   res = ''
+      #   for l in acm_lines:
+      #     if len(l) < 3 or l[0] == '@' or l[0] == '}':
+      #       continue
+      #     mm = Re.item.search(l)
+      #     old_cur = parser.cur.copy()
+      #     if mm and len(mm.groups()) > 0:
+      #       cur_left, cur_right = mm.groups()[0].strip(), mm.groups()[1].strip()
+      #       if cur_left == 'doi':
+      #         res = cur_right
+      #       if cur_left in ['class', 'href', 'doi', 'numpages']:
+      #         continue
+      #       parser.cur[cur_left] = cur_right
+
+      #   dist = levenshtein(old_cur['title'], parser.cur['title'])
+      #   print(dist, old_cur['title'], parser.cur['title'])
+      #   if dist > 2:
+      #     parser.cur = old_cur
+      #     res = ''
+
+      #   if res:
+      #     if Paras.debugBibCrawler:
+      #       print("DOI from Google and ACM BibTeX: %s\n" % res)
+      #     return res
+
+    if url_regex == 'doiSpringer' and m and len(m.groups()) > 0:
+      res = m.groups()[0].replace('\\', '')
+      print("DOI from Google and Springer: %s\n" % res)
+      return res
+
+    if url_regex == 'doiWiley' and m and len(m.groups()) > 0:
+      res = m.groups()[0].replace('\\', '')
+      print("DOI from Google and Wiley: %s\n" % res)
+      return res
+
+    if url_regex == 'doiUrl' and m and len(m.groups()) > 0:
       res = m.groups()[0]
       if Paras.debugBibCrawler:
-        print("DOI from Google and ACM CFM: %s\n" % res)
-      return res
-    # content_acm = request_url(
-    #     'https://dl.acm.org/exportformats.cfm?id=%s&expformat=bibtex' %
-    #     m.groups()[0])
-    # m = Re.acmBib.search(content_acm, re.M)
-    # # TODO: month
-    # if m and len(m.groups()) > 0:
-    #   acm_lines = m.groups()[0].splitlines()
-    #   res = ''
-    #   for l in acm_lines:
-    #     if len(l) < 3 or l[0] == '@' or l[0] == '}':
-    #       continue
-    #     mm = Re.item.search(l)
-    #     old_cur = parser.cur.copy()
-    #     if mm and len(mm.groups()) > 0:
-    #       cur_left, cur_right = mm.groups()[0].strip(), mm.groups()[1].strip()
-    #       if cur_left == 'doi':
-    #         res = cur_right
-    #       if cur_left in ['class', 'href', 'doi', 'numpages']:
-    #         continue
-    #       parser.cur[cur_left] = cur_right
-
-    #   dist = levenshtein(old_cur['title'], parser.cur['title'])
-    #   print(dist, old_cur['title'], parser.cur['title'])
-    #   if dist > 2:
-    #     parser.cur = old_cur
-    #     res = ''
-
-    #   if res:
-    #     if Paras.debugBibCrawler:
-    #       print("DOI from Google and ACM BibTeX: %s\n" % res)
-    #     return res
-
-  m = Re.doiSpringer.search(html)
-  if m and len(m.groups()) > 0:
-    res = m.groups()[0].replace('\\', '')
-    print("DOI from Google and Springer: %s\n" % res)
-    return res
-
-  m = Re.doiWiley.search(html)
-  if m and len(m.groups()) > 0:
-    res = m.groups()[0].replace('\\', '')
-    print("DOI from Google and Wiley: %s\n" % res)
-    return res
-
-  m = Re.doiUrl.search(html, re.M)
-  if m and len(m.groups()) > 0:
-    res = m.groups()[0]
-    if Paras.debugBibCrawler:
-      print("DOI from Google and DOI.org: %s\n" % res)
-    return res
-
-  m = Re.ieee.search(html)
-  if m and len(m.groups()) > 0:
-    html_ieee = request_url('https://ieeexplore.ieee.org/document/%s' %
-                            m.groups()[0])
-    m = Re.doiJavascript.search(html_ieee, re.M)
-    if m and len(m.groups()) > 0:
-      res = m.groups()[0].replace('\\', '')
-      print("DOI from Google and IEEE: %s\n" % res)
+        print("DOI from Google and DOI.org: %s\n" % res)
       return res
 
-  m = Re.doiCaltech.search(html)
-  if m and len(m.groups()) > 0:
-    html_cal = request_url('https://authors.library.caltech.edu/%s' %
-                           m.groups()[0])
-    m = Re.doiUrl.search(html_cal, re.M)
-    if m and len(m.groups()) > 0:
-      res = m.groups()[0]
-      res = res.replace('\\', '')
-      print("DOI from Google and Caltech: %s\n" % res)
-      return res
-
-  m = Re.doiPubmed.search(html)
-  if m and len(m.groups()) > 0:
-    html_pubmed = request_url('https://www.ncbi.nlm.nih.gov/pubmed/%s' %
+    if url_regex == 'ieee' and m and len(m.groups()) > 0:
+      html_ieee = request_url('https://ieeexplore.ieee.org/document/%s' %
                               m.groups()[0])
-    m = Re.doiUrl.search(html_pubmed, re.M)
-    if m and len(m.groups()) > 0:
-      res = m.groups()[0]
-      res = res.replace('\\', '')
-      print("DOI from Google and PubMed: %s\n" % res)
-      return res
+      m = Re.doiJavascript.search(html_ieee, re.M)
+      if m and len(m.groups()) > 0:
+        res = m.groups()[0].replace('\\', '')
+        print("DOI from Google and IEEE: %s\n" % res)
+        return res
+
+    if url_regex == 'doiCaltech' and m and len(m.groups()) > 0:
+      html_cal = request_url('https://authors.library.caltech.edu/%s' %
+                            m.groups()[0])
+      m = Re.doiUrl.search(html_cal, re.M)
+      if m and len(m.groups()) > 0:
+        res = m.groups()[0]
+        res = res.replace('\\', '')
+        print("DOI from Google and Caltech: %s\n" % res)
+        return res
+
+    if url_regex == 'doiPubmed' and m  and len(m.groups()) > 0:
+      html_pubmed = request_url('https://www.ncbi.nlm.nih.gov/pubmed/%s' %
+                                m.groups()[0])
+      m = Re.doiUrl.search(html_pubmed, re.M)
+      if m and len(m.groups()) > 0:
+        res = m.groups()[0]
+        res = res.replace('\\', '')
+        print("DOI from Google and PubMed: %s\n" % res)
+        return res
 
   # Nowadays, CVPR papers are hard to fetch DOI without ieee keyword.
   html = request_url('https://www.google.com/search?q=ieee+%s' % s)
