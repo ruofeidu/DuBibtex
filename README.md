@@ -16,7 +16,7 @@ Sources of DOI:
 Please feel free to make any pull requests!
 
 Another useful tool for LaTeX writing is extracting the abstract:
-<http://tool.duruofei.com/abstract,>, whose source code is added as a
+<http://tool.duruofei.com/abstract>, whose source code is added as a
 submodule here.
 
 Known issues:
