@@ -41,7 +41,7 @@ def test_iccv_doi(filename, correct_doi):
 
 
 @pytest.mark.parametrize("filename,correct_doi", [
-    # ("holocamera.bib", "10.1109/TVCG.2024.3372123"),
+    ("holocamera.bib", "10.1109/TVCG.2024.3372123"),
 ])
 def test_tvcg_doi(filename, correct_doi):
     search_and_check_doi(filename, correct_doi)
