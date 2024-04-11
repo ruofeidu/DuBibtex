@@ -50,5 +50,5 @@ def test_tvcg_doi(filename, correct_doi):
     ("ddpm.bib"),
 ])
 def test_neurips_doi(filename):
-    # NeuroIPS does not have a DOI
+    # NeurIPS does not have a DOI
     search_and_check_doi(filename, "")
