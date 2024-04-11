@@ -45,30 +45,30 @@ def request_url(url):
 
 
 class Re:
-  bib = re.compile('\s*\@(\w+)\s*\{\s*([^\{\,\}]+),')
-  item = re.compile('\s*(\w+)\s*=\s*[\{"]\s*(.*)\s*[\}"]')
-  item2 = re.compile('\s*(\w+)\s*=\s*[\{"]\{\s*(.*)\s*[\}"]\}')
-  endl = re.compile('\s*}\s*')
-  abbr = re.compile('@string', flags=re.IGNORECASE)
-  doiJson = re.compile('doi\.org\\?\/([\w\d\.\-\\\/]+)', flags=re.MULTILINE)
-  doiUrl = re.compile('doi\.org\/([\w\d\.\-\\\/]+)', flags=re.MULTILINE)
+  bib = re.compile(r'\s*\@(\w+)\s*\{\s*([^\{\,\}]+),')
+  item = re.compile(r'\s*(\w+)\s*=\s*[\{"]\s*(.*)\s*[\}"]')
+  item2 = re.compile(r'\s*(\w+)\s*=\s*[\{"]\{\s*(.*)\s*[\}"]\}')
+  endl = re.compile(r'\s*}\s*')
+  abbr = re.compile(r'@string', flags=re.IGNORECASE)
+  doiJson = re.compile(r'doi\.org\\?\/([\w\d\.\-\\\/]+)', flags=re.MULTILINE)
+  doiUrl = re.compile(r'rdoi\.org\/([\w\d\.\-\\\/]+)', flags=re.MULTILINE)
   doiAcmUrl = re.compile(
-      'https:\/\/dl\.acm\.org\/doi\/(?:\w+\/)?([\w\d\.\-\\\/]+)',
+      r'https:\/\/dl\.acm\.org\/doi\/(?:\w+\/)?([\w\d\.\-\\\/]+)',
       flags=re.MULTILINE)
-  doiJavascript = re.compile('doi\"\:\"([\w\d\.\-\\\/]+)\"', flags=re.MULTILINE)
-  doiText = re.compile('"DOI":"([\w\.\\\/]*)"', flags=re.MULTILINE)
-  doiSpringer = re.compile('chapter\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
-  doiWiley = re.compile('doi\/abs\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
-  doiCaltech = re.compile('authors\.library\.caltech\.edu\/(\d+)',
+  doiJavascript = re.compile(r'doi\"\:\"([\w\d\.\-\\\/]+)\"', flags=re.MULTILINE)
+  doiText = re.compile(r'"DOI":"([\w\.\\\/]*)"', flags=re.MULTILINE)
+  doiSpringer = re.compile(r'chapter\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
+  doiWiley = re.compile(r'doi\/abs\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
+  doiCaltech = re.compile(r'authors\.library\.caltech\.edu\/(\d+)',
                           flags=re.MULTILINE)
-  doiPubmed = re.compile('nlm\.nih\.gov\/pubmed\/(\d+)', flags=re.MULTILINE)
-  urlArxiv = re.compile('arxiv\.org\/pdf\/([\d\.]+)', flags=re.MULTILINE)
-  acm = re.compile('citation\.cfm\?id\=([\d\.]+)', flags=re.MULTILINE)
-  acmBib = re.compile('<PRE id="[\d\.]+">(.+)<\/pre>',
+  doiPubmed = re.compile(r'nlm\.nih\.gov\/pubmed\/(\d+)', flags=re.MULTILINE)
+  urlArxiv = re.compile(r'arxiv\.org\/pdf\/([\d\.]+)', flags=re.MULTILINE)
+  acm = re.compile(r'citation\.cfm\?id\=([\d\.]+)', flags=re.MULTILINE)
+  acmBib = re.compile(r'<PRE id="[\d\.]+">(.+)<\/pre>',
                       flags=re.MULTILINE | re.IGNORECASE | re.S)
-  ieee = re.compile('ieee\.org(?:\/abstract)?\/document\/(\d+)', flags=re.MULTILINE)
+  ieee = re.compile(r'ieee\.org(?:\/abstract)?\/document\/(\d+)', flags=re.MULTILINE)
   neurips = re.compile(r'proceedings.neurips.cc', flags=re.MULTILINE)
-  year = re.compile('\w+(\d+)')
+  year = re.compile(r'\w+(\d+)')
 
 
 class Parser:
@@ -320,9 +320,10 @@ def crossref_lookup(_title):
   if m and len(m.groups()) > 0:
     res = m.groups()[0]
     res = res.replace('\\', '')
-    if Paras.debugBibCrawler:
-      print("DOI from CrossRef Lookup: %s\n" % res)
-    return res
+    if 'policy' not in res:
+      if Paras.debugBibCrawler:
+        print("DOI from CrossRef Lookup: %s\n" % res)
+      return res
   return None
 
 
@@ -522,7 +523,7 @@ def google_lookup(s, parser):
 
 
 def fix_underscore(s):
-  return re.sub('[^\_]\_', '\\\_', s)
+  return re.sub(r'[^\_]\_', r'\\\_', s)
 
 
 def fix_abs_pdf(s):
