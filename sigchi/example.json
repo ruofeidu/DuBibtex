@@ -1,0 +1,1369 @@
+{
+  "schemeVersion": 7,
+  "cc_licence": "Content of this file is licensed under a CC BY-NC-SA 4.0 license. For details see https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "conference": {
+    "id": 10020,
+    "startDate": 1539475200000,
+    "endDate": 1539734400000,
+    "shortName": "UIST",
+    "name": "UIST 2018",
+    "year": 2018,
+    "fullName": "User Interface Software and Technology Symposium",
+    "url": "http://uist.acm.org/uist2018/",
+    "location": "Berlin, Germany",
+    "timeZoneOffset": 120,
+    "logoUrl": "https://files.sigchi.org/conference/logo/d4c3bf17-3fa9-f9c8-885d-fbfbde79382b.png",
+    "timeZoneName": "Europe/Berlin"
+  },
+  "sponsors": [],
+  "sponsorLevels": [
+    {
+      "id": 10014,
+      "name": "Sponsors",
+      "rank": 1,
+      "isDefault": true
+    }
+  ],
+  "floors": [
+    {
+      "id": 10028,
+      "name": "Berlin Convention Center - Location in Berlin",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/d9896a1a-263a-b28d-0744-5df4f690fd04.png",
+      "roomIds": [10109]
+    },
+    {
+      "id": 10030,
+      "name": "BCC - Level C",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/087ee859-7330-71ee-160d-3b520041d49b.png",
+      "roomIds": [10110]
+    },
+    {
+      "id": 10031,
+      "name": "BCC - Level B",
+      "mapImageUrl": "https://files.sigchi.org/conference/floor/7bdebedc-2115-29af-28dc-69cb3e35e098.png",
+      "roomIds": [10112, 10113, 10111]
+    }
+  ],
+  "rooms": [
+    {
+      "id": 10112,
+      "name": "BCC B08",
+      "typeId": 10526,
+      "setup": "Special"
+    },
+    {
+      "id": 10113,
+      "name": "BCC B09",
+      "typeId": 10514,
+      "setup": "Special"
+    },
+    {
+      "id": 10110,
+      "name": "BCC C01 (Auditorium)",
+      "typeId": 10519,
+      "setup": "Special"
+    },
+    {
+      "id": 10111,
+      "name": "BCC Foyer",
+      "typeId": 10524,
+      "setup": "Special"
+    },
+    {
+      "id": 10109,
+      "name": "Berlin Convention Center Foyer",
+      "typeId": 10514,
+      "setup": "Special"
+    },
+    {
+      "id": 10160,
+      "name": "Hasso Plattner Institute",
+      "typeId": 10495,
+      "setup": "Special"
+    },
+    {
+      "id": 10163,
+      "name": "Kulturbrauerei",
+      "typeId": 10520,
+      "setup": "Special"
+    },
+    {
+      "id": 10162,
+      "name": "On your own",
+      "typeId": 10514,
+      "setup": "Special"
+    }
+  ],
+  "tracks": [
+    {
+      "id": 10036,
+      "typeId": 10484
+    },
+    {
+      "id": 10037,
+      "typeId": 11151
+    },
+    {
+      "id": 10038,
+      "typeId": 11170
+    },
+    {
+      "id": 10039,
+      "typeId": 11199
+    },
+    {
+      "id": 10040,
+      "typeId": 11239
+    },
+    {
+      "id": 10041,
+      "typeId": 11253
+    }
+  ],
+  "contentTypes": [
+    {
+      "id": 10194,
+      "name": "Event",
+      "color": "#fecc5c",
+      "duration": 0,
+      "displayName": "Events"
+    },
+    {
+      "id": 10191,
+      "name": "SIG",
+      "color": "#7a0177",
+      "duration": 90
+    },
+    {
+      "id": 10192,
+      "name": "Case Study",
+      "color": "#993404",
+      "duration": 20,
+      "displayName": "Case Studies"
+    },
+    {
+      "id": 10193,
+      "name": "Course",
+      "color": "#e6550d",
+      "duration": 90,
+      "displayName": "Courses"
+    },
+    {
+      "id": 10195,
+      "name": "Invited Talk",
+      "color": "#66c2a4",
+      "duration": 90,
+      "displayName": "Invited Talks"
+    },
+    {
+      "id": 10196,
+      "name": "Operations",
+      "color": "#006d2c",
+      "duration": 90
+    },
+    {
+      "id": 10197,
+      "name": "Panel",
+      "color": "#6baed6",
+      "duration": 90,
+      "displayName": "Panels"
+    },
+    {
+      "id": 10198,
+      "name": "Paper",
+      "color": "#08519c",
+      "duration": 20,
+      "displayName": "Papers"
+    },
+    {
+      "id": 10199,
+      "name": "Plenary",
+      "color": "#756bb1",
+      "duration": 90
+    },
+    {
+      "id": 10200,
+      "name": "Workshop",
+      "color": "#de2d26",
+      "duration": 240,
+      "displayName": "Workshops"
+    },
+    {
+      "id": 10520,
+      "name": "Banquet",
+      "duration": 0
+    },
+    {
+      "id": 10514,
+      "name": "Break",
+      "duration": 0
+    },
+    {
+      "id": 10507,
+      "name": "Demo Reception",
+      "duration": 0
+    },
+    {
+      "id": 10484,
+      "name": "Doctoral Symposium",
+      "duration": 0
+    },
+    {
+      "id": 10526,
+      "name": "Papers",
+      "duration": 0
+    },
+    {
+      "id": 10524,
+      "name": "Poster Session & Coffee Break",
+      "duration": 0
+    },
+    {
+      "id": 10485,
+      "name": "Registration",
+      "duration": 0
+    },
+    {
+      "id": 10519,
+      "name": "Vision Track",
+      "duration": 0
+    },
+    {
+      "id": 10495,
+      "name": "Welcome Reception",
+      "duration": 0
+    },
+    {
+      "id": 11151,
+      "name": "Demonstration",
+      "duration": 0
+    },
+    {
+      "id": 11170,
+      "name": "Full Paper",
+      "duration": 0
+    },
+    {
+      "id": 11253,
+      "name": "Journal",
+      "duration": 0,
+      "displayName": "Journals"
+    },
+    {
+      "id": 11199,
+      "name": "Poster",
+      "duration": 0,
+      "displayName": "Posters"
+    },
+    {
+      "id": 11239,
+      "name": "UIST Vision",
+      "duration": 0
+    }
+  ],
+  "timeSlots": [
+    {
+      "id": 10687,
+      "type": "SESSION",
+      "startDate": 1539507600000,
+      "endDate": 1539540000000
+    },
+    {
+      "id": 10688,
+      "type": "SESSION",
+      "startDate": 1539538200000,
+      "endDate": 1539550800000
+    },
+    {
+      "id": 10703,
+      "type": "BREAK",
+      "startDate": 1539593100000,
+      "endDate": 1539595800000
+    },
+    {
+      "id": 10704,
+      "type": "SESSION",
+      "startDate": 1539595800000,
+      "endDate": 1539597600000
+    },
+    {
+      "id": 10705,
+      "type": "SESSION",
+      "startDate": 1539597600000,
+      "endDate": 1539601200000
+    },
+    {
+      "id": 10706,
+      "type": "BREAK",
+      "startDate": 1539601200000,
+      "endDate": 1539603000000
+    },
+    {
+      "id": 10708,
+      "type": "SESSION",
+      "startDate": 1539603000000,
+      "endDate": 1539607800000
+    },
+    {
+      "id": 10709,
+      "type": "BREAK",
+      "startDate": 1539607800000,
+      "endDate": 1539612600000
+    },
+    {
+      "id": 10710,
+      "type": "BREAK",
+      "startDate": 1539608400000,
+      "endDate": 1539611400000
+    },
+    {
+      "id": 10711,
+      "type": "SESSION",
+      "startDate": 1539612600000,
+      "endDate": 1539618600000
+    },
+    {
+      "id": 10713,
+      "type": "BREAK",
+      "startDate": 1539618600000,
+      "endDate": 1539620400000
+    },
+    {
+      "id": 10715,
+      "type": "SESSION",
+      "startDate": 1539620400000,
+      "endDate": 1539625200000
+    },
+    {
+      "id": 10716,
+      "type": "SESSION",
+      "startDate": 1539625500000,
+      "endDate": 1539626400000
+    },
+    {
+      "id": 10717,
+      "type": "SESSION",
+      "startDate": 1539626400000,
+      "endDate": 1539637200000
+    },
+    {
+      "id": 10718,
+      "type": "BREAK",
+      "startDate": 1539679500000,
+      "endDate": 1539680400000
+    },
+    {
+      "id": 10720,
+      "type": "SESSION",
+      "startDate": 1539680400000,
+      "endDate": 1539686400000
+    },
+    {
+      "id": 10721,
+      "type": "BREAK",
+      "startDate": 1539686400000,
+      "endDate": 1539688200000
+    },
+    {
+      "id": 10723,
+      "type": "SESSION",
+      "startDate": 1539688200000,
+      "endDate": 1539694200000
+    },
+    {
+      "id": 10724,
+      "type": "BREAK",
+      "startDate": 1539694200000,
+      "endDate": 1539699600000
+    },
+    {
+      "id": 10727,
+      "type": "SESSION",
+      "startDate": 1539699600000,
+      "endDate": 1539705600000
+    },
+    {
+      "id": 10728,
+      "type": "SESSION",
+      "startDate": 1539705600000,
+      "endDate": 1539709200000
+    },
+    {
+      "id": 10729,
+      "type": "SESSION",
+      "startDate": 1539709200000,
+      "endDate": 1539712800000
+    },
+    {
+      "id": 10730,
+      "type": "SESSION",
+      "startDate": 1539716400000,
+      "endDate": 1539734340000
+    },
+    {
+      "id": 10731,
+      "type": "BREAK",
+      "startDate": 1539765900000,
+      "endDate": 1539766800000
+    },
+    {
+      "id": 10732,
+      "type": "SESSION",
+      "startDate": 1539766800000,
+      "endDate": 1539772800000
+    },
+    {
+      "id": 10734,
+      "type": "SESSION",
+      "startDate": 1539771600000,
+      "endDate": 1539775200000
+    },
+    {
+      "id": 10735,
+      "type": "SESSION",
+      "startDate": 1539775200000,
+      "endDate": 1539780600000
+    },
+    {
+      "id": 10737,
+      "type": "BREAK",
+      "startDate": 1539780000000,
+      "endDate": 1539784800000
+    },
+    {
+      "id": 10738,
+      "type": "SESSION",
+      "startDate": 1539783000000,
+      "endDate": 1539784800000
+    },
+    {
+      "id": 10739,
+      "type": "SESSION",
+      "startDate": 1539786000000,
+      "endDate": 1539792000000
+    },
+    {
+      "id": 10741,
+      "type": "BREAK",
+      "startDate": 1539790800000,
+      "endDate": 1539793800000
+    },
+    {
+      "id": 10742,
+      "type": "SESSION",
+      "startDate": 1539793800000,
+      "endDate": 1539797400000
+    },
+    {
+      "id": 10743,
+      "type": "SESSION",
+      "startDate": 1539797400000,
+      "endDate": 1539799200000
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1992,
+      "name": "Doctoral Symposium (by invitation only)",
+      "typeId": 10484,
+      "roomId": 10160,
+      "chairIds": [],
+      "contentIds": [6930, 5952, 5692, 4288, 8175, 4919, 4296, 3481],
+      "timeSlotId": 10687
+    },
+    {
+      "id": 1134,
+      "name": "Registration",
+      "typeId": 10485,
+      "roomId": 10160,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10688
+    },
+    {
+      "id": 2246,
+      "name": "Welcome Reception",
+      "typeId": 10495,
+      "roomId": 10160,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10688
+    },
+    {
+      "id": 2318,
+      "name": "Refreshments",
+      "typeId": 10514,
+      "roomId": 10109,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10703
+    },
+    {
+      "id": 2383,
+      "name": "Break",
+      "typeId": 10514,
+      "roomId": 10111,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10706
+    },
+    {
+      "id": 1866,
+      "name": "Opening Remarks + Awards",
+      "typeId": 10199,
+      "roomId": 10110,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10704
+    },
+    {
+      "id": 2505,
+      "name": "Keynote: Jaime Teevan",
+      "typeId": 10199,
+      "roomId": 10110,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10705
+    },
+    {
+      "id": 1872,
+      "name": "Controlling and Collaborating in VR",
+      "typeId": 10526,
+      "roomId": 10112,
+      "chairIds": [19572],
+      "contentIds": [6836, 8154, 7494, 6697],
+      "timeSlotId": 10708
+    },
+    {
+      "id": 2519,
+      "name": "Human-Robot Symbiosis",
+      "typeId": 10526,
+      "roomId": 10110,
+      "chairIds": [16612],
+      "contentIds": [3723, 2936, 5566, 4286],
+      "timeSlotId": 10708
+    },
+    {
+      "id": 1326,
+      "name": "Lunch",
+      "typeId": 10514,
+      "roomId": 10162,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10709
+    },
+    {
+      "id": 2302,
+      "name": "Becoming a Volunteer at ACM SIGCHI Lunchtime event",
+      "typeId": 10514,
+      "roomId": 10113,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10710
+    },
+    {
+      "id": 1524,
+      "name": "Crowds and Human-AI Partnership",
+      "typeId": 10526,
+      "roomId": 10110,
+      "chairIds": [20000],
+      "contentIds": [8149, 2988, 6523, 6937, 4842],
+      "timeSlotId": 10711
+    },
+    {
+      "id": 1903,
+      "name": "Fabrication",
+      "typeId": 10526,
+      "roomId": 10112,
+      "chairIds": [10127],
+      "contentIds": [3497, 5256, 7939, 4092, 4034],
+      "timeSlotId": 10711
+    },
+    {
+      "id": 2412,
+      "name": "Break",
+      "typeId": 10514,
+      "roomId": 10111,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10713
+    },
+    {
+      "id": 1395,
+      "name": "Sensing and Acoustics",
+      "typeId": 10526,
+      "roomId": 10112,
+      "chairIds": [8199],
+      "contentIds": [8172, 5776, 7829, 3771],
+      "timeSlotId": 10715
+    },
+    {
+      "id": 1204,
+      "name": "Visualizations in 2D and 3D",
+      "typeId": 10526,
+      "roomId": 10110,
+      "chairIds": [15383],
+      "contentIds": [7346, 7094, 6771, 5187],
+      "timeSlotId": 10715
+    },
+    {
+      "id": 1802,
+      "name": "UIST Lasting Impact Award",
+      "typeId": 10199,
+      "roomId": 10110,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10716
+    },
+    {
+      "id": 1860,
+      "name": "Demo Reception",
+      "typeId": 10507,
+      "roomId": 10111,
+      "chairIds": [],
+      "contentIds": [
+        7895, 7354, 5822, 4659, 6883, 2966, 7481, 5619, 6794, 6097, 4649, 6986,
+        5106, 4847, 7297, 3304, 4148, 6715, 5175, 6215, 6308, 8059, 5725, 3624,
+        5887, 6567, 3181, 4654, 6665, 6873, 5219, 5273, 4837, 4916, 4877, 5313,
+        7577, 2980, 4233, 5206, 4807, 6349, 5814, 3016, 5741, 7945, 3869, 6271,
+        3668, 6990, 7849, 4475, 4734, 4503, 6091, 3922, 7729, 2945, 3854, 7274
+      ],
+      "timeSlotId": 10717
+    },
+    {
+      "id": 2150,
+      "name": "Refreshments",
+      "typeId": 10514,
+      "roomId": 10111,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10718
+    },
+    {
+      "id": 1028,
+      "name": "Authoring, Reading and Writing",
+      "typeId": 10526,
+      "roomId": 10112,
+      "chairIds": [12162],
+      "contentIds": [3874, 3930, 3159, 6772, 8114],
+      "timeSlotId": 10720
+    },
+    {
+      "id": 1006,
+      "name": "Sensing in the Small Scale",
+      "typeId": 10526,
+      "roomId": 10110,
+      "chairIds": [19589],
+      "contentIds": [8159, 3038, 4669, 3101, 7083],
+      "timeSlotId": 10720
+    },
+    {
+      "id": 1238,
+      "name": "Break",
+      "typeId": 10514,
+      "roomId": 10111,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10721
+    },
+    {
+      "id": 2218,
+      "name": "Electronics",
+      "typeId": 10526,
+      "roomId": 10110,
+      "chairIds": [8737],
+      "contentIds": [6297, 2857, 4304, 2951, 5044],
+      "timeSlotId": 10723
+    },
+    {
+      "id": 1612,
+      "name": "Navigation",
+      "typeId": 10526,
+      "roomId": 10112,
+      "chairIds": [9294],
+      "contentIds": [5456, 6457, 6232, 5287, 5902],
+      "timeSlotId": 10723
+    },
+    {
+      "id": 1871,
+      "name": "Lunch",
+      "typeId": 10514,
+      "roomId": 10162,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10724
+    },
+    {
+      "id": 1231,
+      "name": "Women of UIST Networking Luncheon (RSVP only)",
+      "typeId": 10514,
+      "roomId": 10113,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10724
+    },
+    {
+      "id": 1787,
+      "name": "Haptics and VR",
+      "typeId": 10526,
+      "roomId": 10112,
+      "chairIds": [16950],
+      "contentIds": [6736, 4407, 3343, 7961, 6481],
+      "timeSlotId": 10727
+    },
+    {
+      "id": 1312,
+      "name": "Modelling and Animation",
+      "typeId": 10526,
+      "roomId": 10110,
+      "chairIds": [23637],
+      "contentIds": [4444, 4780, 6539, 8173, 2979],
+      "timeSlotId": 10727
+    },
+    {
+      "id": 2227,
+      "name": "Poster Session & Coffee Break",
+      "typeId": 10524,
+      "roomId": 10111,
+      "chairIds": [],
+      "contentIds": [
+        7217, 6294, 5852, 5292, 7653, 7821, 8130, 8019, 4248, 6333, 4617, 6917,
+        6234, 7474, 7349, 2852, 4325, 2725, 7471, 3296, 3948, 7438, 5407, 7725,
+        3075, 6176, 2694, 4132, 3013, 6749, 7396, 3329, 3118, 6987, 5628, 3903,
+        3180, 5009, 8133, 7036, 4948, 4263, 3230, 6036
+      ],
+      "timeSlotId": 10728
+    },
+    {
+      "id": 2162,
+      "name": "Vision Track",
+      "typeId": 10519,
+      "roomId": 10110,
+      "chairIds": [22789],
+      "contentIds": [5279, 7941],
+      "timeSlotId": 10729
+    },
+    {
+      "id": 1151,
+      "name": "Conference Dinner and Student Innovation Contest",
+      "typeId": 10520,
+      "roomId": 10163,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10730
+    },
+    {
+      "id": 2186,
+      "name": "Refreshments",
+      "typeId": 10514,
+      "roomId": 10111,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10731
+    },
+    {
+      "id": 1781,
+      "name": "Bodies and Sensing",
+      "typeId": 10526,
+      "roomId": 10110,
+      "chairIds": [11153],
+      "contentIds": [6732, 3836, 6373, 3725],
+      "timeSlotId": 10732
+    },
+    {
+      "id": 1893,
+      "name": "Novel Haptics",
+      "typeId": 10526,
+      "roomId": 10112,
+      "chairIds": [10226],
+      "contentIds": [6377, 3783, 7809, 3094],
+      "timeSlotId": 10732
+    },
+    {
+      "id": 1236,
+      "name": "Poster Session & Coffee Break",
+      "typeId": 10524,
+      "roomId": 10111,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10734
+    },
+    {
+      "id": 2277,
+      "name": "Touch Interaction",
+      "typeId": 10526,
+      "roomId": 10112,
+      "chairIds": [9782],
+      "contentIds": [2865, 6828, 5963, 4666],
+      "timeSlotId": 10735
+    },
+    {
+      "id": 2384,
+      "name": "VR Interaction Techniques",
+      "typeId": 10526,
+      "roomId": 10110,
+      "chairIds": [9205],
+      "contentIds": [4827, 4229, 6575, 7150],
+      "timeSlotId": 10735
+    },
+    {
+      "id": 1261,
+      "name": "Lunch",
+      "typeId": 10514,
+      "roomId": 10162,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10737
+    },
+    {
+      "id": 2223,
+      "name": "UIST Town hall",
+      "typeId": 10199,
+      "roomId": 10110,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10738
+    },
+    {
+      "id": 1873,
+      "name": "Mobile Interactions",
+      "typeId": 10526,
+      "roomId": 10112,
+      "chairIds": [14435],
+      "contentIds": [5648, 2681, 4689, 6264, 3380],
+      "timeSlotId": 10739
+    },
+    {
+      "id": 1623,
+      "name": "Web",
+      "typeId": 10526,
+      "roomId": 10110,
+      "chairIds": [11434],
+      "contentIds": [4149, 7784, 7891, 7144, 5816],
+      "timeSlotId": 10739
+    },
+    {
+      "id": 2178,
+      "name": "Break",
+      "typeId": 10514,
+      "roomId": 10111,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10741
+    },
+    {
+      "id": 1048,
+      "name": "Keynote: Selma Šabanović",
+      "typeId": 10199,
+      "roomId": 10110,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10742
+    },
+    {
+      "id": 1122,
+      "name": "Closing Ceremony",
+      "typeId": 10199,
+      "roomId": 10110,
+      "chairIds": [],
+      "contentIds": [],
+      "timeSlotId": 10743
+    }
+  ],
+  "events": [],
+  "contents": [
+    {
+      "id": 3075,
+      "typeId": 11199,
+      "title": "Kaleidoscope: An RDF-based Exploratory Data Analysis Tool for Ideation Outcomes",
+      "trackId": 10039,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Evaluating and selecting ideas is a critical and time-consuming step in collaborative ideation, making computational support for this task a desired research goal. However, existing automatic approaches to idea selection might eliminate valuable ideas.\nIn this work we combine automatic approaches with human sensemaking. Kaleidoscope is an exploratory data analytics tool based on semantic technologies. It supports users in exploring and annotating existing ideas interactively. In the following, we present key design principles of Kaleidoscope. Based on qualitative feedback collected on a prototype, we identify potential improvements and describe future work.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Freie Universität Berlin"
+            }
+          ],
+          "personId": 10529
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Freie Universität Berlin"
+            }
+          ],
+          "personId": 22729
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Freie Universität Berlin"
+            }
+          ],
+          "personId": 9681
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Freie Universität Berlin"
+            }
+          ],
+          "personId": 11940
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Freie Universität Berlin"
+            }
+          ],
+          "personId": 22205
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Freie Universität Berlin"
+            }
+          ],
+          "personId": 10624
+        }
+      ],
+      "sessionIds": [2227],
+      "eventIds": []
+    },
+    {
+      "id": 6665,
+      "typeId": 11151,
+      "title": "DualPanto: A Haptic Device that Enables Blind Users to Continuously Interact with Virtual Worlds",
+      "trackId": 10037,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present a new haptic device that enables blind users to continuously interact with spatial virtual environments that contain moving objects, as is the case in sports or shooter games. Users interact with DualPanto by operating the me handle with one hand and by holding on to the it handle with the other hand. Each handle is connected to a pantograph haptic input/output device. The key feature is that the two handles are spatially registered with respect to each other. When guiding their avatar through a virtual world using the me handle, spatial registration enables users to track moving objects by having the device guide the output hand. This allows blind players of a 1-on-1 soccer game to race for the ball or evade an opponent; it allows blind players of a shooter game to aim at an opponent and dodge shots. In our user study, blind participants reported very high enjoyment when using the device to play (6.5/7).",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Hasso Plattner Institute & University of Waterloo"
+            }
+          ],
+          "personId": 10548
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasso Plattner Institute"
+            }
+          ],
+          "personId": 18233
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasso Plattner Institute"
+            }
+          ],
+          "personId": 24389
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasso Plattner Institute"
+            }
+          ],
+          "personId": 13294
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasso Plattner Institute"
+            }
+          ],
+          "personId": 8413
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasso Plattner Institute"
+            }
+          ],
+          "personId": 15092
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasso Plattner Institute"
+            }
+          ],
+          "personId": 14908
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Hasso Plattner Institute"
+            }
+          ],
+          "personId": 22160
+        }
+      ],
+      "sessionIds": [1860],
+      "eventIds": []
+    },
+    {
+      "id": 4617,
+      "typeId": 11199,
+      "title": "OmniEyeball: Spherical Display Equipped With Omnidirectional Camera And Its Application For 360-Degree Video Communication",
+      "trackId": 10039,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We propose OmniEyeball (OEB), which is a novel interactive 360° image I/O system. It integrates the spherical display system with an omnidirectional camera to enable both capturing the 360° panoramic live streaming video as well as displaying it. We also present its unique application for symmetric 360° video communication by utilizing two OEB terminals, which may solve the narrow field-of-view problem in video communication. In addition, we designed a vision-based touch detection technique as well as some features to support 360° video communication.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Tokyo Institute of Technology"
+            }
+          ],
+          "personId": 22209
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Tokyo Institute of Technology"
+            }
+          ],
+          "personId": 11330
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Tokyo Institute of Technology"
+            }
+          ],
+          "personId": 20684
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Tsukuba"
+            }
+          ],
+          "personId": 8645
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Tokyo Institute of Technology"
+            }
+          ],
+          "personId": 10342
+        }
+      ],
+      "sessionIds": [2227],
+      "eventIds": []
+    },
+    {
+      "id": 8175,
+      "typeId": 10484,
+      "title": "Designing Inherent Interactions on Wearable Devices",
+      "trackId": 10036,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Wearable devices are becoming important computing devices to personal users. They have shown promising applications in multiple domains. However, designing interactions on smartwears remains challenging as the miniature sized formfactors limit both its input and output space. My thesis research proposes a new paradigm of Inherent Interaction on smartwears, with the idea of seeking interaction opportunities from users daily activities. This is to help bridging the gap between novel smartwear interactions and real-life experiences shared among users. This report introduces the concept of Inherent Interaction with my previous and current explorations in the category.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Manitoba"
+            }
+          ],
+          "personId": 9401
+        }
+      ],
+      "sessionIds": [1992],
+      "eventIds": []
+    },
+    {
+      "id": 5106,
+      "typeId": 11151,
+      "title": "Haptic Interface Using Tendon Electrical Stimulation",
+      "trackId": 10037,
+      "tags": [],
+      "keywords": [],
+      "abstract": "This demonstration corresponds to our previous paper, which deals with our finding that a proprioceptive force sensation can be presented by electrical stimulation from the skin surface to the tendon region (Tendon Electrical Stimulation: TES). We showed that TES can elicit a force sensation, and adjusting the current parameters can control the amount of the sensation. Unlike electrical muscle stimulation (EMS), which can also present force sensation by stimulating motor nerves to contract muscles, TES is thought to present a proprioceptive force sensation by stimulating receptors or sensory nerves responsible for recognizing the magnitude of the muscle contraction existing inside the tendon. In the demo, we offer the occasion for trying TES.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "The University of Electro-Communications"
+            }
+          ],
+          "personId": 21841
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "The University of Electro-Communications"
+            }
+          ],
+          "personId": 16426
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "The University of Electro-Communications"
+            }
+          ],
+          "personId": 9462
+        }
+      ],
+      "sessionIds": [1860],
+      "eventIds": []
+    },
+    {
+      "id": 5619,
+      "typeId": 11151,
+      "title": "Unlimited Electric Gum: A Piezo-based Electric Taste Apparatus Activated by Chewing",
+      "trackId": 10037,
+      "tags": [],
+      "keywords": [],
+      "abstract": "Herein, we propose “unlimited electric gum,” an electric taste device that will enable users to perceive taste for as long the user is chewing the gum. We developed an in-mouth type novel electric taste-imparting apparatus using a piezoelectric element so that the piezoelectric effect is stimulated by chewing. This enabled the design of a device that does not require cables around a user's lips or batteries in their mouth. In this paper, we introduce this device and report our experimental and exhibition results.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "Meiji University"
+            }
+          ],
+          "personId": 13284
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Tokyo"
+            }
+          ],
+          "personId": 21165
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Meiji University"
+            }
+          ],
+          "personId": 9788
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "Meiji University"
+            }
+          ],
+          "personId": 13681
+        }
+      ],
+      "sessionIds": [1860],
+      "eventIds": []
+    },
+    {
+      "id": 4092,
+      "typeId": 11170,
+      "title": "Wireless Analytics for 3D Printed Objects",
+      "trackId": 10038,
+      "tags": [],
+      "keywords": [],
+      "abstract": "We present the first wireless physical analytics  system for 3D printed objects using commonly available conductive plastic filaments. Our design can enable various data capture and wireless physical analytics capabilities for 3D printed objects, without the need for  electronics. To achieve this goal, we make three key contributions: (1) demonstrate room scale backscatter communication and sensing using conductive plastic filaments, (2)  introduce the first backscatter designs that detect a variety of bi-directional motions and support linear and rotational movements, and (3)  enable data capture and storage for later retrieval when outside the range of the wireless coverage, using a ratchet and gear system. We validate our approach by wirelessly detecting the opening and closing of a pill bottle, capturing the joint angles of a 3D printed e-NABLE prosthetic hand, and an insulin pen that can store information to track its use outside the range of a wireless receiver.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "University of Washington"
+            }
+          ],
+          "personId": 21116
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Washington"
+            }
+          ],
+          "personId": 21164
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Washington"
+            }
+          ],
+          "personId": 17625
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Washington"
+            }
+          ],
+          "personId": 21912
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Washington"
+            }
+          ],
+          "personId": 16934
+        }
+      ],
+      "sessionIds": [1903],
+      "eventIds": []
+    },
+    {
+      "id": 5628,
+      "typeId": 11199,
+      "title": "I Know What You Want: Using Gaze Metrics to Predict Personal Interest",
+      "trackId": 10039,
+      "tags": [],
+      "keywords": [],
+      "abstract": "In daily communications, we often use interpersonal cues - telltale facial expressions and body language - to moderate responses to our conversation partners. While we are able to interpret gaze as a sign of interest or reluctance, conventional user interfaces do not yet possess this possible benefit. In our work, we evaluate to what degree fixation-based gaze metrics can be used to infer a user's personal interest in the displayed content. We report on a study (N=18) where participants were presented with a grid array of different images, whilst being recorded for gaze behavior. Our system calculated a ranking for shown images based on gaze metrics. We found that all metrics are effective indicators of the participants' interest by analyzing their agreement with regard to the system's ranking. In an evaluation in a museum, we found that this translates to in-the-wild scenarios despite environmental constraints, such as limited data accuracy.",
+      "authors": [
+        {
+          "affiliations": [
+            {
+              "institution": "LMU Munich"
+            }
+          ],
+          "personId": 18651
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Stuttgart"
+            }
+          ],
+          "personId": 12007
+        },
+        {
+          "affiliations": [
+            {
+              "institution": "University of Stuttgart"
+            }
+          ],
+          "personId": 20105
+        }
+      ],
+      "sessionIds": [2227],
+      "eventIds": []
+    }
+  ],
+  "people": [
+    {
+      "id": 21511,
+      "firstName": "Jan",
+      "lastName": "Brejcha",
+      "affiliations": []
+    },
+    {
+      "id": 8199,
+      "firstName": "Mike",
+      "lastName": "Chen",
+      "middleInitial": "Y.",
+      "affiliations": []
+    },
+    {
+      "id": 12300,
+      "firstName": "Michael",
+      "lastName": "Rietzler",
+      "affiliations": []
+    },
+    {
+      "id": 17422,
+      "firstName": "Qin",
+      "lastName": "Wu",
+      "affiliations": []
+    },
+    {
+      "id": 11279,
+      "firstName": "Johannes",
+      "lastName": "Filter",
+      "affiliations": []
+    },
+    {
+      "id": 9232,
+      "firstName": "Hauke",
+      "lastName": "Sandhaus",
+      "affiliations": []
+    },
+    {
+      "id": 8210,
+      "firstName": "DoYoung",
+      "lastName": "Lee",
+      "affiliations": []
+    },
+    {
+      "id": 17427,
+      "firstName": "Geehyuk",
+      "lastName": "Lee",
+      "affiliations": []
+    },
+    {
+      "id": 15383,
+      "firstName": "Vidya",
+      "lastName": "Setlur",
+      "affiliations": []
+    },
+    {
+      "id": 14361,
+      "firstName": "Ryo",
+      "lastName": "Suzuki",
+      "affiliations": []
+    },
+    {
+      "id": 12313,
+      "firstName": "Shohei",
+      "lastName": "Katakura",
+      "affiliations": []
+    },
+    {
+      "id": 20520,
+      "firstName": "Teddy",
+      "lastName": "Seyed",
+      "affiliations": []
+    },
+    {
+      "id": 23593,
+      "firstName": "Ersin",
+      "lastName": "Yumer",
+      "affiliations": []
+    },
+    {
+      "id": 16426,
+      "firstName": "Kenta",
+      "lastName": "Tanabe",
+      "affiliations": []
+    },
+    {
+      "id": 10287,
+      "firstName": "Alok",
+      "lastName": "Mysore",
+      "affiliations": []
+    },
+    {
+      "id": 18479,
+      "firstName": "Raimund",
+      "lastName": "Dachselt",
+      "affiliations": []
+    }
+  ],
+  "recognitions": [],
+  "publicationInfo": {
+    "hideLinksBeforeConference": false,
+    "version": 16,
+    "publicationStatus": "PUBLISHED",
+    "isProgramEnabled": true,
+    "isDraft": false,
+    "isRegistrationEnabled": false,
+    "publicationDate": "2021-02-10 13:49:48+00"
+  }
+}
