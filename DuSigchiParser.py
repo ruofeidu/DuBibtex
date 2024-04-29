@@ -1,9 +1,27 @@
 import os
 import json
+import markdown
+
+
+def convert_markdown_to_html(file_path):
+  # Read the Markdown file
+  with open(file_path, 'r', encoding='utf-8') as file:
+    markdown_text = file.read()
+
+  # Convert Markdown to HTML
+  html_content = markdown.markdown(markdown_text)
+
+  # Write the HTML content to a new file
+  output_file_path = file_path.replace('.md', '.html')
+  with open(output_file_path, 'w', encoding='utf-8') as file:
+    file.write(html_content)
+
+  print(f"Converted {file_path} to {output_file_path}")
 
 
 def parse(filename_raw, data, indent=0):
-  with open('sigchi/' + filename_raw[:-4] + 'md', 'w', encoding='utf-8') as f:
+  filename = 'sigchi/' + filename_raw[:-4] + 'md'
+  with open(filename, 'w', encoding='utf-8') as f:
     # Iterate over sessions and extract paper titles, session names, and author names
     for session in data['sessions']:
       session_name = session['name']
@@ -26,10 +44,12 @@ def parse(filename_raw, data, indent=0):
 
           f.write(f"### {paper_title}\n")
           if 'award' in content and content['award']:
-            f.write(content['award'] + "\n")
-          f.write(f"Authors: {', '.join(authors)}\n")
-          f.write(f"Abstract: {abstract}\n")
-          f.write('\n')
+            f.write(content['award'] + "\n\n")
+          f.write(f"Authors: {', '.join(authors)}\n\n")
+          f.write(f"Abstract: {abstract}\n\n")
+          f.write('\n\n')
+
+  convert_markdown_to_html(filename)
 
 
 def read_and_process_json_files(directory_path):
