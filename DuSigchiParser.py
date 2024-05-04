@@ -21,6 +21,8 @@ def convert_markdown_to_html(file_path):
 
 def parse(filename_raw, data, indent=0, program='chi', year='2024'):
   filename = 'sigchi/' + filename_raw[:-4] + 'md'
+
+  # with open(filename + 'session.md', 'w', encoding='utf-8') as ff:
   with open(filename, 'w', encoding='utf-8') as f:
     # Iterate over sessions and extract paper titles, session names, and author names
     for session in data['sessions']:
@@ -28,11 +30,13 @@ def parse(filename_raw, data, indent=0, program='chi', year='2024'):
       if not (session['typeId'] == 13269):
         continue  # Checks if it's a paper session.
       f.write(f"\n## {session_name}\n")
+      # ff.write(f"\n## {session_name}\n")
       for content_id in session['contentIds']:
         content = next((c for c in data['contents'] if c['id'] == content_id),
                        None)
-        if content and content[
-            'typeId'] == 13269:  # Check if the content is a paper
+        if content and content['typeId'] in [
+            13269, 13341
+        ]:  # Check if the content is a paper or journal
           paper_title = content['title']
           authors = [
               f"{person['firstName']} {person['lastName']}"
@@ -49,7 +53,12 @@ def parse(filename_raw, data, indent=0, program='chi', year='2024'):
             f.write(content['award'] + "\n\n")
           f.write(f"Authors: {', '.join(authors)}\n\n")
           f.write(f"[Link]({link})\n\n")
-          f.write(f"Abstract: {abstract}\n\n")
+          KEYWORDS = [
+              'Reality', 'XR', 'Virtual', 'LLM', 'AI', 'Large', 'Immersive',
+              'Communication', 'Gaze'
+          ]
+          if any(keyword in session_name for keyword in KEYWORDS):
+            f.write(f"Abstract: {abstract}\n\n")
           f.write('\n\n')
 
   convert_markdown_to_html(filename)
