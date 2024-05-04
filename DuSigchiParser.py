@@ -19,7 +19,7 @@ def convert_markdown_to_html(file_path):
   print(f"Converted {file_path} to {output_file_path}")
 
 
-def parse(filename_raw, data, indent=0):
+def parse(filename_raw, data, indent=0, program='chi', year='2024'):
   filename = 'sigchi/' + filename_raw[:-4] + 'md'
   with open(filename, 'w', encoding='utf-8') as f:
     # Iterate over sessions and extract paper titles, session names, and author names
@@ -41,11 +41,14 @@ def parse(filename_raw, data, indent=0):
               [author['personId'] for author in content['authors']]
           ]
           abstract = content['abstract']
+          id = content['id']
+          link = f'https://programs.sigchi.org/{program}/{year}/program/content/{id}'
 
           f.write(f"### {paper_title}\n")
           if 'award' in content and content['award']:
             f.write(content['award'] + "\n\n")
           f.write(f"Authors: {', '.join(authors)}\n\n")
+          f.write(f"[Link]({link})\n\n")
           f.write(f"Abstract: {abstract}\n\n")
           f.write('\n\n')
 
