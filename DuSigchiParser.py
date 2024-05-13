@@ -38,12 +38,12 @@ def parse(filename_raw, data, indent=0, program='chi', year='2024'):
             13269, 13341
         ]:  # Check if the content is a paper or journal
           paper_title = content['title']
-          authors = [
-              f"{person['firstName']} {person['lastName']}"
-              for person in data['people']
-              if person['id'] in
-              [author['personId'] for author in content['authors']]
-          ]
+          authors = []
+          for author in content['authors']:
+              person = next((p for p in data['people'] if p['id'] == author['personId']), None)
+              if person:
+                  author_name = f"{person['firstName']} {person['lastName']}"
+                  authors.append(author_name)
           abstract = content['abstract']
           id = content['id']
           link = f'https://programs.sigchi.org/{program}/{year}/program/content/{id}'

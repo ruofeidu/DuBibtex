@@ -1,14 +1,14 @@
 
 ## Behavior Change
 ### SoniWeight Shoes: Investigating Effects and Personalization of a Wearable Sound Device for Altering Body Perception, Behavior and Emotion 
-Authors: Amar D'Adamo, Ana Tajadura-Jiménez, Marte Roel Lesur, Luis Antonio Azpicueta-Ruiz, Mohammad Mahdi Dehshibi, Aleksander Väljamäe, Joaquin Diaz Duran, Daniel De La Prida, Laia Turmo Vidal
+Authors: Amar D'Adamo, Marte Roel Lesur, Laia Turmo Vidal, Mohammad Mahdi Dehshibi, Daniel De La Prida, Joaquin Diaz Duran, Luis Antonio Azpicueta-Ruiz, Aleksander Väljamäe, Ana Tajadura-Jiménez
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148202)
 
 
 
 ### EcoSanté Lifestyle Intervention: Encourage Reflections on the Connections between Health and Environment
-Authors: Mike Horn, Pei-Yi (Patricia) Kuo
+Authors: Pei-Yi (Patricia) Kuo, Mike Horn
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150654)
 
@@ -22,7 +22,7 @@ Authors: Amon Rapp, Arianna Boldi
 
 
 ### Me, My Health, and My Watch: How Children with ADHD Understand Smartwatch Health Data
-Authors: Kimberley Lakes, Jesus Beltran, Lucas Silva, Gillian Hayes, Franceli Cibrian, Sabrina Schuck, Arya Tavakoulnia, Elizabeth Ankrah
+Authors: Elizabeth Ankrah, Franceli Cibrian, Lucas Silva, Arya Tavakoulnia, Jesus Beltran, Sabrina Schuck, Kimberley Lakes, Gillian Hayes
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150927)
 
@@ -31,7 +31,7 @@ Authors: Kimberley Lakes, Jesus Beltran, Lucas Silva, Gillian Hayes, Franceli Ci
 
 ## Hand and Gaze
 ### GazePointAR: A Context-Aware Multimodal Voice Assistant for Pronoun Disambiguation in Wearable Augmented Reality
-Authors: Sebastian Rodriguez, Liam Chu, Jon Froehlich, Jun Wang, Jaewook Lee, Elizabeth Brown
+Authors: Jaewook Lee, Jun Wang, Elizabeth Brown, Liam Chu, Sebastian Rodriguez, Jon Froehlich
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147184)
 
@@ -40,7 +40,7 @@ Abstract: Voice assistants (VAs) like Siri and Alexa are transforming human-comp
 
 
 ### QuadStretcher: A Forearm-Worn Skin Stretch Display for Bare-Hand Interaction in AR/VR
-Authors: Sunbum Kim, Taejun Kim, Geehyuk Lee, Jaeyeon Lee, YoungIn Kim, Youngbo Shim
+Authors: Taejun Kim, Youngbo Shim, YoungIn Kim, Sunbum Kim, Jaeyeon Lee, Geehyuk Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148253)
 
@@ -58,7 +58,7 @@ Abstract: With the development of virtual reality (VR) technology, research is b
 
 
 ### CLERA: A Unified Model for Joint Cognitive Load and Eye Region Analysis in the Wild
-Authors: Meng Wang, Bryan Reimer, Jack Terwilliger, Aishni Parab, Li Ding, Lex Fridman, Bruce Mehler
+Authors: Li Ding, Jack Terwilliger, Aishni Parab, Meng Wang, Lex Fridman, Bruce Mehler, Bryan Reimer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150827)
 
@@ -67,7 +67,7 @@ Abstract: Non-intrusive, real-time analysis of the dynamics of the eye region al
 
 
 ### How Gaze Visualization Facilitates Initiation of Informal Communication in 3D Virtual Spaces
-Authors: Takehito Yoshiki, Junko Ichino, daisuke okabe, Masahiro Ide, Hirotoshi Asano, Hideo Miyachi, Hitomi Yokoyama
+Authors: Junko Ichino, Masahiro Ide, Takehito Yoshiki, Hitomi Yokoyama, Hirotoshi Asano, Hideo Miyachi, daisuke okabe
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150879)
 
@@ -78,7 +78,7 @@ Abstract: This study explores how gaze visualization in virtual spaces facilitat
 
 ## Privacy for Immersive Tracking
 ### Privacy in Immersive Extended Reality: Exploring User Perceptions, Concerns, and Coping Strategies
-Authors: Derrick Wang, Lennart Nacke, Leah Zhang-Kennedy, Hilda Hadan
+Authors: Hilda Hadan, Derrick Wang, Lennart Nacke, Leah Zhang-Kennedy
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147162)
 
@@ -87,7 +87,7 @@ Abstract: Extended Reality (XR) technology is changing online interactions, but 
 
 
 ### "I know even if you don't tell me": Understanding Users' Privacy Preferences Regarding AI-based Inferences of Sensitive Information for Personalization
-Authors: Nikola Banovic, Zhe Chen, Sumit Asthana, Jane Im
+Authors: Sumit Asthana, Jane Im, Zhe Chen, Nikola Banovic
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148250)
 
@@ -96,7 +96,7 @@ Abstract: Personalization improves user experience by tailoring interactions rel
 
 
 ### Kinetic Signatures: A Systematic Investigation of Movement-Based User Identification in Virtual Reality
-Authors: Stefan Schneegass, Leon Sabel, Uwe Gruenefeld, Patrick Laskowski, Jordan Hoppen, Jonathan Liebers, Florian Rademaker
+Authors: Jonathan Liebers, Patrick Laskowski, Florian Rademaker, Leon Sabel, Jordan Hoppen, Uwe Gruenefeld, Stefan Schneegass
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147796)
 
@@ -105,7 +105,7 @@ Abstract: Behavioral Biometrics in Virtual Reality (VR) enable implicit user ide
 
 
 ### Awareness, Intention, (In)Action: Individuals' Reactions to Data Breaches
-Authors: Florian Schaub, Peter Mayer, Adam Aviv, Khue Le, Hunter Dyer, Yixin Zou, Byron M. Lowens, PhD
+Authors: Peter Mayer, Yixin Zou, Byron M. Lowens, PhD, Hunter Dyer, Khue Le, Florian Schaub, Adam Aviv
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150899)
 
@@ -114,7 +114,7 @@ Abstract: Data breaches are prevalent. We provide novel insights into individual
 
 
 ### Don't Accept All and Continue: Exploring Nudges for More Deliberate Interaction With Tracking Consent Notices
-Authors: Alina Stöver, Verena Zimmermann, Justin Peschke, Nina Gerber
+Authors: Nina Gerber, Alina Stöver, Justin Peschke, Verena Zimmermann
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150877)
 
@@ -127,14 +127,14 @@ Abstract: Legal frameworks rely on users to make an informed decision about data
 ### Computing and the Stigmatized: Trust, Surveillance, and Spatial Politics with the Sex Workers in Bangladesh
 BEST_PAPER
 
-Authors: S M Taiabul Haque, Ayien Utshob Baidya, Syed Ishtiaque Ahmed, Nadira Nowsher, Pratyasha Saha, Nusrat Jahan Mim
+Authors: Pratyasha Saha, Nadira Nowsher, Ayien Utshob Baidya, Nusrat Jahan Mim, Syed Ishtiaque Ahmed, S M Taiabul Haque
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148106)
 
 
 
 ### Lies, Deceit, and Hallucinations: Player Perception and Expectations Regarding Trust and Deception in Games
-Authors: Chuoxi Ng, Michael Yin, Emi Wang, Robert Xiao
+Authors: Michael Yin, Emi Wang, Chuoxi Ng, Robert Xiao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146790)
 
@@ -157,7 +157,7 @@ Authors: Bran Knowles, Stacey Conchie
 ### “I Can’t Believe It’s Not Custodial!”: Usable Trustless Decentralized Key Management
 HONORABLE_MENTION
 
-Authors: Tanusree Sharma, Vivek Nair, Yang Wang, Henry Wang, Dawn Song
+Authors: Tanusree Sharma, Vivek Nair, Henry Wang, Yang Wang, Dawn Song
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147386)
 
@@ -166,7 +166,7 @@ Authors: Tanusree Sharma, Vivek Nair, Yang Wang, Henry Wang, Dawn Song
 
 ## Bodies and Movement in Immersive Realities
 ### ShareYourReality: Investigating Haptic Feedback and Agency in Virtual Avatar Co-embodiment
-Authors: Monica Perusquia-Hernandez, Gijs Huisman, Abdallah El Ali, Wo Meijer, Karthikeya Puttur Venkatraj
+Authors: Karthikeya Puttur Venkatraj, Wo Meijer, Monica Perusquia-Hernandez, Gijs Huisman, Abdallah El Ali
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147264)
 
@@ -175,7 +175,7 @@ Abstract: Virtual co-embodiment enables two users to share a single avatar in Vi
 
 
 ### Process, Roles, Tools, and Team: Understanding the Emerging Medium of Virtual Reality Theatre
-Authors: T.C. Nicholas Graham, Laura Levin, Michaelah Wales, Michael Wheeler, Gabriele Cimolino, Jayna Mees
+Authors: Michaelah Wales, Michael Wheeler, Gabriele Cimolino, Laura Levin, Jayna Mees, T.C. Nicholas Graham
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147875)
 
@@ -184,18 +184,18 @@ Abstract: Virtual reality (VR) theatre artists are combining theatre production 
 
 
 ### TimeTunnel: Integrating Spatial and Temporal Motion Editing for Character Animation in Virtual Reality
-Authors: Qian Zhou, George Fitzmaurice, Fraser Anderson, David Ledo
+Authors: Qian Zhou, David Ledo, George Fitzmaurice, Fraser Anderson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147369)
 
-Abstract: Editing character motion in Virtual Reality is challenging as it requires working with both spatial and temporal data using controls with multiple degrees of freedom. The spatial and temporal controls are separated, making it difficult to adjust poses over time and predict the effects across adjacent frames. To address this challenge, we propose TimeTunnel, an immersive motion editing interface that integrates spatial and temporal control for 3D character animation in VR. TimeTunnel provides an approachable editing experience via KeyPoses and Trajectories. KeyPoses are a set of representative poses automatically computed to concisely depict motion. Trajectories are 3D animation curves that pass through the joints of KeyPoses to represent in-betweens. TimeTunnel integrates spatial and temporal control by superimposing Trajectories and KeyPoses onto a 3D character. We conducted two studies to evaluate TimeTunnel. In our quantitative study, TimeTunnel reduced the amount of time required for editing motion, and saved effort in locating target poses. Our qualitative study with domain experts demonstrated how TimeTunnel is an approachable interface that can simplify motion editing, while still preserving a direct representation of motion.
-
+Abstract: Editing character motion in Virtual Reality is challenging as it requires working with both spatial and temporal data using controls with multiple degrees of freedom. The spatial and temporal controls are separated, making it difficult to adjust poses over time and predict the effects across adjacent frames. To address this challenge, we propose TimeTunnel, an immersive motion editing interface that integrates spatial and temporal control for 3D character animation in VR. TimeTunnel provides an approachable editing experience via KeyPoses and Trajectories. KeyPoses are a set of representative poses automatically computed to concisely depict motion. Trajectories are 3D animation curves that pass through the joints of KeyPoses to represent in-betweens. TimeTunnel integrates spatial and temporal control by superimposing Trajectories and KeyPoses onto a 3D character. We conducted two studies to evaluate TimeTunnel. In our quantitative study, TimeTunnel reduced the amount of time required for editing motion, and saved effort in locating target poses. Our qualitative study with domain experts demonstrated how TimeTunnel is an approachable interface that can simplify motion editing, while still preserving a direct representation of motion.
+
 
 
 
 
 ### A Systematic Review and Meta-analysis of the Effectiveness of Body Ownership Illusions in Virtual Reality
-Authors: Kasper Hornbæk, Guido Makransky, Aske Mottelson, Andreea Muresan
+Authors: Aske Mottelson, Andreea Muresan, Kasper Hornbæk, Guido Makransky
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150754)
 
@@ -208,7 +208,7 @@ Abstract: Body ownership illusions (BOIs) occur when participants experience tha
 ### CHAITok: A Proof-of-Concept System Supporting Children's Sense of Data Autonomy on Social Media
 HONORABLE_MENTION
 
-Authors: Nigel Shadbolt, Ge Wang, Max Van Kleek, Zhilin Zhang, Jun Zhao, Samantha-Kaye Johnston
+Authors: Ge Wang, Jun Zhao, Samantha-Kaye Johnston, Zhilin Zhang, Max Van Kleek, Nigel Shadbolt
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147781)
 
@@ -217,14 +217,14 @@ Authors: Nigel Shadbolt, Ge Wang, Max Van Kleek, Zhilin Zhang, Jun Zhao, Samanth
 ### "It's Not a Replacement:'' Enabling Parent-Robot Collaboration to Support In-Home Learning Experiences of Young Children
 HONORABLE_MENTION
 
-Authors: Edward Hubbard, Bilge Mutlu, Hui-Ru Ho
+Authors: Hui-Ru Ho, Edward Hubbard, Bilge Mutlu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147068)
 
 
 
 ### Cuddling Up With a Print-Braille Book: How Intimacy and Access Shape Parents' Reading Practices with Children
-Authors: Emory Edwards, Jin Seo Kim, Stacy Branham, Sohyeon Park, Cameron Cassidy, Isabela Figueira
+Authors: Cameron Cassidy, Isabela Figueira, Sohyeon Park, Jin Seo Kim, Emory Edwards, Stacy Branham
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146954)
 
@@ -233,7 +233,7 @@ Authors: Emory Edwards, Jin Seo Kim, Stacy Branham, Sohyeon Park, Cameron Cassid
 ### “It looks useful, works just fine, but will it replace me ?" Understanding Special Educators’ Perception of Social Robots for Autism Care in India
 HONORABLE_MENTION
 
-Authors: B Ashwini, Venkata Ratnadeep Suri, Krishnaveni Achary, Jainendra Shukla, ATMADEEP GHOSHAL
+Authors: B Ashwini, ATMADEEP GHOSHAL, Venkata Ratnadeep Suri, Krishnaveni Achary, Jainendra Shukla
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147134)
 
@@ -242,7 +242,7 @@ Authors: B Ashwini, Venkata Ratnadeep Suri, Krishnaveni Achary, Jainendra Shukla
 
 ## Communication and Collaboration
 ### Understanding Entrainment in Human Groups: Optimising Human-Robot Collaboration from Lessons Learned during Human-Human Collaboration
-Authors: Stanley Celestin, Julie Shah, Eike Schneiders, Malte Jung, Christopher Fourie
+Authors: Eike Schneiders, Christopher Fourie, Stanley Celestin, Julie Shah, Malte Jung
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147674)
 
@@ -251,7 +251,7 @@ Abstract: Successful entrainment during collaboration positively affects trust, 
 
 
 ### Investigating the Potential of Group Recommendation Systems As a Medium of Social Interactions: A Case of Spotify Blend Experiences between Two Users
-Authors: Soobin Park, Hankyung Kim, Daehyun Kwak, Youn-kyung Lim, Inha Cha
+Authors: Daehyun Kwak, Soobin Park, Inha Cha, Hankyung Kim, Youn-kyung Lim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147752)
 
@@ -262,7 +262,7 @@ Abstract: Designing user experiences for group recommendation systems (GRS) is c
 ### Mitigating Barriers to Public Social Interaction with Meronymous Communication
 BEST_PAPER
 
-Authors: Nouran Soliman, Matt Latzke, Hyeonsu Kang, David Karger, Joseph Chee Chang, Jonathan Bragg, Amy Zhang
+Authors: Nouran Soliman, Hyeonsu Kang, Matt Latzke, Jonathan Bragg, Joseph Chee Chang, Amy Zhang, David Karger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147447)
 
@@ -271,7 +271,7 @@ Abstract: In communities with social hierarchies, fear of judgment can discourag
 
 
 ### Examining Voice Community Use
-Authors: Robin Brewer, Manahil Hashmi, Pooja Upadhyay, Sam Ankenbauer
+Authors: Robin Brewer, Sam Ankenbauer, Manahil Hashmi, Pooja Upadhyay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150925)
 
@@ -280,18 +280,18 @@ Abstract: Visual online communities can present accessibility challenges to olde
 
 
 ### Engaged and Affective Virtual Agents: Their Impact on Social Presence, Trustworthiness, and Decision-Making in the Group Discussion
-Authors: Hanseob Kim, MUHAMMAD FIRDAUS LUBIS, Jae-In Hwang, Jieun Kim, Gerard Kim, Bin Han
+Authors: Hanseob Kim, Bin Han, Jieun Kim, MUHAMMAD FIRDAUS LUBIS, Gerard Kim, Jae-In Hwang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147980)
 
-Abstract: This study investigates how different virtual agent (VA) behaviors influence subjects' perceptions and group decision-making.
-Participants carried out 
-experimental group discussions with a VA exhibiting varying levels of engagement and affective behavior.
-Engagement refers to the VA's focus on the group task, whereas affective behavior reflects the VA's emotional state.
-The findings revealed that VA's engagements effectively captured participants' attention even in the group setting and enhanced group synergy, thereby facilitating more in-depth discussion and producing better consensus.
-On the other hand, VA's affective behavior negatively affected the
-perceived social presence and trustworthiness. Consequently, 
-in the context of group discussion, participants preferred the engaged and non-affective VA to the non-engaged and affective VA.
+Abstract: This study investigates how different virtual agent (VA) behaviors influence subjects' perceptions and group decision-making.
+Participants carried out 
+experimental group discussions with a VA exhibiting varying levels of engagement and affective behavior.
+Engagement refers to the VA's focus on the group task, whereas affective behavior reflects the VA's emotional state.
+The findings revealed that VA's engagements effectively captured participants' attention even in the group setting and enhanced group synergy, thereby facilitating more in-depth discussion and producing better consensus.
+On the other hand, VA's affective behavior negatively affected the
+perceived social presence and trustworthiness. Consequently, 
+in the context of group discussion, participants preferred the engaged and non-affective VA to the non-engaged and affective VA.
 The study provides valuable insights for improving the VA's behavioral design as a team member for collaborative tasks.
 
 
@@ -299,21 +299,21 @@ The study provides valuable insights for improving the VA's behavioral design as
 
 ## Emotions and User Experience
 ### EmoWear: Exploring Emotional Teasers for Voice Message Interaction on Smartwatches
-Authors: Zibo Zhang, Qingyuan Ma, Jiawen Zhu, Linghao Du, Che Yan, Jian Zhao, Pengcheng An, Yifei Yin
+Authors: Pengcheng An, Jiawen Zhu, Zibo Zhang, Yifei Yin, Qingyuan Ma, Che Yan, Linghao Du, Jian Zhao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147276)
 
 
 
 ### ReactGenie: A Development Framework for Complex Multimodal Interactions Using Large Language Models
-Authors: Yuhan Zhang, Tianshi Li, Daniel Wan Rosli, Monica Lam, Yingtian Shi, James Landay, Karina Li, Jackie Yang, Shuning Zhang, Anisha Jain
+Authors: Jackie Yang, Karina Li, Daniel Wan Rosli, Shuning Zhang, Yuhan Zhang, Yingtian Shi, Anisha Jain, Tianshi Li, Monica Lam, James Landay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147488)
 
 
 
 ### Investigating the Effects of Self-selected Pleasant Scents on Text Composition and Transcription Performance
-Authors: Wendy Haw, Kianna Ng, Yuan Ren, Ahmed Arif
+Authors: Wendy Haw, Yuan Ren, Kianna Ng, Ahmed Arif
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147458)
 
@@ -327,7 +327,7 @@ Authors: Matthew Lakier, Daniel Vogel
 
 
 ### Frustration: Still a Common User Experience
-Authors: Kasper Hornbæk, Morten Hertzum
+Authors: Morten Hertzum, Kasper Hornbæk
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150750)
 
@@ -336,35 +336,35 @@ Authors: Kasper Hornbæk, Morten Hertzum
 
 ## Environmental Activism
 ### Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-driven Text-based Adventure
-Authors: Jussi Holopainen, Qinshi Zhang, Latisha Besariani Hendra, Suifang Zhou, Pengfei Zhou, RAY LC
+Authors: Qinshi Zhang, Latisha Besariani Hendra, Suifang Zhou, Pengfei Zhou, Jussi Holopainen, RAY LC
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147145)
 
 
 
 ### Technical Mentality: Principles for HCI Research and Practice
-Authors: Nadya Peek, Gabrielle Benabdallah
+Authors: Gabrielle Benabdallah, Nadya Peek
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148115)
 
 
 
 ### Promoting Eco-Friendly Behaviour through Virtual Reality - Implementation and Evaluation of Immersive Feedback Conditions of a Virtual CO2 Calculator
-Authors: Stephanie Vogt, Nina Döllinger, Carolin Wienrich, David Obremski
+Authors: Carolin Wienrich, Stephanie Vogt, Nina Döllinger, David Obremski
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148025)
 
 
 
 ### From Surplus and Scarcity towards Abundance: Understanding the Use of ICT in Food Resource Sharing Practices
-Authors: Volker Wulf, Dave Randall, Gunnar Stevens, Philip Engelbutzeder, Marvin Landwehr, Konstantin Aal
+Authors: Philip Engelbutzeder, Dave Randall, Marvin Landwehr, Konstantin Aal, Gunnar Stevens, Volker Wulf
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150852)
 
 
 
 ### Post-growth Human–Computer Interaction
-Authors: Neha Kumar, Bonnie Nardi, Vishal Sharma
+Authors: Vishal Sharma, Neha Kumar, Bonnie Nardi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150905)
 
@@ -375,7 +375,7 @@ Authors: Neha Kumar, Bonnie Nardi, Vishal Sharma
 ### Towards AI-Driven Healthcare: Systematic Optimization, Linguistic Analysis, and Clinicians’ Evaluation of Large Language Models for Smoking Cessation Interventions
 HONORABLE_MENTION
 
-Authors: Emily Hébert, Michael Businelle, Chongle Pan, Darla Kendzor, Ruosi Shao, Jordan Neil, Yunlong Liu, Paul Calle
+Authors: Paul Calle, Ruosi Shao, Yunlong Liu, Emily Hébert, Darla Kendzor, Jordan Neil, Michael Businelle, Chongle Pan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147450)
 
@@ -384,28 +384,28 @@ Authors: Emily Hébert, Michael Businelle, Chongle Pan, Darla Kendzor, Ruosi Sha
 ### PsiNet: Toward Understanding the Design of Brain-to-Brain Interfaces for Augmenting Inter-Brain Synchrony
 BEST_PAPER
 
-Authors: Florian Mueller, Don Samitha Elvitigala, Nathan Semertzidis, Michaela Vranic-Peters, Aryan Saini, Xiao Fang, Rakesh Patibanda
+Authors: Nathan Semertzidis, Michaela Vranic-Peters, Xiao Fang, Rakesh Patibanda, Aryan Saini, Don Samitha Elvitigala, Florian Mueller
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146996)
 
 
 
 ### Societal-Scale Human-AI Interaction Design? How Hospitals and Companies are Integrating Pervasive Sensing into Mental Healthcare
-Authors: Qian Yang, Meir Friedenberg, Angel Hsing-Chi Hwang, Dan Adler
+Authors: Angel Hsing-Chi Hwang, Dan Adler, Meir Friedenberg, Qian Yang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148145)
 
 
 
 ### Clinician-Facing AI in the Wild: Taking Stock of the Sociotechnical Challenges and Opportunities for HCI
-Authors: Tariq Andersen, Xiang Dai, Dana Li, Hubert Zając, Jonathan Frederik Carlsen, Finn Kensing
+Authors: Hubert Zając, Dana Li, Xiang Dai, Jonathan Frederik Carlsen, Finn Kensing, Tariq Andersen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150869)
 
 
 
 ### “We are Researchers, but we are also Humans”: Creating a Design Space for Managing Graduate Student Stress
-Authors: Stephen Voida, Fujiko Robledo Yamamoto, Amy Voida
+Authors: Fujiko Robledo Yamamoto, Amy Voida, Stephen Voida
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150823)
 
@@ -423,7 +423,7 @@ Abstract: Hybridity in immersive technologies has not been studied for factors t
 
 
 ### Visual Noise Cancellation: Exploring Visual Discomfort and Opportunities for Vision Augmentations
-Authors: Jonathan Sutton, Tobias Langlotz, Holger Regenbrecht, Junlei Hong
+Authors: Junlei Hong, Tobias Langlotz, Jonathan Sutton, Holger Regenbrecht
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150772)
 
@@ -432,7 +432,7 @@ Abstract: Acoustic noise control or cancellation (ANC) is a commonplace componen
 
 
 ### \textit{Cohabitant}: The Design, Implementation, and Evaluation of a Virtual Reality Application for Interfaith Learning and Empathy Building
-Authors: Hasan Shahid Ferdous, Mohammad Rashidujjaman Rifat, Dina Sabie, Syed Ishtiaque Ahmed, Reem Ayad, Robert Soden, Bingjian Huang, Selin Okman, Ashratuz Zavin Asha
+Authors: Mohammad Rashidujjaman Rifat, Reem Ayad, Ashratuz Zavin Asha, Bingjian Huang, Selin Okman, Dina Sabie, Hasan Shahid Ferdous, Robert Soden, Syed Ishtiaque Ahmed
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147831)
 
@@ -441,7 +441,7 @@ Abstract: Lack of interfaith communication often gives rise to prejudice and gro
 
 
 ### Navigating the Virtual Gaze: Social Anxiety's Role in VR proxemics
-Authors: Pascal Knierim, Marissa Verbokkem, Beatriz Mello, Martin Dechant, Robin Welsch
+Authors: Beatriz Mello, Robin Welsch, Marissa Verbokkem, Pascal Knierim, Martin Dechant
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148238)
 
@@ -452,7 +452,7 @@ Abstract: For individuals with Social Anxiety (SA), interacting with others can 
 
 ## Assistive Interactions: Audio Interactions and d/Deaf and Hard of Hearing Users
 ### Audio Engineering by People Who Are deaf and Hard of Hearing: Balancing Confidence and Limitations
-Authors: Mark Cartwright, Keita Ohshiro
+Authors: Keita Ohshiro, Mark Cartwright
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146895)
 
@@ -461,21 +461,21 @@ Authors: Mark Cartwright, Keita Ohshiro
 ### Look Once to Hear: Target Speech Hearing with Noisy Examples
 HONORABLE_MENTION
 
-Authors: Bandhav Veluri, Takuya Yoshioka, Shyamnath Gollakota, Malek Itani, Tuochao Chen
+Authors: Bandhav Veluri, Malek Itani, Tuochao Chen, Takuya Yoshioka, Shyamnath Gollakota
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147319)
 
 
 
 ### Communication, Collaboration, and Coordination in a Co-located Shared Augmented Reality Game: Perspectives From Deaf and Hard of Hearing People
-Authors: Nicolas LaLone, Garreth Tigwell, Samuli Laato, Jiangnan Xu, Michael Saker, Sanzida Mojib Luna, John Dunham, Alan Chamberlain, Yihong Wang, Konstantinos Papangelis
+Authors: Sanzida Mojib Luna, Jiangnan Xu, Konstantinos Papangelis, Garreth Tigwell, Nicolas LaLone, Michael Saker, Alan Chamberlain, Samuli Laato, John Dunham, Yihong Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147649)
 
 
 
 ### "Voices Help Correlate Signs and Words": Analyzing Deaf and Hard-of-Hearing (DHH) TikTokers’ Content, Practices, and Pitfalls
-Authors: Jiaxun Cao, Fan Liang, Xin Tong, Xuening Peng
+Authors: Jiaxun Cao, Xuening Peng, Fan Liang, Xin Tong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148325)
 
@@ -484,7 +484,7 @@ Authors: Jiaxun Cao, Fan Liang, Xin Tong, Xuening Peng
 
 ## Online Toxicity
 ### Counterspeakers’ Perspectives: Unveiling Barriers and AI Needs in the Fight against Online Hate
-Authors: Jimin Mun, Cathy Buerger, Joshua Garland, Maarten Sap, Jenny Liang
+Authors: Jimin Mun, Cathy Buerger, Jenny Liang, Joshua Garland, Maarten Sap
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147002)
 
@@ -498,21 +498,21 @@ Authors: Sharon Heung, Lucy Jiang, Shiri Azenkot, Aditya Vashistha
 
 
 ### "It’s Not What We Were Trying to Get At, but I Think Maybe It Should Be": Learning How to Do Trauma-Informed Design With a Data Donation Platform for Online Dating Sexual Violence
-Authors: Michele Parkhill, Emma Walquist, Isha Datey, Dongxiao Zhu, Douglas Zytko, Xiangyu Zhou, Kelly Berishaj, Melissa McDonald, Wenqi Zheng
+Authors: Wenqi Zheng, Emma Walquist, Isha Datey, Xiangyu Zhou, Kelly Berishaj, Melissa McDonald, Michele Parkhill, Dongxiao Zhu, Douglas Zytko
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147295)
 
 
 
 ### "I Got Flagged for Supposed Bullying, Even Though It Was in Response to Someone Harassing Me About My Disability.": A Study of Blind TikTokers’ Content Moderation Experiences
-Authors: Kelley Cotter, Anisa Callis, Yao Lyu, Jie Cai, John Carroll
+Authors: Yao Lyu, Jie Cai, Anisa Callis, Kelley Cotter, John Carroll
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146733)
 
 
 
 ### Malicious Selling Strategies in Livestream E-commerce: A Case Study of Alibaba’s Taobao and ByteDance’s TikTok
-Authors: Zhicong Lu, Dakuo Wang, Qunfang Wu, Yisi Sang
+Authors: Qunfang Wu, Yisi Sang, Dakuo Wang, Zhicong Lu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150847)
 
@@ -535,21 +535,21 @@ Authors: Ling Jiang, Christian Wagner
 
 
 ### LabelAId: Just-in-time AI Interventions for Improving Human Labeling Quality and Domain Knowledge in Crowdsourcing Systems
-Authors: Zhihan Zhang, Michael Saugstad, Tim Althoff, Jon Froehlich, Vikram Iyer, Xiaoyu Huang, Esteban Safranchik, Chaitanyashareef Kulkarni, Chu Li, Shwetak Patel
+Authors: Chu Li, Zhihan Zhang, Esteban Safranchik, Michael Saugstad, Chaitanyashareef Kulkarni, Xiaoyu Huang, Shwetak Patel, Vikram Iyer, Tim Althoff, Jon Froehlich
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147498)
 
 
 
 ### How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries
-Authors: Jamila Smith-Loud, Patrick Kelley, Allison Woodruff, Renee Shelby, Lauren Wilcox, Steven Rousso-Schindler
+Authors: Allison Woodruff, Renee Shelby, Patrick Kelley, Steven Rousso-Schindler, Jamila Smith-Loud, Lauren Wilcox
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147564)
 
 
 
 ### “Sometimes it’s Like Putting the Track in Front of the Rushing Train”: Having to Be ‘On Call’ for Work Limits the Temporal Flexibility of Crowdworkers
-Authors: Duncan Brumby, Anna Cox, Sandy Gould, Laura Lascau
+Authors: Laura Lascau, Duncan Brumby, Sandy Gould, Anna Cox
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150655)
 
@@ -558,21 +558,21 @@ Authors: Duncan Brumby, Anna Cox, Sandy Gould, Laura Lascau
 
 ## Mid-air Haptics
 ### Designing Distinguishable Mid-Air Ultrasound Tactons with Temporal Parameters
-Authors: Gunhyuk Park, Hasti Seifi, Chungman Lim
+Authors: Chungman Lim, Gunhyuk Park, Hasti Seifi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147761)
 
 
 
 ### Controlled-STM: A two-stage model to predict user’s Perceived Intensity for Multi-point Spatiotemporal Modulation in Ultrasonic Mid-air Haptics
-Authors: Zhouyang Shen, Madhan Kumar Vasudevan, Diego Martinez Plasencia, Zak Morgan, Marianna Obrist
+Authors: Zhouyang Shen, Zak Morgan, Madhan Kumar Vasudevan, Marianna Obrist, Diego Martinez Plasencia
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147738)
 
 
 
 ### Designing Haptic Feedback for Sequential Gestural Inputs
-Authors: Shan Xu, Tovi Grossman, Carine Rognon, Daylon Walden, Sarah Sykes, Michael Glueck, Parastoo Abtahi
+Authors: Shan Xu, Sarah Sykes, Parastoo Abtahi, Tovi Grossman, Daylon Walden, Michael Glueck, Carine Rognon
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147360)
 
@@ -588,7 +588,7 @@ Authors: Vivian Shen, Chris Harrison, Craig Shultz
 
 ## Workers, Work Practices and AI
 ### The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communication
-Authors: Christin Munsch, Kowe Kadoma, Xiyu Fu, Marianne Aubin Le Quere, Danaë Metaxa, Mor Naaman
+Authors: Kowe Kadoma, Marianne Aubin Le Quere, Xiyu Fu, Christin Munsch, Danaë Metaxa, Mor Naaman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147700)
 
@@ -597,7 +597,7 @@ Abstract: Given large language models' (LLMs) increasing integration into workpl
 
 
 ### “There is a Job Prepared for Me Here”: Understanding How Short Video and Live-streaming Platforms Empower Ageing Job Seekers in China
-Authors: Bo Wen, PiaoHong Wang, Zhicong Lu, Siying Hu
+Authors: PiaoHong Wang, Siying Hu, Bo Wen, Zhicong Lu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147237)
 
@@ -606,7 +606,7 @@ Abstract: In recent years, the global unemployment rate has remained persistentl
 
 
 ### Deconstructing the Veneer of Simplicity: Co-Designing Introductory Generative AI Workshops with Local Entrepreneurs
-Authors: Glenn Ford, Michael Skirpan, Jeffrey Bigham, Angel Anderson, Yasmine Kotturi
+Authors: Yasmine Kotturi, Angel Anderson, Glenn Ford, Michael Skirpan, Jeffrey Bigham
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147681)
 
@@ -615,7 +615,7 @@ Abstract: Generative AI platforms and features are permeating many aspects of wo
 
 
 ### How Do Data Analysts Respond to AI Assistance? A Wizard-of-Oz Study
-Authors: Tim Althoff, Jeffrey Heer, Madeleine Grunde-McLaughlin, Ken Gu, Andrew McNutt
+Authors: Ken Gu, Madeleine Grunde-McLaughlin, Andrew McNutt, Jeffrey Heer, Tim Althoff
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146787)
 
@@ -642,14 +642,14 @@ Authors: Hee Rin Lee
 
 
 ### Designing Instructions using Self-Determination Theory to Improve Motivation and Engagement for Learning Craft
-Authors: Carsten Röcker, Gustavo Rovelo Ruiz, Hitesh Dhiman, Danny Leen, Raf Ramakers
+Authors: Hitesh Dhiman, Gustavo Rovelo Ruiz, Raf Ramakers, Danny Leen, Carsten Röcker
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147763)
 
 
 
 ### Learning from Hybrid Craft: Investigating and Reflecting on Innovating and Enlivening Traditional Craft through Literature Review
-Authors: Li Huang, Guanhong Liu, Yuting Diao, Qingyuan Shi, Tianyu Yu, Zhijun Ma, Yuan Yao, Beituo Liu, Yuan-Ling Feng
+Authors: Guanhong Liu, Qingyuan Shi, Yuan Yao, Yuan-Ling Feng, Tianyu Yu, Beituo Liu, Zhijun Ma, Li Huang, Yuting Diao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147895)
 
@@ -658,14 +658,14 @@ Authors: Li Huang, Guanhong Liu, Yuting Diao, Qingyuan Shi, Tianyu Yu, Zhijun Ma
 ### SharedNeRF: Leveraging Photorealistic and View-dependent Rendering for Real-time and Remote Collaboration
 HONORABLE_MENTION
 
-Authors: Bala Kumaravel, Andrew Wilson, Mose Sakashita, Nicolai Marquardt
+Authors: Mose Sakashita, Bala Kumaravel, Nicolai Marquardt, Andrew Wilson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147720)
 
 
 
 ### Lessons Learnt from a Multimodal Learning Analytics Deployment In-the-wild
-Authors: Simon Buckingham Shum, Roberto Martinez-Maldonado, Lixiang Yan, Vanessa Echeverria, Dragan Gasevic, Samantha Dix, Gloria Fernandez-Nieto, Hollie Jaggard, Rosie Wotherspoon, Linxuan Zhao, Riordan Alfredo, Abra Osborne, Xinyu Li
+Authors: Roberto Martinez-Maldonado, Vanessa Echeverria, Gloria Fernandez-Nieto, Lixiang Yan, Linxuan Zhao, Riordan Alfredo, Xinyu Li, Samantha Dix, Hollie Jaggard, Rosie Wotherspoon, Abra Osborne, Simon Buckingham Shum, Dragan Gasevic
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150775)
 
@@ -674,7 +674,7 @@ Authors: Simon Buckingham Shum, Roberto Martinez-Maldonado, Lixiang Yan, Vanessa
 
 ## Better Future Worlds and AI
 ### How Culture Shapes What People Want From AI
-Authors: Hazel Rose Markus, Daigo Misaki, Chunchen Xu, Xiao Ge, Jeanne L. Tsai
+Authors: Xiao Ge, Chunchen Xu, Daigo Misaki, Hazel Rose Markus, Jeanne L. Tsai
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148201)
 
@@ -683,7 +683,7 @@ Abstract: There is an urgent need to incorporate the perspectives of culturally 
 
 
 ### Charting the Future of AI in Project-Based Learning: A Co-Design Exploration with Students
-Authors: Kangyu Yuan, Shuai Ma, Reza Hadi Mogavi, Zhenhui Peng, Chengbo Zheng, Xiaojuan Ma, Bingcan Guo
+Authors: Chengbo Zheng, Kangyu Yuan, Bingcan Guo, Reza Hadi Mogavi, Zhenhui Peng, Shuai Ma, Xiaojuan Ma
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147096)
 
@@ -692,7 +692,7 @@ Abstract: Students' increasing use of Artificial Intelligence (AI) presents new 
 
 
 ### Socio-technical Imaginaries: Envisioning and Understanding AI Parenting Supports through Design Fiction
-Authors: Petr Slovak, Melina Petsolari, Seray Ibrahim
+Authors: Melina Petsolari, Seray Ibrahim, Petr Slovak
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147338)
 
@@ -701,7 +701,7 @@ Abstract: How might emerging modalities (e.g., NLP) be leveraged to transform th
 
 
 ### MindTalker: Navigating the Complexities of AI-Enhanced Social Engagement for People with Early-Stage Dementia
-Authors: Anna Xygkou, Chee Siang Ang, Alexandra Covaci, Jonasz Kopecki, Wan-Jou She, Eiman Kanjo, Panote Siriaraya
+Authors: Anna Xygkou, Chee Siang Ang, Panote Siriaraya, Jonasz Kopecki, Alexandra Covaci, Eiman Kanjo, Wan-Jou She
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146659)
 
@@ -719,14 +719,14 @@ Authors: Yuning Chen, Larissa Pschetz
 
 
 ### PaleoScan: Low-Cost Easy-to-Use High-Volume Fossil Scanning
-Authors: Yurii Piadyk, Akinobu Watanabe, Renan Alfredo Machado Bantim, Naiara Cipriano Oliveira, Otavio Gomes, Antonio Alamo Feitosa Saraiva, Maria Beatriz Silva, João Rulff, Flaviana Jorge de Lima, Daniele Panozzo, Claudio Silva
+Authors: Claudio Silva, Yurii Piadyk, João Rulff, Daniele Panozzo, Maria Beatriz Silva, Antonio Alamo Feitosa Saraiva, Naiara Cipriano Oliveira, Flaviana Jorge de Lima, Renan Alfredo Machado Bantim, Otavio Gomes, Akinobu Watanabe
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147092)
 
 
 
 ### Go-Go Biome: Evaluation of a Casual Game for Gut Health Engagement and Reflection
-Authors: Elise van den Hoven, Jessica Danaher, Nandini Pasumarthy, Shreyas Nisal, Rohit Ashok Khot
+Authors: Nandini Pasumarthy, Shreyas Nisal, Jessica Danaher, Elise van den Hoven, Rohit Ashok Khot
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147393)
 
@@ -735,7 +735,7 @@ Authors: Elise van den Hoven, Jessica Danaher, Nandini Pasumarthy, Shreyas Nisal
 ### (Re)activate, (Re)direct, (Re)arrange: Exploring the Design Space of Direct Interactions with Flavobacteria
 HONORABLE_MENTION
 
-Authors: Holly McQuillan, Elvin Karana, Joana Martins, Clarice Risseeuw
+Authors: Clarice Risseeuw, Holly McQuillan, Joana Martins, Elvin Karana
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148167)
 
@@ -744,35 +744,35 @@ Authors: Holly McQuillan, Elvin Karana, Joana Martins, Clarice Risseeuw
 
 ## Wellbeing and Mental Health A
 ### On Stress: Combining Human Factors and Biosignals to Inform the Placement and Design of a Skin-like Stress Sensor
-Authors: Yasser Khan, Megan Chesnut, Jinxing Li, Pablo Paredes Castro, Zhenan Bao, Akshara Motani, Dalton Duvio, Leanne Williams, James Landay, Amir Foudeh, Jayoung Kim, Keith D. Sudheimer, Matthew Mauriello, Parsa Nowruzi, Jan Liphardt, Boris Murmann, Nicholas Vitale, Erika Shols, Grace Hon
+Authors: Yasser Khan, Matthew Mauriello, Parsa Nowruzi, Akshara Motani, Grace Hon, Nicholas Vitale, Jinxing Li, Jayoung Kim, Amir Foudeh, Dalton Duvio, Erika Shols, Megan Chesnut, James Landay, Jan Liphardt, Leanne Williams, Keith D. Sudheimer, Boris Murmann, Zhenan Bao, Pablo Paredes Castro
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147821)
 
 
 
 ### Reading Between the Lines: Identifying the Linguistic Markers of Anhedonia for the Stratification of Depression
-Authors: Bridianne O'Dea, Mark E Larsen, Taylor Braund, Philip J Batterham, Nick Glozier, Alexis E Whitton
+Authors: Bridianne O'Dea, Taylor Braund, Philip J Batterham, Mark E Larsen, Nick Glozier, Alexis E Whitton
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147595)
 
 
 
 ### "Waves Push Me to Slumberland": Reducing Pre-Sleep Stress through Spatio-Temporal Tactile Displaying of Music.
-Authors: Jianwei Zhang, Wanyi Wei, Huafeng Shan, Ruixiao Zheng, Shirao Yang, Hui Zhang
+Authors: Hui Zhang, Ruixiao Zheng, Shirao Yang, Wanyi Wei, Huafeng Shan, Jianwei Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146869)
 
 
 
 ### MoodCapture: Depression Detection using In-the-Wild Smartphone Images
-Authors: Shayan Mirjafari, Amanda Collins, Weichen Wang, Matthew Nemesure, Nicholas Jacobson, Michael Heinz, Damien Lekkas, Andrew Campbell, Tess Griffin, George Price, Subigya Nepal, Arvind Pillai
+Authors: Subigya Nepal, Arvind Pillai, Weichen Wang, Tess Griffin, Amanda Collins, Michael Heinz, Damien Lekkas, Shayan Mirjafari, Matthew Nemesure, George Price, Nicholas Jacobson, Andrew Campbell
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148165)
 
 
 
 ### Patient Acceptance of Self-Monitoring on a Smartwatch in a Routine Digital Therapy: A Mixed-Methods Study
-Authors: Gavin Doherty, Corina Sas, Derek Richards, Caroline Earley, Camille Nadal, Angel Enrique
+Authors: Camille Nadal, Caroline Earley, Angel Enrique, Corina Sas, Derek Richards, Gavin Doherty
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150631)
 
@@ -781,35 +781,35 @@ Authors: Gavin Doherty, Corina Sas, Derek Richards, Caroline Earley, Camille Nad
 
 ## Algorithmic Trust and Censorship
 ### Dealing with Uncertainty: Understanding the Impact of Prognostic Versus Diagnostic Tasks on Trust and Reliance in Human-AI Decision Making
-Authors: Gaole He, Ujwal Gadiraju, Sara Salimzadeh
+Authors: Sara Salimzadeh, Gaole He, Ujwal Gadiraju
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147300)
 
 
 
 ### Impact of Model Interpretability and Outcome Feedback on Trust in AI
-Authors: Daehwan Ahn, Abdullah Almaatouq, Kartik Hosanagar, Monisha Gulabani
+Authors: Daehwan Ahn, Abdullah Almaatouq, Monisha Gulabani, Kartik Hosanagar
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147213)
 
 
 
 ### Exposed or Erased: Algorithmic Censorship of Nudity in Art
-Authors: Thomas Hofmann, Nuria Oliver, Piera Riccio
+Authors: Piera Riccio, Thomas Hofmann, Nuria Oliver
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148324)
 
 
 
 ### Trust in AI-assisted Decision Making: Perspectives from Those Behind the System and Those for Whom the Decision is Made
-Authors: Oleksandra Vereschak, Gilles Bailly, Baptiste Caramiaux, Fatemeh Alizadeh
+Authors: Oleksandra Vereschak, Fatemeh Alizadeh, Gilles Bailly, Baptiste Caramiaux
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147306)
 
 
 
 ### Understanding Public Perceptions of AI Conversational Agents: A Cross-Cultural Analysis
-Authors: Anfan Chen, Zihan Liu, Renwen Zhang, Han Li, YI-CHIEH LEE
+Authors: Zihan Liu, Han Li, Anfan Chen, Renwen Zhang, YI-CHIEH LEE
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148182)
 
@@ -818,35 +818,35 @@ Authors: Anfan Chen, Zihan Liu, Renwen Zhang, Han Li, YI-CHIEH LEE
 
 ## Chronic Conditions B
 ### Charting the COVID Long Haul Experience - A Longitudinal Exploration of Symptoms, Activity, and Clinical Adherence
-Authors: Fen Lei Chang, Shaan Chopra, Fayika Farhat Nova, Shion Guha, Taha Liaqat, Jeanne Carroll, Tammy Toscos, Jessica Pater, Juliette Zaccour
+Authors: Jessica Pater, Shaan Chopra, Jeanne Carroll, Juliette Zaccour, Taha Liaqat, Fayika Farhat Nova, Tammy Toscos, Shion Guha, Fen Lei Chang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147234)
 
 
 
 ### Designing online peer support for parents of adolescents at risk of mental health challenges
-Authors: Marie B H Yap, Jue Xie, Dharshani Chandrasekara, Patrick Olivier, Roisin McNaney, Joshua Paolo Seguin, Ling Wu, Mairead Cardamone-Breen, Tom Bartindale
+Authors: Ling Wu, Joshua Paolo Seguin, Dharshani Chandrasekara, Mairead Cardamone-Breen, Jue Xie, Roisin McNaney, Tom Bartindale, Patrick Olivier, Marie B H Yap
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147515)
 
 
 
 ### Co-designing Customizable Clinical Dashboards with Multidisciplinary Teams: Bridging the Gap in Chronic Disease Care
-Authors: Daniela Guerreiro, Diana Miranda, Tiago Reis, Margarida Móteiro, Alexandra Braz, Tiago Guerreiro, Filipa Pona-Ferreira, Rita Miranda, Rita Cardoso, Joana Ramalho, Mariana Leitão, Élia Decoroso, Diogo Branco, Joaquim J Ferreira, Verónica Caniça, Raquel Bouça-Machado, Joana Malheiro, Filipa Rato
+Authors: Diogo Branco, Margarida Móteiro, Raquel Bouça-Machado, Rita Miranda, Tiago Reis, Élia Decoroso, Rita Cardoso, Joana Ramalho, Filipa Rato, Joana Malheiro, Diana Miranda, Verónica Caniça, Filipa Pona-Ferreira, Daniela Guerreiro, Mariana Leitão, Alexandra Braz, Joaquim J Ferreira, Tiago Guerreiro
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147322)
 
 
 
 ### Platforming PCOS Treatment Online: FemTech Logics of Care 
-Authors: Preeti Mudliar, Taru Jain
+Authors: Taru Jain, Preeti Mudliar
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146795)
 
 
 
 ### “Is it Even Giving the Correct Reading or Not?”: How Trust and Relationships Mediate Blood Pressure Management in India
-Authors: Mohit Jain, Indrani Medhi Thies, Nimisha Karnatak, Odeline Mateu-Silvernail, William Thies, Brooke Loughrin, Tiffany Kuo
+Authors: Nimisha Karnatak, Brooke Loughrin, Tiffany Kuo, Odeline Mateu-Silvernail, Indrani Medhi Thies, William Thies, Mohit Jain
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150874)
 
@@ -857,14 +857,14 @@ Authors: Mohit Jain, Indrani Medhi Thies, Nimisha Karnatak, Odeline Mateu-Silver
 ### Apple’s Knowledge Navigator: Why Doesn’t that Conversational Agent Exist Yet?
 HONORABLE_MENTION
 
-Authors: Stephen Gilbert, Maddie Sells, Arthur Perron, Mohammadamin Sanaei, Hila Sabouni, Amanda Newendorp, Katherine Nelson, Michael Dorneich, Nikoo Javadpour
+Authors: Amanda Newendorp, Mohammadamin Sanaei, Arthur Perron, Hila Sabouni, Nikoo Javadpour, Maddie Sells, Katherine Nelson, Michael Dorneich, Stephen Gilbert
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147981)
 
 
 
 ### Towards Designing a Question-Answering Chatbot for Online News: Understanding Questions and Perspectives
-Authors: Ayman Mahfuz, Md Naimul Hoque, Mayukha Kindi, Naeemul Hassan
+Authors: Md Naimul Hoque, Ayman Mahfuz, Mayukha Kindi, Naeemul Hassan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147565)
 
@@ -873,21 +873,21 @@ Authors: Ayman Mahfuz, Md Naimul Hoque, Mayukha Kindi, Naeemul Hassan
 ### Cooking With Agents: Designing Context-aware Voice Interaction
 BEST_PAPER
 
-Authors: Sabrina Zhong, Iona Gessinger, Duncan Brumby, Donald McMillan, Benjamin Cowan, Razan Jaber, Aida Hosseini, Sanna Kuoppamäki
+Authors: Razan Jaber, Sabrina Zhong, Sanna Kuoppamäki, Aida Hosseini, Iona Gessinger, Duncan Brumby, Benjamin Cowan, Donald McMillan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147273)
 
 
 
 ### "It's a Fair Game", or Is It? Examining How Users Navigate Disclosure Risks and Benefits When Using LLM-Based Conversational Agents
-Authors: Bingsheng Yao, Michelle Jia, Zhiping Zhang, Tianshi Li, Hao-Ping (Hank) Lee, Sauvik Das, Ada Lerner, Dakuo Wang
+Authors: Zhiping Zhang, Michelle Jia, Hao-Ping (Hank) Lee, Bingsheng Yao, Sauvik Das, Ada Lerner, Dakuo Wang, Tianshi Li
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147902)
 
 
 
 ### Metaphors in Voice User Interfaces: A Slippery Fish
-Authors: Michael Twidale, Smit Desai
+Authors: Smit Desai, Michael Twidale
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150773)
 
@@ -896,21 +896,21 @@ Authors: Michael Twidale, Smit Desai
 
 ## Flavor and Food Interactions
 ### FoodSkin: Fabricating Edible Gold Leaf Circuits on Food Surfaces
-Authors: Hiromi Nakamura, Kaori Ikematsu, Yuki Igarashi, Kunihiro Kato, Hinako Suzaki
+Authors: Kunihiro Kato, Kaori Ikematsu, Hiromi Nakamura, Hinako Suzaki, Yuki Igarashi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148251)
 
 
 
 ### From Plating to Tasting: Towards Understanding the Choreography of Computational Food 
-Authors: Florian Mueller, Patrick Olivier, Nathalie Overdevest, Jialin Deng
+Authors: Jialin Deng, Nathalie Overdevest, Patrick Olivier, Florian Mueller
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147646)
 
 
 
 ### Füpop: "Real Food" Flavor Delivery via Focused Ultrasound
-Authors: Alexis Kim, Szu Ting Tung, Katherine Song, Eric Paulos
+Authors: Katherine Song, Szu Ting Tung, Alexis Kim, Eric Paulos
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147226)
 
@@ -919,7 +919,7 @@ Authors: Alexis Kim, Szu Ting Tung, Katherine Song, Eric Paulos
 
 ## Haptics: Electrical Stimulation
 ### Understanding User Acceptance of Electrical Muscle Stimulation in Human-Computer Interaction
-Authors: Stefan Schneegass, Sarah Faltaous, Julie Williamson, Jonas Keppel, Max Pfeiffer, Marion Koelle
+Authors: Sarah Faltaous, Julie Williamson, Marion Koelle, Max Pfeiffer, Jonas Keppel, Stefan Schneegass
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147978)
 
@@ -928,21 +928,21 @@ Authors: Stefan Schneegass, Sarah Faltaous, Julie Williamson, Jonas Keppel, Max 
 ### Designing Unobtrusive Modulated Electrotactile Feedback on Fingertip Edge to Assist Blind and Low Vision (BLV) People in Comprehending Charts
 HONORABLE_MENTION
 
-Authors: Emily Kuang, Mingming Fan, Kaihao Zhang, Chutian Jiang, Junan Xie, Yinan FAN
+Authors: Chutian Jiang, Yinan FAN, Junan Xie, Emily Kuang, Kaihao Zhang, Mingming Fan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147036)
 
 
 
 ### TacTex: A Textile Interface with Seamlessly-Integrated Electrodes for High-Resolution electrotactile Stimulation
-Authors: Teng Han, Qi Wang, Hongnan Lin, Guanyun Wang, Feng Tian, Shengsheng Jiang, Wei Sun, Xuanyou Liu, Ye Tao
+Authors: Hongnan Lin, Xuanyou Liu, Shengsheng Jiang, Qi Wang, Ye Tao, Guanyun Wang, Wei Sun, Teng Han, Feng Tian
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146969)
 
 
 
 ### Paired-EMS: Enhancing Electrical Muscle Stimulation (EMS)-based Force Feedback Experience by Stimulating Both Muscles in Antagonistic Pairs
-Authors: Chia-Yu Cheng, Sitaresmi Handani, Mike Chen, Avijit Balabantaray, Yu Chen
+Authors: Chia-Yu Cheng, Yu Chen, Sitaresmi Handani, Avijit Balabantaray, Mike Chen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146902)
 
@@ -951,35 +951,35 @@ Authors: Chia-Yu Cheng, Sitaresmi Handani, Mike Chen, Avijit Balabantaray, Yu Ch
 
 ## Mental Health B
 ### Exploring Context-Aware Mental Health Self-Tracking Using Multimodal Smart Speakers in Home Environments
-Authors: Uichin Lee, Youngji Koh, Jieun Lim, Auk Kim
+Authors: Jieun Lim, Youngji Koh, Auk Kim, Uichin Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147776)
 
 
 
 ### Co-designing the Collaborative Digital Musical Instruments for Group Music Therapy
-Authors: Yuting Diao, Yuan Yao, Haipeng Mi, Zhaoguo Wang, Yu Peng, Hanxuan Li, Yuan-Ling Feng
+Authors: Yuan-Ling Feng, Zhaoguo Wang, Yuan Yao, Hanxuan Li, Yuting Diao, Yu Peng, Haipeng Mi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147511)
 
 
 
 ### Approaches for tailoring between-session mental health therapy activities
-Authors: Patricia Arean, Bruna Oewel, Elena Agapie
+Authors: Bruna Oewel, Patricia Arean, Elena Agapie
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147860)
 
 
 
 ### Challenges and Opportunities for the Design of Inclusive Digital Mental Health Tools: Understanding Culturally Diverse Young People's Experiences
-Authors: Chengcheng Qu, Ewan Soubutts, Paul Marshall, Pranita Shrestha, Roisin McNaney, Brittany Davidson, Aaron Sefi, Charlotte Mindel
+Authors: Ewan Soubutts, Pranita Shrestha, Brittany Davidson, Chengcheng Qu, Charlotte Mindel, Aaron Sefi, Paul Marshall, Roisin McNaney
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146990)
 
 
 
 ### Feeling Stressed and Unproductive? A Field Evaluation of a Therapy-Inspired Digital Intervention for Knowledge Workers
-Authors: Liisa Holsti, Thomas Fritz, Joanna McGrenere, Skye Barbic, Kevin Chow
+Authors: Kevin Chow, Thomas Fritz, Liisa Holsti, Skye Barbic, Joanna McGrenere
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150820)
 
@@ -988,28 +988,28 @@ Authors: Liisa Holsti, Thomas Fritz, Joanna McGrenere, Skye Barbic, Kevin Chow
 
 ## Reproductive Rights and Privacy
 ### Unpacking the Lived Experience of Collaborative Pregnancy Tracking
-Authors: Yunan Chen, Elena Agapie, Xi Lu, Jacquelyn Powell, Daniel Epstein
+Authors: Xi Lu, Jacquelyn Powell, Elena Agapie, Yunan Chen, Daniel Epstein
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148254)
 
 
 
 ### “Our Users' Privacy is Paramount to Us”: A Discourse Analysis of How Period and Fertility Tracking App Companies Address the Roe v Wade Overturn
-Authors: Rie Helene (Lindy) Hernandez, Qiurong Song, Xinning Gui, Yubo Kou
+Authors: Qiurong Song, Rie Helene (Lindy) Hernandez, Yubo Kou, Xinning Gui
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146889)
 
 
 
 ### "I Deleted It After the Overturn of Roe v. Wade": Understanding Women's Privacy Concerns Toward Period-Tracking Apps in the Post Roe v. Wade Era
-Authors: Pardis Emami-Naeini, Hiba Laabadli, Jiaxun Cao, Chase Mathis, Rebecca Stern
+Authors: Jiaxun Cao, Hiba Laabadli, Chase Mathis, Rebecca Stern, Pardis Emami-Naeini
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147370)
 
 
 
 ### Teen Reproductive Health Information Seeking and Sharing Post-Roe
-Authors: Nora McDonald, Umama Dewan, Cora Sula
+Authors: Umama Dewan, Cora Sula, Nora McDonald
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146968)
 
@@ -1025,28 +1025,28 @@ Authors: Nora McDonald, Nazanin Andalibi
 
 ## Universal Accessibility B
 ### RASSAR: Room Accessibility and Safety Scanning in Augmented Reality
-Authors: Kaiming Cheng, Xia Su, Jon Froehlich, Qiaochu LIU, Jaewook Lee, Han Zhang, Wyatt Olson
+Authors: Xia Su, Kaiming Cheng, Han Zhang, Jaewook Lee, Qiaochu LIU, Wyatt Olson, Jon Froehlich
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148045)
 
 
 
 ### A Design Space for Vision Augmentations and Augmented Human Perception using Digital Eyewear
-Authors: Jonathan Sutton, Tobias Langlotz, Holger Regenbrecht
+Authors: Tobias Langlotz, Jonathan Sutton, Holger Regenbrecht
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147983)
 
 
 
 ### “I never realized sidewalks were a big deal”: A Case Study of a Community-Driven Sidewalk Accessibility Assessment using Project Sidewalk
-Authors: Michael Saugstad, Judy Shanley, Yochai Eisenberg, Jon Froehlich, Katrina Ma, Devon Snyder, Molly Delaney, Delphine Labbé, Kie Fujii, Chu Li, Florian P Thomas
+Authors: Chu Li, Katrina Ma, Michael Saugstad, Kie Fujii, Molly Delaney, Yochai Eisenberg, Delphine Labbé, Judy Shanley, Devon Snyder, Florian P Thomas, Jon Froehlich
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147783)
 
 
 
 ### A Virtual Reality Scene Taxonomy: Identifying and Designing Accessible Scene-Viewing Techniques
-Authors: Martez Mott, Sasa Junuzovic, Rachel Franz
+Authors: Rachel Franz, Sasa Junuzovic, Martez Mott
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150645)
 
@@ -1055,7 +1055,7 @@ Authors: Martez Mott, Sasa Junuzovic, Rachel Franz
 
 ## Learning Programming with AI
 ### How Beginning Programmers and Code LLMs (Mis)read Each Other
-Authors: Molly Feldman, Hannah McLean Babe, Carolyn Anderson, Sydney Nguyen, Arjun Guha, Yangtian Zi
+Authors: Sydney Nguyen, Hannah McLean Babe, Yangtian Zi, Arjun Guha, Carolyn Anderson, Molly Feldman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146777)
 
@@ -1066,7 +1066,7 @@ Abstract: Generative AI models, specifically large language models (LLMs), have 
 ### Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Education
 HONORABLE_MENTION
 
-Authors: Seonghee Lee, Hyungyu Shin, Hyoungwook Jin, Juho Kim
+Authors: Hyoungwook Jin, Seonghee Lee, Hyungyu Shin, Juho Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148146)
 
@@ -1075,7 +1075,7 @@ Abstract: This work investigates large language models (LLMs) as teachable agent
 
 
 ### ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12
-Authors: Liuqing Chen, Yaxuan Song, Yunnong Chen, Shuhong Xiao, Lingyun Sun, Ruoyu Wu
+Authors: Liuqing Chen, Shuhong Xiao, Yunnong Chen, Ruoyu Wu, Yaxuan Song, Lingyun Sun
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147770)
 
@@ -1084,7 +1084,7 @@ Abstract: As Computational Thinking (CT) continues to permeate younger age group
 
 
 ### “It’s Weird That it Knows What I Want”: Usability and Interactions with Copilot for Novice Programmers
-Authors: Paul Denny, Garrett Powell, James Prather, Brent Reeves, Brett Becker, Juho Leinonen, Andrew Luxton-Reilly, James Finnie-Ansley, Eddie Antonio Santos
+Authors: James Prather, Brent Reeves, Paul Denny, Brett Becker, Juho Leinonen, Andrew Luxton-Reilly, Garrett Powell, James Finnie-Ansley, Eddie Antonio Santos
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150774)
 
@@ -1097,35 +1097,35 @@ Abstract: Recent developments in deep learning have resulted in code-generation 
 ### Designing a Card-Based Design Tool to Bridge Academic Research & Design Practice For Societal Resilience
 BEST_PAPER
 
-Authors: Chia-Fang Chung, Kay Connelly, Clara Caldeira, Novia Nurain
+Authors: Novia Nurain, Chia-Fang Chung, Clara Caldeira, Kay Connelly
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147574)
 
 
 
 ### Playing with Perspectives and Unveiling the Autoethnographic Kaleidoscope in HCI – A Literature Review of Autoethnographies
-Authors: Johannes Schöning, Annika Kaltenhauser, Evropi Stefanidi
+Authors: Annika Kaltenhauser, Evropi Stefanidi, Johannes Schöning
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148280)
 
 
 
 ### The Future of HCI-Policy Collaboration
-Authors: Steven Jackson, Thomas Gilbert, Qian Yang, Sabine Junginger, John Zimmerman, Richmond Wong, Margaret Hagan
+Authors: Qian Yang, Richmond Wong, Steven Jackson, Sabine Junginger, Margaret Hagan, Thomas Gilbert, John Zimmerman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147277)
 
 
 
 ### DiaryHelper: Exploring the Use of an Automatic Contextual Information Recording Agent for Elicitation Diary Study
-Authors: Junze Li, Changyang He, Xiaojuan Ma, Alon Halevy, Jiaxiong Hu, Boyang Jia
+Authors: Junze Li, Changyang He, Jiaxiong Hu, Boyang Jia, Alon Halevy, Xiaojuan Ma
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147624)
 
 
 
 ### CoAIcoder: Examining the Effectiveness of AI-assisted Human-to-Human Collaboration in Qualitative Analysis
-Authors: Simon Perrault, Jie Gao, Roy Ka-Wei Lee, Kenny Tsu Wei Choo, Junming Cao
+Authors: Jie Gao, Kenny Tsu Wei Choo, Junming Cao, Roy Ka-Wei Lee, Simon Perrault
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150647)
 
@@ -1134,7 +1134,7 @@ Authors: Simon Perrault, Jie Gao, Roy Ka-Wei Lee, Kenny Tsu Wei Choo, Junming Ca
 
 ## AI for Researchers and Educators
 ### PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers
-Authors: Pao Siangliulue, Matt Latzke, Hyeonsu Kang, Joseph Chee Chang, Jonathan Bragg, Juho Kim, Yoonjoo Lee
+Authors: Yoonjoo Lee, Hyeonsu Kang, Matt Latzke, Juho Kim, Jonathan Bragg, Joseph Chee Chang, Pao Siangliulue
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147172)
 
@@ -1143,7 +1143,7 @@ Abstract: With the rapid growth of scholarly archives, researchers subscribe to 
 
 
 ### Integrating measures of replicability into scholarly search: Challenges and opportunities
-Authors: Sarah Rajtmajer, Tatiana Chakravorti, John Carroll, Chuhao Wu
+Authors: Chuhao Wu, Tatiana Chakravorti, John Carroll, Sarah Rajtmajer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146636)
 
@@ -1152,7 +1152,7 @@ Abstract: Challenges to reproducibility and replicability have gained widespread
 
 
 ### How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation with an LLM-based Agent
-Authors: Andrew Mo, Yun Huang, Yiren Liu, Xiao Ran, Mengxia Yu, Haocong Cheng, Si Chen, Yiliu Tang
+Authors: Yiren Liu, Si Chen, Haocong Cheng, Mengxia Yu, Xiao Ran, Andrew Mo, Yiliu Tang, Yun Huang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146979)
 
@@ -1170,7 +1170,7 @@ Abstract: Algorithmic decision-making is increasingly being adopted across publi
 
 
 ### PaperPlain: Making Medical Research Papers Approachable to Healthcare Consumers with Natural Language Processing
-Authors: Tal August, Jonathan Bragg, Kyle Lo, Andrew Head, Marti Hearst, Lucy Lu Wang
+Authors: Tal August, Lucy Lu Wang, Jonathan Bragg, Marti Hearst, Andrew Head, Kyle Lo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150900)
 
@@ -1181,28 +1181,28 @@ Abstract: When seeking information not covered in patient-friendly documents, he
 
 ## Crisis Informatics
 ### Choosing the Right Reality: A Comparative Analysis of Tangibility in Immersive Trauma Simulations
-Authors: Benjamin Schuster, Rodrigo Gutierrez, Helmut Schrom-Feiertag, Georg Regal, Manfred Tscheligi, Jakob Uhl
+Authors: Jakob Uhl, Rodrigo Gutierrez, Georg Regal, Helmut Schrom-Feiertag, Benjamin Schuster, Manfred Tscheligi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147464)
 
 
 
 ### Comparison of Spatial Visualization Techniques for Radiation in Augmented Reality
-Authors: Joan Baixauli, Roderick McCall, Fintan McGee
+Authors: Fintan McGee, Roderick McCall, Joan Baixauli
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146651)
 
 
 
 ### Exploring the Design Space of Optical See-through AR Head-Mounted Displays to Support First Responders in the Field
-Authors: Lance Hartung, Kexin Zhang, Ruijia Chen, Kevin Ponto, Yuhang Zhao, Bryce Sprecher, Brianna Cochran, Ross Tredinnick, Suman Banerjee
+Authors: Kexin Zhang, Brianna Cochran, Ruijia Chen, Lance Hartung, Bryce Sprecher, Ross Tredinnick, Kevin Ponto, Suman Banerjee, Yuhang Zhao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146943)
 
 
 
 ### Transitioning Cognitive Aids into Decision Support Platforms: Requirements and Design Guidelines
-Authors: Aleksandra Sarcevic, Angela Mastrianni, Randall Burd, Allison Hu, Sarah Gao, Lynn Almengor, Peyton Tempel
+Authors: Angela Mastrianni, Aleksandra Sarcevic, Allison Hu, Lynn Almengor, Peyton Tempel, Sarah Gao, Randall Burd
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150760)
 
@@ -1211,14 +1211,14 @@ Authors: Aleksandra Sarcevic, Angela Mastrianni, Randall Burd, Allison Hu, Sarah
 
 ## Curating Online Content B
 ### Bystanders of Online Moderation: Examining the Effects of Witnessing Post-Removal Explanations
-Authors: Himanshu Rathi, Koustuv Saha, Shagun Jhaver
+Authors: Shagun Jhaver, Himanshu Rathi, Koustuv Saha
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148129)
 
 
 
 ### Community Begins Where Moderation Ends: Peer Support and Its Implications for Community-Based Rehabilitation
-Authors: Zinan Zhang, Yingfan Zhou, Renkai Ma, Xinning Gui, Yubo Kou
+Authors: Yubo Kou, Renkai Ma, Zinan Zhang, Yingfan Zhou, Xinning Gui
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146823)
 
@@ -1227,21 +1227,21 @@ Authors: Zinan Zhang, Yingfan Zhou, Renkai Ma, Xinning Gui, Yubo Kou
 ### Agency Aspirations: Understanding Users’ Preferences And Perceptions Of Their Role In Personalised News Curation
 HONORABLE_MENTION
 
-Authors: Ewa Luger, John Vines, Michael Evans, Anna Rezk, Auste Simkute, Chris Elsden, Rhianne Jones
+Authors: Anna Rezk, Auste Simkute, Ewa Luger, John Vines, Chris Elsden, Michael Evans, Rhianne Jones
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147968)
 
 
 
 ### Wikibench: Community-Driven Data Curation for AI Evaluation on Wikipedia
-Authors: Kenneth Holstein, Haiyi Zhu, Zirui Cheng, Aaron Halfaker, Jiwoo Kim, Tongshuang Wu, Tzu-Sheng Kuo, Meng-Hsin Wu
+Authors: Tzu-Sheng Kuo, Aaron Halfaker, Zirui Cheng, Jiwoo Kim, Meng-Hsin Wu, Tongshuang Wu, Kenneth Holstein, Haiyi Zhu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146778)
 
 
 
 ### Empirical Investigation of Accessibility Bug Reports in Mobile Platforms: A Chromium Case Study
-Authors: Wajdi Aljedaani, Mohamed Wiem Mkaouer, Marouane Kessentini, Marcelo Eler
+Authors: Wajdi Aljedaani, Mohamed Wiem Mkaouer, Marcelo Eler, Marouane Kessentini
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147552)
 
@@ -1252,21 +1252,21 @@ Authors: Wajdi Aljedaani, Mohamed Wiem Mkaouer, Marouane Kessentini, Marcelo Ele
 ### Critiquing Menstrual Pain Technologies through the Lens of Feminist Disability Studies
 HONORABLE_MENTION
 
-Authors: Marianela Ciolfi Felice, Joo Young Park, Madeline Balaam, Nadia Campo Woytuk, Stacy Hsueh, Xuni Huang
+Authors: Joo Young Park, Stacy Hsueh, Nadia Campo Woytuk, Xuni Huang, Marianela Ciolfi Felice, Madeline Balaam
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147659)
 
 
 
 ### Enhancing Auto-Generated Baseball Highlights via Win Probability and Bias Injection Method
-Authors: Bongwon Suh, Kieun Park, Hajin Lim, Joonhwan Lee
+Authors: Kieun Park, Hajin Lim, Joonhwan Lee, Bongwon Suh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146747)
 
 
 
 ### Understanding the Effect of Reflective Iteration on Individuals’ Physical Activity Planning
-Authors: Kefan Xu, Mark Newman, Xinghui (Erica) Yan, Myeonghan Ryu, Rosa Arriaga
+Authors: Kefan Xu, Xinghui (Erica) Yan, Myeonghan Ryu, Mark Newman, Rosa Arriaga
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148178)
 
@@ -1275,7 +1275,7 @@ Authors: Kefan Xu, Mark Newman, Xinghui (Erica) Yan, Myeonghan Ryu, Rosa Arriaga
 ### Sensible and Sensitive AI for Worker Wellbeing: Factors that Inform Adoption and Resistance for Information Workers
 BEST_PAPER
 
-Authors: Munmun De Choudhury, Lan Gao, Gregory Abowd, Vedant Das Swain, Abhirup Mondal
+Authors: Vedant Das Swain, Lan Gao, Abhirup Mondal, Gregory Abowd, Munmun De Choudhury
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146807)
 
@@ -1291,35 +1291,35 @@ Authors: Heidi Biggs, Shaowen Bardzell
 
 ## Fabrication and Dynamic Structures
 ### Reconfigurable Interfaces by Shape Change and Embedded Magnets
-Authors: Andrea Bianchi, Clement Zheng, Kongpyung (Justin) Moon, Jeeeun Kim, Himani Deshpande, Bo Han
+Authors: Himani Deshpande, Bo Han, Kongpyung (Justin) Moon, Andrea Bianchi, Clement Zheng, Jeeeun Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147224)
 
 
 
 ### ConeAct: A Multistable Actuator for Dynamic Materials
-Authors: Yash Rajeev Banka, Yuyu Lin, Jesse Gonzalez, Alexandra Ion, Zhitong Cui
+Authors: Yuyu Lin, Jesse Gonzalez, Zhitong Cui, Yash Rajeev Banka, Alexandra Ion
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147261)
 
 
 
 ### TensionFab: Fabrication of Room-scale Surface Structures From the Tension-Active Form of Planar Modules
-Authors: Ziyuan Jiang, Yahui Lyu, Alessandro Garzanti, Carlos Garcia Fernandez, Taiga Urata, Yasuaki Kakehi
+Authors: Yahui Lyu, Taiga Urata, Alessandro Garzanti, Ziyuan Jiang, Carlos Garcia Fernandez, Yasuaki Kakehi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146649)
 
 
 
 ### Robotic Metamaterials: A Modular System for Hands-On Configuration of Ad-Hoc Dynamic Applications
-Authors: Violet Yinuo Han, Alan Zhu, Shuhong Wang, Willa Yunqi Yang, Tucker Rae-Grant, Alexandra Ion, Scott Hudson, Zhitong Cui
+Authors: Zhitong Cui, Shuhong Wang, Violet Yinuo Han, Tucker Rae-Grant, Willa Yunqi Yang, Alan Zhu, Scott Hudson, Alexandra Ion
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147544)
 
 
 
 ### Nothing Like Compilation: How Professional Digital Fabrication Workflows Go Beyond Extruding, Milling, and Machines
-Authors: Nadya Peek, Gabrielle Benabdallah, Jennifer Jacobs, Mare Hirsch
+Authors: Mare Hirsch, Gabrielle Benabdallah, Jennifer Jacobs, Nadya Peek
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/156318)
 
@@ -1328,7 +1328,7 @@ Authors: Nadya Peek, Gabrielle Benabdallah, Jennifer Jacobs, Mare Hirsch
 
 ## Indigeonus Communities and Cutural Heritage A
 ### Griot-Style Methodology: Longitudinal Study of Navigating Design With Unwritten Stories
-Authors: Lindah Kotut, Morva Saaty, Derek Haqq, Taha Hassan, Neelma Bhatti
+Authors: Lindah Kotut, Neelma Bhatti, Taha Hassan, Derek Haqq, Morva Saaty
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147144)
 
@@ -1344,7 +1344,7 @@ Authors: Kari Noe, Nurit Kirshenbaum
 
 
 ### Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin
-Authors: Minzhu Zhao, Wanyang Hu, Huanchen Wang, Zhicong Lu, Yuxin Ma
+Authors: Huanchen Wang, Minzhu Zhao, Wanyang Hu, Yuxin Ma, Zhicong Lu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147828)
 
@@ -1353,7 +1353,7 @@ Authors: Minzhu Zhao, Wanyang Hu, Huanchen Wang, Zhicong Lu, Yuxin Ma
 ### Cultivating Spoken Language Technologies for Unwritten Languages
 HONORABLE_MENTION
 
-Authors: Ondrej Klejch, Simon Robinson, Jennifer Pearson, Dani Kalarikalayil Raju, Peter Bell, Electra Wallington, Thomas Reitmaier, Matt Jones, Nina Markl
+Authors: Thomas Reitmaier, Dani Kalarikalayil Raju, Ondrej Klejch, Electra Wallington, Nina Markl, Jennifer Pearson, Matt Jones, Peter Bell, Simon Robinson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147443)
 
@@ -1362,7 +1362,7 @@ Authors: Ondrej Klejch, Simon Robinson, Jennifer Pearson, Dani Kalarikalayil Raj
 
 ## Indigeonus Communities and Cutural Heritage B
 ### Partiality and Misconception: Investigating Cultural Representativeness in Text-to-Image Models
-Authors: Lili Zhang, Zaijia Yang, Qiuling Yang, Deshun Li, Chunjie Wang, Baihang Gao, Xi Liao
+Authors: Lili Zhang, Xi Liao, Zaijia Yang, Baihang Gao, Chunjie Wang, Qiuling Yang, Deshun Li
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148011)
 
@@ -1376,7 +1376,7 @@ Authors: Pedro Ferreira
 
 
 ### On the Role of Materials Experience for Novel Interactions with Digital Representations of Historical Pop-up and Movable Books
-Authors: Stefano Parisi, Jeff Love, Elvin Karana, Willemijn Elkhuizen
+Authors: Willemijn Elkhuizen, Jeff Love, Stefano Parisi, Elvin Karana
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147645)
 
@@ -1385,7 +1385,7 @@ Authors: Stefano Parisi, Jeff Love, Elvin Karana, Willemijn Elkhuizen
 ### Cosmovision Of Data: An Indigenous Approach to Technologies for Self-Determination
 BEST_PAPER
 
-Authors: Larissa Pschetz, Carlos Guerrero Millan, Bettina Nissen
+Authors: Carlos Guerrero Millan, Bettina Nissen, Larissa Pschetz
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148200)
 
@@ -1394,28 +1394,28 @@ Authors: Larissa Pschetz, Carlos Guerrero Millan, Bettina Nissen
 
 ## Learning and Teaching Technologies C
 ### Enhancing ESL Learners' Experience and Performance through Gradual Adjustment of Video Speed during Extensive Viewing
-Authors: Fu-Yin Cherng, Yu-Jung Chung, Chen-Wei Hsu, Meng-Hsun Chan
+Authors: Yu-Jung Chung, Chen-Wei Hsu, Meng-Hsun Chan, Fu-Yin Cherng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147456)
 
 
 
 ### 	A Piece of Theatre: Investigating How Teachers Design LLM Chatbots to Assist Adolescent Cyberbullying Education
-Authors: Xinda Ma, Qian Yang, Natalie Bazarova, Ryun Shim, Michael Hedderich, Wenting Zou
+Authors: Michael Hedderich, Natalie Bazarova, Wenting Zou, Ryun Shim, Xinda Ma, Qian Yang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147517)
 
 
 
 ### Morphing Matter for Teens: Research Processes as a Template for Cross-Disciplinary Activities
-Authors: Sunniva Liu, Alisha Collins, Harshika Jain, Melinda Chen, Lining Yao, Lea Albaugh
+Authors: Lea Albaugh, Melinda Chen, Sunniva Liu, Harshika Jain, Alisha Collins, Lining Yao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147219)
 
 
 
 ### Toward Supporting Adaptation: Exploring Affect’s Role in Cognitive Load when Using a Literacy Game
-Authors: Gisele Arevalo, Carrie Demmans Epp, Sin Sze Tang, Genaro Rebolledo Mendez, Yalmaz Abdullah, Minghao Cai
+Authors: Minghao Cai, Genaro Rebolledo Mendez, Gisele Arevalo, Sin Sze Tang, Yalmaz Abdullah, Carrie Demmans Epp
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147807)
 
@@ -1424,7 +1424,7 @@ Authors: Gisele Arevalo, Carrie Demmans Epp, Sin Sze Tang, Genaro Rebolledo Mend
 ### Time-Turner: A Bichronous Learning Environment to Support Positive In-class Multitasking of Online Learners
 BEST_PAPER
 
-Authors: Sahar Mavali, Sidney Fels, Dongwook Yoon, Luanne Sinnamon
+Authors: Sahar Mavali, Dongwook Yoon, Luanne Sinnamon, Sidney Fels
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147103)
 
@@ -1435,28 +1435,28 @@ Authors: Sahar Mavali, Sidney Fels, Dongwook Yoon, Luanne Sinnamon
 ### Real-time 3D Target Inference via Biomechanical Simulation
 HONORABLE_MENTION
 
-Authors: Chenyu Li, Yi-Chi Liao, Hee-Seung Moon, Byungjoo Lee, Antti Oulasvirta
+Authors: Hee-Seung Moon, Yi-Chi Liao, Chenyu Li, Byungjoo Lee, Antti Oulasvirta
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147400)
 
 
 
 ### WAVE: Anticipatory Movement Visualization for VR Dancing
-Authors: Monica Tamariz, Nadia Ady, Perttu Hämäläinen, Markus Laattala, Roosa Piitulainen
+Authors: Markus Laattala, Roosa Piitulainen, Nadia Ady, Monica Tamariz, Perttu Hämäläinen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147795)
 
 
 
 ### Designing for Human Operations on the Moon: Challenges and Opportunities of Navigational HUD Interfaces 
-Authors: Paul Demedeiros, Aidan Cowley, Andreas Gerndt, Michael Preutenborbeck, Tommy Nilsson, Georgia Albuquerque, Nicolas Herzberger, Frank Flemisch, Jan Wulkop, Florian Dufresne, Leonie Bensch
+Authors: Leonie Bensch, Tommy Nilsson, Jan Wulkop, Paul Demedeiros, Nicolas Herzberger, Michael Preutenborbeck, Andreas Gerndt, Frank Flemisch, Florian Dufresne, Georgia Albuquerque, Aidan Cowley
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148215)
 
 
 
 ### Watch This! Observational Learning in VR Promotes Better Far Transfer than Active Learning for a Fine Psychomotor Task
-Authors: Michael Proulx, Manoela Milena Oliveira da Silva, Christopher Clarke, Christof Lutteroth, Elizabeth Dark, Isabel Fitton, Jeremy Dalton
+Authors: Isabel Fitton, Elizabeth Dark, Manoela Milena Oliveira da Silva, Jeremy Dalton, Michael Proulx, Christopher Clarke, Christof Lutteroth
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146854)
 
@@ -1467,28 +1467,28 @@ Authors: Michael Proulx, Manoela Milena Oliveira da Silva, Christopher Clarke, C
 ### Metrics of Motor Learning for Analyzing Movement Mapping in Virtual Reality
 HONORABLE_MENTION
 
-Authors: Difeng Yu, Mark Schram Christensen, Joanna Bergström, Mantas Cibulskis, Erik Mortensen
+Authors: Difeng Yu, Mantas Cibulskis, Erik Mortensen, Mark Schram Christensen, Joanna Bergström
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147038)
 
 
 
 ### WieldingCanvas: Interactive Sketch Canvases for Freehand Drawing in VR
-Authors: Teng Han, Can Liu, Mingming Fan, Feng Tian, Tianren Luo, Zitao Liu, Mi Tian, Zhenxuan He, Xiaohui Tan
+Authors: Xiaohui Tan, Zhenxuan He, Can Liu, Mingming Fan, Tianren Luo, Zitao Liu, Mi Tian, Teng Han, Feng Tian
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147341)
 
 
 
 ### Better Definition and Calculation of Throughput and Effective Parameters for Steering to Account for Subjective Speed-accuracy Tradeoffs
-Authors: Yosuke Oba, Homei Miyashita, Nobuhito Kasahara, Wolfgang Stuerzlinger, Anil Ufuk Batmaz, Shota Yamanaka
+Authors: Nobuhito Kasahara, Yosuke Oba, Shota Yamanaka, Anil Ufuk Batmaz, Wolfgang Stuerzlinger, Homei Miyashita
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147190)
 
 
 
 ### Design Space of Visual Feedforward And Corrective Feedback in XR-Based Motion Guidance Systems
-Authors: Michael Sedlmair, Benjamin Lee, Xingyao Yu
+Authors: Xingyao Yu, Benjamin Lee, Michael Sedlmair
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147637)
 
@@ -1497,7 +1497,7 @@ Authors: Michael Sedlmair, Benjamin Lee, Xingyao Yu
 
 ## Privacy in Real Contexts
 ### An Investigation of US Universities' Implementation of FERPA Student Directory Policies and Student Privacy Preferences
-Authors: Katherine Quintanilla, Sarah Radway, Cordelia Ludden, Daniel Votipka
+Authors: Sarah Radway, Katherine Quintanilla, Cordelia Ludden, Daniel Votipka
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146893)
 
@@ -1511,7 +1511,7 @@ Authors: Habiba Farzand, Karola Marky, Mohamed Khamis
 
 
 ### "We Have No Security Concerns": Understanding the Privacy-Security Nexus in Telehealth for Audiologists and Speech-Language Pathologists
-Authors: Josiah Dykstra, Prashanth Rajivan, Faiza Tazi, Sanchari Das
+Authors: Faiza Tazi, Josiah Dykstra, Prashanth Rajivan, Sanchari Das
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147706)
 
@@ -1541,14 +1541,14 @@ Authors: Tony Li, Arshia Arya, Haojian Jin
 
 
 ### Designing Accessible Obfuscation Support for Blind Individuals’ Visual Privacy Management
-Authors: Lotus Zhang, Tanusree Sharma, Inan Xu, Leah Findlater, Yang Wang, Yu-Yun Tseng, Abigale Stangl, Danna Gurari
+Authors: Lotus Zhang, Abigale Stangl, Tanusree Sharma, Yu-Yun Tseng, Inan Xu, Danna Gurari, Yang Wang, Leah Findlater
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147347)
 
 
 
 ### An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors
-Authors: Weijun Li, Toby Li, Chaoran Chen, Wenxin Song, Yaxing Yao, Yanfang Ye
+Authors: Chaoran Chen, Weijun Li, Wenxin Song, Yanfang Ye, Yaxing Yao, Toby Li
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146765)
 
@@ -1557,14 +1557,14 @@ Authors: Weijun Li, Toby Li, Chaoran Chen, Wenxin Song, Yaxing Yao, Yanfang Ye
 
 ## Social Activism A
 ### "We happen to be different and different is not bad": Designing for Intersectional Fat-Positive Information-Seeking
-Authors: Kelley Cotter, Ankolika De, Rebecca Jonas
+Authors: Rebecca Jonas, Ankolika De, Kelley Cotter
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147459)
 
 
 
 ### Negotiating Sociotechnical Boundaries: Moderation Work to Counter Racist Attacks in Online Communities
-Authors: Tayara Romero, Bryan Semaan, Qunfang Wu
+Authors: Qunfang Wu, Tayara Romero, Bryan Semaan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146991)
 
@@ -1573,7 +1573,7 @@ Authors: Tayara Romero, Bryan Semaan, Qunfang Wu
 ### Examining the Unique Online Risk Experiences and Mental Health Outcomes of LGBTQ+ versus Heterosexual Youth
 HONORABLE_MENTION
 
-Authors: Joshua Anderson, Mamtaj Akter, Mary Jean Amon, Tangila Islam Tanni, Pamela Wisniewski
+Authors: Tangila Islam Tanni, Mamtaj Akter, Joshua Anderson, Mary Jean Amon, Pamela Wisniewski
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146887)
 
@@ -1587,7 +1587,7 @@ Authors: Seora Park, Hajin Lim, Joonhwan Lee
 
 
 ### See Widely, Think Wisely: Toward Designing a Generative Multi-agent System to Burst Filter Bubbles
-Authors: Mingming Fan, Liuxin Zhang, Qianying Wang, Cen Yao, Xin Geng, Yu Zhang, Yong Rui, Jingwei Sun, Li Feng
+Authors: Yu Zhang, Jingwei Sun, Li Feng, Cen Yao, Mingming Fan, Liuxin Zhang, Qianying Wang, Xin Geng, Yong Rui
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148309)
 
@@ -1607,14 +1607,14 @@ Authors: Whitney-Jocelyn Kouaho, Daniel Epstein
 ### Engaging recently incarcerated and gang affiliated Black and Latino/a young adults in designing social collocated applications for mixed reality smart glasses through community-based participatory design workshops.
 BEST_PAPER
 
-Authors: kurt squire, Richard Martinez
+Authors: Richard Martinez, kurt squire
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146915)
 
 
 
 ### Evaluating the Experience of LGBTQ+ People Using Large Language Model Based Chatbots for Mental Health Support
-Authors: Zhaoyuan Su, Yinru Long, Zilin Ma, Krzysztof Gajos, Yiyang Mei
+Authors: Zilin Ma, Yiyang Mei, Yinru Long, Zhaoyuan Su, Krzysztof Gajos
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146739)
 
@@ -1623,28 +1623,28 @@ Authors: Zhaoyuan Su, Yinru Long, Zilin Ma, Krzysztof Gajos, Yiyang Mei
 
 ## Sound Interaction
 ### Show, Not Tell: A Human-AI Collaborative Approach for Designing Sound Awareness Systems
-Authors: Jeremy Huang, Dhruv Jain, Hriday Chhabria, Reyna Wood
+Authors: Jeremy Huang, Reyna Wood, Hriday Chhabria, Dhruv Jain
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147942)
 
 
 
 ### Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery
-Authors: Christoph Leuze, Anh Thien Doan, Nassir Navab, Bruce Daniel, Jacqueline Tsai, Laura Schütz, Trishia El Chemaly, Emmanuelle Weber
+Authors: Laura Schütz, Trishia El Chemaly, Emmanuelle Weber, Anh Thien Doan, Jacqueline Tsai, Christoph Leuze, Bruce Daniel, Nassir Navab
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147377)
 
 
 
 ### Using Low-frequency Sound to Create Non-contact Sensations On and In the Body
-Authors: Kasper Hornbæk, Asier Marzo, Waseem Hassan
+Authors: Waseem Hassan, Asier Marzo, Kasper Hornbæk
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147059)
 
 
 
 ### Remembering through Sound: Co-creating Sound-based Mementos together with People with Blindness
-Authors: MinYoung Yoo, Samien Shamsher, Samuel Barnett, Arne Berger, Gillian Russell, Priscilla Lo, William Odom, Lauren Knight, Sadhbh Kenny
+Authors: MinYoung Yoo, William Odom, Arne Berger, Samuel Barnett, Sadhbh Kenny, Priscilla Lo, Samien Shamsher, Gillian Russell, Lauren Knight
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147012)
 
@@ -1653,35 +1653,35 @@ Authors: MinYoung Yoo, Samien Shamsher, Samuel Barnett, Arne Berger, Gillian Rus
 
 ## Working with Data B
 ### Automatic Macro Mining from Interaction Traces at Scale
-Authors: Forrest Huang, Tao Li, Yang Li, Gang Li
+Authors: Forrest Huang, Gang Li, Tao Li, Yang Li
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147479)
 
 
 
 ### Bridging the Gulf of Envisioning: Cognitive Challenges in Prompt Based Interactions with LLMs
-Authors: Roy Pea, Maneesh Agrawala, Hariharan Subramonyam, Colleen Seifert, Christopher Pondoc
+Authors: Hariharan Subramonyam, Christopher Pondoc, Colleen Seifert, Maneesh Agrawala, Roy Pea
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147633)
 
 
 
 ### If in a Crowdsourced Data Annotation Pipeline, a GPT-4
-Authors: Zeyu He, Ting-Hao Huang, Chien-Kuang Ding, Chieh-Yang Huang, Shaurya Rohatgi
+Authors: Zeyu He, Chieh-Yang Huang, Chien-Kuang Ding, Shaurya Rohatgi, Ting-Hao Huang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148078)
 
 
 
 ### SEAM-EZ: Simplifying Stateful Analytics through Visual Programming
-Authors: Joel Goldfoot, Vyas Sekar, Henry Milner, Zhengyan Yu, Yang Wang, Jiang Guo, Hun Namkung
+Authors: Zhengyan Yu, Hun Namkung, Jiang Guo, Henry Milner, Joel Goldfoot, Yang Wang, Vyas Sekar
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146955)
 
 
 
 ### Spreadsheets on Interactive Surfaces: Breaking through the Grid with the Pen
-Authors: Caroline Appert, Emmanuel Pietriga, Vincent Cavez
+Authors: Vincent Cavez, Caroline Appert, Emmanuel Pietriga
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150829)
 
@@ -1692,35 +1692,35 @@ Authors: Caroline Appert, Emmanuel Pietriga, Vincent Cavez
 ### Lessons From Working in the Metaverse: Challenges, Choices, and Implications from a Case Study
 HONORABLE_MENTION
 
-Authors: Daehwan Ahn, Hyanghee Park, Joonhwan Lee
+Authors: Hyanghee Park, Daehwan Ahn, Joonhwan Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148220)
 
 
 
 ### ChunkyEdit: Text-first video interview editing via chunking
-Authors: Wilmot Li, Mackenzie Leake
+Authors: Mackenzie Leake, Wilmot Li
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148086)
 
 
 
 ### The Hidden Toll of Instant Messaging Use in Remote Work: Interaction Dynamics Between Subordinates and Supervisors
-Authors: Chien Wen (Tina) Yuan, Chia Hsin Lee
+Authors: Chia Hsin Lee, Chien Wen (Tina) Yuan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147176)
 
 
 
 ### "If the Machine Is As Good As Me, Then What Use Am I?" – How the Use of ChatGPT Changes Young Professionals' Perception of Productivity and Accomplishment
-Authors: Fiona Draxler, Charlotte Kobiella, Yarhy Flores López, Albrecht Schmidt, Franz Waltenberger
+Authors: Charlotte Kobiella, Yarhy Flores López, Franz Waltenberger, Fiona Draxler, Albrecht Schmidt
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148304)
 
 
 
 ### Analysis and Implementation of Nanotargeting on LinkedIn Based on Publicly Available Non-PII
-Authors: Rubén Cuevas, Ángel Cuevas, Angel Merino, José González-Cabañas
+Authors: Angel Merino, José González-Cabañas, Ángel Cuevas, Rubén Cuevas
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147940)
 
@@ -1731,14 +1731,14 @@ Authors: Rubén Cuevas, Ángel Cuevas, Angel Merino, José González-Cabañas
 ### Discovering Accessible Data Visualizations for People with ADHD
 HONORABLE_MENTION
 
-Authors: Hae-Na Lee, Ji Hwan Park, Tien Tran
+Authors: Tien Tran, Hae-Na Lee, Ji Hwan Park
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147522)
 
 
 
 ### Collaborative School Mental Health System: Leveraging a Conversational Agent for Enhancing Children's Executive Function
-Authors: Yee-Jin Shin, Minseo Cho, Myounglee Choo, Doeun Park, Jinwoo Kim
+Authors: Doeun Park, Myounglee Choo, Minseo Cho, Jinwoo Kim, Yee-Jin Shin
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146654)
 
@@ -1747,21 +1747,21 @@ Authors: Yee-Jin Shin, Minseo Cho, Myounglee Choo, Doeun Park, Jinwoo Kim
 ### Examining the Use of VR as a Study Aid for University Students with ADHD
 HONORABLE_MENTION
 
-Authors: Juliana Goncalves de Souza, Joshua Langberg, Thomas Fritz, Isabelle Cuber, David Shepherd, Caroline Lowman, Irene Jacobs
+Authors: Isabelle Cuber, Juliana Goncalves de Souza, Irene Jacobs, Caroline Lowman, David Shepherd, Thomas Fritz, Joshua Langberg
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148326)
 
 
 
 ### Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals
-Authors: Hwajung Hong, Kyungsik Han, Bogoan Kim, Dayoung Jeong
+Authors: Bogoan Kim, Dayoung Jeong, Hwajung Hong, Kyungsik Han
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147891)
 
 
 
 ### StarRescue: the Design and Evaluation of A Turn-Taking Collaborative Game for Facilitating Autistic Children's Social Skills
-Authors: Ming Li, Yuhang Zhao, Xin Tong, Yihe Wang, Yajie Liu, Yuxuan Huang, Rongqi Bei
+Authors: Rongqi Bei, Yajie Liu, Yihe Wang, Yuxuan Huang, Ming Li, Yuhang Zhao, Xin Tong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147262)
 
@@ -1770,7 +1770,7 @@ Authors: Ming Li, Yuhang Zhao, Xin Tong, Yihe Wang, Yajie Liu, Yuxuan Huang, Ron
 
 ## Smart Homes and Cities
 ### Better to Ask Than Assume: Proactive Voice Assistants’ Communication Strategies That Respect User Agency in a Smart Home Environment
-Authors: Wooseok Kim, Sangsu Lee, Hyeonjeong Im, Jeesun Oh, Sungbae Kim
+Authors: Jeesun Oh, Wooseok Kim, Sungbae Kim, Hyeonjeong Im, Sangsu Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147244)
 
@@ -1779,28 +1779,28 @@ Authors: Wooseok Kim, Sangsu Lee, Hyeonjeong Im, Jeesun Oh, Sungbae Kim
 ### Signs of the Smart City: Exploring the Limits and Opportunities of Transparency 
 HONORABLE_MENTION
 
-Authors: Graham Dove, Eric Corbett
+Authors: Eric Corbett, Graham Dove
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147824)
 
 
 
 ### More than just informed: The importance of consent facets in smart homes
-Authors: Yi-Shyuan Chiang, Adam Bates, Camille Cobb, Omar Khan
+Authors: Yi-Shyuan Chiang, Omar Khan, Adam Bates, Camille Cobb
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148007)
 
 
 
 ### Connecting Home: Human-Centric Setup Automation in the Augmented Smart Home
-Authors: Christof Weinhardt, Marius Schenkluhn, Michael Knierim, Francisco Kiss
+Authors: Marius Schenkluhn, Michael Knierim, Francisco Kiss, Christof Weinhardt
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147010)
 
 
 
 ### FLUID-IoT : Flexible and Fine-Grained Access Control in Shared IoT Environments via Multi-user UI Distribution
-Authors: Minwoo Jeong, Sunjae Lee, Jean Song, Junyoung Choi, Insik Shin, Daye Song, Seoyun Son
+Authors: Sunjae Lee, Minwoo Jeong, Daye Song, Junyoung Choi, Seoyun Son, Jean Song, Insik Shin
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147714)
 
@@ -1811,7 +1811,7 @@ Authors: Minwoo Jeong, Sunjae Lee, Jean Song, Junyoung Choi, Insik Shin, Daye So
 ### Not What it Used to Be: Characterizing Content and User-base Changes in Newly Created Online Communities
 HONORABLE_MENTION
 
-Authors: Karrie Karahalios, Vinay Koshy, Alex Atcheson
+Authors: Alex Atcheson, Vinay Koshy, Karrie Karahalios
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147485)
 
@@ -1820,28 +1820,28 @@ Authors: Karrie Karahalios, Vinay Koshy, Alex Atcheson
 ### Observer Effect in Social Media Use
 HONORABLE_MENTION
 
-Authors: Munmun De Choudhury, Emre Kiciman, Koustuv Saha, Gloria Mark, Pranshu Gupta
+Authors: Koustuv Saha, Pranshu Gupta, Gloria Mark, Emre Kiciman, Munmun De Choudhury
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148032)
 
 
 
 ### Choosing What You Want Versus Getting What You Want: An Experiment with Choice in Video Ad Placement
-Authors: Karrie Karahalios, Silas Hsu
+Authors: Silas Hsu, Karrie Karahalios
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147760)
 
 
 
 ### Recordkeeping in Voice-based Remote Community Engagement
-Authors: Delvin Varghese, Patrick Olivier, Dan Richardson, Md Adnanul Islam, Pratyasha Saha, Muhamad Risqi U. Saputra, Tom Bartindale, Manika Saha
+Authors: Md Adnanul Islam, Dan Richardson, Manika Saha, Delvin Varghese, Tom Bartindale, Pratyasha Saha, Muhamad Risqi U. Saputra, Patrick Olivier
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148203)
 
 
 
 ### Behind the Pup-ularity Curtain: Understanding the Motivations, Challenges, and Work Performed in Creating and Managing Pet Influencer Accounts
-Authors: Khai Truong, Kevin Pu, Suhyeon Yoo
+Authors: Suhyeon Yoo, Kevin Pu, Khai Truong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147143)
 
@@ -1850,28 +1850,28 @@ Authors: Khai Truong, Kevin Pu, Suhyeon Yoo
 
 ## Exercising and Sports
 ### Exploring Opportunities for Augmenting Homes to Support Exercising
-Authors: Hanna Suominen, Michelle Adiwangsa, Mingze Xi, Penny Sweetser, Duncan Stevenson
+Authors: Michelle Adiwangsa, Penny Sweetser, Duncan Stevenson, Hanna Suominen, Mingze Xi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148103)
 
 
 
 ### Grand Challenges in SportsHCI
-Authors: Elise van den Hoven, Lars Elbæk, Florian Mueller, Armağan Karahanoğlu, Vincent van Rheden, Maria Montoya, Don Samitha Elvitigala, Paolo Buono, Fabio Zambetta, Florian Daiber, Regina Bernhaupt, Robby van Delden, Xipei Ren, Dees Postma, Carine Lallemand, Perttu Hämäläinen, Laia Turmo Vidal, Lisa Burr, Dennis Reidsma, Daniel Harrison, Andrii Matviienko, Michael Jones, Rakesh Patibanda
+Authors: Don Samitha Elvitigala, Armağan Karahanoğlu, Andrii Matviienko, Laia Turmo Vidal, Dees Postma, Michael Jones, Maria Montoya, Daniel Harrison, Lars Elbæk, Florian Daiber, Lisa Burr, Rakesh Patibanda, Paolo Buono, Perttu Hämäläinen, Robby van Delden, Regina Bernhaupt, Xipei Ren, Vincent van Rheden, Fabio Zambetta, Elise van den Hoven, Carine Lallemand, Dennis Reidsma, Florian Mueller
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146749)
 
 
 
 ### Enhancing Home Exercise Experiences with Video Motion-Tracking for Automatic Display Height Adjustment
-Authors: Yuqi Li, Jintao Chen, Xinyu Chen, Jiabao Li, Pinyan Tang, Chong Wang
+Authors: Xinyu Chen, Yuqi Li, Jintao Chen, Jiabao Li, Chong Wang, Pinyan Tang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147402)
 
 
 
 ### Born to Run, Programmed to Play: Mapping the Extended Reality Exergames Landscape
-Authors: Lennart Nacke, Sukran Karaosmanoglu, Frank Steinicke, Sebastian Cmentowski
+Authors: Sukran Karaosmanoglu, Sebastian Cmentowski, Lennart Nacke, Frank Steinicke
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148327)
 
@@ -1880,7 +1880,7 @@ Authors: Lennart Nacke, Sukran Karaosmanoglu, Frank Steinicke, Sebastian Cmentow
 ### Is it just a score? Understanding Training Load Management Practices Beyond Sports Tracking 
 HONORABLE_MENTION
 
-Authors: Aykut Coşkun, Armağan Karahanoğlu, Jasper Reenalda, Dees Postma, Ruben Gouveia, Bouke Scheltinga, Dennis Reidsma
+Authors: Armağan Karahanoğlu, Aykut Coşkun, Dees Postma, Bouke Scheltinga, Ruben Gouveia, Dennis Reidsma, Jasper Reenalda
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147430)
 
@@ -1889,35 +1889,35 @@ Authors: Aykut Coşkun, Armağan Karahanoğlu, Jasper Reenalda, Dees Postma, Rub
 
 ## Autonomous Vehicles
 ### Exploring the Impact of Interconnected External Interfaces in Autonomous Vehicles on Pedestrian Safety and Experience
-Authors: Martin Tomitsch, Yiyuan Wang, Marius Hoggenmüller, Tram Tran, Callum Parker
+Authors: Tram Tran, Callum Parker, Marius Hoggenmüller, Yiyuan Wang, Martin Tomitsch
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148231)
 
 
 
 ### "It Must Be Gesturing Towards Me": Gesture-Based Interaction between Autonomous Vehicles and Pedestrians
-Authors: Yuxin Cai, Haolin Cai, Jiangtao Gong, Tingmin Yan, Xiaoyan Dong, Guyue Zhou, Zihe Chen, Xiang Chang, Zherui Zhou
+Authors: Xiang Chang, Zihe Chen, Xiaoyan Dong, Yuxin Cai, Tingmin Yan, Haolin Cai, Zherui Zhou, Guyue Zhou, Jiangtao Gong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147022)
 
 
 
 ### Multi-Modal eHMIs: The Relative Impact of Light and Sound in AV-Pedestrian Interaction
-Authors: Mark Colley, Debargha Dey, Wendy Ju, Azra Habibovic, Toros Senan, Bart Hengeveld
+Authors: Debargha Dey, Toros Senan, Bart Hengeveld, Mark Colley, Azra Habibovic, Wendy Ju
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148159)
 
 
 
 ### Light it Up: Evaluating Versatile Autonomous Vehicle-Cyclist External Human-Machine Interfaces
-Authors: Ammar Al-Taie, Euan Freeman, Frank Pollick, Graham Wilson, Stephen Brewster
+Authors: Ammar Al-Taie, Graham Wilson, Euan Freeman, Frank Pollick, Stephen Brewster
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148184)
 
 
 
 ### One Size Does Not Fit All: Designing and Evaluating Criticality-Adaptive Displays in Highly Automated Vehicles
-Authors: Yaohan Ding, Na Du, Lesong Jia
+Authors: Yaohan Ding, Lesong Jia, Na Du
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147703)
 
@@ -1926,7 +1926,7 @@ Authors: Yaohan Ding, Na Du, Lesong Jia
 
 ## Locomotion in Virtual Environments
 ### Doorways Do Not Always Cause Forgetting: Studying the Effect of Locomotion Technique and Doorway Visualization in Virtual Reality
-Authors: Yiannis Kalaitzoglou, Joanna Bergström, Sean Chew, Thomas van Gemert
+Authors: Thomas van Gemert, Sean Chew, Yiannis Kalaitzoglou, Joanna Bergström
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148003)
 
@@ -1935,7 +1935,7 @@ Abstract: The “doorway effect” predicts that crossing an environmental bound
 
 
 ### Exploring Experience Gaps Between Active and Passive Users During Multi-user Locomotion in VR
-Authors: Teng Han, Fangzhi Yan, Jin Huang, Jiafu Lv, Feng Tian, Fenglin Lu, Tianren Luo, Chun Yu, Chang Liu, Xiaohui Tan
+Authors: Tianren Luo, Fenglin Lu, Jiafu Lv, Xiaohui Tan, Chang Liu, Fangzhi Yan, Jin Huang, Chun Yu, Teng Han, Feng Tian
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146669)
 
@@ -1944,7 +1944,7 @@ Abstract: Multi-user locomotion in VR has grown increasingly common, posing nume
 
 
 ### Investigating Virtual Reality Locomotion Techniques with Blind People
-Authors: André Rodrigues, Renato Ribeiro, Carlos Duarte, Manuel Piçarra, Letícia Seixas Pereira, João Guerreiro, Inês Gonçalves
+Authors: Renato Ribeiro, Inês Gonçalves, Manuel Piçarra, Letícia Seixas Pereira, Carlos Duarte, André Rodrigues, João Guerreiro
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147547)
 
@@ -1953,7 +1953,7 @@ Abstract: Many Virtual Reality (VR) locomotion techniques have been proposed, bu
 
 
 ### The Effect of Spatial Audio on Curvature Gains in VR Redirected Walking
-Authors: Christof van Nimwegen, Julian Frommel, Michael Rietzler, Maarten Gerritse
+Authors: Maarten Gerritse, Michael Rietzler, Christof van Nimwegen, Julian Frommel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146928)
 
@@ -1964,7 +1964,7 @@ Abstract: Redirected walking (RDW) is a technique that allows users to navigate 
 ### Stacked Retargeting: Combining Redirected Walking and Hand Redirection to Expand Haptic Retargeting's Coverage
 HONORABLE_MENTION
 
-Authors: Aldrich Clarence, Michael Wybrow, Jarrod Knibbe, Maxime Cordeil
+Authors: Aldrich Clarence, Jarrod Knibbe, Maxime Cordeil, Michael Wybrow
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148329)
 
@@ -1975,11 +1975,11 @@ Abstract: We present Stacked Retargeting—combining haptic retargeting and redi
 
 ## Supporting Communication and Intimacy
 ### Rehearsal: Simulating Conflict to Teach Conflict Resolution
-Authors: Omar Shaikh, Diyi Yang, Michele Gelfand, Michael Bernstein, Valentino Chai
+Authors: Omar Shaikh, Valentino Chai, Michele Gelfand, Diyi Yang, Michael Bernstein
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147513)
 
-Abstract: Interpersonal conflict is an uncomfortable but unavoidable fact of life. Navigating conflict successfully is a skill -- one that can be learned through deliberate practice -- but few have access to effective training or feedback. To expand this access, we introduce Rehearsal, a system that allows users to rehearse conflicts with a believable simulated interlocutor, explore counterfactual "what if?" scenarios to identify alternative conversational paths, and learn through feedback on how and when to apply specific conflict strategies. Users can utilize Rehearsal to practice handling a variety of predefined conflict scenarios, from office disputes to relationship issues, or they can choose to create their own setting. To enable Rehearsal, we develop IRP prompting, a method of conditioning output of a large language model on the influential Interest-Rights-Power (IRP) theory from conflict resolution. Rehearsal uses IRP to generate utterances grounded in conflict resolution theory, guiding users towards counterfactual conflict resolution strategies that help de-escalate difficult conversations. In a between-subjects evaluation, 40 participants engaged in an actual conflict with a confederate after training. Compared to a control group with lecture material covering the same IRP theory, participants with simulated training from Rehearsal significantly improved their performance in the unaided conflict: they reduced their use of escalating competitive strategies by an average of 67%, while doubling their use of cooperative strategies. Overall, Rehearsal highlights the potential effectiveness of language models as tools for learning and practicing interpersonal skills.
+Abstract: Interpersonal conflict is an uncomfortable but unavoidable fact of life. Navigating conflict successfully is a skill -- one that can be learned through deliberate practice -- but few have access to effective training or feedback. To expand this access, we introduce Rehearsal, a system that allows users to rehearse conflicts with a believable simulated interlocutor, explore counterfactual "what if?" scenarios to identify alternative conversational paths, and learn through feedback on how and when to apply specific conflict strategies. Users can utilize Rehearsal to practice handling a variety of predefined conflict scenarios, from office disputes to relationship issues, or they can choose to create their own setting. To enable Rehearsal, we develop IRP prompting, a method of conditioning output of a large language model on the influential Interest-Rights-Power (IRP) theory from conflict resolution. Rehearsal uses IRP to generate utterances grounded in conflict resolution theory, guiding users towards counterfactual conflict resolution strategies that help de-escalate difficult conversations. In a between-subjects evaluation, 40 participants engaged in an actual conflict with a confederate after training. Compared to a control group with lecture material covering the same IRP theory, participants with simulated training from Rehearsal significantly improved their performance in the unaided conflict: they reduced their use of escalating competitive strategies by an average of 67%, while doubling their use of cooperative strategies. Overall, Rehearsal highlights the potential effectiveness of language models as tools for learning and practicing interpersonal skills.
 
 
 
@@ -1987,7 +1987,7 @@ Abstract: Interpersonal conflict is an uncomfortable but unavoidable fact of lif
 ### Seeking Soulmate via Voice: Understanding Promises and Challenges of Online Synchronized Voice-Based Mobile Dating
 HONORABLE_MENTION
 
-Authors: Yan Xu, Chenxinran Shen, Zhicong Lu, RAY LC
+Authors: Chenxinran Shen, Yan Xu, RAY LC, Zhicong Lu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147442)
 
@@ -1996,7 +1996,7 @@ Abstract: Online dating has become a popular way for individuals to connect with
 
 
 ### A Change of Scenery: Transformative Insights from Retrospective VR Embodied Perspective-Taking of Conflict With a Close Other
-Authors: Leo Cui, Seraphina Yong, Svetlana Yarosh, Evan Suma Rosenberg
+Authors: Seraphina Yong, Leo Cui, Evan Suma Rosenberg, Svetlana Yarosh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147966)
 
@@ -2005,7 +2005,7 @@ Abstract: Close relationships are irreplaceable social resources, yet prone to h
 
 
 ### "Delete it and Move On": Digital Management of Shared Sexual Content after a Breakup
-Authors: Allison McDonald, Kathryn Coduto
+Authors: Kathryn Coduto, Allison McDonald
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147003)
 
@@ -2014,7 +2014,7 @@ Abstract: Sexting is a common and healthy behavior in romantic and sexual relati
 
 
 ### Sharing Frissons among Online Video Viewers: Exploring the Design of Affective Communication for Aesthetic Chills
-Authors: Xinyi Cao, Zeyu Huang, Xiaojuan Ma, Yuanhao Zhang
+Authors: Zeyu Huang, Xinyi Cao, Yuanhao Zhang, Xiaojuan Ma
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147357)
 
@@ -2036,7 +2036,7 @@ Abstract: Researchers have argued that large language models (LLMs) exhibit high
 ### Authors' Values and Attitudes Towards AI-bridged Scalable Personalization of Creative Language Arts
 HONORABLE_MENTION
 
-Authors: Matthew Kay, John Chung, Hyomin Han, Eytan Adar, Taewook Kim
+Authors: Taewook Kim, Hyomin Han, Eytan Adar, Matthew Kay, John Chung
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147512)
 
@@ -2045,7 +2045,7 @@ Abstract: Generative AI has the potential to create a new form of interactive me
 
 
 ### Generative AI in Creative Practice: ML-Artist Folk Theories of T2I Use, Harm, and Harm-Reduction
-Authors: Negar Rostamzadeh, Renee Shelby, Shalaleh Rismani
+Authors: Renee Shelby, Shalaleh Rismani, Negar Rostamzadeh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148258)
 
@@ -2054,7 +2054,7 @@ Abstract: Understanding how communities experience algorithms is necessary to mi
 
 
 ### Jess+: AI and robotics with inclusive music-making 
-Authors: Craig Vear, Adrian Hazzard, Johann Benerradi, Solomiya Moroz
+Authors: Craig Vear, Adrian Hazzard, Solomiya Moroz, Johann Benerradi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147296)
 
@@ -2067,7 +2067,7 @@ Abstract: This paper discusses the findings from a cross-sector research project
 ### Navigating Real-World Challenges: A Quadruped Robot Guiding System for Visually Impaired People in Diverse Environments
 HONORABLE_MENTION
 
-Authors: Mohd Alqama Shaikh, SHAOJUN CAI, Shengdong Zhao, Kotaro Hara, Zhengtai Gou, Yingjia Wan, Yu-An Chen, David Hsu, Ashwin Ram
+Authors: SHAOJUN CAI, Ashwin Ram, Zhengtai Gou, Mohd Alqama Shaikh, Yu-An Chen, Yingjia Wan, Kotaro Hara, Shengdong Zhao, David Hsu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147169)
 
@@ -2076,28 +2076,28 @@ Authors: Mohd Alqama Shaikh, SHAOJUN CAI, Shengdong Zhao, Kotaro Hara, Zhengtai 
 ### TADA: Making Node-link Diagrams Accessible to Blind and Low-Vision People
 HONORABLE_MENTION
 
-Authors: Yichun Zhao, Mahadeo Sukhai, Miguel Nacenta, Sowmya Somanath
+Authors: Yichun Zhao, Miguel Nacenta, Mahadeo Sukhai, Sowmya Somanath
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147533)
 
 
 
 ### Umwelt: Accessible Structured Editing of Multi-Modal Data Representations
-Authors: Daniel Hajas, Jonathan Zong, Arvind Satyanarayan, Isabella Pedraza Pineros, Mengzhu (Katie) Chen
+Authors: Jonathan Zong, Isabella Pedraza Pineros, Mengzhu (Katie) Chen, Daniel Hajas, Arvind Satyanarayan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146952)
 
 
 
 ### How Do Low-Vision Individuals Experience Information Visualization?
-Authors: Yuhang Zhao, Yanan Wang, Yea-Seul Kim
+Authors: Yanan Wang, Yuhang Zhao, Yea-Seul Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147037)
 
 
 
 ### “Customization is Key”: Reconfigurable Textual Tokens for Accessible Data Visualizations
-Authors: Daniel Hajas, Jonathan Zong, Arvind Satyanarayan, Isabella Pedraza Pineros, Shuli Jones
+Authors: Shuli Jones, Isabella Pedraza Pineros, Daniel Hajas, Jonathan Zong, Arvind Satyanarayan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146771)
 
@@ -2108,21 +2108,21 @@ Authors: Daniel Hajas, Jonathan Zong, Arvind Satyanarayan, Isabella Pedraza Pine
 ### Supporting Task Switching with Reinforcement Learning
 HONORABLE_MENTION
 
-Authors: Alexander Lingler, Jussi Jokinen, Philipp Wintersberger, Dinara Talypova, Antti Oulasvirta
+Authors: Alexander Lingler, Dinara Talypova, Jussi Jokinen, Antti Oulasvirta, Philipp Wintersberger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147418)
 
 
 
 ### Augmented Reality Cues Facilitate Task Resumption after Interruptions in Computer-Based and Physical Tasks 
-Authors: Lucas Plabst, Tobias Grundgeiger, Lucas Tiemann, Kilian Bahnsen
+Authors: Kilian Bahnsen, Lucas Tiemann, Lucas Plabst, Tobias Grundgeiger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147918)
 
 
 
 ### Heads-Up Multitasker: Simulating Attention Switching On Optical Head-Mounted Displays
-Authors: Aleksi Ikkala, Shengdong Zhao, Lucia Wang, Yunpeng Bai, Pengzhi Yang, Peisen Xu, Antti Oulasvirta
+Authors: Yunpeng Bai, Aleksi Ikkala, Antti Oulasvirta, Shengdong Zhao, Lucia Wang, Pengzhi Yang, Peisen Xu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147957)
 
@@ -2131,14 +2131,14 @@ Authors: Aleksi Ikkala, Shengdong Zhao, Lucia Wang, Yunpeng Bai, Pengzhi Yang, P
 ### SplitBody: Reducing Mental Workload while Multitasking via Muscle Stimulation
 BEST_PAPER
 
-Authors: Yun Ho, Pedro Lopes, Romain Nith
+Authors: Romain Nith, Yun Ho, Pedro Lopes
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146989)
 
 
 
 ### Improving Attention Using Wearables via Haptic and Multimodal Rhythmic Stimuli
-Authors: Sam Chin, Patrick Chwalek, Samantha Chan, Pattie Maes, Jingru Zhang, Nathan Whitmore
+Authors: Nathan Whitmore, Samantha Chan, Jingru Zhang, Patrick Chwalek, Sam Chin, Pattie Maes
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147209)
 
@@ -2147,7 +2147,7 @@ Authors: Sam Chin, Patrick Chwalek, Samantha Chan, Pattie Maes, Jingru Zhang, Na
 
 ## Creative Media and AI
 ### ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation
-Authors: Fenggui Rao, Zihan Wu, Teng Tu, Xianzhe Fan, Weinan Shi, Chun Yu
+Authors: Xianzhe Fan, Zihan Wu, Chun Yu, Fenggui Rao, Weinan Shi, Teng Tu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148054)
 
@@ -2156,7 +2156,7 @@ Abstract: The rapid advancement of AI-generated content (AIGC) promises to trans
 
 
 ### InkBrush: A Sketching Tool for 3D Ink Painting
-Authors: Xing-Dong Yang, Zhihao Yao, Haipeng Mi, Guanhong Liu, Yao Lu, Qirui Sun, Beituo Liu
+Authors: Zhihao Yao, Qirui Sun, Beituo Liu, Yao Lu, Guanhong Liu, Xing-Dong Yang, Haipeng Mi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147709)
 
@@ -2165,7 +2165,7 @@ Abstract: InkBrush is a new sketch-based 3D drawing tool for creating 3D ink pai
 
 
 ### TutoAI: a cross-domain framework for AI-assisted mixed-media tutorial creation on physical tasks
-Authors: Yuexi Chen, Anh Truong, Zhicheng Liu, Vlad Morariu
+Authors: Yuexi Chen, Vlad Morariu, Anh Truong, Zhicheng Liu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147303)
 
@@ -2174,7 +2174,7 @@ Abstract: Mixed-media tutorials, which integrate videos, images, text, and diagr
 
 
 ### OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines
-Authors: Haotian Li, Yanna Lin, Fengjie Wang, Min Zhu, Huamin Qu, Mingyang Gu, Leni Yang
+Authors: Fengjie Wang, Yanna Lin, Leni Yang, Haotian Li, Mingyang Gu, Min Zhu, Huamin Qu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147593)
 
@@ -2183,12 +2183,12 @@ Abstract: Computational notebooks are widely utilized for exploration and analys
 
 
 ### Prompting for Discovery: Flexible Sense-Making for AI Art-Making with Dreamsheets
-Authors: Shm Almeda, J.D. Zamfirescu-Pereira, Bjoern Hartmann, Kyu Won Kim, Pradeep Mani Rathnam
+Authors: Shm Almeda, J.D. Zamfirescu-Pereira, Kyu Won Kim, Pradeep Mani Rathnam, Bjoern Hartmann
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147361)
 
-Abstract: Design space exploration (DSE) for Text-to-Image (TTI) models entails navigating a vast, opaque space of possible image outputs, through a commensurately vast input space of hyperparameters and prompt text. Perceptually small movements in prompt-space can surface unexpectedly disparate images. How can interfaces support end-users in reliably steering prompt-space explorations towards interesting results?
-Our design probe, DreamSheets, supports user-composed exploration strategies with LLM-assisted prompt construction and large-scale simultaneous display of generated results, hosted in a spreadsheet interface. 
+Abstract: Design space exploration (DSE) for Text-to-Image (TTI) models entails navigating a vast, opaque space of possible image outputs, through a commensurately vast input space of hyperparameters and prompt text. Perceptually small movements in prompt-space can surface unexpectedly disparate images. How can interfaces support end-users in reliably steering prompt-space explorations towards interesting results?
+Our design probe, DreamSheets, supports user-composed exploration strategies with LLM-assisted prompt construction and large-scale simultaneous display of generated results, hosted in a spreadsheet interface. 
 Two studies, a preliminary lab study and an extended two-week study where five expert artists developed custom TTI sheet-systems, reveal various strategies for targeted TTI design space exploration---such as using templated text generation to define and layer semantic ``axes'' for exploration. We identified patterns in exploratory structures across our participants' sheet-systems: configurable exploration ``units'' that we distill into a UI mockup, and generalizable UI components to guide future interfaces.
 
 
@@ -2205,17 +2205,17 @@ Abstract: Community telehealth programs (CTPs) enable low-income older adults to
 
 
 ### Leveraging Implementation Science in Human-Centred Design for Digital Health 
-Authors: Joe Wherton, Christopher Prawira, Patrick Olivier, Peta Stragalinos, Joshua Paolo Seguin, Victoria Manning, Ling Wu, Jessica Watterson, Dan Lubman, Alex Waddell, Jasmin Grigg
+Authors: Alex Waddell, Joshua Paolo Seguin, Ling Wu, Peta Stragalinos, Joe Wherton, Jessica Watterson, Christopher Prawira, Patrick Olivier, Victoria Manning, Dan Lubman, Jasmin Grigg
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146775)
 
-Abstract: There are increasing concerns that digital interventions in healthcare settings could be better designed for scalable and sustained use. Implementation science is the scientific study of how to embed evidence-based interventions in practice. Calls to integrate implementation science and Human-Centred Design methods have focused on integrating design methods within implementation science processes. By contrast, we present a novel approach to integrating implementation science within Human-Centred Design for digital health interventions. Our approach leverages the socio-technical Nonadoption, abandonment, scale-up, spread, and sustainability (NASSS) framework within the distinct phases of the Double Diamond process. To illustrate our proposal we demonstrate its application in the redesign of a brief health promotion intervention to reduce the risk of alcohol-attributable breast cancer in women attending routine mammography. We discuss reflections on the approach and implications for future research that targets implementation within design. 
+Abstract: There are increasing concerns that digital interventions in healthcare settings could be better designed for scalable and sustained use. Implementation science is the scientific study of how to embed evidence-based interventions in practice. Calls to integrate implementation science and Human-Centred Design methods have focused on integrating design methods within implementation science processes. By contrast, we present a novel approach to integrating implementation science within Human-Centred Design for digital health interventions. Our approach leverages the socio-technical Nonadoption, abandonment, scale-up, spread, and sustainability (NASSS) framework within the distinct phases of the Double Diamond process. To illustrate our proposal we demonstrate its application in the redesign of a brief health promotion intervention to reduce the risk of alcohol-attributable breast cancer in women attending routine mammography. We discuss reflections on the approach and implications for future research that targets implementation within design. 
 
 
 
 
 ### Promoting Engagement in Remote Patient Monitoring Using Asynchronous Messaging
-Authors: Eyal de Lara, Alex Mariakakis, Tiago Falk, Robert Wu, Salaar Liaqat, Nisha Patel, Andrea Gershon, Tatiana Son, Daniyal Liaqat
+Authors: Salaar Liaqat, Daniyal Liaqat, Nisha Patel, Tatiana Son, Tiago Falk, Robert Wu, Andrea Gershon, Alex Mariakakis, Eyal de Lara
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148308)
 
@@ -2224,7 +2224,7 @@ Abstract: Remote patient monitoring is becoming increasingly instrumental to hea
 
 
 ### To Reach the Unreachable: Exploring the Potential of VR Hand Redirection for Upper Limb Rehabilitation
-Authors: Xin Li, Yukai Zhang, Mingming Fan, Jinni ZHOU, Xiquan Hu, Shihan Fu, Peixuan Xiong, Nandi Zhang, Yadan Zheng
+Authors: Peixuan Xiong, Yukai Zhang, Nandi Zhang, Shihan Fu, Xin Li, Yadan Zheng, Jinni ZHOU, Xiquan Hu, Mingming Fan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147545)
 
@@ -2233,11 +2233,11 @@ Abstract: Rehabilitation therapies are widely employed to assist people with mot
 
 
 ### Investigating the Mechanisms by which Prevalent Online Community Behaviors Influence Responses to Misinformation: Do Perceived Norms Really Act as a Mediator?
-Authors: Eric Baumer, Zhila Aghajari, Nabarun Dasgupta, Dominic DiFranzo, Allison Lazard
+Authors: Zhila Aghajari, Eric Baumer, Allison Lazard, Nabarun Dasgupta, Dominic DiFranzo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148042)
 
-Abstract: This study addresses two currently open questions about  how behaviors of online community members influence others' responses to misinformation. First, in contrast to prior work, it directly measures norm perception to address whether (1) norm perception actually acts as a mediator, (2) others' behaviors directly influence individuals' responses to misinformation, (3) both direct and mediated effects occur. Second, it investigates norm perceptions about a behavior that is not readily observable in online communities, but is prone to misinformation, specifically, vaccination. To do so, it experimentally manipulates the prevalence of communicating about vaccination (an unobservable behavior) within an online community. The results demonstrate no evidence of a direct effect---the causal relationship between prevalence of communicating a behavior and intentions to respond to misinformation only occurs via norm perception as a mediator. The paper highlights implications of these findings for designing community-centered interventions to influence perceived norms, thereby mitigating misinformation spread and impacts.
+Abstract: This study addresses two currently open questions about  how behaviors of online community members influence others' responses to misinformation. First, in contrast to prior work, it directly measures norm perception to address whether (1) norm perception actually acts as a mediator, (2) others' behaviors directly influence individuals' responses to misinformation, (3) both direct and mediated effects occur. Second, it investigates norm perceptions about a behavior that is not readily observable in online communities, but is prone to misinformation, specifically, vaccination. To do so, it experimentally manipulates the prevalence of communicating about vaccination (an unobservable behavior) within an online community. The results demonstrate no evidence of a direct effect---the causal relationship between prevalence of communicating a behavior and intentions to respond to misinformation only occurs via norm perception as a mediator. The paper highlights implications of these findings for designing community-centered interventions to influence perceived norms, thereby mitigating misinformation spread and impacts.
 
 
 
@@ -2263,7 +2263,7 @@ Abstract: How do individual differences in personal morality affect perceptions 
 
 
 ### Which Artificial Intelligences Do People Care About Most? A Conjoint Experiment on Moral Consideration
-Authors: Jamie Harris, Ali Ladak, Jacy Anthis
+Authors: Ali Ladak, Jamie Harris, Jacy Anthis
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147255)
 
@@ -2272,7 +2272,7 @@ Abstract: Many studies have identified particular features of artificial intelli
 
 
 ### The Illusion of Artificial Inclusion
-Authors: Stevie Bergman, Mark Diaz, Seliem El-Sayed, William Agnew, Shakir Mohamed, Jennifer Chien, Jaylen Pittman, Kevin McKee
+Authors: William Agnew, Stevie Bergman, Jennifer Chien, Mark Diaz, Seliem El-Sayed, Jaylen Pittman, Shakir Mohamed, Kevin McKee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147179)
 
@@ -2281,7 +2281,7 @@ Abstract: Human participants play a central role in the development of modern ar
 
 
 ### “They only care to show us the wheelchair”: disability representation in text-to-image AI models
-Authors: Shaun Kane, Rida Qadri, Remi Denton, Cynthia Bennett, Kelly Avery Mack
+Authors: Kelly Avery Mack, Rida Qadri, Remi Denton, Shaun Kane, Cynthia Bennett
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147662)
 
@@ -2292,7 +2292,7 @@ Abstract: This paper reports on disability representation in images output from 
 
 ## Explainable AI
 ### User Characteristics in Explainable AI: The Rabbit Hole of Personalization?
-Authors: Marios Constantinides, Ke Zhou, Daniele Quercia, Simone Stumpf, Robert Nimmo
+Authors: Robert Nimmo, Marios Constantinides, Ke Zhou, Daniele Quercia, Simone Stumpf
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148017)
 
@@ -2301,7 +2301,7 @@ Abstract: As Artificial Intelligence (AI) becomes ubiquitous, the need for Expla
 
 
 ### Incremental XAI: Memorable Understanding of AI with Incremental Explanations
-Authors: Pan Hao, Jessica Bo, Brian Lim
+Authors: Jessica Bo, Pan Hao, Brian Lim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147050)
 
@@ -2310,7 +2310,7 @@ Abstract: Many explainable AI (XAI) techniques strive for interpretability by pr
 
 
 ### Why the Fine, AI? The Effect of Explanation Level on Citizens' Fairness Perception of AI-based Discretion in Public Administrations
-Authors: Saja Aljuneidi, Susanne Boll, Larbi Abdenebaoui, Maria Wolters, Wilko Heuten
+Authors: Saja Aljuneidi, Wilko Heuten, Larbi Abdenebaoui, Maria Wolters, Susanne Boll
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147920)
 
@@ -2319,7 +2319,7 @@ Abstract: The integration of Artificial Intelligence into decision-making proces
 
 
 ### EXMOS: Explanatory Model Steering through Multifaceted Explanations and Data Configurations
-Authors: Aditya Bhattacharya, Gregor Stiglic, Lucija Gosak, Katrien Verbert, Simone Stumpf
+Authors: Aditya Bhattacharya, Simone Stumpf, Lucija Gosak, Gregor Stiglic, Katrien Verbert
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146863)
 
@@ -2328,7 +2328,7 @@ Abstract: Explanations in interactive machine-learning systems facilitate debugg
 
 
 ### The Who in XAI: How AI Background Shapes Perceptions of AI Explanations
-Authors: I-Hsiang Lee, Mark Riedl, Larry Chan, Upol Ehsan, Michael Muller, Q. Vera Liao, Samir Passi
+Authors: Upol Ehsan, Samir Passi, Q. Vera Liao, Larry Chan, I-Hsiang Lee, Michael Muller, Mark Riedl
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147327)
 
@@ -2339,35 +2339,35 @@ Abstract: Explainability of AI systems is critical for users to take informed ac
 
 ## Fabrication, Circuits and Tangibles
 ### E-Acrylic: Electronic-Acrylic Composites for Making Interactive Artifacts
-Authors: Clement Zheng, Bo Han, Ching Chiuan Yen, Xin Liu
+Authors: Bo Han, Xin Liu, Ching Chiuan Yen, Clement Zheng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147806)
 
 
 
 ### Painting Inferno: Novel Heat and Stiffness Control Methods with Carbon Nanomaterial Conductive Heating Paint
-Authors: Tatsuya Kobayashi, Yutaka Tokuda
+Authors: Yutaka Tokuda, Tatsuya Kobayashi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147168)
 
 
 
 ### SnapInflatables: Designing Inflatables with Snap-through Instability for Responsive Interaction
-Authors: Jiang WU, Zhuoyi Zhang, Kuangqi Zhu, Yue Yang, Yongbo Ni, Qi Wang, Xinyan Li, Lei Ren, Guanyun Wang, Chuang Chen, Bin Hu, Lingyun Sun, Jiayi Wu, Junzhe Ji, Yanchen Shen, Ye Tao, Yuyang Zhang
+Authors: Yue Yang, Lei Ren, Chuang Chen, Bin Hu, Zhuoyi Zhang, Xinyan Li, Yanchen Shen, Kuangqi Zhu, Junzhe Ji, Yuyang Zhang, Yongbo Ni, Jiayi Wu, Qi Wang, Jiang WU, Lingyun Sun, Ye Tao, Guanyun Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148172)
 
 
 
 ### LaCir: A multilayered laser-cuttable material to co-fabricate circuitry and structural components.
-Authors: Niels Buch, Valkyrie Savage, Daniel Ashbrook, Carlos Tejada
+Authors: Niels Buch, Carlos Tejada, Daniel Ashbrook, Valkyrie Savage
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148299)
 
 
 
 ### Design Space Exploration for Board-level Circuits: Exploring Alternatives in Component-based Design
-Authors: Ankur Mehta, Parth Pandhare, Bjoern Hartmann, Rohit Ramesh, Prabal Dutta, Richard Lin, Kai Jun Tay
+Authors: Richard Lin, Rohit Ramesh, Parth Pandhare, Kai Jun Tay, Prabal Dutta, Bjoern Hartmann, Ankur Mehta
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147466)
 
@@ -2376,35 +2376,35 @@ Authors: Ankur Mehta, Parth Pandhare, Bjoern Hartmann, Rohit Ramesh, Prabal Dutt
 
 ## Fabrication: 3D Printing B
 ### CeraMetal: A New Approach to Low-Cost Metal 3D Printing with Bronze Clay
-Authors: Fiona Bell, Jaime Gould, Leah Buechley
+Authors: Leah Buechley, Jaime Gould, Fiona Bell
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147951)
 
 
 
 ### Palette-PrintAR: augmented reality design and simulation for multicolor resin 3D printing
-Authors: Joseph DeSimone, Gabriel Lipkowitz
+Authors: Gabriel Lipkowitz, Joseph DeSimone
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147395)
 
 
 
 ### Understanding the Challenges of OpenSCAD Users for 3D Printing
-Authors: Audrey Girouard, Thomas Pietrzak, Géry Casiez, J Gonzalez Avila
+Authors: J Gonzalez Avila, Thomas Pietrzak, Audrey Girouard, Géry Casiez
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146848)
 
 
 
 ### Touch-n-Go: Designing and Fabricating Touch Fastening Structures by FDM 3D Printing
-Authors: Ye Tao, Deying Pan, Boyi Lian, Yue Tao, Hongyi Hu, Guanyun Wang, Shanghua Lou, Lingyun Sun, Junzhe Ji, Yitao Fan, Yuyang Zhang
+Authors: Lingyun Sun, Deying Pan, Yuyang Zhang, Hongyi Hu, Junzhe Ji, Yue Tao, Shanghua Lou, Boyi Lian, Yitao Fan, Ye Tao, Guanyun Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147487)
 
 
 
 ### WeaveSlicer: Expanding the Range of Printable Geometries in Clay
-Authors: Deanna Gelosi, Fiona Bell, Leah Buechley, Camila Friedman-Gerlicz
+Authors: Camila Friedman-Gerlicz, Deanna Gelosi, Fiona Bell, Leah Buechley
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147620)
 
@@ -2413,7 +2413,7 @@ Authors: Deanna Gelosi, Fiona Bell, Leah Buechley, Camila Friedman-Gerlicz
 
 ## Gaze Interaction in Immersive Environments
 ### Towards an Eye-Brain-Computer Interface: Combining Gaze with the Stimulus-Preceding Negativity for Target Selections in XR
-Authors: Michael Proulx, Leanne Hirshfield, Anthony Ries, G S Rajshekar Reddy
+Authors: G S Rajshekar Reddy, Michael Proulx, Leanne Hirshfield, Anthony Ries
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146977)
 
@@ -2422,7 +2422,7 @@ Abstract: Gaze-assisted interaction techniques enable intuitive selections witho
 
 
 ### Gaze on the Go: Effect of Spatial Reference Frame on Visual Target Acquisition During Physical Locomotion in Extended Reality
-Authors: Hans Gellersen, Pavel Manakhov, Ken Pfeuffer, Ludwig Sidenmark
+Authors: Pavel Manakhov, Ludwig Sidenmark, Ken Pfeuffer, Hans Gellersen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146967)
 
@@ -2431,17 +2431,17 @@ Abstract: Spatial interaction relies on fast and accurate visual acquisition. In
 
 
 ### MOSion: Gaze Guidance with Motion-triggered Visual Cues by Mosaic Patterns
-Authors: Arisa Kohtani, Hidetaka Katsuyama, Hideki Koike, Shio Miyafuji, Keishiro Uragaki
+Authors: Arisa Kohtani, Shio Miyafuji, Keishiro Uragaki, Hidetaka Katsuyama, Hideki Koike
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148121)
 
-Abstract: We propose a gaze-guiding method called MOSion to adjust the guiding strength reacted to observers’ motion based on a high-speed projector and the afterimage effect in the human vision system. Our method decomposes the target area into mosaic patterns to
+Abstract: We propose a gaze-guiding method called MOSion to adjust the guiding strength reacted to observers’ motion based on a high-speed projector and the afterimage effect in the human vision system. Our method decomposes the target area into mosaic patterns to
 embed visual cues in the perceived images. The patterns can only direct the attention of the moving observers to the target area. The stopping observer can see the original image with little distortion because of light integration in the visual perception. The pre computation of the patterns provides the adaptive guiding effect without tracking devices and computational costs depending on the movements. The evaluation and the user study show that the mosaic decomposition enhances the perceived saliency with a few visual artifacts, especially in moving conditions. Our method embedded in white lights works in various situations such as planar posters, advertisements, and curved objects.
 
 
 
 ### FocusFlow: 3D Gaze-Depth Interaction in Virtual Reality Leveraging Active Visual Depth Manipulation
-Authors: Elahe Soltanaghai, Eric Shaffer, Chenyang Zhang, Tiansu Chen
+Authors: Chenyang Zhang, Tiansu Chen, Eric Shaffer, Elahe Soltanaghai
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146886)
 
@@ -2450,12 +2450,12 @@ Abstract: Gaze interaction presents a promising avenue in Virtual Reality (VR) d
 
 
 ### Snap, Pursuit and Gain: Virtual Reality Viewport Control by Gaze
-Authors: Hans Gellersen, Hock Siang Lee, Ludwig Sidenmark, Florian Weidner
+Authors: Hock Siang Lee, Florian Weidner, Ludwig Sidenmark, Hans Gellersen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147889)
 
-Abstract: Head-mounted displays let users explore virtual environments through a viewport that is coupled with head movement. In this work, we investigate gaze as an alternative modality for viewport control, enabling exploration of virtual worlds with less head movement.
-We designed three techniques that leverage gaze based on different eye movements: Dwell Snap for viewport rotation in discrete steps, Gaze Gain for amplified viewport rotation based on gaze angle, and Gaze Pursuit for central viewport alignment of gaze targets. All three techniques enable 360-degree viewport control through naturally coordinated eye and head movement.
+Abstract: Head-mounted displays let users explore virtual environments through a viewport that is coupled with head movement. In this work, we investigate gaze as an alternative modality for viewport control, enabling exploration of virtual worlds with less head movement.
+We designed three techniques that leverage gaze based on different eye movements: Dwell Snap for viewport rotation in discrete steps, Gaze Gain for amplified viewport rotation based on gaze angle, and Gaze Pursuit for central viewport alignment of gaze targets. All three techniques enable 360-degree viewport control through naturally coordinated eye and head movement.
 We evaluated the techniques in comparison with controller snap and head amplification baselines, for both coarse and precise viewport control, and found them to be as fast and accurate. We observed a high variance in performance which may be attributable to the different degrees to which humans tend to support gaze shifts with head movement.
 
 
@@ -2463,35 +2463,35 @@ We evaluated the techniques in comparison with controller snap and head amplific
 
 ## Gig Workers
 ### "At the end of the day, I am accountable": Gig Workers' Self-Tracking for Multi-Dimensional Accountability Management
-Authors: Rie Helene (Lindy) Hernandez, Qiurong Song, Xinning Gui, Yubo Kou
+Authors: Rie Helene (Lindy) Hernandez, Qiurong Song, Yubo Kou, Xinning Gui
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147575)
 
 
 
 ### Silent Delivery: Practices and Challenges of Delivering Among Deaf or Hard of Hearing Couriers
-Authors: Shi Chen, Weijun Li, Xiaodong Wang, Jiaqi Teng, Zhihan Zeng, Jingao Zhang, Yuge Qi
+Authors: Shi Chen, Xiaodong Wang, Weijun Li, Jingao Zhang, Yuge Qi, Jiaqi Teng, Zhihan Zeng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147217)
 
 
 
 ### Bodywork at Work: Attending to Bodily Needs in Gig, Shift, and Knowledge Work
-Authors: Kasper Karlgren, Barry Brown, Donald McMillan, Airi Lampinen, Deepika Yadav, Riyaj Shaikh, Karey Helms
+Authors: Deepika Yadav, Kasper Karlgren, Riyaj Shaikh, Karey Helms, Donald McMillan, Barry Brown, Airi Lampinen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148300)
 
 
 
 ### GigSousveillance: Designing Gig Worker Centric Sousveillance Tools
-Authors: Saiph Savage, Michael Muller, Kimberly Do, Maya De Los Santos
+Authors: Kimberly Do, Maya De Los Santos, Michael Muller, Saiph Savage
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147008)
 
 
 
 ### Not Just A Dot on The Map: Food Delivery Workers as Infrastructure
-Authors: Anubha Singh, Barry Brown, Airi Lampinen, Riyaj Shaikh
+Authors: Riyaj Shaikh, Anubha Singh, Barry Brown, Airi Lampinen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147254)
 
@@ -2502,7 +2502,7 @@ Authors: Anubha Singh, Barry Brown, Airi Lampinen, Riyaj Shaikh
 ### Augmenting Perceived Length of Handheld Controllers: Effects of Object Handle Properties
 HONORABLE_MENTION
 
-Authors: Seungmoon Choi, Chaeyong Park
+Authors: Chaeyong Park, Seungmoon Choi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147414)
 
@@ -2511,7 +2511,7 @@ Abstract: In the realm of virtual reality (VR), shape-changing controllers have 
 
 
 ### VeeR: Exploring the Feasibility of Deliberately Designing VR Motion that Diverges from Mundane, Everyday Physical Motion to Create More Entertaining VR Experiences
-Authors: Pin Chun Lu, Alvaro Lopez, Wei Tian Mireille Tan, LI-CHUN LU, Chiao-Ju Chang, Ching-Yi Tsai, Mike Chen, Yu Lun Hsu, Che Wei Wang
+Authors: Pin Chun Lu, Che Wei Wang, Yu Lun Hsu, Alvaro Lopez, Ching-Yi Tsai, Chiao-Ju Chang, Wei Tian Mireille Tan, LI-CHUN LU, Mike Chen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148319)
 
@@ -2520,7 +2520,7 @@ Abstract: This paper explores the feasibility of deliberately designing VR motio
 
 
 ### InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR
-Authors: Ryo Suzuki, Kazuki Takashima, Ryota Gomi, Kazuyuki Fujita, Yoshifumi Kitamura
+Authors: Ryota Gomi, Ryo Suzuki, Kazuki Takashima, Kazuyuki Fujita, Yoshifumi Kitamura
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147815)
 
@@ -2529,7 +2529,7 @@ Abstract: We introduce InflatableBots, shape-changing inflatable robots for larg
 
 
 ### Experiencing Dynamic Weight Changes in Virtual Reality Through Pseudo-Haptics and Vibrotactile Feedback
-Authors: Jan-Niklas Voigt-Antons, Tanja Kojic, Johannes Schöning, Carolin Stellmacher, Feri Pujianto
+Authors: Carolin Stellmacher, Feri Pujianto, Tanja Kojic, Jan-Niklas Voigt-Antons, Johannes Schöning
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147460)
 
@@ -2538,7 +2538,7 @@ Abstract: Virtual reality (VR) objects react dynamically to users' touch interac
 
 
 ### Exploring Mobile Devices as Haptic Interfaces for Mixed Reality
-Authors: Yannick Weiss, Florian Mathis, Johannes Schöning, Carolin Stellmacher, Nadine Wagener, Meagan Loerakker
+Authors: Carolin Stellmacher, Florian Mathis, Yannick Weiss, Meagan Loerakker, Nadine Wagener, Johannes Schöning
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148298)
 
@@ -2549,35 +2549,35 @@ Abstract: Dedicated handheld controllers facilitate haptic experiences of virtua
 
 ## Haptics: Force, Thermal and Tactile Feedback
 ### Stick&Slip: Altering Fingerpad Friction via Liquid Coatings
-Authors: Jacob Serfaty, Pedro Lopes, Alex Mazursky
+Authors: Alex Mazursky, Jacob Serfaty, Pedro Lopes
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148219)
 
 
 
 ### HIFU Embossment of Acrylic Sheets
-Authors: Ryosei Kojima, Kengo Tanaka, Takahito Murakami, Ayaka Tsutsui, Tatsuki Fushimi, Yoichi Ochiai
+Authors: Ayaka Tsutsui, Tatsuki Fushimi, Takahito Murakami, Ryosei Kojima, Kengo Tanaka, Yoichi Ochiai
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147095)
 
 
 
 ### Shaping Compliance: Inducing Haptic Illusion of Compliance in Different Shapes with Electrotactile Grains
-Authors: Jürgen Steimle, Arata Jingu, Nihar Sabnis, Paul Strohmeier
+Authors: Arata Jingu, Nihar Sabnis, Paul Strohmeier, Jürgen Steimle
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147156)
 
 
 
 ### AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip
-Authors: Hwan Kim, Yuxin Ma, Tianze Xie, Peng Zhang, Seungwoo Je
+Authors: Yuxin Ma, Tianze Xie, Peng Zhang, Hwan Kim, Seungwoo Je
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148229)
 
 
 
 ### ALCool: Utilizing Alcohol's Evaporative Cooling for Ubiquitous Cold Sensation Feedback
-Authors: Hiroyuki Kajimoto, Izumi Mizoguchi, Keigo Ushiyama, Taiki Takami, Takumi Hamazaki
+Authors: Takumi Hamazaki, Taiki Takami, Keigo Ushiyama, Izumi Mizoguchi, Hiroyuki Kajimoto
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148230)
 
@@ -2588,7 +2588,7 @@ Authors: Hiroyuki Kajimoto, Izumi Mizoguchi, Keigo Ushiyama, Taiki Takami, Takum
 ### Memoro: Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation
 HONORABLE_MENTION
 
-Authors: Samantha Chan, Wazeer Zulfikar, Pattie Maes
+Authors: Wazeer Zulfikar, Samantha Chan, Pattie Maes
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147083)
 
@@ -2597,7 +2597,7 @@ Abstract: People have to remember an ever-expanding volume of information. Weara
 
 
 ### Artful Path to Healing: Using Machine Learning for Visual Art Recommendation to Prevent and Reduce Post-Intensive Care Syndrome (PICS)
-Authors: Chan Mi Kim, Bereket YILMA, Luis Leiva, Gerald C. Cupchik
+Authors: Bereket YILMA, Chan Mi Kim, Gerald C. Cupchik, Luis Leiva
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147432)
 
@@ -2606,7 +2606,7 @@ Abstract: Staying in the intensive care unit (ICU) is often traumatic, leading t
 
 
 ### Explainable Notes: Examining How to Unlock Meaning in Medical Notes with Interactivity and Artificial Intelligence
-Authors: Hita Kambhamettu, Kevin Johnson, Danaë Metaxa, Andrew Head
+Authors: Hita Kambhamettu, Danaë Metaxa, Kevin Johnson, Andrew Head
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147476)
 
@@ -2615,7 +2615,7 @@ Abstract: Medical progress notes have recently become available to patients at a
 
 
 ### ConverSense: An Automated Approach to Assess Patient-Provider Interactions using Social Signals
-Authors: Reggie Casanova-Perez, Janice Sabin, Sarah Borsotto, Deepansha Singh, Anuujin Tsedenbal, Nadir Weibel, Manas Satish Bedmutha, Wanda Pratt, Andrea Hartzler, Brian Wood, Emily Bascom, Kelly Tobar, Kimberly Sladek
+Authors: Manas Satish Bedmutha, Anuujin Tsedenbal, Kelly Tobar, Sarah Borsotto, Kimberly Sladek, Deepansha Singh, Reggie Casanova-Perez, Emily Bascom, Brian Wood, Janice Sabin, Wanda Pratt, Andrea Hartzler, Nadir Weibel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148138)
 
@@ -2624,7 +2624,7 @@ Abstract: Patient-provider communication influences patient health outcomes, and
 
 
 ### Sketching AI Concepts with Capabilities and Examples: AI Innovation in the Intensive Care Unit
-Authors: Sher Shah Amin, Adam Perer, John Minturn, Jeremy Kahn, Billie Davis, Sarah M. Preum, Susanna Zlotnikov, Venkatesh Sivaraman, Leigh Bukowski, Andrew J King, James McCann, John Zimmerman, Dan Ricketts, Kathryn Riman, Nur Yildirim, Deniz Sayar, Lu Tang
+Authors: Nur Yildirim, Susanna Zlotnikov, Deniz Sayar, Jeremy Kahn, Leigh Bukowski, Sher Shah Amin, Kathryn Riman, Billie Davis, John Minturn, Andrew J King, Dan Ricketts, Lu Tang, Venkatesh Sivaraman, Adam Perer, Sarah M. Preum, James McCann, John Zimmerman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146925)
 
@@ -2635,28 +2635,28 @@ Abstract: Advances in artificial intelligence (AI) have enabled unprecedented ca
 
 ## Input, Interaction and Time
 ### User Performance in Consecutive Temporal Pointing: An Exploratory Study
-Authors: Dawon Lee, Sunjun Kim, Byungjoo Lee, Junyong Noh
+Authors: Dawon Lee, Sunjun Kim, Junyong Noh, Byungjoo Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147090)
 
 
 
 ### Waiting Time Perceptions for Faster Count-downs/ups Are More Sensitive Than Slower Ones: Experimental Investigation and Its Application
-Authors: Chenxi Xie, Takanori Komatsu, Seiji Yamada
+Authors: Takanori Komatsu, Chenxi Xie, Seiji Yamada
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146709)
 
 
 
 ### Mouse2Vec: Learning Reusable Semantic Representations of Mouse Behaviour
-Authors: Zhiming Hu, Andreas Bulling, Guanhua Zhang, Mihai Bâce
+Authors: Guanhua Zhang, Zhiming Hu, Mihai Bâce, Andreas Bulling
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147945)
 
 
 
 ### The Effect of Latency on Movement Time in Path-steering
-Authors: Wolfgang Stuerzlinger, Shota Yamanaka
+Authors: Shota Yamanaka, Wolfgang Stuerzlinger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147611)
 
@@ -2665,7 +2665,7 @@ Authors: Wolfgang Stuerzlinger, Shota Yamanaka
 
 ## Interaction and Perception in Immersive Environments
 ### MAF: Exploring Mobile Acoustic Field for Hand-to-Face Gesture Interactions
-Authors: Longfei Shangguan, Yujing Huang, Yongjie Yang, Xiuzhen Guo, Tao Chen
+Authors: Yongjie Yang, Tao Chen, Yujing Huang, Xiuzhen Guo, Longfei Shangguan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147716)
 
@@ -2674,11 +2674,11 @@ Abstract: We present MAF, a novel acoustic sensing approach that leverages the c
 
 
 ### PhoneInVR: An Evaluation of Spatial Anchoring and Interaction Techniques for Smartphone Usage in Virtual Reality
-Authors: Tovi Grossman, Fengyuan Zhu, Mauricio Sousa, Ludwig Sidenmark
+Authors: Fengyuan Zhu, Mauricio Sousa, Ludwig Sidenmark, Tovi Grossman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147762)
 
-Abstract: When users wear a virtual reality (VR) headset, they lose access to their smartphone and accompanying apps. Past work has proposed smartphones as enhanced VR controllers, but little work has explored using existing smartphone apps and performing traditional smartphone interactions while in VR. In this paper, we consider three potential spatial anchorings for rendering smartphones in VR: On top of a tracked physical smartphone which the user holds (Phone-locked), on top of the user’s empty hand, as if holding a virtual smartphone (Hand-locked), or in a static position in front of the user (World-locked). 
+Abstract: When users wear a virtual reality (VR) headset, they lose access to their smartphone and accompanying apps. Past work has proposed smartphones as enhanced VR controllers, but little work has explored using existing smartphone apps and performing traditional smartphone interactions while in VR. In this paper, we consider three potential spatial anchorings for rendering smartphones in VR: On top of a tracked physical smartphone which the user holds (Phone-locked), on top of the user’s empty hand, as if holding a virtual smartphone (Hand-locked), or in a static position in front of the user (World-locked). 
 We conducted a comparative study of target acquisition, swiping, and scrolling tasks across these anchorings using direct Touch or above-the-surface Pinch. Our findings indicate that physically holding a smartphone with Touch improves accuracy and speed for all tasks, and Pinch performed better with virtual smartphones. These findings provide a valuable foundation to enable smartphones in VR. 
 
 
@@ -2693,7 +2693,7 @@ Abstract: Bare hand interaction in augmented or virtual reality (AR/VR) systems,
 
 
 ### Assessing the Influence of Visual Cues in Virtual Reality on the Spatial Perception of Physical Thermal Stimuli
-Authors: Max Mühlhäuser, Robin Buhlmann, Alexandra Skogseide, Sebastian Günther
+Authors: Sebastian Günther, Alexandra Skogseide, Robin Buhlmann, Max Mühlhäuser
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148210)
 
@@ -2702,7 +2702,7 @@ Abstract: Advancements in haptics for Virtual Reality (VR) increased the quality
 
 
 ### Improving Electromyographic Muscle Response Times through Visual and Tactile Prior Stimulation in Virtual Reality
-Authors: Valentin Schwind, Karsten Weyers, Leonardo Leite Ferreira, Amir Mahmood, Jessica Sehrt, Thomas Kosch
+Authors: Jessica Sehrt, Leonardo Leite Ferreira, Karsten Weyers, Amir Mahmood, Thomas Kosch, Valentin Schwind
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148137)
 
@@ -2715,14 +2715,14 @@ Abstract: Electromyography (EMG) enables hands-free interactions by detecting mu
 ### Products of Positionality: How Tech Workers Shape Identity Concepts in Computer Vision
 BEST_PAPER
 
-Authors: Jed Brubaker, Morgan Scheuerman
+Authors: Morgan Scheuerman, Jed Brubaker
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147182)
 
 
 
 ### SalChartQA: Question-driven Saliency on Information Visualisations
-Authors: Yao Wang, Mayar Elfares, Weitian Wang, Zhiming Hu, Abdullah Abdelhafez, Andreas Bulling, Mihai Bâce
+Authors: Yao Wang, Weitian Wang, Abdullah Abdelhafez, Mayar Elfares, Zhiming Hu, Mihai Bâce, Andreas Bulling
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147419)
 
@@ -2736,14 +2736,14 @@ Authors: Lindah Kotut, Hummd Alikhan
 
 
 ### A Canary in the AI Coal Mine: American Jews May Be Disproportionately Harmed by Intellectual Property Dispossession in Large Language Model Training
-Authors: Brent Hecht, Allison McDonald, Heila Precel, Nicholas Vincent
+Authors: Heila Precel, Allison McDonald, Brent Hecht, Nicholas Vincent
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148186)
 
 
 
 ### When the Body Became Data: Historical Data Cultures and Anatomical Illustration
-Authors: Laura Garrison, Michael Correll
+Authors: Michael Correll, Laura Garrison
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146916)
 
@@ -2752,12 +2752,12 @@ Authors: Laura Garrison, Michael Correll
 
 ## Reality-Virtuality Continuum: Interaction and Collaboration
 ### From Real to Virtual: Exploring Replica-Enhanced Environment Transitions along the Reality-Virtuality Continuum
-Authors: Hans-Christian Jetter, Fabian Pointecker, Judith Friedl-Knirsch, Christoph Anthes
+Authors: Fabian Pointecker, Judith Friedl-Knirsch, Hans-Christian Jetter, Christoph Anthes
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146699)
 
-Abstract: Recent Head-Mounted Displays enable users to perceive the real environment using a video-based see-through mode and the fully virtual environment within a single display. Leveraging these advancements, we present a generic concept to seamlessly transition between the real and virtual environment, with the goal of supporting users in engaging with and disengaging from any real environment into Virtual Reality. This transition process uses a digital replica of the real environment and incorporates various stages of Milgram’s Reality-Virtuality Continuum, along with visual transitions that facilitate gradual navigation between them. We implemented the overall transition concept and four object-based transition techniques. The overall transition concept and four techniques were evaluated in a qualitative user study, focusing on user experience, the use of the replica and visual coherence. 
-
+Abstract: Recent Head-Mounted Displays enable users to perceive the real environment using a video-based see-through mode and the fully virtual environment within a single display. Leveraging these advancements, we present a generic concept to seamlessly transition between the real and virtual environment, with the goal of supporting users in engaging with and disengaging from any real environment into Virtual Reality. This transition process uses a digital replica of the real environment and incorporates various stages of Milgram’s Reality-Virtuality Continuum, along with visual transitions that facilitate gradual navigation between them. We implemented the overall transition concept and four object-based transition techniques. The overall transition concept and four techniques were evaluated in a qualitative user study, focusing on user experience, the use of the replica and visual coherence. 
+
 The results of the user study show, that most participants stated that the replica facilitates the cognitive processing of the transition and supports spatial orientation.
 
 
@@ -2765,17 +2765,17 @@ The results of the user study show, that most participants stated that the repli
 ### Blended Whiteboard: Physicality and Reconfigurability in Remote Mixed Reality Collaboration
 HONORABLE_MENTION
 
-Authors: Hans Gellersen, Jens Emil Grønbæk, Germán Leiva, Ken Pfeuffer, Eduardo Velloso, Juan Sánchez Esquivel
+Authors: Jens Emil Grønbæk, Juan Sánchez Esquivel, Germán Leiva, Eduardo Velloso, Hans Gellersen, Ken Pfeuffer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147453)
 
-Abstract: The whiteboard is essential for collaborative work. To preserve its physicality in remote collaboration, Mixed Reality (MR) can blend real whiteboards across distributed spaces.
+Abstract: The whiteboard is essential for collaborative work. To preserve its physicality in remote collaboration, Mixed Reality (MR) can blend real whiteboards across distributed spaces.
 Going beyond reality, MR can further enable interactions like panning and zooming in a virtually reconfigurable infinite whiteboard. However, this reconfigurability conflicts with the sense of physicality. To address this tension, we introduce Blended Whiteboard, a remote collaborative MR system enabling reconfigurable surface blending across distributed physical whiteboards. Blended Whiteboard supports a unique collaboration style, where users can sketch on their local whiteboards but also reconfigure the blended space to facilitate transitions between loosely and tightly coupled work. We describe design principles inspired by proxemics; supporting users in changing between facing each other and being side-by-side, and switching between navigating the whiteboard synchronously and independently. Our work shows exciting benefits and challenges of combining physicality and reconfigurability in the design of distributed MR whiteboards.
 
 
 
 ### SwitchSpace: Understanding Context-Aware Peeking Between VR and Desktop Interfaces
-Authors: Tovi Grossman, George Fitzmaurice, Johann Wentzel, Fraser Anderson, Daniel Vogel
+Authors: Johann Wentzel, Fraser Anderson, George Fitzmaurice, Tovi Grossman, Daniel Vogel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147514)
 
@@ -2786,7 +2786,7 @@ Abstract: Cross-reality tasks, like creating or consuming virtual reality (VR) c
 ### Seated-WIP: Enabling Walking-in-Place Locomotion for Stationary Chairs in Confined Spaces
 BEST_PAPER
 
-Authors: Ming Yun Hsu, Liwei Chan, Tzu-Wei Mi, Yi-Ci Huang, ZHUNG HAO HSUEH
+Authors: Liwei Chan, Tzu-Wei Mi, ZHUNG HAO HSUEH, Yi-Ci Huang, Ming Yun Hsu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147661)
 
@@ -2795,7 +2795,7 @@ Abstract: We introduce Seated-WIP, a footstep-based locomotion technique tailore
 
 
 ### Volumetric Hybrid Workspaces: Interactions with Objects in Remote and Co-located Telepresence 
-Authors: Mesut Latifoglu, Brandon Syiem, Thuong Hoang, Frank Vetere, Andrew Irlitti
+Authors: Andrew Irlitti, Mesut Latifoglu, Thuong Hoang, Brandon Syiem, Frank Vetere
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147499)
 
@@ -2813,21 +2813,21 @@ Authors: Jingwen Zhu, Lily Winagle, Cindy Hsin-Liu Kao
 
 
 ### KnitScape: Computational Design and Yarn-Level Simulation of Slip and Tuck Colorwork Knitting Patterns
-Authors: Emily Whiting, Nadya Peek, Hannah Twigg-Smith
+Authors: Hannah Twigg-Smith, Emily Whiting, Nadya Peek
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147407)
 
 
 
 ### Expressive Clothing: Understanding Hobbyist-Sewers' Visions for Self-Expression Through Clothing
-Authors: Charles Perin, Sabrina Lakhdhir, Sowmya Somanath
+Authors: Sabrina Lakhdhir, Charles Perin, Sowmya Somanath
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147610)
 
 
 
 ### Desktop Biofibers Spinning: An Open-Source Machine for Exploring Biobased Fibers and their Application Towards Sustainable Smart Textile Design
-Authors: Laura Devendorf, Mirela Alistar, Eldy Lazaro Vasquez, Michael Rivera
+Authors: Eldy Lazaro Vasquez, Mirela Alistar, Laura Devendorf, Michael Rivera
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147405)
 
@@ -2836,7 +2836,7 @@ Authors: Laura Devendorf, Mirela Alistar, Eldy Lazaro Vasquez, Michael Rivera
 ### IntelliTex: Fabricating Low-cost and Washable Functional Textiles using A Double-coating Process 
 HONORABLE_MENTION
 
-Authors: Yue Yang, Yuecheng Peng, Danchang Yan, Weitao Song, Guanyun Wang, Lingyun Sun, Ye Tao, Haotian Chen
+Authors: Yuecheng Peng, Danchang Yan, Haotian Chen, Yue Yang, Ye Tao, Weitao Song, Lingyun Sun, Guanyun Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146867)
 
@@ -2845,7 +2845,7 @@ Authors: Yue Yang, Yuecheng Peng, Danchang Yan, Weitao Song, Guanyun Wang, Lingy
 
 ## Education and AI B
 ### Scientific and Fantastical: Creating Immersive, Culturally Relevant Learning Experiences with Augmented Reality and Large Language Models
-Authors: Arjun Sharma, David Wright, Melissa Ran, Roy Pea, Bala Vinaithirthan, Anthony Xie, Meng Guo, Shihe (Tracy) Luan, Andrea Cuadra, Khuyen Le, James Landay, Alan Cheng, Arpit Ranasaria
+Authors: Alan Cheng, Meng Guo, Melissa Ran, Arpit Ranasaria, Arjun Sharma, Anthony Xie, Khuyen Le, Bala Vinaithirthan, Shihe (Tracy) Luan, David Wright, Andrea Cuadra, Roy Pea, James Landay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147314)
 
@@ -2854,11 +2854,11 @@ Abstract: Motivating children to learn is a major challenge in education. One wa
 
 
 ### VIVID: Human-AI Collaborative Authoring of Vicarious Dialogues from Lecture Videos
-Authors: Hyewon Lee, Juho Kim, Seulgi Choi, Yoonjoo Lee
+Authors: Seulgi Choi, Hyewon Lee, Yoonjoo Lee, Juho Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148330)
 
-Abstract: The lengthy monologue-style online lectures cause learners to lose engagement easily. Designing lectures in a “vicarious dialogue” format can foster learners’ cognitive activities more than monologue-style. However, designing online lectures in a dialogue style catered to the diverse needs of learners is laborious for instructors. We conducted a design workshop with eight educational experts and seven instructors to present key guidelines and the potential use of large language models (LLM) to transform a monologue lecture script into pedagogically meaningful dialogue. Applying these design guidelines, we created VIVID which allows instructors to collaborate with LLMs to design, evaluate, and modify pedagogical dialogues. In a within-subjects study with instructors (N=12), we show that VIVID helped instructors select and revise dialogues efficiently, thereby supporting the authoring of quality dialogues. Our findings demonstrate the potential of LLMs to assist instructors with creating high-quality educational dialogues across various learning stages.
+Abstract: The lengthy monologue-style online lectures cause learners to lose engagement easily. Designing lectures in a “vicarious dialogue” format can foster learners’ cognitive activities more than monologue-style. However, designing online lectures in a dialogue style catered to the diverse needs of learners is laborious for instructors. We conducted a design workshop with eight educational experts and seven instructors to present key guidelines and the potential use of large language models (LLM) to transform a monologue lecture script into pedagogically meaningful dialogue. Applying these design guidelines, we created VIVID which allows instructors to collaborate with LLMs to design, evaluate, and modify pedagogical dialogues. In a within-subjects study with instructors (N=12), we show that VIVID helped instructors select and revise dialogues efficiently, thereby supporting the authoring of quality dialogues. Our findings demonstrate the potential of LLMs to assist instructors with creating high-quality educational dialogues across various learning stages.
 
 
 
@@ -2866,7 +2866,7 @@ Abstract: The lengthy monologue-style online lectures cause learners to lose eng
 ### Exploring AI Problem Formulation with Children via Teachable Machines
 HONORABLE_MENTION
 
-Authors: Salma Elsayed-Ali, Elizabeth Bonsignore, Hernisa Kacorri, Utkarsh Dwivedi
+Authors: Utkarsh Dwivedi, Salma Elsayed-Ali, Elizabeth Bonsignore, Hernisa Kacorri
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147040)
 
@@ -2875,7 +2875,7 @@ Abstract: Emphasizing problem formulation in AI literacy activities with childre
 
 
 ### Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling
-Authors: Chi-Lin Yu, Ying Xu, Soobin Jeon, Xuechen Liu, Katherine Ziska, Chao Zhang
+Authors: Chao Zhang, Xuechen Liu, Katherine Ziska, Soobin Jeon, Chi-Lin Yu, Ying Xu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148341)
 
@@ -2884,7 +2884,7 @@ Abstract: Mathematical language is a cornerstone of a child's mathematical devel
 
 
 ### Testing, Socializing, Exploring: Characterizing Middle Schoolers’ Approaches to and Conceptions of ChatGPT
-Authors: Atefeh Mahdavi Goloujeh, Yasmine Belghith, Brian Magerko, Jessica Roberts, Tom McKlin, Duri Long
+Authors: Yasmine Belghith, Atefeh Mahdavi Goloujeh, Brian Magerko, Duri Long, Tom McKlin, Jessica Roberts
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148187)
 
@@ -2895,14 +2895,14 @@ Abstract: As generative AI rapidly enters everyday life, educational interventio
 
 ## Users Privacy Needs
 ### Personalizing Privacy Protection With Individuals' Regulatory Focus: Would You Preserve or Enhance Your Information Privacy?
-Authors: Reza Ghaiumy Anaraky, Danny Yuxing Huang, Hichang Cho, Oded Nov, Kaileigh Angela Byrne, Yao Li, Bart Knijnenburg
+Authors: Reza Ghaiumy Anaraky, Yao Li, Hichang Cho, Danny Yuxing Huang, Kaileigh Angela Byrne, Bart Knijnenburg, Oded Nov
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146995)
 
 
 
 ### Towards Understanding Family Privacy and Security Literacy Conversations at Home: Design Implications for Privacy Literacy Interfaces
-Authors: Adel Hrncic, Nikita Soni, Karthik Singh, Sumanth Kunisetty, Yaxing Yao, Kenan Alghythee
+Authors: Kenan Alghythee, Adel Hrncic, Karthik Singh, Sumanth Kunisetty, Yaxing Yao, Nikita Soni
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147976)
 
@@ -2911,7 +2911,7 @@ Authors: Adel Hrncic, Nikita Soni, Karthik Singh, Sumanth Kunisetty, Yaxing Yao,
 ### Do You Need to Touch? Exploring Correlations between Personal Attributes and Preferences for Tangible Privacy Mechanisms
 HONORABLE_MENTION
 
-Authors: Anh Dao Phuong, Karola Marky, Sarah Delgado Rodriguez, Florian Alt, Priyasha Chatterjee
+Authors: Sarah Delgado Rodriguez, Priyasha Chatterjee, Anh Dao Phuong, Florian Alt, Karola Marky
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147786)
 
@@ -2925,7 +2925,7 @@ Authors: Injung Kim, Adam Lee
 
 
 ### “It doesn’t tell me anything about how my data is used”: User Perceptions of Data Collection Purposes
-Authors: Abraham Mhaidli, Asia Biega, Lin Kyi, Franziska Roesner, Cristiana Teixeira Santos
+Authors: Lin Kyi, Abraham Mhaidli, Cristiana Teixeira Santos, Franziska Roesner, Asia Biega
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148272)
 
@@ -2934,14 +2934,14 @@ Authors: Abraham Mhaidli, Asia Biega, Lin Kyi, Franziska Roesner, Cristiana Teix
 
 ## Wellbeing and Mental Health C
 ### The Role of AI in Peer Support for Young People: A Study of Preferences for Human- and AI-Generated Responses
-Authors: Laala M Jawara, Brian Daly, Diep Nguyen, Jina Huh-Yoo, Afsaneh Razi, Jordyn Young
+Authors: Jordyn Young, Laala M Jawara, Diep Nguyen, Brian Daly, Jina Huh-Yoo, Afsaneh Razi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148227)
 
 
 
 ### The Social Journal: Investigating Technology to Support and Reflect on Social Interactions
-Authors: Tabea Blenk, Sophia Sakel, Luke Haliburton, Albrecht Schmidt
+Authors: Sophia Sakel, Tabea Blenk, Albrecht Schmidt, Luke Haliburton
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147877)
 
@@ -2950,14 +2950,14 @@ Authors: Tabea Blenk, Sophia Sakel, Luke Haliburton, Albrecht Schmidt
 ### S-ADL: Exploring Smartphone-based Activities of Daily Living to Detect Blood Alcohol Concentration in a Controlled Environment
 HONORABLE_MENTION
 
-Authors: Uichin Lee, Sang Won Bae, Hansoo Lee, Auk Kim
+Authors: Hansoo Lee, Auk Kim, Sang Won Bae, Uichin Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146856)
 
 
 
 ### Exploring an Extended Reality Floatation Tank Experience to Reduce the Fear of Being in Water
-Authors: Florian Mueller, Sarah Jane Pell, Hannah Qiao, Maria Montoya, Don Samitha Elvitigala, Prasanth Sasikumar, Suranga Nanayakkara
+Authors: Maria Montoya, Hannah Qiao, Prasanth Sasikumar, Don Samitha Elvitigala, Sarah Jane Pell, Suranga Nanayakkara, Florian Mueller
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148060)
 
@@ -2966,35 +2966,35 @@ Authors: Florian Mueller, Sarah Jane Pell, Hannah Qiao, Maria Montoya, Don Samit
 
 ## Accessibility and Aging
 ### Designing a Multisensory VR Game Prototype for Older Adults - the Acceptability and Design Implications
-Authors: Yasuyuki Gondo, Xin Suzuki, Kin Wa Fung, Xiaoxuan Li, Xiangshi Ren, Naoaki Yamaji
+Authors: Xiaoxuan Li, Xiangshi Ren, Xin Suzuki, Naoaki Yamaji, Kin Wa Fung, Yasuyuki Gondo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146682)
 
 
 
 ### Exploring the Opportunity of Augmented Reality (AR) in Supporting Older Adults to Explore and Learn Smartphone Applications
-Authors: Xiaofu Jin, Emily Kuang, Xian Wang, Mingming Fan, Xiaoying Wei, Huamin Qu, Xiaoyu Mo, Wai Tong
+Authors: Xiaofu Jin, Wai Tong, Xiaoying Wei, Xian Wang, Emily Kuang, Xiaoyu Mo, Huamin Qu, Mingming Fan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146706)
 
 
 
 ### Reducing Search Space on Demand Helps Older Adults Find Mobile UI Features Quickly, on Par With Younger Adults
-Authors: Debaleena Chattopadhyay, Ja Eun Yu
+Authors: Ja Eun Yu, Debaleena Chattopadhyay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147297)
 
 
 
 ### Toward Making Virtual Reality (VR) More Inclusive for Older Adults: Investigating Aging Effect on Target Selection and Manipulation Tasks in VR
-Authors: Duotun Wang, Zeyu Wang, Mingming Fan, Yuru Huang, Zhiqing Wu, Shumeng Zhang
+Authors: Zhiqing Wu, Duotun Wang, Shumeng Zhang, Yuru Huang, Zeyu Wang, Mingming Fan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147356)
 
 
 
 ### HelpCall: Designing Informal Technology Assistance for Older Adults via Videoconferencing
-Authors: Jiamin Dai, Teerapaun Tanprasert, Joanna McGrenere
+Authors: Teerapaun Tanprasert, Jiamin Dai, Joanna McGrenere
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147212)
 
@@ -3003,28 +3003,28 @@ Authors: Jiamin Dai, Teerapaun Tanprasert, Joanna McGrenere
 
 ## User Security Needs
 ### A First Look into Targeted Clickbait and its Countermeasures: The Power of Storytelling
-Authors: Matthew Wright, Mahdi Nasrullah Al-Ameen, Saniat Sohrawardi, Audrey Flood, Ankit Shrestha
+Authors: Ankit Shrestha, Audrey Flood, Saniat Sohrawardi, Matthew Wright, Mahdi Nasrullah Al-Ameen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146835)
 
 
 
 ### Not as easy as just update: Survey of System Administrators and Patching Behaviours
-Authors: Kami Vaniea, Maria Wolters, Adam Jenkins, Linsen Liu
+Authors: Adam Jenkins, Linsen Liu, Maria Wolters, Kami Vaniea
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147837)
 
 
 
 ### Understanding User-Perceived Security Risks and Mitigation Strategies in the Web3 Ecosystem
-Authors: Janice Jianing SI, Kanye Ye WANG, Tanusree Sharma
+Authors: Janice Jianing SI, Tanusree Sharma, Kanye Ye WANG
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146662)
 
 
 
 ### Self-Efficacy and Security Behavior: Results from a Systematic Review of Research Methods
-Authors: Imke Böse, Malte Elson, Angela Sasse, Nele Borgert, Jennifer Friedauer, Luisa Jansen
+Authors: Nele Borgert, Luisa Jansen, Imke Böse, Jennifer Friedauer, Angela Sasse, Malte Elson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147732)
 
@@ -3033,7 +3033,7 @@ Authors: Imke Böse, Malte Elson, Angela Sasse, Nele Borgert, Jennifer Friedauer
 ### A Comparative Long-Term Study of Fallback Authentication Schemes
 HONORABLE_MENTION
 
-Authors: Markus Dürmuth, Leona Lassak, Elizabeth Stobert, Maximilian Golla, Philipp Markert
+Authors: Leona Lassak, Philipp Markert, Maximilian Golla, Elizabeth Stobert, Markus Dürmuth
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148199)
 
@@ -3042,7 +3042,7 @@ Authors: Markus Dürmuth, Leona Lassak, Elizabeth Stobert, Maximilian Golla, Phi
 
 ## Assistive Interactions: Solutions for d/Deaf and Hard of Hearing Users
 ### Towards Inclusive Video Commenting: Introducing Signmaku for the Deaf and Hard-of-Hearing
-Authors: Lawrence Angrave, Yun Huang, Desirée Kirst, Qi Wang, Saumya Malhotra, Haocong Cheng, Suzy Su, Jason Situ, Si Chen
+Authors: Si Chen, Haocong Cheng, Jason Situ, Desirée Kirst, Suzy Su, Saumya Malhotra, Lawrence Angrave, Qi Wang, Yun Huang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146831)
 
@@ -3051,28 +3051,28 @@ Authors: Lawrence Angrave, Yun Huang, Desirée Kirst, Qi Wang, Saumya Malhotra, 
 ### How Users Experience Closed Captions on Live Television: Quality Metrics Remain a Challenge 
 HONORABLE_MENTION
 
-Authors: Matthew Seita, Molly Feanny, Bernard Thompson, Christian Vogler, Mariana Arroyo Chavez, Abraham Glasser, Skyler Officer, Raja Kushalnagar, Keith Delk
+Authors: Mariana Arroyo Chavez, Molly Feanny, Matthew Seita, Bernard Thompson, Keith Delk, Skyler Officer, Abraham Glasser, Raja Kushalnagar, Christian Vogler
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146961)
 
 
 
 ### Assessment of Sign Language-Based versus Touch-Based Input for Deaf Users Interacting with Intelligent Personal Assistants 
-Authors: Matthew Seita, Christian Vogler, Abraham Glasser, Raja Kushalnagar, Nina Tran, Paige DeVries
+Authors: Nina Tran, Paige DeVries, Matthew Seita, Raja Kushalnagar, Abraham Glasser, Christian Vogler
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147208)
 
 
 
 ### Unspoken Sound: Identifying Trends in Non-Speech Audio Captioning on YouTube
-Authors: Sooyeon Lee, Jhanvi Pai, Lloyd May, Magdalena Fuentes, Khang Dang, Mark Cartwright, Sripathi Sridhar, Keita Ohshiro
+Authors: Lloyd May, Keita Ohshiro, Khang Dang, Sripathi Sridhar, Jhanvi Pai, Magdalena Fuentes, Sooyeon Lee, Mark Cartwright
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146864)
 
 
 
 ### Towards Co-Creating Access and Inclusion: A Group Autoethnography on a Hearing Individual's Journey Towards Effective Communication in Mixed-Hearing Ability Higher Education Settings
-Authors: Matthew Seita, Christian Vogler, Qi Wang, James Waller, Raja Kushalnagar, Si Chen
+Authors: Si Chen, James Waller, Matthew Seita, Christian Vogler, Raja Kushalnagar, Qi Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147946)
 
@@ -3081,28 +3081,28 @@ Authors: Matthew Seita, Christian Vogler, Qi Wang, James Waller, Raja Kushalnaga
 
 ## Assistive Interactions: Everyday Interactions for Users Who are Blind or Low Vision
 ### Help Supporters: Exploring the Design Space of Assistive Technologies to Support Face-to-Face Help Between Blind and Sighted Strangers
-Authors: Connor Courtien, Maryam Aziz, Rajan Vaish, Yves Tseng, Brian Smith, Avery Reyna, Jacqueline Gibson, David Rios, Yuanyang Teng
+Authors: Yuanyang Teng, Connor Courtien, David Rios, Yves Tseng, Jacqueline Gibson, Maryam Aziz, Avery Reyna, Rajan Vaish, Brian Smith
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147252)
 
 
 
 ### Visual Cues for Data Analysis Features Amplify Challenges for Blind Spreadsheet Users
-Authors: Bongshin Lee, Minoli Perera, Eun Kyoung Choe, Kim Marriott
+Authors: Minoli Perera, Bongshin Lee, Eun Kyoung Choe, Kim Marriott
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146687)
 
 
 
 ### A Contextual Inquiry of People with Vision Impairments in Cooking
-Authors: Shaun Kane, Patrick Carrington, Michael Xieyang Liu, Franklin Mingzhe Li
+Authors: Franklin Mingzhe Li, Michael Xieyang Liu, Shaun Kane, Patrick Carrington
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147075)
 
 
 
 ### Towards Inclusive Source Code Readability Based on the Preferences of Programmers with Visual Impairments
-Authors: Maulishree Pandey, Andrew Begel, Steve Oney
+Authors: Maulishree Pandey, Steve Oney, Andrew Begel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146818)
 
@@ -3111,7 +3111,7 @@ Authors: Maulishree Pandey, Andrew Begel, Steve Oney
 ### FetchAid: Making Parcel Lockers More Accessible to Blind and Low Vision People With Deep-learning Enhanced Touchscreen Guidance, Error-Recovery Mechanism, and AR-based Search Support
 HONORABLE_MENTION
 
-Authors: Zeyu Xiong, Mingming Fan, Zhitong Guan
+Authors: Zhitong Guan, Zeyu Xiong, Mingming Fan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147721)
 
@@ -3129,14 +3129,14 @@ Authors: Katherine Jones, Ute Leonards, Oussama Metatla
 
 
 ### BubbleCam: Engaging Privacy in Remote Sighted Assistance
-Authors: Sooyeon Lee, He Zhang, Rui Yu, John Carroll, Jingyi Xie, Syed Masum Billah
+Authors: Jingyi Xie, Rui Yu, He Zhang, Sooyeon Lee, Syed Masum Billah, John Carroll
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147457)
 
 
 
 ### Conveying Emotions through Shape-changing to Children with and without Visual Impairment
-Authors: Isabel Neto, Filipa Correia, Filipa Rocha, Hugo Nicolau, Ana Paiva, Yuhan Hu, Guy Hoffman
+Authors: Isabel Neto, Yuhan Hu, Filipa Correia, Filipa Rocha, Guy Hoffman, Hugo Nicolau, Ana Paiva
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147053)
 
@@ -3145,14 +3145,14 @@ Authors: Isabel Neto, Filipa Correia, Filipa Rocha, Hugo Nicolau, Ana Paiva, Yuh
 ### Unblind Text Inputs: Predicting Hint-text of Text Input in Mobile Apps via LLM
 HONORABLE_MENTION
 
-Authors: Mengzhuo Chen, Yuekai Huang, Chunyang Chen, Jun Hu, Zhe Liu, Boyu Wu, Junjie Wang, Qing Wang
+Authors: Zhe Liu, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Yuekai Huang, Jun Hu, Qing Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147794)
 
 
 
 ### Designing to Support Blind and Visually Impaired Older Adults in Managing the Invisible Labor of Social Participation: Opportunities and Challenges 
-Authors: Aqueasha Martin-Hammond, Pranali Shinde
+Authors: Pranali Shinde, Aqueasha Martin-Hammond
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148126)
 
@@ -3161,7 +3161,7 @@ Authors: Aqueasha Martin-Hammond, Pranali Shinde
 
 ## Assistive Technologies
 ### Designing Gaze-Assisted Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR
-Authors: Mingming Fan, Junan Xie, Jingze Tian, Franklin Mingzhe Li, yafeng niu, Liyi Xu, Keye Yu, Yingna Wang
+Authors: Jingze Tian, Yingna Wang, Keye Yu, Liyi Xu, Junan Xie, Franklin Mingzhe Li, yafeng niu, Mingming Fan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147764)
 
@@ -3175,14 +3175,14 @@ Authors: Humphrey Curtis, Timothy Neate
 
 
 ### People with Disabilities Redefining Identity through Robotic and Virtual Avatars: A Case Study in Avatar Robot Cafe
-Authors: Hiroaki Kato, Giulia Barbareschi, Yuji Hatada, Kentaro Yoshifuji, Takuji Narumi, Kazuaki Takeuchi, Kouta Minamizawa
+Authors: Yuji Hatada, Giulia Barbareschi, Kazuaki Takeuchi, Hiroaki Kato, Kentaro Yoshifuji, Kouta Minamizawa, Takuji Narumi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148080)
 
 
 
 ### “Can It Be Customized According to My Motor Abilities?”: Toward Designing User-Defined Head Gestures for People with Dystonia
-Authors: Mingming Fan, Su-Jing Wang, Jingting Li, Qin Sun, Yunqi Hu
+Authors: Qin Sun, Yunqi Hu, Mingming Fan, Jingting Li, Su-Jing Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148234)
 
@@ -3191,7 +3191,7 @@ Authors: Mingming Fan, Su-Jing Wang, Jingting Li, Qin Sun, Yunqi Hu
 ### Barriers to Photosensitive Accessibility in Virtual Reality
 HONORABLE_MENTION
 
-Authors: Caglar Yildirim, Amy Pavel, Laura South, Michelle Borkin
+Authors: Laura South, Caglar Yildirim, Amy Pavel, Michelle Borkin
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147690)
 
@@ -3200,35 +3200,35 @@ Authors: Caglar Yildirim, Amy Pavel, Laura South, Michelle Borkin
 
 ## Assistive Technologies: Work  Independent Living with Neurodiversity
 ### Designing for Strengths: Opportunities to Support Neurodiversity in the Workplace
-Authors: Rachel Lowy, Kaely Hall, Parth Arora, Jennifer Kim
+Authors: Kaely Hall, Parth Arora, Rachel Lowy, Jennifer Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148212)
 
 
 
 ### Collaborative Job Seeking for People with Autism: Challenges and Design Opportunities
-Authors: Vivian Genaro Motti, Zinat Ara, Slobodan Vucetic, Amrita Ganguly, Donna Peppard, Dongjun Chung, Sungsoo Ray Hong
+Authors: Zinat Ara, Amrita Ganguly, Donna Peppard, Dongjun Chung, Slobodan Vucetic, Vivian Genaro Motti, Sungsoo Ray Hong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148323)
 
 
 
 ### “It’s the only thing I can trust”: Envisioning Large Language Model Use by Autistic Workers for Communication Assistance
-Authors: Patrick Carrington, Sanika Moharana, JiWoong Jang, Andrew Begel
+Authors: JiWoong Jang, Sanika Moharana, Patrick Carrington, Andrew Begel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147834)
 
 
 
 ### Understanding Online Job and Housing Search Practices of Neurodiverse Young Adults to Support Their Independence
-Authors: Ha-Kyung Kong, Saloni Yadav, Daniella Ruzinov, Rachel Lowy, Jennifer Kim
+Authors: Ha-Kyung Kong, Saloni Yadav, Rachel Lowy, Daniella Ruzinov, Jennifer Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146962)
 
 
 
 ### Towards Digital Independence: Identifying the Tensions between Autistic Young Adults and Their Support Network When Mediating Social Media
-Authors: Xinru Page, Elizabeth Johnson, Spring Cullen, Pamela Wisniewski
+Authors: Spring Cullen, Elizabeth Johnson, Pamela Wisniewski, Xinru Page
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146625)
 
@@ -3239,35 +3239,35 @@ Authors: Xinru Page, Elizabeth Johnson, Spring Cullen, Pamela Wisniewski
 ### Comfortable Mobility vs. Attractive Scenery: The Key to Augmenting Narrative Worlds in Outdoor Locative Augmented Reality Storytelling
 HONORABLE_MENTION
 
-Authors: Ikbeom Jeon, Hyunjin Lee, Woontack Woo, Aram Min, Maryam Shakeri, HYERIM PARK
+Authors: HYERIM PARK, Aram Min, Hyunjin Lee, Maryam Shakeri, Ikbeom Jeon, Woontack Woo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147164)
 
 
 
 ### Investigating the Design of Augmented Narrative Spaces Through Virtual-Real Connections: A Systematic Literature Review
-Authors: Hayun Kim, Woontack Woo, HYERIM PARK, Jae-eun Shin
+Authors: Jae-eun Shin, Hayun Kim, HYERIM PARK, Woontack Woo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147128)
 
 
 
 ### AudioXtend: Assisted Reality Visual Accompaniments for Audiobook Storytelling During Everyday Routine Tasks
-Authors: Wei Zhen Suen, Yun Huang, Shengdong Zhao, Christophe Hurter, Felicia Tan, Ashwin Ram, Peisen Xu
+Authors: Felicia Tan, Peisen Xu, Ashwin Ram, Wei Zhen Suen, Shengdong Zhao, Yun Huang, Christophe Hurter
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148039)
 
 
 
 ### Jigsaw: Authoring Immersive Storytelling Experiences with Augmented Reality and Internet of Things
-Authors: Rajan Vaish, Andrés Monroy-Hernández, Ava Robinson, Lei Zhang, Daekun Kim, Youjean Cho, Yu Jiang Tham
+Authors: Lei Zhang, Daekun Kim, Youjean Cho, Ava Robinson, Yu Jiang Tham, Rajan Vaish, Andrés Monroy-Hernández
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147993)
 
 
 
 ### Augmented Reality at Zoo Exhibits: A Design Framework for Enhancing the Zoo Experience
-Authors: Ryan Kelly, Sarah Webber, Jorge Goncalves, Brandon Syiem, Eduardo Velloso, Qiushi Zhou
+Authors: Brandon Syiem, Sarah Webber, Ryan Kelly, Qiushi Zhou, Jorge Goncalves, Eduardo Velloso
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148105)
 
@@ -3276,7 +3276,7 @@ Authors: Ryan Kelly, Sarah Webber, Jorge Goncalves, Brandon Syiem, Eduardo Vello
 
 ## Chronic Conditions A
 ### Good Days, Bad Days: Understanding the Trajectories of Technology Use During Chronic Fatigue Syndrome
-Authors: Sarah Homewood, Léa Paymal
+Authors: Léa Paymal, Sarah Homewood
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147030)
 
@@ -3285,14 +3285,14 @@ Authors: Sarah Homewood, Léa Paymal
 ### MigraineTracker: Examining Patient Experiences with Goal-Directed Self-Tracking for a Chronic Health Condition
 BEST_PAPER
 
-Authors: Jessica Schroeder, Liwei Jiang, Carla Castillo, Shaan Chopra, James Fogarty, Allison Cole, Anant Mittal, Yasaman Sefidgar, Natalia Murinova, Sean Munson, Hyeyoung Ryu, Tae Jones
+Authors: Yasaman Sefidgar, Carla Castillo, Shaan Chopra, Liwei Jiang, Tae Jones, Anant Mittal, Hyeyoung Ryu, Jessica Schroeder, Allison Cole, Natalia Murinova, Sean Munson, James Fogarty
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147528)
 
 
 
 ### PD-Insighter: A Visual Analytics System to Monitor Daily Actions for Parkinson's Disease Treatment
-Authors: Danielle Szafir, Daniel Szafir, Qian Zhang, Henry Fuchs, Howard Jiang, Michael Lewek, Pranav Wagh, Angelos Angelopoulos, Chelsea Duppen, Jade Kandel, Ashley Neall
+Authors: Jade Kandel, Chelsea Duppen, Qian Zhang, Howard Jiang, Angelos Angelopoulos, Ashley Neall, Pranav Wagh, Daniel Szafir, Henry Fuchs, Michael Lewek, Danielle Szafir
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148175)
 
@@ -3301,14 +3301,14 @@ Authors: Danielle Szafir, Daniel Szafir, Qian Zhang, Henry Fuchs, Howard Jiang, 
 ### Creating Safe Places: Understanding the Lived Experiences of Families Managing Cystic Fibrosis in Young Children
 HONORABLE_MENTION
 
-Authors: Yunan Chen, Zhaoyuan Su, Pornchai Tirakitsoontorn, Sunil P. Kamath
+Authors: Zhaoyuan Su, Sunil P. Kamath, Pornchai Tirakitsoontorn, Yunan Chen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147391)
 
 
 
 ### GlucoMaker: Enabling Collaborative Customization of Glucose Monitors
-Authors: Charles Perin, Sabrina Lakhdhir, Liisa Holsti, Irina Kondratova, Helene Fournier, Fraser Anderson, Sowmya Somanath, Chehak Nayar
+Authors: Sabrina Lakhdhir, Chehak Nayar, Fraser Anderson, Helene Fournier, Liisa Holsti, Irina Kondratova, Charles Perin, Sowmya Somanath
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147409)
 
@@ -3317,14 +3317,14 @@ Authors: Charles Perin, Sabrina Lakhdhir, Liisa Holsti, Irina Kondratova, Helene
 
 ## Chronic Conditions C
 ### “I think it saved me. I think it saved my heart”: The Complex Journey From Self-Tracking With Wearables To Diagnosis 
-Authors: Rachel Keys, Aisling Ann O'Kane, Paul Marshall, Graham Stuart
+Authors: Rachel Keys, Paul Marshall, Graham Stuart, Aisling Ann O'Kane
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148252)
 
 
 
 ### "It's like a glimpse into the future": Exploring the Role of Blood Glucose Prediction Technologies for Type 1 Diabetes Self-Management
-Authors: Jürgen Bernard, Clara-Maria Barth, Elaine M. Huang
+Authors: Clara-Maria Barth, Jürgen Bernard, Elaine M. Huang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148048)
 
@@ -3333,14 +3333,14 @@ Authors: Jürgen Bernard, Clara-Maria Barth, Elaine M. Huang
 ### HIV Client Perspectives on Digital Health in Malawi
 HONORABLE_MENTION
 
-Authors: Evelyn Viola, Odala Sande, Richard Anderson, Jacqueline Huwa, Hannock Tweya, Agness Thawani, Lisa Orii, Christine Kiruthu-Kamamia, Caryl Feldacker
+Authors: Lisa Orii, Caryl Feldacker, Jacqueline Huwa, Agness Thawani, Evelyn Viola, Christine Kiruthu-Kamamia, Odala Sande, Hannock Tweya, Richard Anderson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147847)
 
 
 
 ### “Obviously, Nothing's Gonna Happen in Five Minutes”: How Adolescents and Young Adults Infrastructure Resources to Learn Type 1 Diabetes Management
-Authors: Tian Xu, Casey Fiesler, Laurel H. Messer, Gregory Forlenza, Paul Cook, Stephen Voida, Sriram Sankaranarayanan, Emily Jost
+Authors: Tian Xu, Emily Jost, Laurel H. Messer, Paul Cook, Gregory Forlenza, Sriram Sankaranarayanan, Casey Fiesler, Stephen Voida
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148225)
 
@@ -3349,7 +3349,7 @@ Authors: Tian Xu, Casey Fiesler, Laurel H. Messer, Gregory Forlenza, Paul Cook, 
 
 ## Coding with AI
 ### Validating AI-Generated Code with Live Programming
-Authors: Sorin Lerner, Michael James, Nadia Polikarpova, Ruanqianqian (Lisa) Huang, Kasra Ferdowsi
+Authors: Kasra Ferdowsi, Ruanqianqian (Lisa) Huang, Michael James, Nadia Polikarpova, Sorin Lerner
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146703)
 
@@ -3358,7 +3358,7 @@ Abstract: AI-powered programming assistants are increasingly gaining popularity,
 
 
 ### Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Experts Using ChatGPT & NetLogo Chat
-Authors: Yuzhou Du, Uri Wilensky, Mike Horn, John Chen, Xi Lu, Ruth Bagley, Michael Rejtig
+Authors: John Chen, Xi Lu, Yuzhou Du, Michael Rejtig, Ruth Bagley, Mike Horn, Uri Wilensky
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148257)
 
@@ -3367,7 +3367,7 @@ Abstract: Large Language Models (LLMs) have the potential to fundamentally chang
 
 
 ### Ivie: Lightweight Anchored Explanations of Just-Generated Code
-Authors: Zhiyuan Wu, Alyssa Hwang, Andrew Head, Litao Yan
+Authors: Litao Yan, Alyssa Hwang, Zhiyuan Wu, Andrew Head
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147626)
 
@@ -3378,17 +3378,17 @@ Abstract: Programming assistants have reshaped the experience of programming int
 ### Reading Between the Lines: Modeling User Behavior and Costs in AI-Assisted Programming
 HONORABLE_MENTION
 
-Authors: Eric Horvitz, Hussein Mozannar, Gagan Bansal, Adam Fourney
+Authors: Hussein Mozannar, Gagan Bansal, Adam Fourney, Eric Horvitz
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146797)
 
-Abstract: Code-recommendation systems, such as Copilot and CodeWhisperer, have the potential to improve programmer productivity by suggesting and auto-completing code. However, to fully realize their potential, we must understand how programmers interact with these systems and identify ways to improve that interaction. To seek insights about human-AI collaboration with code recommendations systems, we studied GitHub Copilot, a code-recommendation system used by millions of programmers daily. 
+Abstract: Code-recommendation systems, such as Copilot and CodeWhisperer, have the potential to improve programmer productivity by suggesting and auto-completing code. However, to fully realize their potential, we must understand how programmers interact with these systems and identify ways to improve that interaction. To seek insights about human-AI collaboration with code recommendations systems, we studied GitHub Copilot, a code-recommendation system used by millions of programmers daily. 
 We developed CUPS, a taxonomy of common programmer activities when interacting with Copilot. Our study of 21 programmers, who completed coding tasks and retrospectively labeled their sessions with CUPS, showed that CUPS can help us understand how programmers interact with code-recommendation systems, revealing inefficiencies and time costs. Our insights reveal how programmers interact with Copilot and motivate new interface designs and metrics. 
 
 
 
 ### CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant that Balances Student and Educator Needs
-Authors: Paul Denny, Tovi Grossman, Michelle Craig, Austin Henley, Runlong Ye, Xiaoning Wang, Majeed Kazemitabaar
+Authors: Majeed Kazemitabaar, Runlong Ye, Xiaoning Wang, Austin Henley, Paul Denny, Michelle Craig, Tovi Grossman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147379)
 
@@ -3399,14 +3399,14 @@ Abstract: Timely, personalized feedback is essential for students learning progr
 
 ## Colors
 ### Exploring Interactive Color Palettes for Abstraction-Driven Exploratory Image Colorization
-Authors: Ryan Rossi, Mingyu Liu, Xinyu Shi, Jian Zhao, Ali Neshati, Ziqi Zhou
+Authors: Xinyu Shi, Mingyu Liu, Ziqi Zhou, Ali Neshati, Ryan Rossi, Jian Zhao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147505)
 
 
 
 ### Cieran: Designing Sequential Colormaps via In-Situ Active Preference Learning
-Authors: Danielle Szafir, Zachary Sunberg, Matt-Heun Hong
+Authors: Matt-Heun Hong, Zachary Sunberg, Danielle Szafir
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147642)
 
@@ -3420,7 +3420,7 @@ Authors: Lena Hegemann, Antti Oulasvirta
 
 
 ### Color Maker: a Mixed-Initiative Approach to Creating Accessible Color Maps
-Authors: Amey Salvi, Khairi Reda, Kecheng Lu, Yunhai Wang, Michael Papka
+Authors: Amey Salvi, Kecheng Lu, Michael Papka, Yunhai Wang, Khairi Reda
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147098)
 
@@ -3429,7 +3429,7 @@ Authors: Amey Salvi, Khairi Reda, Kecheng Lu, Yunhai Wang, Michael Papka
 ### Piet: Facilitating Color Authoring for Motion Graphics Video
 BEST_PAPER
 
-Authors: Yinghou Wang, Xinyu Shi, Jian Zhao, Yun Wang
+Authors: Xinyu Shi, Yinghou Wang, Yun Wang, Jian Zhao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147118)
 
@@ -3438,7 +3438,7 @@ Authors: Yinghou Wang, Xinyu Shi, Jian Zhao, Yun Wang
 
 ## Creative Professionals and AI A
 ### Unlocking Creator-AI Synergy: Challenges, Requirements, and Design Opportunities in AI-Powered Short-Form Video Production
-Authors: Hajun Kim, Jini Kim
+Authors: Jini Kim, Hajun Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147507)
 
@@ -3447,7 +3447,7 @@ Abstract: The emergence of AI-Powered Short-Form Video Generators (ASVG) has sho
 
 
 ### ReelFramer: Human-AI Co-Creation for News-to-Video Translation
-Authors: Kevin Crowston, Mark Hansen, Sitong Wang, Lydia Chilton, Jeffrey Nickerson, Samia Menon, Dingzeyu Li, Keren Henderson, Tao Long
+Authors: Sitong Wang, Samia Menon, Tao Long, Keren Henderson, Dingzeyu Li, Kevin Crowston, Mark Hansen, Jeffrey Nickerson, Lydia Chilton
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147933)
 
@@ -3456,33 +3456,33 @@ Abstract: Short videos on social media are the dominant way young people consume
 
 
 ### Understanding Nonlinear Collaboration between Human and AI Agents: A Co-design Framework for Creative Design
-Authors: Haotian Li, Weiwei Cui, Junxiu Tang, Tan Tang, Renzhong Li, Jiayi Zhou, Yingcai Wu
+Authors: Jiayi Zhou, Renzhong Li, Junxiu Tang, Tan Tang, Haotian Li, Weiwei Cui, Yingcai Wu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148154)
 
-Abstract: Creative design is a nonlinear process where designers generate diverse ideas in the pursuit of an open-ended goal and converge towards consensus through iterative remixing.
-In contrast, AI-powered design tools often employ a linear sequence of incremental and precise instructions to approximate design objectives.
-Such operations violate customary creative design practices and thus hinder AI agents' ability to complete creative design tasks.
-To explore better human-AI co-design tools, we first summarize human designers’ practices through a formative study with 12 design experts.
-Taking graphic design as a representative scenario, we formulate a nonlinear human-AI co-design framework and develop a proof-of-concept prototype, OptiMuse. 
-We evaluate OptiMuse and validate the nonlinear framework through a comparative study.
-We notice a subconscious change in people's attitudes towards AI agents, shifting from perceiving them as mere executors to regarding them as opinionated colleagues. 
+Abstract: Creative design is a nonlinear process where designers generate diverse ideas in the pursuit of an open-ended goal and converge towards consensus through iterative remixing.
+In contrast, AI-powered design tools often employ a linear sequence of incremental and precise instructions to approximate design objectives.
+Such operations violate customary creative design practices and thus hinder AI agents' ability to complete creative design tasks.
+To explore better human-AI co-design tools, we first summarize human designers’ practices through a formative study with 12 design experts.
+Taking graphic design as a representative scenario, we formulate a nonlinear human-AI co-design framework and develop a proof-of-concept prototype, OptiMuse. 
+We evaluate OptiMuse and validate the nonlinear framework through a comparative study.
+We notice a subconscious change in people's attitudes towards AI agents, shifting from perceiving them as mere executors to regarding them as opinionated colleagues. 
 This shift effectively fostered the exploration and reflection processes of individual designers.
 
 
 
 ### PlantoGraphy: Incorporating Iterative Design Process into Generative Artificial Intelligence for Landscape Rendering
-Authors: Haichuan Lin, Wei Zeng, Chuanzhang Chen, Rong Huang, Kang Zhang
+Authors: Rong Huang, Haichuan Lin, Chuanzhang Chen, Kang Zhang, Wei Zeng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147560)
 
-Abstract: Landscape renderings are realistic images of landscape sites, allowing stakeholders to perceive better and evaluate design ideas. While recent advances in Generative Artificial Intelligence (GAI) enable automated generation of landscape renderings, the end-to-end methods are not compatible with common design processes, leading to insufficient alignment with design idealizations and limited cohesion of iterative landscape design. Informed by a formative study for comprehending design requirements, we present PlantoGraphy, an iterative design system that allows for interactive configuration of GAI models to accommodate human-centered design practice. A two-stage pipeline is incorporated: first, the concretization module transforms conceptual ideas into concrete scene layouts with a domain-oriented large language model; and second, the illustration
+Abstract: Landscape renderings are realistic images of landscape sites, allowing stakeholders to perceive better and evaluate design ideas. While recent advances in Generative Artificial Intelligence (GAI) enable automated generation of landscape renderings, the end-to-end methods are not compatible with common design processes, leading to insufficient alignment with design idealizations and limited cohesion of iterative landscape design. Informed by a formative study for comprehending design requirements, we present PlantoGraphy, an iterative design system that allows for interactive configuration of GAI models to accommodate human-centered design practice. A two-stage pipeline is incorporated: first, the concretization module transforms conceptual ideas into concrete scene layouts with a domain-oriented large language model; and second, the illustration
 module converts scene layouts into realistic landscape renderings with a layout-guided diffusion model fine-tuned through Low-Rank Adaptation. PlantoGraphy has undergone a series of performance evaluations and user studies, demonstrating its effectiveness in landscape rendering generation and the high recognition of its interactive functionality.
 
 
 
 ### Fashioning Creative Expertise with Generative AI:  Graphical Interfaces for Design Space Exploration Better Support Ideation Than Text Prompts
-Authors: Thiemo Wambsganss, Richard Davis, Tanja Käser, Kevin Gonyop Kim, Wei Jiang, Pierre Dillenbourg
+Authors: Richard Davis, Thiemo Wambsganss, Wei Jiang, Kevin Gonyop Kim, Tanja Käser, Pierre Dillenbourg
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147024)
 
@@ -3493,7 +3493,7 @@ Abstract: This paper investigates the potential impact of deep generative models
 
 ## Creative Professionals and AI B
 ### LumiMood: A Creativity Support Tool for Designing the Mood of a 3D Scene
-Authors: SeungJun Kim, Seungju Kim, Jeongseok Oh
+Authors: Jeongseok Oh, Seungju Kim, SeungJun Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148271)
 
@@ -3502,7 +3502,7 @@ Abstract: The aesthetic design of 3D scenes in game content enhances players' ex
 
 
 ### C2Ideas: Supporting Creative Interior Color Design Ideation with a Large Language Model
-Authors: Hao Cui, Yihan Hou, Wei Zeng, Lei WANG, Manling YANG, Jie Xu
+Authors: Yihan Hou, Manling YANG, Hao Cui, Lei WANG, Jie Xu, Wei Zeng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147389)
 
@@ -3511,7 +3511,7 @@ Abstract: Interior color design is a creative process that endeavors to allocate
 
 
 ### TypeDance: Creating Semantic Typographic Logos from Image through Personalized Generation
-Authors: Wei Zeng, Liangwei Wang, Xiaojuan Ma, Shishi Xiao
+Authors: Shishi Xiao, Liangwei Wang, Xiaojuan Ma, Wei Zeng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146619)
 
@@ -3524,13 +3524,13 @@ Authors: Ziyi Qiu, Yuanning Han, JIALE CHENG, RAY LC
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147669)
 
-Abstract: Studies of Generative AI (GenAI)-assisted creative workflows have focused on individuals overcoming challenges of prompting to produce what they envisioned. When designers work in teams, how do collaboration and prompting influence each other, and how do users perceive generative AI and their collaborators during the co-prompting process? We engaged students with design or performance backgrounds, and little exposure to GenAI, to work in pairs with GenAI to create stage designs based on a creative theme. We found two patterns of collaborative prompting focused on generating story descriptions first, or visual imagery first. GenAI tools helped participants build consensus in the task, and allowed for discussion of the prompting strategies. Participants perceived GenAI as efficient tools rather than true collaborators, suggesting that human partners reduced the reliance on their use. This work highlights the importance of human-human collaboration when working with GenAI tools, suggesting systems that take advantage of shared human expertise in the prompting process.
+Abstract: Studies of Generative AI (GenAI)-assisted creative workflows have focused on individuals overcoming challenges of prompting to produce what they envisioned. When designers work in teams, how do collaboration and prompting influence each other, and how do users perceive generative AI and their collaborators during the co-prompting process? We engaged students with design or performance backgrounds, and little exposure to GenAI, to work in pairs with GenAI to create stage designs based on a creative theme. We found two patterns of collaborative prompting focused on generating story descriptions first, or visual imagery first. GenAI tools helped participants build consensus in the task, and allowed for discussion of the prompting strategies. Participants perceived GenAI as efficient tools rather than true collaborators, suggesting that human partners reduced the reliance on their use. This work highlights the importance of human-human collaboration when working with GenAI tools, suggesting systems that take advantage of shared human expertise in the prompting process.
 
 
 
 
 ### Is Resistance Futile?: Early Career Game Developers, Generative AI, and Ethical Skepticism
-Authors: Josiah Boucher, Yunus Telliel, Gillian Smith
+Authors: Josiah Boucher, Gillian Smith, Yunus Telliel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146874)
 
@@ -3541,35 +3541,35 @@ Abstract: This paper presents a study that examines developer perceptions and us
 
 ## Data Visualization: Charts
 ### Do You See What I See? A Qualitative Study Eliciting High-Level Visualization Comprehension
-Authors: Danielle Szafir, Zhehao Wang, Arran Zeyu Wang, Paul Rosen, Jennifer Adorno, Ghulam Jilani Quadri
+Authors: Ghulam Jilani Quadri, Arran Zeyu Wang, Zhehao Wang, Jennifer Adorno, Paul Rosen, Danielle Szafir
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146696)
 
 
 
 ### Effects of Point Size and Opacity Adjustments in Scatterplots
-Authors: Gabriel Strain, Caroline Jay, Andrew J. Stewart, Paul Warren
+Authors: Gabriel Strain, Andrew J. Stewart, Paul Warren, Caroline Jay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147175)
 
 
 
 ### Spatial Audio-Enhanced Multimodal Graph Rendering for Efficient Data Trend Learning on Touchscreen Devices
-Authors: Jennifer Tennison, Nicholas Giudice, Medhani Kalal, Wilfredo Robinson Moore, Jenna Gorlewicz
+Authors: Wilfredo Robinson Moore, Medhani Kalal, Jennifer Tennison, Nicholas Giudice, Jenna Gorlewicz
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146668)
 
 
 
 ### VisTorch: Interacting with Situated Visualizations using Handheld Projectors
-Authors: Huaishu Peng, Biswaksen Patnaik, Niklas Elmqvist
+Authors: Biswaksen Patnaik, Huaishu Peng, Niklas Elmqvist
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147315)
 
 
 
 ### To Cut or Not To Cut? A Systematic Exploration of Y-Axis Truncation
-Authors: Matthew Kay, Sheng Long
+Authors: Sheng Long, Matthew Kay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147733)
 
@@ -3578,35 +3578,35 @@ Authors: Matthew Kay, Sheng Long
 
 ## Data Visualization: Geospatial and Multimodal
 ### DeepSee: Multidimensional Visualizations of Seabed Ecosystems
-Authors: Eric Martin, Rebecca Wipfler, Hillary Mushkin, Maggie Hendrie, Noah Deutsch, John Magyar, Victoria Orphan, Sergio Parra, Scott Davidoff, Alex Endert, Jennifer Paduan, David W. Caress, Haley Sapers, Daniel Utter, Malika Khurana, Adam Coscia, Santiago Lombeyda
+Authors: Adam Coscia, Haley Sapers, Noah Deutsch, Malika Khurana, John Magyar, Sergio Parra, Daniel Utter, Rebecca Wipfler, David W. Caress, Eric Martin, Jennifer Paduan, Maggie Hendrie, Santiago Lombeyda, Hillary Mushkin, Alex Endert, Scott Davidoff, Victoria Orphan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146725)
 
 
 
 ### SalienTime: User-driven Selection of Salient Time Steps for Large-Scale Geospatial Data Visualization
-Authors: Huayuan Ye, Changbo Wang, Chenhui Li, Haiwen Huang, Juntong Chen, Zhong Peng
+Authors: Juntong Chen, Haiwen Huang, Huayuan Ye, Zhong Peng, Chenhui Li, Changbo Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147827)
 
 
 
 ### Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed Reality
-Authors: Luyan Jiang, Haonan Yao, Hai-Ning Liang, Nan Xiang, Shuqi He, Yue Li, Kaiwen Li, Lingyun Yu
+Authors: Shuqi He, Haonan Yao, Luyan Jiang, Kaiwen Li, Nan Xiang, Yue Li, Hai-Ning Liang, Lingyun Yu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146834)
 
 
 
 ### Understanding Reader Takeaways in Thematic Maps Under Varying Text, Detail, and Spatial Autocorrelation
-Authors: Fan Lei, Ross Maciejewski, Michelle Mancenido, Arlen Fan, Alan MacEachren
+Authors: Arlen Fan, Fan Lei, Michelle Mancenido, Alan MacEachren, Ross Maciejewski
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148161)
 
 
 
 ### MAIDR: Making Statistical Visualizations Accessible with Multimodal Data Representation
-Authors: Yilin Xia, Bongshin Lee, JooYoung Seo, Sean McCurry, Yu Jun Yam
+Authors: JooYoung Seo, Yilin Xia, Bongshin Lee, Sean McCurry, Yu Jun Yam
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146802)
 
@@ -3615,14 +3615,14 @@ Authors: Yilin Xia, Bongshin Lee, JooYoung Seo, Sean McCurry, Yu Jun Yam
 
 ## Dementia Care
 ### 	Evolving Presentation of Self: The Influence of Dementia Communication Challenges on Everyday Interactions
-Authors: Yvon Ruitenburg, Panos Markopoulos, Wijnand IJsselsteijn, Minha Lee
+Authors: Yvon Ruitenburg, Minha Lee, Panos Markopoulos, Wijnand IJsselsteijn
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147523)
 
 
 
 ### Mnemosyne - Supporting Reminiscence for Individuals with Dementia in Residential Care Settings
-Authors: Peter Shaw, Andrea Baumann, Ludwig Trotter, Nigel Davies, Sarah Clinch
+Authors: Andrea Baumann, Peter Shaw, Ludwig Trotter, Sarah Clinch, Nigel Davies
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147516)
 
@@ -3631,21 +3631,21 @@ Authors: Peter Shaw, Andrea Baumann, Ludwig Trotter, Nigel Davies, Sarah Clinch
 ### Technology-Mediated Non-pharmacological Interventions for Dementia: Needs for and Challenges in Professional, Personalized and Multi-Stakeholder Collaborative Interventions
 BEST_PAPER
 
-Authors: JUNYAN MAO, Yuling Sun, Xiaojuan Ma, Xin Tong, Zhennan Yi
+Authors: Yuling Sun, Zhennan Yi, Xiaojuan Ma, JUNYAN MAO, Xin Tong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146988)
 
 
 
 ### Family Caregiver Experiences of Using a Mobile App for Music-based Training to Support Dementia Care
-Authors: Tanara Vieira Sousa, Ryan Kelly, Nicola T. Lautenschlager, Zara Thompson, Amit Lampit, Jeanette Tamplin, Felicity Baker, Dianna Vidas, Jenny Waycott, Lars Kulik
+Authors: Dianna Vidas, Zara Thompson, Ryan Kelly, Jenny Waycott, Jeanette Tamplin, Tanara Vieira Sousa, Lars Kulik, Amit Lampit, Nicola T. Lautenschlager, Felicity Baker
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147009)
 
 
 
 ### Design Opportunities for Care Transitions in Dementia: Understanding Informal Caregivers' Experiences Through a Practice-Informed Approach
-Authors: Maudy Gosen, Wijnand IJsselsteijn, Maarten Houben, Rens Brankaert, Veerle Van Overloop
+Authors: Maarten Houben, Rens Brankaert, Maudy Gosen, Veerle Van Overloop, Wijnand IJsselsteijn
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147643)
 
@@ -3654,14 +3654,14 @@ Authors: Maudy Gosen, Wijnand IJsselsteijn, Maarten Houben, Rens Brankaert, Veer
 
 ## Digital Wellbeing A
 ### Real-World Winds: Micro Challenges to Promote Balance Post Smartphone Overload
-Authors: Sven Mayer, Nađa Terzimehić, Sarah Aragon-Hahner, Julia Huber
+Authors: Nađa Terzimehić, Julia Huber, Sarah Aragon-Hahner, Sven Mayer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146849)
 
 
 
 ### StayFocused: Examining the Effects of Reflective Prompts and Chatbot Support on Compulsive Smartphone Use
-Authors: Yuhan Luo, Minhui Liang, Zhuoyang LI, RAY LC
+Authors: Zhuoyang LI, Minhui Liang, RAY LC, Yuhan Luo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148192)
 
@@ -3675,14 +3675,14 @@ Authors: Anup Sathya, Ken Nakagaki
 
 
 ### A Longitudinal In-the-Wild Investigation of Design Frictions to Prevent Smartphone Overuse
-Authors: Luke Haliburton, Frederik Riedel, Nađa Terzimehić, Albrecht Schmidt, David Grüning
+Authors: Luke Haliburton, David Grüning, Frederik Riedel, Albrecht Schmidt, Nađa Terzimehić
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147365)
 
 
 
 ### InteractOut: Leveraging Interaction Proxies as Input Manipulation Strategies for Reducing Smartphone Overuse
-Authors: Tao Lu, Anhong Guo, Tianying Zhang, Hongxiao Zheng, Xuhai "Orson" Xu
+Authors: Tao Lu, Hongxiao Zheng, Tianying Zhang, Xuhai "Orson" Xu, Anhong Guo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147313)
 
@@ -3691,7 +3691,7 @@ Authors: Tao Lu, Anhong Guo, Tianying Zhang, Hongxiao Zheng, Xuhai "Orson" Xu
 
 ## Digital Wellbeing B
 ### Time2Stop: Adaptive and Explainable Human-AI Loop for Smartphone Overuse Intervention
-Authors: Yukang Yan, Yuntao Wang, Anind Dey, Marzyeh Ghassemi, Han Xiao, Yuanchun Shi, Adiba Orzikulova, Zhipeng Li, Xuhai "Orson" Xu, Sung-Ju Lee
+Authors: Adiba Orzikulova, Han Xiao, Zhipeng Li, Yukang Yan, Yuntao Wang, Yuanchun Shi, Marzyeh Ghassemi, Sung-Ju Lee, Anind Dey, Xuhai "Orson" Xu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146643)
 
@@ -3700,28 +3700,28 @@ Authors: Yukang Yan, Yuntao Wang, Anind Dey, Marzyeh Ghassemi, Han Xiao, Yuanchu
 ### “I finally felt I had the tools to control these urges”: Empowering Students to Achieve Their Device Use Goals With the Reduce Digital Distraction Workshop
 HONORABLE_MENTION
 
-Authors: Kasper Hornbæk, Petr Slovak, Maureen Freed, Nigel Shadbolt, Lize Alberts, Kai Lukoff, Max Van Kleek, Hannah Andrews, Michael Inzlicht, Guido Makransky, Laura Csuka, Ulrik Lyngs, Victoria Oldemburgo de Mello, Claudine Tinsman
+Authors: Ulrik Lyngs, Kai Lukoff, Petr Slovak, Michael Inzlicht, Maureen Freed, Hannah Andrews, Claudine Tinsman, Laura Csuka, Lize Alberts, Victoria Oldemburgo de Mello, Guido Makransky, Kasper Hornbæk, Max Van Kleek, Nigel Shadbolt
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147658)
 
 
 
 ### MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention 
-Authors: Ruolan Wu, Xiaole Pan, Ningning Zhang, Yuanchun Shi, Li Chen, Yue Fu, Qiaolei Jiang, Yujia Liu, Yuhan Wang, Chun Yu, Xuhai "Orson" Xu, Zhi Zheng
+Authors: Ruolan Wu, Chun Yu, Xiaole Pan, Yujia Liu, Ningning Zhang, Yue Fu, Yuhan Wang, Zhi Zheng, Li Chen, Qiaolei Jiang, Xuhai "Orson" Xu, Yuanchun Shi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146884)
 
 
 
 ### “You Can Find a Part of my Life in Every Single App”: An Interview Study of What Makes Smartphone Applications Special to Their Users
-Authors: Kasper Hornbæk, Mikael B. Skov, Olga Iarygina, Ulrik Lyngs
+Authors: Kasper Hornbæk, Ulrik Lyngs, Olga Iarygina, Mikael B. Skov
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148169)
 
 
 
 ### Navigating User-System Gaps: Understanding User-Interactions in User-Centric Context-Aware Systems for Digital Well-being Intervention
-Authors: Uichin Lee, Inyeop Kim
+Authors: Inyeop Kim, Uichin Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147725)
 
@@ -3730,7 +3730,7 @@ Authors: Uichin Lee, Inyeop Kim
 
 ## Education and AI A
 ### From Primary Education to Premium Workforce: Drawing on K-12 Approaches for Developing AI Literacy
-Authors: Ole Sejer Iversen, Magnus Høholt Kaspersen, Christian Dindler, Karl-Emil Bilstrup, Peter Dalsgaard, Marianne Graves Petersen, Line Musaeus
+Authors: Magnus Høholt Kaspersen, Line Musaeus, Karl-Emil Bilstrup, Marianne Graves Petersen, Ole Sejer Iversen, Christian Dindler, Peter Dalsgaard
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147388)
 
@@ -3739,7 +3739,7 @@ Abstract: Advances in artificial intelligence present a need for fostering AI li
 
 
 ### More than Model Documentation: Uncovering Teachers' Bespoke Information Needs for Informed Classroom Integration of ChatGPT
-Authors: Hariharan Subramonyam, Mei Tan
+Authors: Mei Tan, Hariharan Subramonyam
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147621)
 
@@ -3748,7 +3748,7 @@ Abstract: ChatGPT has entered classrooms, circumventing typical training and vet
 
 
 ### The Promise and Peril of ChatGPT in Higher Education: Opportunities, Challenges, and Design Implications
-Authors: Daehwan Ahn, Hyanghee Park
+Authors: Hyanghee Park, Daehwan Ahn
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147256)
 
@@ -3757,7 +3757,7 @@ Abstract: A growing number of students in higher education are using ChatGPT for
 
 
 ### Teaching artificial intelligence in extracurricular contexts through narrative-based learnersourcing
-Authors: Bansharee Ireen, Sophia Moore, Elizabeth Murnane, Grigory Artazyan, Winston Iskandar, Dylan Moore
+Authors: Dylan Moore, Sophia Moore, Bansharee Ireen, Winston Iskandar, Grigory Artazyan, Elizabeth Murnane
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147257)
 
@@ -3766,7 +3766,7 @@ Abstract: Collaborative technology provides powerful opportunities to engage you
 
 
 ### ml-machine.org: Infrastructuring a Research Product to Disseminate AI Literacy in Education
-Authors: Niels Olof Bouvin, Magnus Høholt Kaspersen, Karl-Emil Bilstrup, Marianne Graves Petersen
+Authors: Karl-Emil Bilstrup, Magnus Høholt Kaspersen, Niels Olof Bouvin, Marianne Graves Petersen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148135)
 
@@ -3777,14 +3777,14 @@ Abstract: ml-machine.org is a web- and micro:bit-based educational tool for buil
 
 ## Ethics of Digital Technologies A
 ### BLIP: Facilitating the Exploration of Undesirable Consequences of Digital Technologies
-Authors: Katharina Reinecke, Rock Pang, Sebastin Santy, Rene Just
+Authors: Rock Pang, Sebastin Santy, Rene Just, Katharina Reinecke
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146666)
 
 
 
 ### Perceptions of Fairness in Technology-Mediated Marketplaces
-Authors: Coye Cheshire, Andrew Chong, Ji Su Yoo
+Authors: Andrew Chong, Ji Su Yoo, Coye Cheshire
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147651)
 
@@ -3798,14 +3798,14 @@ Authors: Samia Kabir, Lixiang Li, Tianyi Zhang
 
 
 ### An Ontology of Dark Patterns Knowledge: Foundations, Definitions, and a Pathway for Shared Knowledge-Building
-Authors: Thomas Mildner, Nataliia Bielova, Colin Gray, Cristiana Teixeira Santos
+Authors: Colin Gray, Cristiana Teixeira Santos, Nataliia Bielova, Thomas Mildner
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147221)
 
 
 
 ### Beyond Dark Patterns: A Concept-Based Framework for Ethical Software Design
-Authors: Jonathan Zong, Daniel Jackson, Evan Caragay, Katherine Xiong
+Authors: Evan Caragay, Katherine Xiong, Jonathan Zong, Daniel Jackson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147293)
 
@@ -3814,7 +3814,7 @@ Authors: Jonathan Zong, Daniel Jackson, Evan Caragay, Katherine Xiong
 
 ## Evaluating AI Technologies A
 ### Are We Asking the Right Questions?: Designing for Community Stakeholders’ Interactions with AI in Policing
-Authors: Devansh Saxena, Joseph Chudzik, Md Romael Haque, Katy Weathington, Shion Guha
+Authors: Md Romael Haque, Devansh Saxena, Katy Weathington, Joseph Chudzik, Shion Guha
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147789)
 
@@ -3823,7 +3823,7 @@ Abstract: Research into recidivism risk prediction in the criminal justice syste
 
 
 ### Human-LLM Collaborative Annotation Through Effective Verification of LLM Labels
-Authors: Sajjadur Rahman, Hannah Kim, Kushan Mitra, Xinru Wang, Zhengjie Miao
+Authors: Xinru Wang, Hannah Kim, Sajjadur Rahman, Kushan Mitra, Zhengjie Miao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147019)
 
@@ -3832,7 +3832,7 @@ Abstract: Large language models (LLMs) have shown remarkable performance across 
 
 
 ### "AI enhances our performance, I have no doubt this one will do the same": The Placebo effect is robust to negative descriptions of AI
-Authors: Agnes Kloft, Steeven Villa, Robin Welsch, Thomas Kosch
+Authors: Agnes Kloft, Robin Welsch, Thomas Kosch, Steeven Villa
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148294)
 
@@ -3841,7 +3841,7 @@ Abstract: Heightened AI expectations facilitate performance in human-AI interact
 
 
 ### An Evaluation of Situational Autonomy for Human-AI Collaboration in a Shared Workspace Setting
-Authors: Frank Jäkel, Dirk Balfanz, Dorothea Koert, Janik Schöpper, Vildan Salikutluk, Katrin Scheuermann, Eric Frodl, Franziska Herbert
+Authors: Vildan Salikutluk, Janik Schöpper, Franziska Herbert, Katrin Scheuermann, Eric Frodl, Dirk Balfanz, Frank Jäkel, Dorothea Koert
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147227)
 
@@ -3852,7 +3852,7 @@ Abstract: Designing interactions for human-AI teams (HATs) can be challenging du
 ### Evaluating the Utility of Conformal Prediction Sets for AI-Advised Image Labeling 
 HONORABLE_MENTION
 
-Authors: Negar Kamali, Jessica Hullman, Angelos Chatzimparmpas, Dongping Zhang
+Authors: Dongping Zhang, Angelos Chatzimparmpas, Negar Kamali, Jessica Hullman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146876)
 
@@ -3863,14 +3863,14 @@ Abstract: As deep neural networks are more commonly deployed in high-stakes doma
 
 ## Eye and Face
 ### EyeEcho: Continuous and Low-power Facial Expression Tracking on Glasses
-Authors: Francois Guimbretiere, Ke Li, Boao Chen, Mose Sakashita, Cheng Zhang, Ruidong Zhang, Siyuan Chen
+Authors: Ke Li, Ruidong Zhang, Siyuan Chen, Boao Chen, Mose Sakashita, Francois Guimbretiere, Cheng Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146746)
 
 
 
 ### Uncovering and Addressing Blink-Related Challenges in Using Eye Tracking for Interactive Systems
-Authors: Henrike Weingärtner, Sven Mayer, Jesse Grootjen
+Authors: Jesse Grootjen, Henrike Weingärtner, Sven Mayer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147069)
 
@@ -3884,7 +3884,7 @@ Authors: Laxmi Pandey, Ahmed Arif
 
 
 ### ReHEarSSE: Recognizing Hidden-in-the-Ear Silently Spelled Expressions
-Authors: Yuntao Wang, Ken Christofferson, Yifei Chen, Alex Mariakakis, Kaoru Sezaki, Xuefu Dong, Yuuki Nishiyama
+Authors: Xuefu Dong, Yifei Chen, Yuuki Nishiyama, Kaoru Sezaki, Yuntao Wang, Ken Christofferson, Alex Mariakakis
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147342)
 
@@ -3893,7 +3893,7 @@ Authors: Yuntao Wang, Ken Christofferson, Yifei Chen, Alex Mariakakis, Kaoru Sez
 ### Watch Your Mouth: Silent Speech Recognition with Depth Sensing
 HONORABLE_MENTION
 
-Authors: Yang Zhang, Jun Rekimoto, Zixiong Su, Xue Wang
+Authors: Xue Wang, Zixiong Su, Jun Rekimoto, Yang Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147350)
 
@@ -3902,14 +3902,14 @@ Authors: Yang Zhang, Jun Rekimoto, Zixiong Su, Xue Wang
 
 ## Fabrication: 3D Printing A
 ### SolderlessPCB: Reusing Electronic Components in PCB Prototyping through Detachable 3D Printed Housings
-Authors: Huaishu Peng, Jiasheng Li, Zining Zhang, Zeyu Yan
+Authors: Zeyu Yan, Jiasheng Li, Zining Zhang, Huaishu Peng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146974)
 
 
 
 ### The Effect of Orientation on the Readability and Comfort of 3D-Printed Braille
-Authors: Tarik Crnovrsanin, Laura South, Eduardo Puerta, Cody Dunne
+Authors: Eduardo Puerta, Tarik Crnovrsanin, Laura South, Cody Dunne
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147955)
 
@@ -3918,7 +3918,7 @@ Authors: Tarik Crnovrsanin, Laura South, Eduardo Puerta, Cody Dunne
 ### SketchPath: Using Digital Drawing to Integrate the Gestural Qualities of Craft in CAM-Based Clay 3D Printing
 BEST_PAPER
 
-Authors: Devon Frost, Eun-Ha Paek, Jennifer Jacobs, Raina Lee
+Authors: Devon Frost, Raina Lee, Eun-Ha Paek, Jennifer Jacobs
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148134)
 
@@ -3927,14 +3927,14 @@ Authors: Devon Frost, Eun-Ha Paek, Jennifer Jacobs, Raina Lee
 ### Throwing Out Conventions: Reimagining Craft-Centered CNC Tool Design through the Digital Pottery Wheel
 BEST_PAPER
 
-Authors: Ilan Moyer, Devon Frost, Sam Bourgault, Jennifer Jacobs
+Authors: Ilan Moyer, Sam Bourgault, Devon Frost, Jennifer Jacobs
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147769)
 
 
 
 ### 3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials
-Authors: Ryo Suzuki, Andrea Bianchi, Kongpyung (Justin) Moon, Zofia Marciniak
+Authors: Kongpyung (Justin) Moon, Zofia Marciniak, Ryo Suzuki, Andrea Bianchi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147413)
 
@@ -3943,28 +3943,28 @@ Authors: Ryo Suzuki, Andrea Bianchi, Kongpyung (Justin) Moon, Zofia Marciniak
 
 ## Finance and Money
 ### Shortchanged: Uncovering and Analyzing Intimate Partner Financial Abuse in Consumer Complaints
-Authors: Vineeth Ravi, Rosanna Bellini, Kevin Lee, Jessica Staddon, Arkaprabha Bhattacharya
+Authors: Arkaprabha Bhattacharya, Kevin Lee, Vineeth Ravi, Jessica Staddon, Rosanna Bellini
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148177)
 
 
 
 ### Stranger Danger? Investor Behavior and Incentives on Cryptocurrency Copy-Trading Platforms
-Authors: Daisuke Kawai, Kyle Soska, Nicolas Christin, Bryan Routledge, Ariel Zetlin-Jones
+Authors: Daisuke Kawai, Kyle Soska, Bryan Routledge, Ariel Zetlin-Jones, Nicolas Christin
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148232)
 
 
 
 ### Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Preferences for Longitudinal Care Management
-Authors: Mark Matthews, Johnna Blair, Erika F. H. Saunders, Jeff Brozena, Saeed Abdullah, Dahlia Mukherjee, Thomas Richardson
+Authors: Jeff Brozena, Johnna Blair, Thomas Richardson, Mark Matthews, Dahlia Mukherjee, Erika F. H. Saunders, Saeed Abdullah
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147609)
 
 
 
 ### Trading as Gambling: Social Investing and Financial Risks on the r/WallStreetBets subreddit
-Authors: Sam Moradzadeh, Xinning Gui, Yubo Kou
+Authors: Yubo Kou, Sam Moradzadeh, Xinning Gui
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147259)
 
@@ -3973,7 +3973,7 @@ Authors: Sam Moradzadeh, Xinning Gui, Yubo Kou
 ### "Don't put all your eggs in one basket": How Cryptocurrency Users Choose and Secure Their Wallets
 HONORABLE_MENTION
 
-Authors: Tanusree Sharma, Sauvik Das, Yang Wang, Yaman Yu
+Authors: Yaman Yu, Tanusree Sharma, Sauvik Das, Yang Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148179)
 
@@ -3982,21 +3982,21 @@ Authors: Tanusree Sharma, Sauvik Das, Yang Wang, Yaman Yu
 
 ## Hand Interaction
 ### EITPose: Wearable and Practical Electrical Impedance Tomography for Continuous Hand Pose Estimation
-Authors: Alexander Kyu, Mayank Goel, Hongyu Mao, Karan Ahuja, Junyi Zhu
+Authors: Alexander Kyu, Hongyu Mao, Junyi Zhu, Mayank Goel, Karan Ahuja
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147181)
 
 
 
 ### EchoWrist: Continuous Hand Pose Tracking and Hand-Object Interaction Recognition Using Low-Power Active Acoustic Sensing On a Wristband
-Authors: Chi-Jung Lee, Sicheng Yin, Francois Guimbretiere, Ke Li, Tianhong Yu, Oliver Lopez, Vipin Gunda, Devansh Agarwal, Mose Sakashita, Cheng Zhang, James Kim, Ruidong Zhang, Boao Dong
+Authors: Chi-Jung Lee, Ruidong Zhang, Devansh Agarwal, Tianhong Yu, Vipin Gunda, Oliver Lopez, James Kim, Sicheng Yin, Boao Dong, Ke Li, Mose Sakashita, Francois Guimbretiere, Cheng Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147046)
 
 
 
 ### Single-handed Folding Interactions with a Modified Clamshell Flip Phone
-Authors: Antony Albert Raj Irudayaraj, Yen-Ting Yeh, Daniel Vogel
+Authors: Yen-Ting Yeh, Antony Albert Raj Irudayaraj, Daniel Vogel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147358)
 
@@ -4005,14 +4005,14 @@ Authors: Antony Albert Raj Irudayaraj, Yen-Ting Yeh, Daniel Vogel
 ### Emotion Embodied: Unveiling the Expressive Potential of Single-Hand Gestures
 HONORABLE_MENTION
 
-Authors: Kening Zhu, Shannon Santosa, Junnan Yu, Yuhan Luo, Yichen Wan, Minhui Liang
+Authors: Yuhan Luo, Junnan Yu, Minhui Liang, Yichen Wan, Kening Zhu, Shannon Santosa
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146626)
 
 
 
 ### Hand Gesture Recognition for Blind Users by Tracking 3D Gesture Trajectory
-Authors: Aruna Balasubramanian, IV Ramakrishnan, Xiaojun Bi, Prerna Khanna, Shubham Jain
+Authors: Prerna Khanna, IV Ramakrishnan, Shubham Jain, Xiaojun Bi, Aruna Balasubramanian
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148204)
 
@@ -4021,7 +4021,7 @@ Authors: Aruna Balasubramanian, IV Ramakrishnan, Xiaojun Bi, Prerna Khanna, Shub
 
 ## Health and AI A
 ### ``It Is a Moving Process'': Understanding the Evolution of Explainability Needs of Clinicians in Pulmonary Medicine
-Authors: Agathe Balayn, Jiwon Jung, Rembrandt Oltmans, Jie Yang, Lorenzo Corti, Marlies Wijsenbeek
+Authors: Lorenzo Corti, Rembrandt Oltmans, Jiwon Jung, Agathe Balayn, Marlies Wijsenbeek, Jie Yang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147566)
 
@@ -4030,7 +4030,7 @@ Abstract: Clinicians increasingly pay attention to Artificial Intelligence (AI) 
 
 
 ### Understanding the Impact of Long-Term Memory on Self-Disclosure with Large Language Model-Driven Chatbots for Public Health Intervention
-Authors: Yuin Jeong, Eunkyung Jo, SoHyun Park, Young-Ho Kim, Daniel Epstein
+Authors: Eunkyung Jo, Yuin Jeong, SoHyun Park, Daniel Epstein, Young-Ho Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148244)
 
@@ -4039,7 +4039,7 @@ Abstract: Recent large language models (LLMs) offer the potential to support pub
 
 
 ### Advancing Patient-Centered Shared Decision-Making with AI Systems for Older Adult Cancer Patients
-Authors: Robert Riter, Yuexing Hao, Zeyu Liu, Saleh Kalantari
+Authors: Yuexing Hao, Zeyu Liu, Robert Riter, Saleh Kalantari
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148222)
 
@@ -4048,7 +4048,7 @@ Abstract: Shared decision making (SDM) plays a vital role in clinical practice g
 
 
 ### Beyond the Waiting Room: Patient's Perspectives on the Conversational Nuances of Pre-Consultation Chatbots
-Authors: Khai Truong, Brenna Li, Noah Crampton, Alex Mariakakis, Ofek Gross, Saba Tauseef, Mamta Kapoor, Mohit Jain
+Authors: Brenna Li, Ofek Gross, Noah Crampton, Mamta Kapoor, Saba Tauseef, Mohit Jain, Khai Truong, Alex Mariakakis
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147742)
 
@@ -4059,7 +4059,7 @@ Abstract: Pre-consultation serves as a critical information exchange between hea
 ### How Much Decision Power Should (A)I Have?: Investigating Patients’ Preferences Towards AI Autonomy in Healthcare Decision Making
 HONORABLE_MENTION
 
-Authors: Niko Vegt, Marina Bos-de Vos, Valentijn Visch, Dajung Kim
+Authors: Dajung Kim, Niko Vegt, Valentijn Visch, Marina Bos-de Vos
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146903)
 
@@ -4072,7 +4072,7 @@ Abstract: Despite the growing potential of artificial intelligence (AI) in impro
 ### The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction
 HONORABLE_MENTION
 
-Authors: Malte Jung, Andrea Cuadra, James Landay, Nicola Dell, Deborah Estrin, Lynn Stein, Maria Wang
+Authors: Andrea Cuadra, Maria Wang, Lynn Stein, Malte Jung, Nicola Dell, Deborah Estrin, James Landay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147950)
 
@@ -4081,7 +4081,7 @@ Abstract: From ELIZA to Alexa, Conversational Agents (CAs) have been deliberatel
 
 
 ### Rethinking Human-AI Collaboration in Complex Medical Decision Making: A Case Study in Sepsis Diagnosis
-Authors: Bingsheng Yao, Jeffrey Caterino, Shao Zhang, Jianing Yu, Lace Padilla, Ping Zhang, Yuxuan Lu, Dakuo Wang, Changchang Yin, Xuhai "Orson" Xu, Melanie Tory
+Authors: Shao Zhang, Jianing Yu, Xuhai "Orson" Xu, Changchang Yin, Yuxuan Lu, Bingsheng Yao, Melanie Tory, Lace Padilla, Jeffrey Caterino, Ping Zhang, Dakuo Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147992)
 
@@ -4090,7 +4090,7 @@ Abstract: Today's AI systems for medical decision support often succeed on bench
 
 
 ### Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language
-Authors: Eugenia Rho, Valerie Reyna, Uma Sushmitha Gunturi, Xiaohan Ding, Buse Carik
+Authors: Xiaohan Ding, Buse Carik, Uma Sushmitha Gunturi, Valerie Reyna, Eugenia Rho
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147157)
 
@@ -4099,7 +4099,7 @@ Abstract: We introduce a multi-step reasoning framework using prompt-based LLMs 
 
 
 ### Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language Applications for Radiology
-Authors: Shruthi Bannur, Daniel Coelho de Castro, Fernando Pérez-García, Stephen Harris, Matthew Lungren, Hannah Richardson, Stephanie Hyland, Kenza Bouzid, Anja Thieme, Joseph Jacob, Aditya Nori, Mercy Ranjit, Maria Teodora Wetscherek, Pratik Ghosh, Junaid Bajwa, Javier Alvarez-Valle, Ozan Oktay, Anton Schwaighofer, Nur Yildirim, Harshita Sharma, Mark Pinnock
+Authors: Nur Yildirim, Hannah Richardson, Maria Teodora Wetscherek, Junaid Bajwa, Joseph Jacob, Mark Pinnock, Stephen Harris, Daniel Coelho de Castro, Shruthi Bannur, Stephanie Hyland, Pratik Ghosh, Mercy Ranjit, Kenza Bouzid, Anton Schwaighofer, Fernando Pérez-García, Harshita Sharma, Ozan Oktay, Matthew Lungren, Javier Alvarez-Valle, Aditya Nori, Anja Thieme
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146624)
 
@@ -4108,7 +4108,7 @@ Abstract: Recent advances in AI combine large language models (LLMs) with vision
 
 
 ### Human-Algorithmic Interaction Using a Large Language Model-Augmented Artificial Intelligence Clinical Decision Support System
-Authors: Ambrose Wong, Dennis Shung, Jasjeet Sekhon, Yuan Pu, Allen Hsiao, Loren Laine, Leigh Evans, Terika McCall, Kisung You, Rene Kizilcec, Mauro Giuffre, Niroop Rajashekar, Sunny Chung, Yeo Eun Shin, Colleen Chan, Theo Saarinen
+Authors: Niroop Rajashekar, Yeo Eun Shin, Yuan Pu, Sunny Chung, Kisung You, Mauro Giuffre, Colleen Chan, Theo Saarinen, Allen Hsiao, Jasjeet Sekhon, Ambrose Wong, Leigh Evans, Rene Kizilcec, Loren Laine, Terika McCall, Dennis Shung
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147431)
 
@@ -4119,7 +4119,7 @@ Abstract: Integration of artificial intelligence (AI) into clinical decision sup
 
 ## Health and Care Practices
 ### Designing Communication Feedback Systems To Reduce Healthcare Providers’ Implicit Biases In Patient Encounters
-Authors: Reggie Casanova-Perez, Janice Sabin, Nadir Weibel, Manas Satish Bedmutha, Harshini Ramaswamy, Wanda Pratt, Andrea Hartzler, Brian Wood, Emily Bascom, Kelly Tobar
+Authors: Emily Bascom, Reggie Casanova-Perez, Kelly Tobar, Manas Satish Bedmutha, Harshini Ramaswamy, Wanda Pratt, Janice Sabin, Brian Wood, Nadir Weibel, Andrea Hartzler
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147797)
 
@@ -4128,7 +4128,7 @@ Authors: Reggie Casanova-Perez, Janice Sabin, Nadir Weibel, Manas Satish Bedmuth
 ### Perceived Empathy of Technology Scale (PETS): Measuring Empathy of Systems Toward the User
 HONORABLE_MENTION
 
-Authors: Jonathan Rupp, Sven Mayer, Matthias Schmidmaier, Darina Cvetanova
+Authors: Matthias Schmidmaier, Jonathan Rupp, Darina Cvetanova, Sven Mayer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146760)
 
@@ -4137,14 +4137,14 @@ Authors: Jonathan Rupp, Sven Mayer, Matthias Schmidmaier, Darina Cvetanova
 ### Designing for Caregiver-facing Values Elicitation Tools
 BEST_PAPER
 
-Authors: Charisse Foo, Gerald Huat Choon Koh, Sajeban Antonyrex, Pin Sym Foong, Natasha Ureyang
+Authors: Pin Sym Foong, Natasha Ureyang, Charisse Foo, Sajeban Antonyrex, Gerald Huat Choon Koh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146676)
 
 
 
 ### Hospital Employee Experiences Caring for Patients in Smart Patient Rooms
-Authors: Jason Wiese, Joshua Dawson, Eden Fisher
+Authors: Joshua Dawson, Eden Fisher, Jason Wiese
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147343)
 
@@ -4153,7 +4153,7 @@ Authors: Jason Wiese, Joshua Dawson, Eden Fisher
 ### Investigating Why Clinicians Deviate from Standards of Care: Liberating Patients from Mechanical Ventilation in the ICU
 HONORABLE_MENTION
 
-Authors: Gursimran Chawla, Jeremy Kahn, Susanna Zlotnikov, Leigh Bukowski, James McCann, John Zimmerman, Aradhana Venkat, Jennifer Kim, Nur Yildirim
+Authors: Nur Yildirim, Susanna Zlotnikov, Aradhana Venkat, Gursimran Chawla, Jennifer Kim, Leigh Bukowski, Jeremy Kahn, James McCann, John Zimmerman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147846)
 
@@ -4164,28 +4164,28 @@ Authors: Gursimran Chawla, Jeremy Kahn, Susanna Zlotnikov, Leigh Bukowski, James
 ### Looking Together ≠ Seeing the Same Thing: Understanding Surgeons' Visual Needs During Intra-operative Coordination and Instruction
 HONORABLE_MENTION
 
-Authors: Natalie Mateju, Michael Kemp, Xu Wang, Xinyue Chen, Jingying Wang, Vitaliy Popov, Gurjit Sandhu, Taylor Kantor
+Authors: Vitaliy Popov, Xinyue Chen, Jingying Wang, Michael Kemp, Gurjit Sandhu, Taylor Kantor, Natalie Mateju, Xu Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146738)
 
 
 
 ### Surgment: Segmentation-enabled Semantic Search and Creation of Visual Question and Feedback to Support Video-Based Surgery Learning
-Authors: Tandis Soltani, Xu Wang, Haoran Tang, Jingying Wang, Vitaliy Popov, Taylor Kantor
+Authors: Jingying Wang, Haoran Tang, Taylor Kantor, Tandis Soltani, Vitaliy Popov, Xu Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147894)
 
 
 
 ### MR Microsurgical Suture Training System with Level-Appropriate Support
-Authors: Hideki Koike, Shio Miyafuji, Yusuke Kojima, Taichi Kin, Yuka Tashiro, Takeo Igarashi, Satoshi Kiyofuji
+Authors: Yuka Tashiro, Shio Miyafuji, Yusuke Kojima, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, Hideki Koike
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147989)
 
 
 
 ### Facilitating Virtual Reality Integration in Medical Education: A Case Study of Acceptability and Learning Impact in Childbirth Delivery Training
-Authors: Shengdong Zhao, Abhiram Kanneganti, Gosavi Arundhati Tushar, Eng Tat Khoo, Chang Liu, Felicia Tan
+Authors: Chang Liu, Felicia Tan, Shengdong Zhao, Abhiram Kanneganti, Gosavi Arundhati Tushar, Eng Tat Khoo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147754)
 
@@ -4194,7 +4194,7 @@ Authors: Shengdong Zhao, Abhiram Kanneganti, Gosavi Arundhati Tushar, Eng Tat Kh
 ### "I'd be watching him contour till 10 o'clock at night'': Understanding Tensions between Teaching Methods and Learning Needs in Healthcare Apprenticeship
 HONORABLE_MENTION
 
-Authors: Nadir Weibel, James D. Murphy, Kexin Cheng, Chen Chen, Matin Yarmand
+Authors: Matin Yarmand, Chen Chen, Kexin Cheng, James D. Murphy, Nadir Weibel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147449)
 
@@ -4203,7 +4203,7 @@ Authors: Nadir Weibel, James D. Murphy, Kexin Cheng, Chen Chen, Matin Yarmand
 
 ## Human-Robot Interaction A
 ### A Robot Jumping the Queue: Expectations About Politeness and Power During Conflicts in Everyday Human-Robot Encounters
-Authors: Sam Thellman, Philipp Hock, Tom Ziemke, Linda Miller, Franziska Babel, Robin Welsch
+Authors: Franziska Babel, Robin Welsch, Linda Miller, Philipp Hock, Sam Thellman, Tom Ziemke
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147417)
 
@@ -4212,21 +4212,21 @@ Authors: Sam Thellman, Philipp Hock, Tom Ziemke, Linda Miller, Franziska Babel, 
 ### I feel being there, they feel being together: Exploring How Telepresence Robots Facilitate Long-Distance Family Communication
 HONORABLE_MENTION
 
-Authors: Bongwon Suh, Hajin Lim, Joonhwan Lee, Jiyeon Seo
+Authors: Jiyeon Seo, Hajin Lim, Bongwon Suh, Joonhwan Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147312)
 
 
 
 ### PepperPose: Full-Body Pose Estimation with a Companion Robot
-Authors: Siqi Zheng, Yuntao Wang, Chongyang Wang, Tin Lun Lam, Yuanchun Shi, Lingxiao Zhong, Yuan Gao, Chen Liang, Chun Yu
+Authors: Chongyang Wang, Siqi Zheng, Lingxiao Zhong, Chun Yu, Chen Liang, Yuntao Wang, Yuan Gao, Tin Lun Lam, Yuanchun Shi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146730)
 
 
 
 ### Giving Robots a Voice: Human-in-the-Loop Voice Creation and open-ended Labeling
-Authors: Pol van Rijn, Nori Jacoby, Kathrin Janowski, Katharina Weitz, Silvan Mertes, Elisabeth André
+Authors: Pol van Rijn, Silvan Mertes, Kathrin Janowski, Katharina Weitz, Nori Jacoby, Elisabeth André
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147115)
 
@@ -4235,14 +4235,14 @@ Authors: Pol van Rijn, Nori Jacoby, Kathrin Janowski, Katharina Weitz, Silvan Me
 
 ## Human-Robot Interaction B
 ### Robot-Assisted Decision-Making: Unveiling the Role of Uncertainty Visualisation and Embodiment
-Authors: Saumya Pareek, Wafa Johal, Jorge Goncalves, Sarah Schömbs
+Authors: Sarah Schömbs, Saumya Pareek, Jorge Goncalves, Wafa Johal
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146811)
 
 
 
 ### Trash in Motion: Emergent Interactions with a Robotic Trashcan
-Authors: Barry Brown, Wendy Ju, Ilan Mandel, Fanjun Bu
+Authors: Barry Brown, Fanjun Bu, Ilan Mandel, Wendy Ju
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146631)
 
@@ -4258,14 +4258,14 @@ Authors: Nami Ogawa, Jun Baba, Junya Nakanishi
 ### The Adaptive Architectural Layout: How the Control of a Semi-Autonomous Mobile Robotic Partition was Shared to Mediate the Environmental Demands and Resources of an Open-Plan Office
 HONORABLE_MENTION
 
-Authors: Andrew Vande Moere, Alex Binh Vinh Duc Nguyen
+Authors: Alex Binh Vinh Duc Nguyen, Andrew Vande Moere
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146791)
 
 
 
 ### From Agent Autonomy to Casual Collaboration: A Design Investigation on Help-Seeking Urban Robots
-Authors: Martin Tomitsch, Marius Hoggenmüller, Xinyan Yu
+Authors: Xinyan Yu, Marius Hoggenmüller, Martin Tomitsch
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148163)
 
@@ -4274,14 +4274,14 @@ Authors: Martin Tomitsch, Marius Hoggenmüller, Xinyan Yu
 
 ## Human-Robot Interaction C
 ### Impact of Multi-Robot Presence and Anthropomorphism on Human Cognition and Emotion
-Authors: Jiadi Luo, Lawrence Kim, Veronika Domova
+Authors: Jiadi Luo, Veronika Domova, Lawrence Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147559)
 
 
 
 ### Join Me Here if You Will: Investigating Embodiment and Politeness Behaviors When Joining Small Groups of Humans, Robots, and Virtual Characters
-Authors: Iolanda Leite, Sahba Zojaji, Christopher Peters, Andrii Matviienko
+Authors: Sahba Zojaji, Andrii Matviienko, Iolanda Leite, Christopher Peters
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147171)
 
@@ -4290,7 +4290,7 @@ Authors: Iolanda Leite, Sahba Zojaji, Christopher Peters, Andrii Matviienko
 ### Designing Multispecies Worlds for Robots, Cats, and Humans
 BEST_PAPER
 
-Authors: Eike Schneiders, Matt Adams, Nick Tandavanitj, Victor Ngo, Clara Mancini, Alan Chamberlain, Steven Benford, Simon Castle-Green, Joel Fischer, Ju Row Farr
+Authors: Eike Schneiders, Steven Benford, Alan Chamberlain, Clara Mancini, Simon Castle-Green, Victor Ngo, Ju Row Farr, Matt Adams, Nick Tandavanitj, Joel Fischer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147577)
 
@@ -4299,7 +4299,7 @@ Authors: Eike Schneiders, Matt Adams, Nick Tandavanitj, Victor Ngo, Clara Mancin
 ### Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design
 BEST_PAPER
 
-Authors: Sunghoon Lee, Hochul Hwang, Nicholas Giudice, Donghyun Kim, Joydeep Biswas, Hee-Tae Jung
+Authors: Hochul Hwang, Hee-Tae Jung, Nicholas Giudice, Joydeep Biswas, Sunghoon Lee, Donghyun Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147890)
 
@@ -4308,28 +4308,28 @@ Authors: Sunghoon Lee, Hochul Hwang, Nicholas Giudice, Donghyun Kim, Joydeep Bis
 
 ## Inter- and Cross-Species Interactions
 ### No More Angry Birds: Investigating Touchscreen Ergonomics to Improve Tablet-Based Enrichment for Parrots
-Authors: Rebecca Kleinberger, Ilyena Hirskyj-Douglas, Jennifer Cunha, Megan McMahon
+Authors: Rebecca Kleinberger, Jennifer Cunha, Megan McMahon, Ilyena Hirskyj-Douglas
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148084)
 
 
 
 ### Ellie Talks About the Weather: Toward Evaluating the Expressive and Enrichment Potential of a Tablet-Based Speech Board in a single Goffin’s Cockatoo
-Authors: Rebecca Kleinberger, Jennifer Cunha, Nikhil Singh, Megan McMahon, Lily Stella, Hao Jin, Corinne Renguette
+Authors: Jennifer Cunha, Corinne Renguette, Nikhil Singh, Lily Stella, Megan McMahon, Hao Jin, Rebecca Kleinberger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147963)
 
 
 
 ### Call of the Wild Web: Comparing Parrot Engagement in Live vs. Pre-Recorded Video Calls
-Authors: Rebecca Kleinberger, Ilyena Hirskyj-Douglas, Jennifer Cunha
+Authors: Ilyena Hirskyj-Douglas, Jennifer Cunha, Rebecca Kleinberger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147943)
 
 
 
 ### Uncovering Lemur Cross-Species Usage of an Interactive Audio Device In Zoos
-Authors: Ilyena Hirskyj-Douglas, Vilma Kankaanpää, Fay Clark
+Authors: Vilma Kankaanpää, Fay Clark, Ilyena Hirskyj-Douglas
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147810)
 
@@ -4338,7 +4338,7 @@ Authors: Ilyena Hirskyj-Douglas, Vilma Kankaanpää, Fay Clark
 ### Charting Ethical Tensions in Multispecies Technology Research through Beneficiary-Epistemology Space
 HONORABLE_MENTION
 
-Authors: Pepita Barnard Stringer, Ayse Kucukyilmaz, Eike Schneiders, Matt Adams, Guido Salimbeni, Nick Tandavanitj, Victor Ngo, Clara Mancini, Alan Chamberlain, Steven Benford, Simon Castle-Green, Joel Fischer, Ju Row Farr
+Authors: Steven Benford, Clara Mancini, Alan Chamberlain, Eike Schneiders, Simon Castle-Green, Joel Fischer, Ayse Kucukyilmaz, Guido Salimbeni, Victor Ngo, Pepita Barnard Stringer, Matt Adams, Nick Tandavanitj, Ju Row Farr
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147025)
 
@@ -4349,7 +4349,7 @@ Authors: Pepita Barnard Stringer, Ayse Kucukyilmaz, Eike Schneiders, Matt Adams,
 ### Big or Small, It’s All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning
 HONORABLE_MENTION
 
-Authors: Andrea Bianchi, Mike Sinclair, Eyal Ofek, Myung Jin Kim, Michel Pahud
+Authors: Myung Jin Kim, Eyal Ofek, Michel Pahud, Mike Sinclair, Andrea Bianchi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147073)
 
@@ -4358,7 +4358,7 @@ Abstract: Haptic perception of physical sizes increases the realism and immersio
 
 
 ### STMG: A Machine Learning Microgesture Recognition System for Supporting Thumb-Based VR/AR Input
-Authors: Moshe Ben-Zacharia, Necati Cihan Camgöz, Shugao Ma, Eric Sauser, Andrei Marin, Yubo Zhang, Ayush Bhargava, Robert Wang, Chengde Wan, Yujun Cai, Fedor Kovalev, Ken Koh, Shannon Hoople, Mariel Sanchez-Rodriguez, Marcos Nunes-Ueno, Kenrick Kin
+Authors: Kenrick Kin, Chengde Wan, Ken Koh, Andrei Marin, Necati Cihan Camgöz, Yubo Zhang, Yujun Cai, Fedor Kovalev, Moshe Ben-Zacharia, Shannon Hoople, Marcos Nunes-Ueno, Mariel Sanchez-Rodriguez, Ayush Bhargava, Robert Wang, Eric Sauser, Shugao Ma
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146737)
 
@@ -4367,7 +4367,7 @@ Abstract: AR/VR devices have started to adopt hand tracking, in lieu of controll
 
 
 ### Beyond the Blink: Investigating Combined Saccadic & Blink-Suppressed Hand Redirection in Virtual Reality
-Authors: Oscar Ariza, André Zenner, Chiara Karr, Antonio Krüger, Martin Feick
+Authors: André Zenner, Chiara Karr, Martin Feick, Oscar Ariza, Antonio Krüger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147392)
 
@@ -4376,21 +4376,21 @@ Abstract: In pursuit of hand redirection techniques that are ever more tailored 
 
 
 ### TriPad: Touch Input in AR on Ordinary Surfaces with Hand Tracking Only
-Authors: Caroline Appert, Stéphanie Rey, Camille Dupré, Emmanuel Pietriga, Houssem Saidi
+Authors: Camille Dupré, Caroline Appert, Stéphanie Rey, Houssem Saidi, Emmanuel Pietriga
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147490)
 
-Abstract: TriPad enables opportunistic touch interaction in Augmented Reality using hand tracking only. Users declare the surface they want to appropriate with a simple hand tap gesture. They can then use this surface at will for direct and indirect touch input. TriPad only involves analyzing hand movements and postures, without the need for additional instrumentation, scene understanding or machine learning. TriPad thus works on a variety of flat surfaces, including glass. It also ensures low computational overhead on devices that typically have a limited power budget. We describe the approach, and report on two user studies. The first study demonstrates the robustness of TriPad's hand movement interpreter on different surface materials. The second study compares TriPad against direct mid-air AR input techniques on both discrete and continuous tasks and with different surface orientations. TriPad achieves a better speed-accuracy trade-off overall, improves comfort and minimizes fatigue.
+Abstract: TriPad enables opportunistic touch interaction in Augmented Reality using hand tracking only. Users declare the surface they want to appropriate with a simple hand tap gesture. They can then use this surface at will for direct and indirect touch input. TriPad only involves analyzing hand movements and postures, without the need for additional instrumentation, scene understanding or machine learning. TriPad thus works on a variety of flat surfaces, including glass. It also ensures low computational overhead on devices that typically have a limited power budget. We describe the approach, and report on two user studies. The first study demonstrates the robustness of TriPad's hand movement interpreter on different surface materials. The second study compares TriPad against direct mid-air AR input techniques on both discrete and continuous tasks and with different surface orientations. TriPad achieves a better speed-accuracy trade-off overall, improves comfort and minimizes fatigue.
 
 
 
 
 ### Flicker Augmentations: Rapid Brightness Modulation for Real-World Visual Guidance using Augmented Reality
-Authors: Kasper Hornbæk, Jonathan Sutton, Tobias Langlotz, Alexander Plopski
+Authors: Jonathan Sutton, Tobias Langlotz, Alexander Plopski, Kasper Hornbæk
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147292)
 
-Abstract: Providing attention guidance, such as assisting in search tasks, is a prominent use for Augmented Reality.  Typically, this is achieved by graphically overlaying geometrical shapes such as arrows. However, providing visual guidance can cause side effects such as attention tunnelling or scene occlusions, and introduce additional visual clutter. Alternatively, visual guidance can adjust saliency but this comes with different challenges such as hardware requirements and environment dependent parameters. In this work we advocate for using flicker as an alternative for real-world guidance using Augmented Reality. We provide evidence for the effectiveness of flicker from two user studies. The first compared flicker against alternative approaches in a highly controlled setting, demonstrating efficacy (N = 28). The second investigated flicker in a practical task, demonstrating feasibility with higher ecological validity (N = 20). Finally, our discussion highlights the opportunities and challenges when using flicker to provide real-world visual guidance using Augmented Reality.
+Abstract: Providing attention guidance, such as assisting in search tasks, is a prominent use for Augmented Reality.  Typically, this is achieved by graphically overlaying geometrical shapes such as arrows. However, providing visual guidance can cause side effects such as attention tunnelling or scene occlusions, and introduce additional visual clutter. Alternatively, visual guidance can adjust saliency but this comes with different challenges such as hardware requirements and environment dependent parameters. In this work we advocate for using flicker as an alternative for real-world guidance using Augmented Reality. We provide evidence for the effectiveness of flicker from two user studies. The first compared flicker against alternative approaches in a highly controlled setting, demonstrating efficacy (N = 28). The second investigated flicker in a practical task, demonstrating feasibility with higher ecological validity (N = 20). Finally, our discussion highlights the opportunities and challenges when using flicker to provide real-world visual guidance using Augmented Reality.
 
 
 
@@ -4400,7 +4400,7 @@ Abstract: Providing attention guidance, such as assisting in search tasks, is a 
 ### The Metacognitive Demands and Opportunities of Generative AI
 BEST_PAPER
 
-Authors: Lev Tankelevitch, Auste Simkute, Ava Scott, Advait Sarkar, Viktor Kewenig, Abigail Sellen, Sean Rintel
+Authors: Lev Tankelevitch, Viktor Kewenig, Auste Simkute, Ava Scott, Advait Sarkar, Abigail Sellen, Sean Rintel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147504)
 
@@ -4409,7 +4409,7 @@ Abstract: Generative AI (GenAI) systems offer unprecedented opportunities for tr
 
 
 ### BIDTrainer: An LLMs-driven Education Tool for Enhancing the Understanding and Reasoning in Bio-inspired Design
-Authors: Peter Childs, Zebin Cai, Liuqing Chen, Zhaojun Jiang, Lingyun Sun, Haoyu Zuo, Duowei Xia
+Authors: Liuqing Chen, Zhaojun Jiang, Duowei Xia, Zebin Cai, Lingyun Sun, Peter Childs, Haoyu Zuo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147876)
 
@@ -4418,7 +4418,7 @@ Abstract: Bio-inspired design (BID) fosters innovative solutions in engineering 
 
 
 ### Teachers, Parents, and Students' perspectives on Integrating Generative AI into Elementary Literacy Education
-Authors: Xiaofei Zhou, Kylie Peppler, Shenshen Han, Zhenyao Cai, Richard Ko, Seth Corrigan, Ariel Han
+Authors: Ariel Han, Xiaofei Zhou, Zhenyao Cai, Shenshen Han, Richard Ko, Seth Corrigan, Kylie Peppler
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147607)
 
@@ -4427,7 +4427,7 @@ Abstract: The viral launch of new generative AI (GAI) systems, such as ChatGPT a
 
 
 ### Teaching Middle Schoolers about the Privacy Threats of Tracking and Pervasive Personalization: A Classroom Intervention Using Design-Based Research
-Authors: Philip Nelson, Kyra Derrick, Khushbu Singh, Nicole Bannister, Mehtab Iqbal, Sushmita Khan, Oluwafemi Osho, Kelly Caine, Bart Knijnenburg, Emily Sidnam-Mauch, Lingyuan Li
+Authors: Sushmita Khan, Mehtab Iqbal, Oluwafemi Osho, Khushbu Singh, Kyra Derrick, Philip Nelson, Lingyuan Li, Emily Sidnam-Mauch, Nicole Bannister, Kelly Caine, Bart Knijnenburg
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146762)
 
@@ -4436,7 +4436,7 @@ Abstract: With the pervasive and evolving use of tracking and AI to make inferen
 
 
 ### Putting Things into Context: Generative AI-Enabled Context Personalization for Vocabulary Learning Improves Learning Motivation
-Authors: Pat Pataranutaporn, Yaoli Mao, Pattie Maes, Valdemar Danry, Joanne Leong, Florian Perteneder
+Authors: Joanne Leong, Pat Pataranutaporn, Valdemar Danry, Florian Perteneder, Yaoli Mao, Pattie Maes
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147682)
 
@@ -4454,7 +4454,7 @@ Authors: Latifa Al Naimi, Mirela Alistar
 
 
 ### "Islamically, I am not on my period": A Study of Menstrual Tracking in Muslim Women in the US
-Authors: James Clawson, Pallavi Panchpor, Zaidat Ibrahim, Novia Nurain
+Authors: Zaidat Ibrahim, Pallavi Panchpor, Novia Nurain, James Clawson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147294)
 
@@ -4463,21 +4463,21 @@ Authors: James Clawson, Pallavi Panchpor, Zaidat Ibrahim, Novia Nurain
 ### Tracking During Ramadan: Examining the Intersection of Menstrual and Religious Tracking Practices Among Muslim Women in the United States
 HONORABLE_MENTION
 
-Authors: James Clawson, Zaidat Ibrahim, Novia Nurain
+Authors: Zaidat Ibrahim, Novia Nurain, James Clawson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147054)
 
 
 
 ### Functional Design Requirements to Facilitate Menstrual Health Data Exploration
-Authors: Khai Truong, Brenna Li, Alex Mariakakis, Georgianna Lin, Minh Le, Pierre-William Lessard, Fanny Chevalier
+Authors: Georgianna Lin, Pierre-William Lessard, Minh Le, Brenna Li, Fanny Chevalier, Khai Truong, Alex Mariakakis
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147625)
 
 
 
 ### My Data, My Choice, My Insights: Women's Requirements when Collecting, Interpreting and Sharing their Personal Health Data
-Authors: Susanna Spoerl, Susanne Boll, Sophie Grimme, Marion Koelle
+Authors: Sophie Grimme, Susanna Spoerl, Susanne Boll, Marion Koelle
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148283)
 
@@ -4486,14 +4486,14 @@ Authors: Susanna Spoerl, Susanne Boll, Sophie Grimme, Marion Koelle
 
 ## Mental Health A
 ### Supporting Cognitive Reappraisal With Digital Technology: A Content Analysis and Scoping Review of Challenges, Interventions, and Future Directions
-Authors: Alissa Antle, Petr Slovak, Alexandra Kitson
+Authors: Alexandra Kitson, Petr Slovak, Alissa Antle
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148296)
 
 
 
 ### Multi-stakeholder Perspectives on Mental Health Screening Tools for Children
-Authors: Tauhidur Rahman, Deepak Ganesan, Adam Grabell, Lynnea Mayorga, Adrelys Mateo Santana, Manasa Kalanadhabhatta
+Authors: Manasa Kalanadhabhatta, Adrelys Mateo Santana, Lynnea Mayorga, Tauhidur Rahman, Deepak Ganesan, Adam Grabell
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147792)
 
@@ -4509,14 +4509,14 @@ Authors: Petr Slovak, Sean Munson
 
 
 ### “Can you be with that feeling?”: Extending Design Strategies for Interoceptive Awareness for the Context of Mental Health
-Authors: A. Jess Williams, Petr Slovak, MacKenzie D. A. Robertson, Phoebe Staab
+Authors: Phoebe Staab, A. Jess Williams, MacKenzie D. A. Robertson, Petr Slovak
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146761)
 
 
 
 ### ''I Call Upon a Friend'': Virtual Reality-Based Supports for Cognitive Reappraisal Identified through Co-designing with Adolescents
-Authors: Artun Cimensel, Alissa Antle, Ashu Adhikari, Alexandra Kitson, Kenneth Karthik, Sadhbh Kenny, Melissa Chan
+Authors: Alexandra Kitson, Alissa Antle, Sadhbh Kenny, Ashu Adhikari, Kenneth Karthik, Artun Cimensel, Melissa Chan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147702)
 
@@ -4525,7 +4525,7 @@ Authors: Artun Cimensel, Alissa Antle, Ashu Adhikari, Alexandra Kitson, Kenneth 
 
 ## Mental Health and AI
 ### Patient Perspectives on AI-Driven Predictions of Schizophrenia Relapses: Understanding Concerns and Opportunities for Self-Care and Treatment
-Authors: Viet Cuong Nguyen, Munmun De Choudhury, Dong Whi Yoo, Hayoung Woo, Kaylee Kruzan, Gregory Abowd, Michael L. Birnbaum, Jennifer Kim
+Authors: Dong Whi Yoo, Hayoung Woo, Viet Cuong Nguyen, Michael L. Birnbaum, Kaylee Kruzan, Jennifer Kim, Gregory Abowd, Munmun De Choudhury
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147243)
 
@@ -4534,7 +4534,7 @@ Abstract: Early detection and intervention for relapse is important in the treat
 
 
 ### Understanding Human-AI Collaboration in Music Therapy Through Co-Design with Therapists
-Authors: Jingjing Sun, Jingyi Yang, Jiangtao Gong, Guyue Zhou, Yucheng Jin
+Authors: Jingjing Sun, Jingyi Yang, Guyue Zhou, Yucheng Jin, Jiangtao Gong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146901)
 
@@ -4545,7 +4545,7 @@ Abstract: The rapid development of musical AI technologies has expanded the crea
 ### Simulating Emotions With an Integrated Computational Model of Appraisal and Reinforcement Learning
 HONORABLE_MENTION
 
-Authors: Jussi Jokinen, Bernhard Hilpert, Jiayi Zhang, Joost Broekens
+Authors: Jiayi Zhang, Bernhard Hilpert, Joost Broekens, Jussi Jokinen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147014)
 
@@ -4554,7 +4554,7 @@ Abstract: Predicting users' emotional states during interaction is a long-standi
 
 
 ### Facilitating Self-Guided Mental Health Interventions Through Human-Language Model Interaction: A Case Study of Cognitive Restructuring
-Authors: Tim Althoff, Kevin Rushton, Theresa Nguyen, Inna Lin, Ashish Sharma
+Authors: Ashish Sharma, Kevin Rushton, Inna Lin, Theresa Nguyen, Tim Althoff
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147699)
 
@@ -4563,7 +4563,7 @@ Abstract: Self-guided mental health interventions, such as "do-it-yourself" tool
 
 
 ### Seeking in Cycles: How Users Leverage Personal Information Ecosystems to Find Mental Health Information
-Authors: Abhishek Roy, Ashlee Milton, Rebecca Umbach, Stevie Chancellor, Juan Maestre
+Authors: Ashlee Milton, Juan Maestre, Abhishek Roy, Rebecca Umbach, Stevie Chancellor
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146836)
 
@@ -4581,7 +4581,7 @@ Authors: Jian Zheng, Ge Gao
 
 
 ### Mindful Scroll: An Infinite Scroll Abstract Colouring App for Mindfulness
-Authors: Craig Kaplan, Saralin Zassman, Daniel Vogel
+Authors: Saralin Zassman, Craig Kaplan, Daniel Vogel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147867)
 
@@ -4599,14 +4599,14 @@ Authors: Jieun Kim, Hayeon Song
 ### Leveraging Idle Games to Incentivize Intermittent and Frequent Practice of Deep Breathing
 HONORABLE_MENTION
 
-Authors: Book Sadprasid, Scott Bateman, Anne Mei, Alex Mariakakis, Fanny Chevalier
+Authors: Book Sadprasid, Anne Mei, Alex Mariakakis, Scott Bateman, Fanny Chevalier
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147724)
 
 
 
 ### Stairway to Heaven: A Gamified VR Journey for Breath Awareness
-Authors: Giovanni Troiano, Joseph Schwab, Hamid Ghaednia, Caleb Myers, Amir Abdollahi, Nathan Miner, Casper Harteveld, Mehmet Kosa
+Authors: Nathan Miner, Amir Abdollahi, Caleb Myers, Mehmet Kosa, Hamid Ghaednia, Joseph Schwab, Casper Harteveld, Giovanni Troiano
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147670)
 
@@ -4615,7 +4615,7 @@ Authors: Giovanni Troiano, Joseph Schwab, Hamid Ghaednia, Caleb Myers, Amir Abdo
 
 ## Participatory AI
 ### How Do Analysts Understand and Verify AI-Assisted Data Analyses?
-Authors: Ruoxi Shang, Steven Drucker, Tim Althoff, Ken Gu, Chenglong Wang
+Authors: Ken Gu, Ruoxi Shang, Tim Althoff, Chenglong Wang, Steven Drucker
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148040)
 
@@ -4624,7 +4624,7 @@ Abstract: Data analysis is challenging as it requires synthesizing domain knowle
 
 
 ### From Fitting Participation to Forging Relationships: The Art of Participatory ML
-Authors: Alexandra Zafiroglu, Ned Cooper
+Authors: Ned Cooper, Alexandra Zafiroglu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148266)
 
@@ -4635,7 +4635,7 @@ Abstract: Participatory machine learning (ML) encourages the inclusion of end us
 ### Explaining It Your Way - Findings from a Co-Creative Design Workshop on Designing XAI Applications with AI End-Users from the Public Sector
 HONORABLE_MENTION
 
-Authors: Ceenu George, Maris Männiste, Katharina Weitz, Ruben Schlagowski, Elisabeth André
+Authors: Katharina Weitz, Ruben Schlagowski, Elisabeth André, Maris Männiste, Ceenu George
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148130)
 
@@ -4644,7 +4644,7 @@ Abstract: Human-Centered AI prioritizes end-users' needs like transparency and u
 
 
 ### Generative AI in the Wild: Prospects, Challenges, and Strategies
-Authors: Ting Wang, Yuan Sun, Eunchae Jang, Fenglong Ma
+Authors: Yuan Sun, Eunchae Jang, Fenglong Ma, Ting Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146627)
 
@@ -4653,11 +4653,11 @@ Abstract: Propelled by their remarkable capabilities to generate novel and engag
 
 
 ### The Situate AI Guidebook: Co-Designing a Toolkit to Support Multi-Stakeholder, Early-stage Deliberations Around Public Sector AI Proposals
-Authors: Kenneth Holstein, Anna Kawakami, Haiyi Zhu, Amanda Coston, Hoda Heidari
+Authors: Anna Kawakami, Amanda Coston, Haiyi Zhu, Hoda Heidari, Kenneth Holstein
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147906)
 
-Abstract: Public sector agencies are rapidly deploying AI systems to augment or automate critical decisions in real-world contexts like child welfare, criminal justice, and public health. 
+Abstract: Public sector agencies are rapidly deploying AI systems to augment or automate critical decisions in real-world contexts like child welfare, criminal justice, and public health. 
 A growing body of work documents how these AI systems often fail to improve services in practice. These failures can often be traced to decisions made during the early stages of AI ideation and design, such as problem formulation. However, today, we lack systematic processes to support effective, early-stage decision-making about whether and under what conditions to move forward with a proposed AI project. To understand how to scaffold such processes in real-world settings, we worked with public sector agency leaders, AI developers, frontline workers, and community advocates across four public sector agencies and three community advocacy groups in the United States. Through an iterative co-design process, we created the Situate AI Guidebook: a structured process centered around a set of deliberation questions to scaffold conversations around (1) goals and intended use or a proposed AI system, (2) societal and legal considerations, (3) data and modeling constraints, and (4) organizational governance factors. We discuss how the guidebook's design is informed by participants’ challenges, needs, and desires for improved deliberation processes. We further elaborate on implications for designing responsible AI toolkits in collaboration with public sector agency stakeholders and opportunities for future work to expand upon the guidebook. This design approach can be more broadly adopted to support the co-creation of responsible AI toolkits that scaffold key decision-making processes surrounding the use of AI in the public sector and beyond.
 
 
@@ -4665,21 +4665,21 @@ A growing body of work documents how these AI systems often fail to improve serv
 
 ## Privacy & Boundaries
 ### Under the (neighbor)hood: Hyperlocal Surveillance on Nextdoor
-Authors: Madiha Zahrah Choksi, Travis Lloyd, Marianne Aubin Le Quere, James Grimmelmann, Ruojia Tao, Mor Naaman
+Authors: Madiha Zahrah Choksi, Marianne Aubin Le Quere, Travis Lloyd, Ruojia Tao, James Grimmelmann, Mor Naaman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147901)
 
 
 
 ### What You Experience is What We Collect: User Experience Based Fine-Grained Permissions for Everyday Augmented Reality
-Authors: Melvin Abraham, Mohamed Khamis, Mark McGill
+Authors: Melvin Abraham, Mark McGill, Mohamed Khamis
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146684)
 
 
 
 ### “I Don’t Want to Become a Number’’: Examining Different Stakeholder Perspectives on a Video-Based Monitoring System for Senior Care with Inherent Privacy Protection (by Design).
-Authors: Tamara Mujirishvili, Kooshan Hashemifard, Francisco Florez-Revuelta, Pau Climent-Pérez, Anton Fedosov
+Authors: Tamara Mujirishvili, Anton Fedosov, Kooshan Hashemifard, Pau Climent-Pérez, Francisco Florez-Revuelta
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146872)
 
@@ -4693,7 +4693,7 @@ Authors: Haozhe Zhou, Mayank Goel, Yuvraj Agarwal
 
 
 ### What to the Muslim is Internet search: Digital Borders as Barriers to Information
-Authors: Sucheta Ghoshal, Lubna Razaq
+Authors: Lubna Razaq, Sucheta Ghoshal
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147363)
 
@@ -4702,7 +4702,7 @@ Authors: Sucheta Ghoshal, Lubna Razaq
 
 ## Privacy for Safer Web and Apps
 ### “That’s Kind of Sus(picious)”: The Comprehensiveness of Mental Health Application Users’ Privacy and Security Concerns
-Authors: Rachael Kang, Helena M. Mentis, Yi Xuan Khoo, Tera L. Reynolds
+Authors: Yi Xuan Khoo, Rachael Kang, Tera L. Reynolds, Helena M. Mentis
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146698)
 
@@ -4716,21 +4716,21 @@ Authors: Marian Harbach
 
 
 ### PriviAware: Exploring Data Visualization and Dynamic Privacy Control Support for Data Collection in Mobile Sensing Research
-Authors: Yugyeong Jung, Uichin Lee, Hei Yiu Law, Seolyeong Bae, Hyunsoo Lee
+Authors: Hyunsoo Lee, Yugyeong Jung, Hei Yiu Law, Seolyeong Bae, Uichin Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148313)
 
 
 
 ### Privacy of Default Apps in Apple’s Mobile Ecosystem
-Authors: Janne Lindqvist, Amel Bourdoucen
+Authors: Amel Bourdoucen, Janne Lindqvist
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147013)
 
 
 
 ### Measuring Compliance with the California Consumer Privacy Act Over Space and Time
-Authors: Van Tran, Aarushi Mehrotra, Lior Strahilevitz, Marshini Chetty, Nick Feamster, Jens Frankenreiter
+Authors: Van Tran, Aarushi Mehrotra, Marshini Chetty, Nick Feamster, Jens Frankenreiter, Lior Strahilevitz
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147035)
 
@@ -4739,28 +4739,28 @@ Authors: Van Tran, Aarushi Mehrotra, Lior Strahilevitz, Marshini Chetty, Nick Fe
 
 ## Privacy and Deepfake
 ### Non-Consensual Synthetic Intimate Imagery: Prevalence, Attitudes, and Knowledge in 10 Countries
-Authors: Nicola Henry, Rebecca Umbach, Colleen Berryessa, Gemma Beard
+Authors: Rebecca Umbach, Nicola Henry, Gemma Beard, Colleen Berryessa
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148314)
 
 
 
 ### It's Trying Too Hard To Look Real: Deepfake Moderation Mistakes and Identity-Based Bias
-Authors: Collins Munyendo, Gang Wang, Jaron Mink, Kurt Hugenberg, Tadayoshi Kohno, Elissa Redmiles, Miranda Wei
+Authors: Jaron Mink, Miranda Wei, Collins Munyendo, Kurt Hugenberg, Tadayoshi Kohno, Elissa Redmiles, Gang Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147959)
 
 
 
 ### Examining Human Perception of Generative Content Replacement in Image Privacy Protection
-Authors: Koji Yatani, Shitao Fang, Anran Xu, Simo Hosio, Huan Yang
+Authors: Anran Xu, Shitao Fang, Huan Yang, Simo Hosio, Koji Yatani
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148241)
 
 
 
 ### Dungeons & Deepfakes: Using scenario-based role-play to study journalists' behavior towards using AI-based verification tools for video content
-Authors: Matthew Wright, Yijing Kelly Wu, Andrea Hickerson, Saniat Sohrawardi
+Authors: Saniat Sohrawardi, Matthew Wright, Yijing Kelly Wu, Andrea Hickerson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146663)
 
@@ -4769,7 +4769,7 @@ Authors: Matthew Wright, Yijing Kelly Wu, Andrea Hickerson, Saniat Sohrawardi
 ### Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks
 BEST_PAPER
 
-Authors: Hao-Ping (Hank) Lee, Sauvik Das, Thomas Serban von Davier, Jodi Forlizzi, Yu-Ju Yang
+Authors: Hao-Ping (Hank) Lee, Yu-Ju Yang, Thomas Serban von Davier, Jodi Forlizzi, Sauvik Das
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146930)
 
@@ -4778,21 +4778,21 @@ Authors: Hao-Ping (Hank) Lee, Sauvik Das, Thomas Serban von Davier, Jodi Forlizz
 
 ## Reflection and Regulation for Wellbeing
 ### “I feel like he’s looking in the computer world to be social, but I can’t trust his judgement”: Reimagining Parental Control for Children with ASD
-Authors: Prakriti Dumaru, Mahdi Nasrullah Al-Ameen, Audrey Flood, Bryson Hackler
+Authors: Prakriti Dumaru, Bryson Hackler, Audrey Flood, Mahdi Nasrullah Al-Ameen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147979)
 
 
 
 ### Supporting Experiential Learning in People with Gestational Diabetes Mellitus
-Authors: Chia-Fang Chung, Clara Caldeira, Zaidat Ibrahim
+Authors: Zaidat Ibrahim, Clara Caldeira, Chia-Fang Chung
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147011)
 
 
 
 ### Momentary Stressor Logging and Reflective Visualizations: Implications for Stress Management with Wearables
-Authors: Mithun Saha, Nasir Ali, David M. Almeida, Santosh Kumar, Anandatirtha Nandugudi, Shahin Samiei, Timothy Hnat, Sameer Neupane
+Authors: Sameer Neupane, Mithun Saha, Nasir Ali, Timothy Hnat, Shahin Samiei, Anandatirtha Nandugudi, David M. Almeida, Santosh Kumar
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148091)
 
@@ -4808,7 +4808,7 @@ Authors: Jaakko Väkevä, Elisa Mekler, Janne Lindqvist
 
 
 ### New Understandings of Loss: Examining the Role of Reflective Technology Within Bereavement and Meaning-Making
-Authors: Chia-Fang Chung, Colin LeFevre
+Authors: Colin LeFevre, Chia-Fang Chung
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147535)
 
@@ -4817,21 +4817,21 @@ Authors: Chia-Fang Chung, Colin LeFevre
 
 ## Research Methods and Tools B
 ### "To Click or not to Click": Back to Basic for Experience Sampling for Office Well-being in Shared Office Spaces
-Authors: Steven Houben, Hans Brombacher, Steven Vos, Dimitra Dritsa
+Authors: Hans Brombacher, Dimitra Dritsa, Steven Vos, Steven Houben
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147147)
 
 
 
 ### Who is "I"?: Subjectivity and  Ethnography in HCI
-Authors: Heidi Biggs, Tejaswini Joshi, Jeffrey Bardzell, Shaowen Bardzell
+Authors: Tejaswini Joshi, Heidi Biggs, Jeffrey Bardzell, Shaowen Bardzell
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147561)
 
 
 
 ### Understanding fraudulence in online qualitative studies: From the researcher's perspective
-Authors: Chia-Fang Chung, Chun-Han Ariel Wang, Seung Wan Ha, Kay Connelly, Aswati Panicker, Yuxing Wu, Katie Siek, Zaidat Ibrahim, Novia Nurain
+Authors: Aswati Panicker, Novia Nurain, Zaidat Ibrahim, Chun-Han Ariel Wang, Seung Wan Ha, Yuxing Wu, Kay Connelly, Katie Siek, Chia-Fang Chung
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147323)
 
@@ -4845,7 +4845,7 @@ Authors: Martin Pielot
 
 
 ### Towards Estimating Missing Emotion Self-reports Leveraging User Similarity: A Multi-task Learning Approach
-Authors: Surjya Ghosh, Sougata Sen, Salma Mandi, Bivas Mitra, Pradipta De
+Authors: Surjya Ghosh, Salma Mandi, Sougata Sen, Bivas Mitra, Pradipta De
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148276)
 
@@ -4854,35 +4854,35 @@ Authors: Surjya Ghosh, Sougata Sen, Salma Mandi, Bivas Mitra, Pradipta De
 
 ## Security Systems
 ### Is a Trustmark and QR Code Enough? The Effect of IoT Security and Privacy Label Information Complexity on Consumer Comprehension and Behavior
-Authors: Xinran Li, Lorrie Cranor, Dillon Shu, Hamsini Ravishankar, Yuvraj Agarwal, Claire Chen
+Authors: Claire Chen, Dillon Shu, Hamsini Ravishankar, Xinran Li, Yuvraj Agarwal, Lorrie Cranor
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146756)
 
 
 
 ### I see an IC: A Mixed-Methods Approach to Study Human Problem-Solving Processes in Hardware Reverse Engineering
-Authors: Markus Weber, René Walendy, Steffen Becker, Carina Wiesen, Christof Paar, Nikol Rummel, Malte Elson, Jingjie Li, Younghyun Kim, Kassem Fawaz
+Authors: René Walendy, Markus Weber, Jingjie Li, Steffen Becker, Carina Wiesen, Malte Elson, Younghyun Kim, Kassem Fawaz, Nikol Rummel, Christof Paar
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146998)
 
 
 
 ### Mental Models, Expectations and Implications of Client-Side Scanning: An Interview Study with Experts
-Authors: Sascha Fahl, Adrian Dabrowski, Divyanshu Bhardwaj, Katharina Krombholz, Carolyn Guthoff
+Authors: Divyanshu Bhardwaj, Carolyn Guthoff, Adrian Dabrowski, Sascha Fahl, Katharina Krombholz
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147543)
 
 
 
 ### VeriSMS: A Message Verification System for Inclusive Patient Outreach against Phishing Attacks
-Authors: Chenkai Wang, Jonathan Handler, Gang Wang, Cody Zevnik, Hadjer Benkraouda, Zhuofan Jia, Roopa Foulger, Nicholas Heuermann
+Authors: Chenkai Wang, Zhuofan Jia, Hadjer Benkraouda, Cody Zevnik, Nicholas Heuermann, Roopa Foulger, Jonathan Handler, Gang Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148268)
 
 
 
 ### SkullID: Through-Skull Sound Conduction based Authentication for Smartglasses
-Authors: HongMin Kim, Iljoo Kim, Ian Oakley, Eunyong Cheon, Bum Jun Kwon, Hyejin Shin, Jun Ho Huh, Choong-Hoon Lee
+Authors: Hyejin Shin, Jun Ho Huh, Bum Jun Kwon, Iljoo Kim, Eunyong Cheon, HongMin Kim, Choong-Hoon Lee, Ian Oakley
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146810)
 
@@ -4898,7 +4898,7 @@ Authors: Rama Adithya Varanasi, Nicola Dell, Aditya Vashistha
 
 
 ### Machine and Human Understanding of Empathy in Online Peer Support: A Cognitive Behavioral Approach
-Authors: Zainab Iftikhar, Sara Syed, Jeff Huang, Amy Xiao
+Authors: Sara Syed, Zainab Iftikhar, Amy Xiao, Jeff Huang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146964)
 
@@ -4907,14 +4907,14 @@ Authors: Zainab Iftikhar, Sara Syed, Jeff Huang, Amy Xiao
 ### "Butt call me once you get a chance to chat &#128578;" : Designing Persuasive Reminders for Veterans to Facilitate Peer-Mentor Support
 HONORABLE_MENTION
 
-Authors: SHEIKH AHAMED, Robert Curry, Md Romael Haque, Praveen Madiraju, Sabirat Rubya, Natalie Baker, Zeno Franco, OTIS WINSTEAD
+Authors: Md Romael Haque, Zeno Franco, Praveen Madiraju, Natalie Baker, SHEIKH AHAMED, OTIS WINSTEAD, Robert Curry, Sabirat Rubya
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146845)
 
 
 
 ### Transitioning Towards a Proactive Practice: A Longitudinal Field Study on the Implementation of a ML System in Adult Social Care
-Authors: Marina Jirotka, Lars Kunze, Tyler Reinmund
+Authors: Tyler Reinmund, Lars Kunze, Marina Jirotka
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147484)
 
@@ -4932,7 +4932,7 @@ Authors: Angel Hsing-Chi Hwang, Andrea Stevenson Won
 
 ## Universal Accessibility A
 ### Exploring Mobile Device Accessibility: Challenges, Insights, and Recommendations for Evaluation Methodologies
-Authors: Carlos Duarte, Letícia Seixas Pereira, Maria Matos
+Authors: Letícia Seixas Pereira, Maria Matos, Carlos Duarte
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146754)
 
@@ -4941,21 +4941,21 @@ Authors: Carlos Duarte, Letícia Seixas Pereira, Maria Matos
 ### Human I/O: Towards a Unified Approach to Detecting Situational Impairments
 HONORABLE_MENTION
 
-Authors: Jiahao Li, Ruofei Du, Xiang 'Anthony' Chen, David Kim, Xingyu Liu
+Authors: Xingyu Liu, Jiahao Li, David Kim, Xiang 'Anthony' Chen, Ruofei Du
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148270)
 
 
 
 ### AXNav: Replaying Accessibility Tests from Natural Language
-Authors: Ruijia Cheng, Amanda Swearngin, Yue Jiang, Maryam Taeb, Eldon Schoop, Jeffrey Nichols
+Authors: Maryam Taeb, Amanda Swearngin, Eldon Schoop, Ruijia Cheng, Yue Jiang, Jeffrey Nichols
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147260)
 
 
 
 ### AccessLens: Auto-detecting Inaccessibility of Everyday Objects
-Authors: Qian Lu, Nahyun Kwon, Muhammad Hasham Qazi, Jeeeun Kim, Joanne Liu, Changhoon Oh, Shu Kong
+Authors: Nahyun Kwon, Qian Lu, Muhammad Hasham Qazi, Joanne Liu, Changhoon Oh, Shu Kong, Jeeeun Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147903)
 
@@ -4964,7 +4964,7 @@ Authors: Qian Lu, Nahyun Kwon, Muhammad Hasham Qazi, Jeeeun Kim, Joanne Liu, Cha
 ### A Systematic Review of Ability-diverse Collaboration through Ability-based Lens in HCI 
 HONORABLE_MENTION
 
-Authors: Lan Xiao, Tigmanshu Bhatnagar, Maryam Bandukda, Michael Sedlmair, Katrin Angerbauer, Weiyue Lin, Catherine Holloway
+Authors: Lan Xiao, Maryam Bandukda, Katrin Angerbauer, Weiyue Lin, Tigmanshu Bhatnagar, Michael Sedlmair, Catherine Holloway
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147798)
 
@@ -4984,7 +4984,7 @@ Abstract: There is a potential future where the content created by a human and a
 ### DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models
 HONORABLE_MENTION
 
-Authors: Sylvain Malacria, Géry Casiez, Damien Masson, Daniel Vogel
+Authors: Damien Masson, Sylvain Malacria, Géry Casiez, Daniel Vogel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146635)
 
@@ -4995,7 +4995,7 @@ Abstract: We characterize and demonstrate how the principles of direct manipulat
 ### From Text to Self: Users’ Perception of AIMC Tools on Interpersonal Communication and Self
 BEST_PAPER
 
-Authors: Sami Foell, Alexis Hiniker, Yue Fu, Xuhai "Orson" Xu
+Authors: Yue Fu, Sami Foell, Xuhai "Orson" Xu, Alexis Hiniker
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146970)
 
@@ -5006,7 +5006,7 @@ Abstract: In the rapidly evolving landscape of AI-mediated communication (AIMC),
 ### Farsight: Fostering Responsible AI Awareness During AI Application Prototyping
 HONORABLE_MENTION
 
-Authors: Michael Terry, Michael Madaio, Zijie Wang, Lauren Wilcox, Chinmay Kulkarni
+Authors: Zijie Wang, Chinmay Kulkarni, Lauren Wilcox, Michael Terry, Michael Madaio
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146993)
 
@@ -5017,11 +5017,11 @@ Abstract: Prompt-based interfaces for Large Language Models (LLMs) have made pro
 ### “As an AI language model, I cannot”: Investigating LLM Denials of User Requests
 HONORABLE_MENTION
 
-Authors: Niels van Berkel, Joel Wester, Henning Pohl, Tim Schrills
+Authors: Joel Wester, Tim Schrills, Henning Pohl, Niels van Berkel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148063)
 
-Abstract: Users ask large language models (LLMs) to help with their homework, for lifestyle advice, or for support in making challenging decisions. Yet LLMs are often unable to fulfil these requests, either as a result of their technical inabilities or policies restricting their responses. To investigate the effect of LLMs denying user requests, we evaluate participants' perceptions of different denial styles. We compare specific denial styles (baseline, factual, diverting, and opinionated) across two studies, respectively focusing on LLM's technical limitations and their social policy restrictions. Our results indicate significant differences in users' perceptions of the denials between the denial styles. The baseline denial, which provided participants with brief denials without any motivation, was rated significantly higher on frustration and significantly lower on usefulness, appropriateness, and relevance. In contrast, we found that participants generally appreciated the diverting denial style. We provide design recommendations for LLM denials that better meet peoples' denial expectations.
+Abstract: Users ask large language models (LLMs) to help with their homework, for lifestyle advice, or for support in making challenging decisions. Yet LLMs are often unable to fulfil these requests, either as a result of their technical inabilities or policies restricting their responses. To investigate the effect of LLMs denying user requests, we evaluate participants' perceptions of different denial styles. We compare specific denial styles (baseline, factual, diverting, and opinionated) across two studies, respectively focusing on LLM's technical limitations and their social policy restrictions. Our results indicate significant differences in users' perceptions of the denials between the denial styles. The baseline denial, which provided participants with brief denials without any motivation, was rated significantly higher on frustration and significantly lower on usefulness, appropriateness, and relevance. In contrast, we found that participants generally appreciated the diverting denial style. We provide design recommendations for LLM denials that better meet peoples' denial expectations.
 
 
 
@@ -5031,7 +5031,7 @@ Abstract: Users ask large language models (LLMs) to help with their homework, fo
 ### Glanceable Data Visualizations for Older Adults: Establishing Thresholds and Examining Disparities Between Age Groups
 HONORABLE_MENTION
 
-Authors: Yujie Gong, Petra Isenberg, Ali Sarvghad, Tanja Blascheck, Zack While
+Authors: Zack While, Tanja Blascheck, Yujie Gong, Petra Isenberg, Ali Sarvghad
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148143)
 
@@ -5040,21 +5040,21 @@ Authors: Yujie Gong, Petra Isenberg, Ali Sarvghad, Tanja Blascheck, Zack While
 ### DynaVis: Dynamically Synthesized UI Widgets for Visualization Editing
 BEST_PAPER
 
-Authors: Priyan Vaithilingam, Jeevana Priya Inala, Elena Glassman, Chenglong Wang
+Authors: Priyan Vaithilingam, Elena Glassman, Jeevana Priya Inala, Chenglong Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148267)
 
 
 
 ### Graph4GUI: Graph Neural Networks for Representing Graphical User Interfaces 
-Authors: Yue Jiang, Vikas Garg, Changkong Zhou, Antti Oulasvirta
+Authors: Yue Jiang, Changkong Zhou, Vikas Garg, Antti Oulasvirta
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146736)
 
 
 
 ### Erie: A Declarative Grammar for Data Sonification
-Authors: Yea-Seul Kim, Jessica Hullman, Hyeok Kim
+Authors: Hyeok Kim, Yea-Seul Kim, Jessica Hullman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148059)
 
@@ -5063,7 +5063,7 @@ Authors: Yea-Seul Kim, Jessica Hullman, Hyeok Kim
 ### “It is hard to remove from my eye”: Design Makeup Residue Visualization System for Chinese Traditional Opera (Xiqu) Performers
 HONORABLE_MENTION
 
-Authors: Zeyu Xiong, Mingming Fan, Chenqing Zhu, Shihan Fu, Xiaojuan Ma, Yanying Zhu
+Authors: Zeyu Xiong, Shihan Fu, Yanying Zhu, Chenqing Zhu, Xiaojuan Ma, Mingming Fan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146861)
 
@@ -5074,35 +5074,35 @@ Authors: Zeyu Xiong, Mingming Fan, Chenqing Zhu, Shihan Fu, Xiaojuan Ma, Yanying
 ### FoodCensor: Promoting Mindful Digital Food Content Consumption for People with Eating Disorders
 HONORABLE_MENTION
 
-Authors: Subin Park, Sujin Han, Ryuhaerang Choi, Sung-Ju Lee
+Authors: Ryuhaerang Choi, Subin Park, Sujin Han, Sung-Ju Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146779)
 
 
 
 ### Integrating Expertise in LLMs: Crafting a Customized Nutrition Assistant with Refined Template Instructions
-Authors: Ronald Metoyer, Heather Eicher-Miller, Brianna Wimer, Annalisa Szymanski, Oghenemaro Anuyah
+Authors: Annalisa Szymanski, Brianna Wimer, Oghenemaro Anuyah, Heather Eicher-Miller, Ronald Metoyer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147537)
 
 
 
 ### Beyond Static Labels: Unpacking Nutrition Comprehension in the Digital Age
-Authors: Ronald Metoyer, Brianna Wimer, Annalisa Szymanski
+Authors: Brianna Wimer, Annalisa Szymanski, Ronald Metoyer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148140)
 
 
 
 ### Investigating Contextual Notifications to Drive Self-Monitoring in mHealth Apps for Weight Maintenance
-Authors: Meena Shankar, Jaime Ruiz, Xuanpu Zhang, Oluwatomisin Obajemu, Yu-Peng Chen, Lisa Anthony, Kathryn Ross, Julia Woodward, Dinank Bista, Ishvina Singh
+Authors: Yu-Peng Chen, Julia Woodward, Dinank Bista, Xuanpu Zhang, Ishvina Singh, Oluwatomisin Obajemu, Meena Shankar, Kathryn Ross, Jaime Ruiz, Lisa Anthony
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148173)
 
 
 
 ### Predicting early user churn in a public digital weight loss intervention
-Authors: Elgar Fleisch, Robert Jakob, Tobias Kowatsch, Nils Lepper
+Authors: Robert Jakob, Nils Lepper, Elgar Fleisch, Tobias Kowatsch
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148260)
 
@@ -5111,28 +5111,28 @@ Authors: Elgar Fleisch, Robert Jakob, Tobias Kowatsch, Nils Lepper
 
 ## Wellbeing and Mental Health B
 ### DeepStress: Supporting Stressful Context Sensemaking in Personal Informatics Systems Using a Quasi-experimental Approach
-Authors: Uichin Lee, Sangjun Park, Gyuwon Jung
+Authors: Gyuwon Jung, Sangjun Park, Uichin Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147710)
 
 
 
 ### Maintaining Continuing Bonds in Bereavement: A Participatory Design Process of Be.side
-Authors: Jieun Kim, Giulia Barbareschi, Daisuke Uriu, Youichi Kamiyama, Kouta Minamizawa
+Authors: Jieun Kim, Daisuke Uriu, Giulia Barbareschi, Youichi Kamiyama, Kouta Minamizawa
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146846)
 
 
 
 ### "I'm gonna KMS": From Imminent Risk to Youth Joking about Suicide and Self-Harm via Social Media
-Authors: Munmun De Choudhury, Sarvech Qadir, Ashwaq Alsoubai, Naima Samreen Ali, Pamela Wisniewski, Afsaneh Razi
+Authors: Naima Samreen Ali, Sarvech Qadir, Ashwaq Alsoubai, Munmun De Choudhury, Afsaneh Razi, Pamela Wisniewski
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147067)
 
 
 
 ### EmoEden: Applying Generative Artificial Intelligence to Emotional Learning for Children with High-Function Autism
-Authors: Wenkai Chen, Yu Cai, Yao Du, Liuqing Chen, Yilin Tang, Lingyun Sun, Ziyu Chen, Fan Yang
+Authors: Yilin Tang, Liuqing Chen, Ziyu Chen, Wenkai Chen, Yu Cai, Yao Du, Fan Yang, Lingyun Sun
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146914)
 
@@ -5150,7 +5150,7 @@ Authors: Rachael Kang, Tera L. Reynolds
 
 ## Writing and AI A
 ### MindfulDiary: Harnessing Large Language Model to Support Psychiatric Patients' Journaling
-Authors: Hwajung Hong, Chanmo Yang, Hyun AH Kim, Su-woo Lee, Seolyeong Bae, Taewan Kim, Young-Ho Kim
+Authors: Taewan Kim, Seolyeong Bae, Hyun AH Kim, Su-woo Lee, Hwajung Hong, Chanmo Yang, Young-Ho Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147830)
 
@@ -5159,7 +5159,7 @@ Abstract: Large Language Models (LLMs) offer promising opportunities in mental h
 
 
 ### Shaping Human-AI Collaboration: Varied Scaffolding Levels in Co-writing with Language Models
-Authors: Shaochun Zheng, Somayeh Molaei, Lionel Robert, Paramveer Dhillon, Maximilian Golub, Jiaqi Li
+Authors: Paramveer Dhillon, Somayeh Molaei, Jiaqi Li, Maximilian Golub, Shaochun Zheng, Lionel Robert
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147385)
 
@@ -5168,7 +5168,7 @@ Abstract: Advances in language modeling have paved the way for novel human-AI co
 
 
 ### The HaLLMark Effect: Supporting Provenance and Transparent Use of Large Language Models in Writing with Interactive Visualization
-Authors: Cecilia Shelton, Md Naimul Hoque, Kari Kraus, Bhavya Ghai, Tasfia Mashiat, Fanny Chevalier, Niklas Elmqvist
+Authors: Md Naimul Hoque, Tasfia Mashiat, Bhavya Ghai, Cecilia Shelton, Fanny Chevalier, Kari Kraus, Niklas Elmqvist
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147129)
 
@@ -5177,7 +5177,7 @@ Abstract: The use of Large Language Models (LLMs) for writing has sparked contro
 
 
 ### ABScribe: Rapid Exploration & Organization of Multiple Writing Variations in Human-AI Co-Writing Tasks using Large Language Models
-Authors: Kashish Mittal, Joseph Williams, Tovi Grossman, Anastasia Kuzminykh, Peter Dushniku, Ilya Musabirov, Nathan Laundry, Michael Liut, Zhi Yuan "Michael" Yu, Mohi Reza
+Authors: Mohi Reza, Nathan Laundry, Ilya Musabirov, Peter Dushniku, Zhi Yuan "Michael" Yu, Kashish Mittal, Tovi Grossman, Michael Liut, Anastasia Kuzminykh, Joseph Williams
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148096)
 
@@ -5188,7 +5188,7 @@ Abstract: Exploring alternative ideas by rewriting text is integral to the writi
 
 ## Writing and AI B
 ### Writer-Defined AI Personas for On-Demand Feedback Generation
-Authors: Hendrik Heuer, Daniel Buschek, Florian Lehmann, Tim Zindulka, Karim Benharrak
+Authors: Karim Benharrak, Tim Zindulka, Florian Lehmann, Hendrik Heuer, Daniel Buschek
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147111)
 
@@ -5197,7 +5197,7 @@ Abstract: Compelling writing is tailored to its audience. This is challenging, a
 
 
 ### Intelligent Support Engages Writers Through Relevant Cognitive Processes
-Authors: Thiemo Wambsganss, Andreas Göldi, Seyed Parsa Neshaei, Roman Rietsche
+Authors: Andreas Göldi, Thiemo Wambsganss, Seyed Parsa Neshaei, Roman Rietsche
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147114)
 
@@ -5208,7 +5208,7 @@ Abstract: Student peer review writing is prevalent and important in education fo
 ### The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing
 HONORABLE_MENTION
 
-Authors: Jing Peng, Chen Liang, Ming Yin, Zhuoyan Li
+Authors: Zhuoyan Li, Chen Liang, Jing Peng, Ming Yin
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147288)
 
@@ -5217,7 +5217,7 @@ Abstract: Recent advances in generative AI technologies like large language mode
 
 
 ### Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation
-Authors: Can Liu, J.D. Zamfirescu-Pereira, Sauhard Jain, Susan Lin, Shumin Zhai, Bjoern Hartmann, Matthew Lee, Michael Xuelin Huang, Jeremy Warner, Shanqing Cai, Piyawat Lertvittayakumjorn
+Authors: Susan Lin, Jeremy Warner, J.D. Zamfirescu-Pereira, Matthew Lee, Sauhard Jain, Shanqing Cai, Piyawat Lertvittayakumjorn, Michael Xuelin Huang, Shumin Zhai, Bjoern Hartmann, Can Liu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147240)
 
@@ -5228,7 +5228,7 @@ Abstract: Dictation enables efficient text input on mobile devices. However, wri
 
 ## Writing, Sketching and AI
 ### Neural Canvas: Supporting Scenic Design Prototyping by Integrating 3D Sketching and Generative AI
-Authors: Jiawen Cheng, Zeyu Wang, Yifei Shen, Mingming Fan, Chutian Jiang, Yulin Shen
+Authors: Yulin Shen, Yifei Shen, Jiawen Cheng, Chutian Jiang, Mingming Fan, Zeyu Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147583)
 
@@ -5237,7 +5237,7 @@ Abstract: We propose Neural Canvas, a lightweight 3D platform that integrates sk
 
 
 ### A Design Space for Intelligent and Interactive Writing Assistants
-Authors: Pao Siangliulue, Simon Buckingham Shum, Sherol Chen, Thiemo Wambsganss, Disha Shrivastava, Madiha Zahrah Choksi, Roy Pea, Subhashini Venugopalan, Sitong Wang, Eugenia Rho, Hua Shen, Antoine Bosselut, John Chung, Avinash Bhat, Tal August, Jessi Stark, Joonsuk Park, Joseph Chee Chang, Senjuti Dutta, Max Kreminski, David Zhou, Zejiang Shen, Lila Shroff, Yewon Kim, Daniel Buschek, Agnia Sergeyuk, Katy Gero, Antonette Shibani, Md Naimul Hoque, Vipul Raheja, Seyed Parsa Neshaei, Sarah Sterman, Emad Alghamdi, Jin L.C. Guo, Mina Lee, Simon Knight
+Authors: Mina Lee, Katy Gero, John Chung, Simon Buckingham Shum, Vipul Raheja, Hua Shen, Subhashini Venugopalan, Thiemo Wambsganss, David Zhou, Emad Alghamdi, Tal August, Avinash Bhat, Madiha Zahrah Choksi, Senjuti Dutta, Jin L.C. Guo, Md Naimul Hoque, Yewon Kim, Simon Knight, Seyed Parsa Neshaei, Antonette Shibani, Disha Shrivastava, Lila Shroff, Agnia Sergeyuk, Jessi Stark, Sarah Sterman, Sitong Wang, Antoine Bosselut, Daniel Buschek, Joseph Chee Chang, Sherol Chen, Max Kreminski, Joonsuk Park, Roy Pea, Eugenia Rho, Zejiang Shen, Pao Siangliulue
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146994)
 
@@ -5246,7 +5246,7 @@ Abstract: In our era of rapid technological advancement, the research landscape 
 
 
 ### The Impact of Sketch-guided vs. Prompt-guided 3D Generative AIs on the Design Exploration Process
-Authors: Sergio Bromberg, Tae Hee Jo, Seonghoon Ban, Kyungwon Yun, Kyung Hoon Hyun, Seung Won Lee, Jiin Choi, Semin Jin
+Authors: Seung Won Lee, Tae Hee Jo, Semin Jin, Jiin Choi, Kyungwon Yun, Sergio Bromberg, Seonghoon Ban, Kyung Hoon Hyun
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148240)
 
@@ -5255,7 +5255,7 @@ Abstract: Various modalities have emerged in the field of 3D generative AI (GenA
 
 
 ### CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI
-Authors: Jeongeon Park, John Chung, DaEun Choi, Sumin Hong, Juho Kim
+Authors: DaEun Choi, Sumin Hong, Jeongeon Park, John Chung, Juho Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147936)
 
@@ -5266,14 +5266,14 @@ Abstract: Graphic designers often get inspiration through the recombination of r
 
 ## Children and Adults Online Safety
 ### "Pikachu would electrocute people who are misbehaving": Expert, Guardian and Child Perspectives on Automated Embodied Moderators for Safeguarding Children in Social Virtual Reality
-Authors: Cristina Fiani, Mohamed Khamis, Shaun Macdonald, Mark McGill, Robin Bretin
+Authors: Cristina Fiani, Robin Bretin, Shaun Macdonald, Mohamed Khamis, Mark McGill
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147166)
 
 
 
 ### Tricky vs. Transparent: Towards an Ecologically Valid and Safe Approach for Evaluating Online Safety Nudges for Teens
-Authors: Zainab Agha, Ruyuan Wan, Jinkyung Park, Yiwei Wang, Dominic DiFranzo, Naima Samreen Ali, Pamela Wisniewski, Karla Badillo-Urquiola
+Authors: Zainab Agha, Jinkyung Park, Ruyuan Wan, Naima Samreen Ali, Yiwei Wang, Dominic DiFranzo, Karla Badillo-Urquiola, Pamela Wisniewski
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147274)
 
@@ -5282,7 +5282,7 @@ Authors: Zainab Agha, Ruyuan Wan, Jinkyung Park, Yiwei Wang, Dominic DiFranzo, N
 ### Systemization of Knowledge (SoK): Creating a Research Agenda for Human-Centered Real-Time Risk Detection on Social Media Platforms
 HONORABLE_MENTION
 
-Authors: Jinkyung Park, Sarvech Qadir, Ashwaq Alsoubai, Pamela Wisniewski, Afsaneh Razi, Gianluca Stringhini
+Authors: Ashwaq Alsoubai, Jinkyung Park, Sarvech Qadir, Gianluca Stringhini, Afsaneh Razi, Pamela Wisniewski
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147468)
 
@@ -5291,14 +5291,14 @@ Authors: Jinkyung Park, Sarvech Qadir, Ashwaq Alsoubai, Pamela Wisniewski, Afsan
 ### "I Know I'm Being Observed:" Video Interventions to Educate Users about Targeted Advertising on Facebook
 HONORABLE_MENTION
 
-Authors: Rhea Vengurlekar, Trevor Jones, Xinru Page, Stephanie Morales, Brian Smith, Norman Su, Yun-Chieh Tsai, Garrett Smith, Rachel George, Mainack Mondal, Josh Bedwell, Bart Knijnenburg, Sarah Carson
+Authors: Garrett Smith, Sarah Carson, Rhea Vengurlekar, Stephanie Morales, Yun-Chieh Tsai, Rachel George, Josh Bedwell, Trevor Jones, Mainack Mondal, Brian Smith, Norman Su, Bart Knijnenburg, Xinru Page
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147986)
 
 
 
 ### Sharenting on TikTok: Exploring Parental Sharing Behaviors and the Discourse Around Children's Online Privacy  
-Authors: Sophie Stephenson, Christopher Page, Franziska Roesner, Apu Kapadia, Miranda Wei
+Authors: Sophie Stephenson, Christopher Page, Miranda Wei, Apu Kapadia, Franziska Roesner
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147746)
 
@@ -5307,35 +5307,35 @@ Authors: Sophie Stephenson, Christopher Page, Franziska Roesner, Apu Kapadia, Mi
 
 ## Creativity Tools
 ### EyeGuide & EyeConGuide: Gaze-based Visual Guides to Improve 3D Sketching Systems
-Authors: Wolfgang Stuerzlinger, Zeynep Ecem Gelmez, Rumeysa Turkmen, Mayra Barrera Machuca, Paul Asente, Anil Ufuk Batmaz, Mine Sarac, Ken Pfeuffer
+Authors: Rumeysa Turkmen, Zeynep Ecem Gelmez, Anil Ufuk Batmaz, Wolfgang Stuerzlinger, Paul Asente, Mine Sarac, Ken Pfeuffer, Mayra Barrera Machuca
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147653)
 
 
 
 ### Formulating or Fixating: Effects of Examples on Problem Solving Vary as a Function of Example Presentation Interface Design
-Authors: Mark Fuge, Joel Chan, Zijian Ding, Eesh Kamrah
+Authors: Joel Chan, Zijian Ding, Eesh Kamrah, Mark Fuge
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147454)
 
 
 
 ### GenQuery: Supporting Expressive Visual Search with Generative Models
-Authors: DaEun Choi, Tae Soo Kim, Juho Kim, Kihoon Son, Young-Ho Kim
+Authors: Kihoon Son, DaEun Choi, Tae Soo Kim, Young-Ho Kim, Juho Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148274)
 
 
 
 ### Inkeraction: An Interaction Modality Powered by Ink Recognition and Synthesis
-Authors: Tayeb Karim, Lei Shi, Philippe Gervais, Palash Nandy, Rob Mickle, Mathangi Venkatesan, Mike Cleron, Ashwin Ganti, David Robishaw, Chris Melancon, Rachel Campbell, Maria Cirimele, Pedro Gonnet, Andrii Maksai, Angad Singh, Xiaoyu Iris Qu, Chelsey Fleming, Kirsten Climer, Claudiu Musat, Peggy Chi
+Authors: Lei Shi, Rachel Campbell, Peggy Chi, Maria Cirimele, Mike Cleron, Kirsten Climer, Chelsey Fleming, Ashwin Ganti, Philippe Gervais, Pedro Gonnet, Tayeb Karim, Andrii Maksai, Chris Melancon, Rob Mickle, Claudiu Musat, Palash Nandy, Xiaoyu Iris Qu, David Robishaw, Angad Singh, Mathangi Venkatesan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147672)
 
 
 
 ### Personalizing Products with Stylized Head Portraits for Self-Expression
-Authors: Shengqi Dang, Yang Shi, Nan Cao, Nanxuan Zhao, Yechun Peng
+Authors: Yang Shi, Yechun Peng, Shengqi Dang, Nanxuan Zhao, Nan Cao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147814)
 
@@ -5344,14 +5344,14 @@ Authors: Shengqi Dang, Yang Shi, Nan Cao, Nanxuan Zhao, Yechun Peng
 
 ## Ethics of Digital Technologies B
 ### Fighting Malicious Designs: Towards Visual Countermeasures Against Dark Patterns
-Authors: Jan Borchers, René Röpke, René Schäfer, Sarah Sahabi, Paul Preuschoff
+Authors: René Schäfer, Paul Preuschoff, René Röpke, Sarah Sahabi, Jan Borchers
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147553)
 
 
 
 ### A Scoping Study of Evaluation Practices for Responsible AI Tools: Steps Towards Effectiveness Evaluations
-Authors: Glen Berman, Michael Madaio, Nitesh Goyal
+Authors: Glen Berman, Nitesh Goyal, Michael Madaio
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147656)
 
@@ -5365,14 +5365,14 @@ Authors: Haoqi Zhang
 
 
 ### Building an Ethics-Focused Action Plan: Roles, Process Moves, and Trajectories
-Authors: Ziqing Li, Brookley Rigsbee, Matthew Will, Shruthi Sai Chivukula, Aayushi Bharadwaj, Janna Johns, Ambika R Menon, Thomas Carlock, Anne Pivonka, Colin Gray, Ike Obi
+Authors: Colin Gray, Ike Obi, Shruthi Sai Chivukula, Ziqing Li, Thomas Carlock, Matthew Will, Anne Pivonka, Janna Johns, Brookley Rigsbee, Ambika R Menon, Aayushi Bharadwaj
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147804)
 
 
 
 ### Staying at the Roach Motel: Cross-Country Analysis of Manipulative Subscription and Cancellation Flows
-Authors: Ashley Sheil, David Malone, Raphael Gellert, Hanna Schraffenberger, Gunes Acar
+Authors: Ashley Sheil, Gunes Acar, Hanna Schraffenberger, Raphael Gellert, David Malone
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147230)
 
@@ -5381,7 +5381,7 @@ Authors: Ashley Sheil, David Malone, Raphael Gellert, Hanna Schraffenberger, Gun
 
 ## Supporting Children and Teens Socialization
 ### From Adolescents' Eyes: Assessing an Indicator-Based Intervention to Combat Misinformation on TikTok
-Authors: Franziska Schneider, Tom Biselli, Katrin Hartwig, Christian Reuter
+Authors: Katrin Hartwig, Tom Biselli, Franziska Schneider, Christian Reuter
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147187)
 
@@ -5397,21 +5397,21 @@ Authors: Nora McDonald, John Seberger, Afsaneh Razi
 
 
 ### Wrist-bound Guanxi, Jiazu, and Kuolie: Unpacking Chinese Adolescent Smartwatch-Mediated Socialization
-Authors: Zhicong Lu, Lanjing Liu, Chao Zhang
+Authors: Lanjing Liu, Chao Zhang, Zhicong Lu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148286)
 
 
 
 ### ChaCha: Leveraging Large Language Models to Prompt Children to Share Their Emotions about Personal Events
-Authors: Chanmo Yang, Woosuk Seo, Young-Ho Kim
+Authors: Woosuk Seo, Chanmo Yang, Young-Ho Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148027)
 
 
 
 ### ‘A Teaspoon of Authenticity’: Exploring How Young Adults BeReal on Social Media
-Authors: Priya Kumar, Ananya Reddy
+Authors: Ananya Reddy, Priya Kumar
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148046)
 
@@ -5427,14 +5427,14 @@ Authors: Lydia Stamato, Hasan Mahmud Prottoy, Erin Higgins, Lisa Scheifele, Foad
 
 
 ### Analyzing User Engagement with TikTok's Short Format Video Recommendations using Data Donations
-Authors: Angelica Goetzen, Savvas Zannettou, Oshrat Ayalon, Olivia Nemes-Nemeth, Franziska Roesner, Krishna P. Gummadi, Elissa Redmiles
+Authors: Savvas Zannettou, Olivia Nemes-Nemeth, Oshrat Ayalon, Angelica Goetzen, Krishna P. Gummadi, Elissa Redmiles, Franziska Roesner
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147650)
 
 
 
 ### Mapping the Design Space of Teachable Social Media Feed Experiences
-Authors: K. J. Kevin Feng, Xander Koo, David McDonald, Amy Zhang, Lawrence Tan, Amy Bruckman
+Authors: K. J. Kevin Feng, Xander Koo, Lawrence Tan, Amy Bruckman, David McDonald, Amy Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147899)
 
@@ -5448,7 +5448,7 @@ Authors: Sanjay Kairam, Jeremy Foote
 
 
 ### “I Prefer Regular Visitors to Answer My Questions”: Users’ Desired Experiential Background of Contributors for Location-based Crowdsourcing Platform
-Authors: Chia-Yi Lee, Fang-Yu Lin, Yi-Ting Ho, Grace Yu-Chun Yen, Yao-Kuang Chen, Pei-Hua Tsai, Yung-Ju Chang
+Authors: Fang-Yu Lin, Pei-Hua Tsai, Chia-Yi Lee, Yi-Ting Ho, Yao-Kuang Chen, Grace Yu-Chun Yen, Yung-Ju Chang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147015)
 
@@ -5457,7 +5457,7 @@ Authors: Chia-Yi Lee, Fang-Yu Lin, Yi-Ting Ho, Grace Yu-Chun Yen, Yao-Kuang Chen
 
 ## Evaluating AI Technologies B
 ### Listening to the Voices: Describing Ethical Caveats of Conversational User Interfaces According to Experts and Frequent Users
-Authors: John Sloan, Gian-Luca Savino, Jasmin Niess, Thomas Mildner, Rainer Malaka, Nina Wenig, Leigh Clark, Anna-Maria Meck, Marion Bartl, Diego Garaialde, Philip Doyle, Orla Cooney
+Authors: Thomas Mildner, Orla Cooney, Anna-Maria Meck, Marion Bartl, Gian-Luca Savino, Philip Doyle, Diego Garaialde, Leigh Clark, John Sloan, Nina Wenig, Rainer Malaka, Jasmin Niess
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147969)
 
@@ -5466,7 +5466,7 @@ Abstract: Advances in natural language processing and understanding have led to 
 
 
 ### EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria
-Authors: Jamin Shin, Tae Soo Kim, Juho Kim, Young-Ho Kim, Yoonjoo Lee
+Authors: Tae Soo Kim, Yoonjoo Lee, Jamin Shin, Young-Ho Kim, Juho Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147201)
 
@@ -5475,7 +5475,7 @@ Abstract: By simply composing prompts, developers can prototype novel generative
 
 
 ### Understanding Choice Independence and Error Types in Human-AI Collaboration
-Authors: Abhinav Sharma, Ujwal Gadiraju, Alexander Erlei
+Authors: Alexander Erlei, Abhinav Sharma, Ujwal Gadiraju
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147055)
 
@@ -5486,7 +5486,7 @@ Abstract: The ability to make appropriate delegation decisions is an important p
 ### ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing
 HONORABLE_MENTION
 
-Authors: Martin Wattenberg, Priyan Vaithilingam, Chelse Swoopes, Ian Arawjo, Elena Glassman
+Authors: Ian Arawjo, Chelse Swoopes, Priyan Vaithilingam, Martin Wattenberg, Elena Glassman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147701)
 
@@ -5495,7 +5495,7 @@ Abstract: Evaluating outputs of large language models (LLMs) is challenging, req
 
 
 ### CloChat: Understanding How People Customize, Interact, and Experience Personas in Large Language Models
-Authors: DaEun Han, Hyeon Jeon, Jinwook Seo, Changhoon Oh, Juhye Ha
+Authors: Juhye Ha, Hyeon Jeon, DaEun Han, Jinwook Seo, Changhoon Oh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147362)
 
@@ -5508,35 +5508,35 @@ Abstract: Large language models (LLMs) have facilitated significant strides in g
 ### The Cadaver in the Machine: The Social Practices of Measurement and Validation in Motion Capture Technology
 HONORABLE_MENTION
 
-Authors: Mona Sloane, Hauke Sandhaus, Abigail Jacobs, Emanuel Moss, Emma Harvey
+Authors: Emma Harvey, Hauke Sandhaus, Abigail Jacobs, Emanuel Moss, Mona Sloane
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147039)
 
 
 
 ### Aligning Data with the Goals of an Organization and Its Workers: Designing Data Labeling for Social Service Case Notes
-Authors: Whitney Nelson, Apoorva Gondimalla, Kenneth Fleischmann, Govind Joshi, Eunsol Choi, Sherri Greenberg, Varshinee Sreekanth, Stephen Slota, Min Kyung Lee
+Authors: Apoorva Gondimalla, Varshinee Sreekanth, Govind Joshi, Whitney Nelson, Eunsol Choi, Stephen Slota, Sherri Greenberg, Kenneth Fleischmann, Min Kyung Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148090)
 
 
 
 ### The ``Colonial Impulse" of Natural Language Processing: An Audit of Bengali Sentiment Analysis Tools and Their Identity-based Biases
-Authors: Jed Brubaker, Bryan Semaan, Shion Guha, Dipto Das
+Authors: Dipto Das, Shion Guha, Jed Brubaker, Bryan Semaan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146683)
 
 
 
 ### Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM
-Authors: Jeffrey Heer, Michael Bernstein, James Landay, Janice Teoh, Michelle Lam
+Authors: Michelle Lam, Janice Teoh, James Landay, Jeffrey Heer, Michael Bernstein
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147161)
 
 
 
 ### Situating Datasets: Making Public Eviction Data Actionable for Housing Justice
-Authors: Grace Guo, Katsuki Chan, Jordan Taylor, Carl DiSalvo, Elora Raymond, Anh-Ton Tran
+Authors: Anh-Ton Tran, Grace Guo, Jordan Taylor, Katsuki Chan, Elora Raymond, Carl DiSalvo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148020)
 
@@ -5547,28 +5547,28 @@ Authors: Grace Guo, Katsuki Chan, Jordan Taylor, Carl DiSalvo, Elora Raymond, An
 ### CRTypist: Simulating Touchscreen Typing Behavior via Computational Rationality
 HONORABLE_MENTION
 
-Authors: Jussi Jokinen, Yujun Zhu, Aditya Acharya, Shumin Zhai, Danqing Shi, Aini Putkonen, Antti Oulasvirta
+Authors: Danqing Shi, Yujun Zhu, Jussi Jokinen, Aditya Acharya, Aini Putkonen, Shumin Zhai, Antti Oulasvirta
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147836)
 
 
 
 ### WheelPose: Data Synthesis Techniques to Improve Pose Estimation Performance on Wheelchair Users
-Authors: Yang Zhang, William Huang, Siyou Pei, Sam Ghahremani
+Authors: William Huang, Sam Ghahremani, Siyou Pei, Yang Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148072)
 
 
 
 ### Sitting Posture Recognition and Feedback: A Literature Review
-Authors: Christian Krauter, Michael Sedlmair, Sven Mayer, Alexander Achberger, Katrin Angerbauer, Aimée Sousa Calepso
+Authors: Christian Krauter, Katrin Angerbauer, Aimée Sousa Calepso, Alexander Achberger, Sven Mayer, Michael Sedlmair
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147428)
 
 
 
 ### iPose: Interactive Human Pose Reconstruction from Video
-Authors: Li-Yi Wei, Jingyuan Liu, Takeo Igarashi, Ariel Shamir
+Authors: Jingyuan Liu, Li-Yi Wei, Ariel Shamir, Takeo Igarashi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146911)
 
@@ -5577,7 +5577,7 @@ Authors: Li-Yi Wei, Jingyuan Liu, Takeo Igarashi, Ariel Shamir
 
 ## Governance and Public Policies
 ### Data Probes as Boundary Objects for Technology Policy Design: Demystifying Technology for Policymakers and Aligning Stakeholder Objectives in Rideshare Gig Work
-Authors: Alexander Boltz, Angie Zhang, Veena Dubal, Rocita Rana, Min Kyung Lee
+Authors: Angie Zhang, Rocita Rana, Alexander Boltz, Veena Dubal, Min Kyung Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146997)
 
@@ -5586,14 +5586,14 @@ Authors: Alexander Boltz, Angie Zhang, Veena Dubal, Rocita Rana, Min Kyung Lee
 ### In Dice We Trust: Uncertainty Displays for Maintaining Trust in Election Forecasts Over Time
 BEST_PAPER
 
-Authors: Matthew Kay, Fumeng Yang, Nicholas Diakopoulos, Erik Nisbet, Chloe Mortenson
+Authors: Fumeng Yang, Chloe Mortenson, Erik Nisbet, Nicholas Diakopoulos, Matthew Kay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147247)
 
 
 
 ### V-FRAMER: Visualization Framework for Mitigating Reasoning Errors in Public Policy
-Authors: Matthew Kay, Lily Ge, Steven Franconeri, Peter Cheng, Matthew Easterday, Evanthia Dimara
+Authors: Lily Ge, Matthew Easterday, Matthew Kay, Evanthia Dimara, Peter Cheng, Steven Franconeri
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147167)
 
@@ -5609,7 +5609,7 @@ Authors: Jacob Erickson, Bei Yan
 ### Watching the Election Sausage Get Made: How Data Journalists Visualize the Vote Counting Process in U.S. Elections
 HONORABLE_MENTION
 
-Authors: Matthew Kay, Mandi Cai
+Authors: Mandi Cai, Matthew Kay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146972)
 
@@ -5618,14 +5618,14 @@ Authors: Matthew Kay, Mandi Cai
 
 ## Supporting Communities
 ### Pika: Empowering Non-Programmers to Author Executable Governance Policies in Online Communities
-Authors: Leijie Wang, Julija Rukanskaitė, Amy Zhang, Nicholas Vincent
+Authors: Leijie Wang, Nicholas Vincent, Julija Rukanskaitė, Amy Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146949)
 
 
 
 ### Do We Run How We Say We Run? Formalization and Practice of Governance in OSS Communities
-Authors: Curtis Atkisson, Mahasweta Chakraborti, Vladimir Filkov, Ştefan Stănciulescu, Seth Frey
+Authors: Mahasweta Chakraborti, Curtis Atkisson, Ştefan Stănciulescu, Vladimir Filkov, Seth Frey
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147289)
 
@@ -5634,7 +5634,7 @@ Authors: Curtis Atkisson, Mahasweta Chakraborti, Vladimir Filkov, Ştefan Stănc
 ### Third-Party Developers and Tool Development For Community Management on Live Streaming Platform Twitch
 HONORABLE_MENTION
 
-Authors: He Zhang, Jie Cai, John Carroll, Ya-Fang Lin
+Authors: Jie Cai, Ya-Fang Lin, He Zhang, John Carroll
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147232)
 
@@ -5643,14 +5643,14 @@ Authors: He Zhang, Jie Cai, John Carroll, Ya-Fang Lin
 ### “I was able to give her the confidence”: Reciprocal Capacity Building in a Community-based Program for Digital Engagement
 HONORABLE_MENTION
 
-Authors: Jeanette Szomstein, Tawanna Dillahunt, Lutalo Sanifu, Julie Hui, Christie Baer, Kristin Seefeldt
+Authors: Julie Hui, Kristin Seefeldt, Lutalo Sanifu, Christie Baer, Jeanette Szomstein, Tawanna Dillahunt
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146613)
 
 
 
 ### In Between Users and Developers: Serendipitous Connections and Intermediaries in Volunteer-Driven Open-Source Software Development
-Authors: Volker Wulf, Dave Randall, Yannick Bollmann, Lea Katharina Michel, Vasilis Ntouros, Leonie Jahn, Philip Engelbutzeder
+Authors: Leonie Jahn, Philip Engelbutzeder, Dave Randall, Yannick Bollmann, Vasilis Ntouros, Lea Katharina Michel, Volker Wulf
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148224)
 
@@ -5668,7 +5668,7 @@ Abstract: This paper examines the role that enchantment plays in the design of A
 
 
 ### AI-Assisted Causal Pathway Diagram for Human-Centered Design
-Authors: Predrag Klasnja, Rosemary Meza, Donghoon Shin, Gary Hsieh, Lucas Colusso, Ruican Zhong
+Authors: Ruican Zhong, Donghoon Shin, Rosemary Meza, Predrag Klasnja, Lucas Colusso, Gary Hsieh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147483)
 
@@ -5677,7 +5677,7 @@ Abstract: This paper explores the integration of causal pathway diagrams (CPD) i
 
 
 ### VAL: Interactive Task Learning with GPT Dialog Parsing
-Authors: Christopher MacLellan, Lane Lawley
+Authors: Lane Lawley, Christopher MacLellan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148061)
 
@@ -5695,7 +5695,7 @@ Abstract: Recent advancements in AI foundation models have made it possible for 
 
 
 ### Enhancing UX Evaluation Through Collaboration with Conversational AI Assistants: Effects of Proactive Dialogue and Timing
-Authors: Emily Kuang, Minghao Li, Kristen Shinohara, Mingming Fan
+Authors: Emily Kuang, Minghao Li, Mingming Fan, Kristen Shinohara
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147731)
 
@@ -5706,7 +5706,7 @@ Abstract: Usability testing is vital for enhancing the user experience (UX) of i
 
 ## AI and UI Design
 ### SimUser: Generating Usability Feedback by Simulating Various Users Interacting with Mobile Applications
-Authors: Shi Chen, Hanfei Zhu, Yuping Jin, Suqi Lou, Zhenghua Pan, Lingyun Sun, Wei Xiang, Xinli Chen
+Authors: Wei Xiang, Hanfei Zhu, Suqi Lou, Xinli Chen, Zhenghua Pan, Yuping Jin, Shi Chen, Lingyun Sun
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148321)
 
@@ -5715,7 +5715,7 @@ Abstract: The conflict between the rapid iteration demand of prototyping and the
 
 
 ### Generating Automatic Feedback on UI Mockups with Large Language Models
-Authors: Peitong Duan, Yang Li, Bjoern Hartmann, Jeremy Warner
+Authors: Peitong Duan, Jeremy Warner, Yang Li, Bjoern Hartmann
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146712)
 
@@ -5724,7 +5724,7 @@ Abstract: Feedback on user interface (UI) mockups is crucial in design. However,
 
 
 ### MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling
-Authors: Chunyang Chen, Sidong Feng, Suyu Ma, David Kong, Han Wang
+Authors: Sidong Feng, Suyu Ma, Han Wang, David Kong, Chunyang Chen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147307)
 
@@ -5733,7 +5733,7 @@ Abstract: The importance of computational modeling of mobile user interfaces (UI
 
 
 ### Surveyor: Facilitating Discovery Within Video Games for Blind and Low Vision Players
-Authors: Peize Song, Hanxiu 'Hazel' Zhu, Jizhong Wang, Brian Smith, Vishnu Nair
+Authors: Vishnu Nair, Hanxiu 'Hazel' Zhu, Peize Song, Jizhong Wang, Brian Smith
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147935)
 
@@ -5742,7 +5742,7 @@ Abstract: Video games are increasingly accessible to blind and low vision (BLV) 
 
 
 ### OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs
-Authors: Jiahao Li, Tovi Grossman, Stephanie Santosa, Michelle Li, Yan Xu
+Authors: Jiahao Li, Yan Xu, Tovi Grossman, Stephanie Santosa, Michelle Li
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147206)
 
@@ -5753,17 +5753,17 @@ Abstract: The progression to "Pervasive Augmented Reality" envisions easy access
 
 ## AI for Researchers
 ### Know Your Audience: The benefits and pitfalls of generating plain language summaries beyond the "general" audience
-Authors: Noah A. Smith, Tal August, Katharina Reinecke, Kyle Lo
+Authors: Tal August, Kyle Lo, Noah A. Smith, Katharina Reinecke
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147146)
 
-Abstract: Language models (LMs) show promise as tools for communicating science to the general public by simplifying and summarizing complex language. Because models can be prompted to generate text for a specific audience (e.g., college-educated adults), LMs might be used to create multiple versions of plain language summaries for people with different familiarities of scientific topics. However, it is not clear what the benefits and pitfalls of adaptive plain language are. When is simplifying necessary, what are the costs in doing so, and do these costs differ for readers with different background knowledge? Through three within-subjects studies in which we surface summaries for different envisioned audiences to participants of different backgrounds, we found that while simpler text led to the best reading experience for readers with little to no familiarity in a topic, high familiarity readers tended to ignore certain details in overly plain summaries (e.g., study limitations). Our work provides methods and guidance on ways of adapting plain language summaries beyond the single "general" audience. 
+Abstract: Language models (LMs) show promise as tools for communicating science to the general public by simplifying and summarizing complex language. Because models can be prompted to generate text for a specific audience (e.g., college-educated adults), LMs might be used to create multiple versions of plain language summaries for people with different familiarities of scientific topics. However, it is not clear what the benefits and pitfalls of adaptive plain language are. When is simplifying necessary, what are the costs in doing so, and do these costs differ for readers with different background knowledge? Through three within-subjects studies in which we surface summaries for different envisioned audiences to participants of different backgrounds, we found that while simpler text led to the best reading experience for readers with little to no familiarity in a topic, high familiarity readers tended to ignore certain details in overly plain summaries (e.g., study limitations). Our work provides methods and guidance on ways of adapting plain language summaries beyond the single "general" audience. 
 
 
 
 
 ### Evaluating Large Language Models on Academic Literature Understanding and Review: An Empirical Study among Early-stage Scholars
-Authors: Song Yan, Zuyuan Wang, Jiyao Wang, Haolong Hu, Youyu Sheng, Dengbo He
+Authors: Jiyao Wang, Haolong Hu, Zuyuan Wang, Song Yan, Youyu Sheng, Dengbo He
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147471)
 
@@ -5774,7 +5774,7 @@ Abstract: The rapid advancement of large language models (LLMs) such as ChatGPT 
 ### Understanding the Role of Large Language Models in Personalizing and Scaffolding Strategies to Combat Academic Procrastination
 HONORABLE_MENTION
 
-Authors: Joseph Williams, Alex Mariakakis, Anastasia Kuzminykh, Yuchen Zeng, Minyi Ma, Syed Ishtiaque Ahmed, Michael Liut, Rachel Kornfield, Dana Kulzhabayeva, Sarah Yi Xu, Mary Czerwinski, Ananya Bhattacharjee
+Authors: Ananya Bhattacharjee, Yuchen Zeng, Sarah Yi Xu, Dana Kulzhabayeva, Minyi Ma, Rachel Kornfield, Syed Ishtiaque Ahmed, Alex Mariakakis, Mary Czerwinski, Anastasia Kuzminykh, Michael Liut, Joseph Williams
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148128)
 
@@ -5783,7 +5783,7 @@ Abstract: Traditional interventions for academic procrastination often fail to c
 
 
 ### From Paper to Card: Transforming Design Implications with Generative AI
-Authors: Lucy Wang, Donghoon Shin, Gary Hsieh
+Authors: Donghoon Shin, Lucy Wang, Gary Hsieh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147713)
 
@@ -5792,7 +5792,7 @@ Abstract: Communicating design implications is common within the HCI community w
 
 
 ### CollabCoder: A Lower-barrier, Rigorous Workflow for Inductive Collaborative Qualitative Analysis with Large Language Models
-Authors: Simon Perrault, Toby Li, Yuchen Guo, Tianqin Zhang, Gionnieve Lim, Zheng Zhang, Jie Gao
+Authors: Jie Gao, Yuchen Guo, Gionnieve Lim, Tianqin Zhang, Zheng Zhang, Toby Li, Simon Perrault
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147401)
 
@@ -5803,35 +5803,35 @@ Abstract: Collaborative Qualitative Analysis (CQA) can enhance qualitative analy
 
 ## Assistive Technologies for Neurodiversity
 ### Designing Scaffolding Strategies for Conversational Agents in Dialog Task of Neurocognitive Disorders Screening
-Authors: Dongjie Yang, Danxuan LIANG, Junze Li, Helen Meng, YUHANG ZENG, Xiaojuan Ma, Jiaxiong Hu
+Authors: Jiaxiong Hu, Junze Li, YUHANG ZENG, Dongjie Yang, Danxuan LIANG, Helen Meng, Xiaojuan Ma
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147967)
 
 
 
 ### Unlock Life with a Chat(GPT): Integrating Conversational AI with Large Language Models into Everyday Lives of Autistic Individuals
-Authors: Hwajung Hong, Sung-In Kim, Dasom Choi, Sunok Lee, Kyungah Lee, Sangsu Lee, Hee Jeong Yoo
+Authors: Dasom Choi, Sunok Lee, Sung-In Kim, Kyungah Lee, Hee Jeong Yoo, Sangsu Lee, Hwajung Hong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146853)
 
 
 
 ### An Emotion Translator: Speculative Design By Neurodiverse Dyads
-Authors: Jaime Snyder, Annuska Zolyomi
+Authors: Annuska Zolyomi, Jaime Snyder
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148281)
 
 
 
 ### From Letterboards to Holograms: Advancing Assistive Technology for Nonspeaking Autistic Individuals with the HoloBoard
-Authors: Vikram Jaswal, Lorans Alabood, Travis Dow, Diwakar Krishnamurthy, Kaylyn Feeley
+Authors: Lorans Alabood, Travis Dow, Kaylyn Feeley, Vikram Jaswal, Diwakar Krishnamurthy
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147346)
 
 
 
 ### Are Robots Ready to Deliver Autism Inclusion?: A Critical Review
-Authors: Imani Munyaka, Raunak Mondal, Naba Rizvi, Andrew Begel, Mya Bolds, William Wu
+Authors: Naba Rizvi, William Wu, Mya Bolds, Raunak Mondal, Andrew Begel, Imani Munyaka
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147238)
 
@@ -5840,7 +5840,7 @@ Authors: Imani Munyaka, Raunak Mondal, Naba Rizvi, Andrew Begel, Mya Bolds, Will
 
 ## Body, Avatars, and Interaction in Immersive Realities
 ### Your Avatar Seems Hesitant to Share About Yourself: How People Perceive Others' Avatars in the Transparent System
-Authors: Huisung Kwon, Ki Joon Kim, Hyemin Park, Yeonju Jang, Taenyun Kim
+Authors: Yeonju Jang, Taenyun Kim, Huisung Kwon, Hyemin Park, Ki Joon Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146653)
 
@@ -5849,7 +5849,7 @@ Abstract: In avatar-mediated communications, users often cannot identify how oth
 
 
 ### CamTroller: An Auxiliary Tool for Controlling Your Avatar in PC Games Using Natural Motion Mapping
-Authors: Yuqian Wang, Junjian CHEN, Yan Luximon
+Authors: Junjian CHEN, Yuqian Wang, Yan Luximon
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147378)
 
@@ -5858,7 +5858,7 @@ Abstract: Natural motion mapping enhances the gaming experience by reducing the 
 
 
 ### Stretch your reach: Studying Self-Avatar and Controller Misalignment in Virtual Reality Interaction
-Authors: Nuria Pelechano, Jose Luis Ponton, Alejandro Beacco, Reza Keshavarz
+Authors: Jose Luis Ponton, Reza Keshavarz, Alejandro Beacco, Nuria Pelechano
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147486)
 
@@ -5867,18 +5867,18 @@ Abstract: Immersive Virtual Reality typically requires a head-mounted display (H
 
 
 ### Virtual Body Swapping: A VR-Based Approach to Embodied Third-Person Self-Processing in Mind-Body Therapy
-Authors: Nina Döllinger, Carolin Wienrich, Mario Botsch, Erik Wolf, David Mal, Sebastian Keppler, Johann Habakuk Israel, Marc Latoschik
+Authors: Nina Döllinger, David Mal, Sebastian Keppler, Erik Wolf, Mario Botsch, Johann Habakuk Israel, Marc Latoschik, Carolin Wienrich
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146675)
 
-Abstract: Virtual reality (VR) offers various opportunities for innovative therapeutic approaches, especially regarding self-related mind-body interventions.
-We introduce a VR body swap system enabling multiple users to swap their perspectives and appearances and evaluate its effects on virtual sense of embodiment (SoE) and perception- and cognition-based self-related processes.
+Abstract: Virtual reality (VR) offers various opportunities for innovative therapeutic approaches, especially regarding self-related mind-body interventions.
+We introduce a VR body swap system enabling multiple users to swap their perspectives and appearances and evaluate its effects on virtual sense of embodiment (SoE) and perception- and cognition-based self-related processes.
 In a self-compassion-framed scenario, twenty participants embodied their personalized, photorealistic avatar, swapped bodies with an unfamiliar peer, and reported their SoE, interoceptive awareness (perception), and self-compassion (cognition). Participants' experiences differed between bottom-up and top-down processes. Regarding SoE, their agency and self-location shifted to the swap avatar, while their top-down self-identification remained with their personalized avatar. Further, the experience positively affected interoceptive awareness but not self-compassion. Our outcomes offer novel insights into the SoE in a multiple-embodiment scenario and highlight the need to differentiate between the different processes in intervention design. They raise concerns and requirements for future research on avatar-based mind-body interventions.
 
 
 
 ### "I Shot the Interviewer!": The Effects of In-VR Interviews on Participant Feedback and Rapport
-Authors: Nadia Pantidi, Jacob Young, Jennifer Ferreira
+Authors: Jacob Young, Jennifer Ferreira, Nadia Pantidi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146913)
 
@@ -5889,7 +5889,7 @@ Abstract: The integration of questionnaires into virtual reality experiences has
 
 ## Children and Family A
 ### LegacySphere: Facilitating Intergenerational Communication Through Perspective-Taking and Storytelling in Embodied VR
-Authors: Dongwook Yoon, Chenxinran Shen, Joanna McGrenere
+Authors: Chenxinran Shen, Joanna McGrenere, Dongwook Yoon
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147857)
 
@@ -5898,14 +5898,14 @@ Authors: Dongwook Yoon, Chenxinran Shen, Joanna McGrenere
 ### Open Sesame? Open Salami! Personalizing Vocabulary Assessment-Intervention for Children via Pervasive Profiling and Bespoke Storybook Generation
 HONORABLE_MENTION
 
-Authors: Suwon Yoon, Wonjeong Park, Eunae Jeong, Inseok Hwang, Jungeun Lee, Dongsun Yim, Kyoosik Lee, Jae-Eun Cho
+Authors: Jungeun Lee, Suwon Yoon, Kyoosik Lee, Eunae Jeong, Jae-Eun Cho, Wonjeong Park, Dongsun Yim, Inseok Hwang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147041)
 
 
 
 ### Parent-Child Joint Media Engagement within HCI: A Scoping Analysis of the Research Landscape
-Authors: Junnan Yu, Siqi Yang, Xiang QI
+Authors: Junnan Yu, Xiang QI, Siqi Yang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147467)
 
@@ -5914,7 +5914,7 @@ Authors: Junnan Yu, Siqi Yang, Xiang QI
 ### "When He Feels Cold, He Goes to the Seahorse"—Blending Generative AI into Multimaterial Storymaking for Family Expressive Arts Therapy
 HONORABLE_MENTION
 
-Authors: Di Liu, Pengcheng An, Hanqing Zhou
+Authors: Di Liu, Hanqing Zhou, Pengcheng An
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147056)
 
@@ -5923,7 +5923,7 @@ Authors: Di Liu, Pengcheng An, Hanqing Zhou
 ### "I want it to talk like Darth Vader": Helping Children Construct Creative Self-Efficacy with Generative AI
 HONORABLE_MENTION
 
-Authors: Matthew Pedraja, Maia B. Song, Kaiwen Sun, Ritesh Kanchi, Ilena Dalla Gasperina, Grace Shin, Jason Yip, Jin Ha Lee, Michele Newman, Rannie Li
+Authors: Michele Newman, Kaiwen Sun, Ilena Dalla Gasperina, Grace Shin, Matthew Pedraja, Ritesh Kanchi, Maia B. Song, Rannie Li, Jin Ha Lee, Jason Yip
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147049)
 
@@ -5932,7 +5932,7 @@ Authors: Matthew Pedraja, Maia B. Song, Kaiwen Sun, Ritesh Kanchi, Ilena Dalla G
 
 ## Creative Practices, Arts and AI
 ### CollageVis: Rapid Previsualization Tool for Indie Filmmaking using Video Collages
-Authors: Ryo Suzuki, Hye-Young Jo, Yoonji Kim
+Authors: Hye-Young Jo, Ryo Suzuki, Yoonji Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147599)
 
@@ -5941,18 +5941,18 @@ Abstract: Previsualization, previs, is essential for film production, allowing c
 
 
 ### Machine Learning Processes As Sources of Ambiguity: Insights from AI Art
-Authors: Guido Salimbeni, Jichen Zhu, Steven Benford, Christian Sivertsen, Anders Løvlie
+Authors: Christian Sivertsen, Guido Salimbeni, Anders Løvlie, Steven Benford, Jichen Zhu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148345)
 
-Abstract: Ongoing efforts to turn Machine Learning (ML) into a design material have encountered limited success. 
-This paper examines the burgeoning area of AI art to understand how artists incorporate ML in their creative work. Drawing upon related HCI theories, we investigate how artists create ambiguity by analyzing nine AI artworks that use computer vision and image synthesis.
+Abstract: Ongoing efforts to turn Machine Learning (ML) into a design material have encountered limited success. 
+This paper examines the burgeoning area of AI art to understand how artists incorporate ML in their creative work. Drawing upon related HCI theories, we investigate how artists create ambiguity by analyzing nine AI artworks that use computer vision and image synthesis.
 Our analysis shows that, in addition to the established types of ambiguity, artists worked closely with the ML process (dataset curation, model training, and application) and developed various techniques to evoke the ambiguity of processes. Our finding indicates that the current conceptualization of ML as a design material needs to reframe the ML process as design elements, instead of technical details. Finally, this paper offers reflections on commonly held assumptions in HCI about ML uncertainty, dependability, and explainability, and advocates to supplement the artifact-centered design perspective of ML with a process-centered one.
 
 
 
 ### Metamorpheus: Interactive, Affective, and Creative Dream Narration Through Metaphorical Visual Storytelling
-Authors: Zhicong Lu, Xin Feng, Zhiqi Gao, Qian Wan, Yining Bei
+Authors: Qian Wan, Xin Feng, Yining Bei, Zhiqi Gao, Zhicong Lu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148065)
 
@@ -5961,7 +5961,7 @@ Abstract: Human emotions are essentially molded by lived experiences, from which
 
 
 ### An Artists' Perspectives on Natural Interactions for Virtual Reality 3D Sketching
-Authors: Francisco Ortega, Richard Rodriguez, Cyane Tornatzky, Mayra Barrera Machuca, Anil Ufuk Batmaz, Brian Sullivan
+Authors: Richard Rodriguez, Brian Sullivan, Mayra Barrera Machuca, Anil Ufuk Batmaz, Cyane Tornatzky, Francisco Ortega
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147688)
 
@@ -5981,17 +5981,17 @@ Abstract: Commencing as a photo-sharing platform, Instagram has since become mul
 
 ## Creativity: Visualizations and AI
 ### IntentTuner: An Interactive Framework for Integrating Human Intentions in Fine-tuning Text-to-Image Generative Models
-Authors: Wei Zeng, Xingchen Zeng, Ziyao Gao, Yilin Ye
+Authors: Xingchen Zeng, Ziyao Gao, Yilin Ye, Wei Zeng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147372)
 
-Abstract: Fine-tuning facilitates the adaptation of text-to-image generative models to novel concepts (e.g., styles and portraits), empowering users to forge creatively customized content. Recent efforts on fine-tuning focus on reducing training data and lightening computation overload but neglect alignment with user intentions, particularly in manual curation of multi-modal training data and intent-oriented evaluation. Informed by a formative study with fine-tuning practitioners for comprehending user intentions, we propose IntentTuner, an interactive framework that intelligently incorporates human intentions throughout each phase of the fine-tuning workflow. IntentTuner enables users to articulate training intentions with imagery exemplars and textual descriptions, automatically converting them into effective data augmentation strategies. Furthermore, IntentTuner introduces novel metrics to measure user intent alignment, allowing intent-aware monitoring and evaluation of model training. Application exemplars and user studies demonstrate that IntentTuner streamlines fine-tuning, reducing cognitive effort and yielding superior models compared to the common baseline tool.
+Abstract: Fine-tuning facilitates the adaptation of text-to-image generative models to novel concepts (e.g., styles and portraits), empowering users to forge creatively customized content. Recent efforts on fine-tuning focus on reducing training data and lightening computation overload but neglect alignment with user intentions, particularly in manual curation of multi-modal training data and intent-oriented evaluation. Informed by a formative study with fine-tuning practitioners for comprehending user intentions, we propose IntentTuner, an interactive framework that intelligently incorporates human intentions throughout each phase of the fine-tuning workflow. IntentTuner enables users to articulate training intentions with imagery exemplars and textual descriptions, automatically converting them into effective data augmentation strategies. Furthermore, IntentTuner introduces novel metrics to measure user intent alignment, allowing intent-aware monitoring and evaluation of model training. Application exemplars and user studies demonstrate that IntentTuner streamlines fine-tuning, reducing cognitive effort and yielding superior models compared to the common baseline tool.
 
 
 
 
 ### Table Illustrator: Puzzle-based interactive authoring of plain tables
-Authors: Di Weng, Yurun Yang, Yanwei Huang, Ran Chen, Yingcai Wu, Xinhuan Shu
+Authors: Yanwei Huang, Yurun Yang, Xinhuan Shu, Ran Chen, Di Weng, Yingcai Wu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147780)
 
@@ -6000,7 +6000,7 @@ Abstract: Plain tables excel at displaying data details and are widely used in d
 
 
 ### Is It AI or Is It Me? Understanding Users’ Prompt Journey with Text-to-Image Generative AI Tools
-Authors: Atefeh Mahdavi Goloujeh, Brian Magerko, Anne Sullivan
+Authors: Atefeh Mahdavi Goloujeh, Anne Sullivan, Brian Magerko
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146973)
 
@@ -6009,7 +6009,7 @@ Abstract: Generative Artificial Intelligence (AI) has witnessed unprecedented gr
 
 
 ### PromptCharm: Text-to-Image Generation through Multi-modal Prompting and Refinement
-Authors: Lei Ma, Yuheng Huang, Zhijie Wang, Da Song, Tianyi Zhang
+Authors: Zhijie Wang, Yuheng Huang, Da Song, Lei Ma, Tianyi Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148288)
 
@@ -6020,7 +6020,7 @@ Abstract: The recent advancements in Generative AI have significantly advanced t
 ### An Accessible, Three-Axis Plotter for Enhancing Calligraphy Learning through Generated Motion
 HONORABLE_MENTION
 
-Authors: Cathy Mengying Fang, Zach Lieberman, Quincy Kuang, Pattie Maes, Hiroshi Ishii, Lingdong Huang
+Authors: Cathy Mengying Fang, Lingdong Huang, Quincy Kuang, Zach Lieberman, Pattie Maes, Hiroshi Ishii
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147202)
 
@@ -6031,35 +6031,35 @@ Abstract: An Accessible, Three-Axis Plotter for Enhancing Calligraphy Learning t
 
 ## Data Visualization and Literacy
 ### Data Storytelling in Data Visualisation: Does it Enhance the Efficiency and Effectiveness of Information Retrieval and Insights Comprehension?
-Authors: Roberto Martinez-Maldonado, Lixiang Yan, Vanessa Echeverria, Hongbo Shao, Dragan Gasevic
+Authors: Hongbo Shao, Roberto Martinez-Maldonado, Vanessa Echeverria, Lixiang Yan, Dragan Gasevic
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146892)
 
 
 
 ### Make Interaction Situated: Designing User Acceptable Interaction for Situated Visualization in Public Environments
-Authors: Zhuo Wang, Wei Zeng, Xiaojuan Ma, Weiyue Lin, Qian Zhu, Wai Tong
+Authors: Qian Zhu, Zhuo Wang, Wei Zeng, Wai Tong, Weiyue Lin, Xiaojuan Ma
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147605)
 
 
 
 ### A Human Information Processing Theory of the Interpretation of Visualizations: Demonstrating Its Utility
-Authors: Mateja Jamnik, Peter Cheng, Daniel Raggi, Grecia Garcia Garcia
+Authors: Peter Cheng, Grecia Garcia Garcia, Daniel Raggi, Mateja Jamnik
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147576)
 
 
 
 ### VAID: Indexing View Designs in Visual Analytics System
-Authors: Zikun Deng, Ji Lan, Haotian Li, Yong Wang, Dazhen Deng, Aoyu Wu, Huamin Qu, Lu Ying, Jiang Wu, Yingcai Wu
+Authors: Lu Ying, Aoyu Wu, Haotian Li, Zikun Deng, Ji Lan, Jiang Wu, Yong Wang, Huamin Qu, Dazhen Deng, Yingcai Wu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148123)
 
 
 
 ### Reading Between the Pixels: Investigating the Barriers to Visualization Literacy
-Authors: Kehang Zhu, Hanspeter Pfister, Carolina Nobre, Johanna Beyer, Eric Mörth
+Authors: Carolina Nobre, Kehang Zhu, Eric Mörth, Hanspeter Pfister, Johanna Beyer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147374)
 
@@ -6068,14 +6068,14 @@ Authors: Kehang Zhu, Hanspeter Pfister, Carolina Nobre, Johanna Beyer, Eric Mör
 
 ## Data Visualization and Physicalization
 ### StableLev: Data-Driven Stability Enhancement for Multi-Particle Acoustic Levitation
-Authors: Sriram Subramanian, Prateek Mittal, Giorgos Christopoulos, Lei Gao, Ryuji Hirayama
+Authors: Lei Gao, Giorgos Christopoulos, Prateek Mittal, Ryuji Hirayama, Sriram Subramanian
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148311)
 
 
 
 ### "Yeah, this graph doesn't show that": Analysis of Online Engagement with Misleading Data Visualizations
-Authors: Alexander Lex, Marina Kogan, Maxim Lisnic
+Authors: Maxim Lisnic, Alexander Lex, Marina Kogan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147712)
 
@@ -6084,7 +6084,7 @@ Authors: Alexander Lex, Marina Kogan, Maxim Lisnic
 ### Epigraphics: Message-Driven Infographics Authoring
 HONORABLE_MENTION
 
-Authors: Tongyu Zhou, Gromit Yeuk-Yin Chan, Jeff Huang
+Authors: Tongyu Zhou, Jeff Huang, Gromit Yeuk-Yin Chan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148344)
 
@@ -6093,7 +6093,7 @@ Authors: Tongyu Zhou, Gromit Yeuk-Yin Chan, Jeff Huang
 ### From Exploration to End of Life: Unpacking Sustainability in Physicalization Practices
 BEST_PAPER
 
-Authors: Tatiana Losev, Sarah Hayes, Rebecca Noonan, Georgia Panagiotidou, Uta Hinrichs, Luiz Morais
+Authors: Luiz Morais, Georgia Panagiotidou, Sarah Hayes, Tatiana Losev, Rebecca Noonan, Uta Hinrichs
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147627)
 
@@ -6102,7 +6102,7 @@ Authors: Tatiana Losev, Sarah Hayes, Rebecca Noonan, Georgia Panagiotidou, Uta H
 ### That's Rough! Encoding Data into Roughness for Physicalization
 HONORABLE_MENTION
 
-Authors: Xiaojiao Du, Kadek Ananta Satriadi, Andrew Cunningham, Ross Smith, Adam Drogemuller, Brandon Matthews, James A. Walsh
+Authors: Xiaojiao Du, Kadek Ananta Satriadi, Adam Drogemuller, Brandon Matthews, Ross Smith, James A. Walsh, Andrew Cunningham
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147680)
 
@@ -6113,35 +6113,35 @@ Authors: Xiaojiao Du, Kadek Ananta Satriadi, Andrew Cunningham, Ross Smith, Adam
 ### Demystifying Tacit Knowledge in Graphic Design: Characteristics, Instances, Approaches, and Guidelines
 HONORABLE_MENTION
 
-Authors: DaEun Choi, Tae Soo Kim, Juho Kim, Kihoon Son
+Authors: Kihoon Son, DaEun Choi, Tae Soo Kim, Juho Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147058)
 
 
 
 ### A Living Framework for Understanding Cooperative Games
-Authors: Pedro Pais, André Rodrigues, Pedro Trindade, Kathrin Gerling, Dmitry Alexandrovsky, Manuel Piçarra, Daniel Reis, João Guerreiro, David Gonçalves, João Godinho, João Morais
+Authors: Pedro Pais, David Gonçalves, Daniel Reis, João Godinho, João Morais, Manuel Piçarra, Pedro Trindade, Dmitry Alexandrovsky, Kathrin Gerling, João Guerreiro, André Rodrigues
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148293)
 
 
 
 ### "I Am So Overwhelmed I Don't Know Where to Begin!" Towards Developing Relationship-Based and Values-Based End-of-Life Data Planning Approaches
-Authors: Jed Brubaker, Dylan Doyle
+Authors: Dylan Doyle, Jed Brubaker
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148141)
 
 
 
 ### Embodied Tentacle: Mapping Design to Control of Non-Analogous Body Parts with the Human Body
-Authors: Shuto Takashita, Michiteru Kitazaki, Hiroto Saito, Ken Arai, Masahiko Inami
+Authors: Shuto Takashita, Ken Arai, Hiroto Saito, Michiteru Kitazaki, Masahiko Inami
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147057)
 
 
 
 ### Imagining Sustainable Energy Communities: Design Narratives of Future Digital Technologies, Sites, and Participation
-Authors: Rachel Smith, Rikke Hagensby Jensen, Victor Jensen, Kristina Laursen
+Authors: Victor Jensen, Kristina Laursen, Rikke Hagensby Jensen, Rachel Smith
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147766)
 
@@ -6150,7 +6150,7 @@ Authors: Rachel Smith, Rikke Hagensby Jensen, Victor Jensen, Kristina Laursen
 
 ## Design Tools A
 ### KOALA Hero Toolkit: A New Approach to Inform Families of Mobile Datafication Risks
-Authors: Blanche Duron, Nigel Shadbolt, Ge Wang, Adrien Zier, Max Van Kleek, Zhilin Zhang, Jun Zhao, Konrad Kollnig
+Authors: Ge Wang, Jun Zhao, Konrad Kollnig, Adrien Zier, Blanche Duron, Zhilin Zhang, Max Van Kleek, Nigel Shadbolt
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148198)
 
@@ -6159,28 +6159,28 @@ Authors: Blanche Duron, Nigel Shadbolt, Ge Wang, Adrien Zier, Max Van Kleek, Zhi
 ### Rapid Prototyping with VideoClipper: In-camera Storyboarding and Video Capture
 HONORABLE_MENTION
 
-Authors: Wendy Mackay, Germán Leiva, Alexandre Battut, Michel Beaudouin-Lafon
+Authors: Wendy Mackay, Alexandre Battut, Germán Leiva, Michel Beaudouin-Lafon
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147150)
 
 
 
 ### Grand challenges in WaterHCI
-Authors: Winslow Burleson, Paul Dietz, Scott Bateman, John Quarles, Florian Mueller, Sarah Jane Pell, Ian Smith, Alexander Bakogeorge, Ali Mazalek, Joe Marshall, Maria Montoya, Steve Mann, Don Samitha Elvitigala, Mathieu Simonnet, Swamy Ananthanarayan, Nathan Semertzidis, Christal Clashing, Leif Oppermann, Kirsten Ellis, Mark Blythe, Chris Hill, Alexander Verni
+Authors: Florian Mueller, Maria Montoya, Sarah Jane Pell, Leif Oppermann, Mark Blythe, Paul Dietz, Joe Marshall, Scott Bateman, Ian Smith, Swamy Ananthanarayan, Ali Mazalek, Alexander Verni, Alexander Bakogeorge, Mathieu Simonnet, Kirsten Ellis, Nathan Semertzidis, Winslow Burleson, John Quarles, Steve Mann, Chris Hill, Christal Clashing, Don Samitha Elvitigala
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147744)
 
 
 
 ### A temporal vocabulary of Design Events for Research through Design
-Authors: Audrey Desjardins, Doenja Oogjes
+Authors: Doenja Oogjes, Audrey Desjardins
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148024)
 
 
 
 ### Strategies of Product Managers: Negotiating Social Values in Digital Product Design
-Authors: Eran Toch, Maayan Roichman, Eilat Lev Ari
+Authors: Eilat Lev Ari, Maayan Roichman, Eran Toch
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147477)
 
@@ -6189,28 +6189,28 @@ Authors: Eran Toch, Maayan Roichman, Eilat Lev Ari
 
 ## Design Tools B
 ### Griffith: A Storyboarding Tool Designed with Japanese Animation Professionals
-Authors: Kenta Hara, Nao Hirasawa, Jun Kato
+Authors: Jun Kato, Kenta Hara, Nao Hirasawa
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147403)
 
 
 
 ### From Concept to Community: Unpacking the Work of Designing Educational and Activist Toolkits
-Authors: Jennifer Turns, Hana Frluckaj, Sreehana Mandava, Ayesha Bhimdiwala, Ahmer Arif, Tamar Wilner, Krishna Akhil Kumar Adavi
+Authors: Tamar Wilner, Krishna Akhil Kumar Adavi, Sreehana Mandava, Ayesha Bhimdiwala, Hana Frluckaj, Jennifer Turns, Ahmer Arif
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147784)
 
 
 
 ### AdapTics: A Toolkit for Creative Design and Integration of Real-Time Adaptive Mid-Air Ultrasound Tactons
-Authors: Yinan Li, Kevin John, Hasti Seifi
+Authors: Kevin John, Yinan Li, Hasti Seifi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148147)
 
 
 
 ### Bitacora: A Toolkit for Supporting  NonProfits to Critically Reflect on Social Media Data Use
-Authors: Christopher Le Dantec, Marisol Wong-Villacres, Benjamín Hernández, Adriana Alvarado Garcia
+Authors: Adriana Alvarado Garcia, Marisol Wong-Villacres, Benjamín Hernández, Christopher Le Dantec
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146866)
 
@@ -6219,7 +6219,7 @@ Authors: Christopher Le Dantec, Marisol Wong-Villacres, Benjamín Hernández, Ad
 ### Design Patterns for Data-Driven News Articles
 HONORABLE_MENTION
 
-Authors: Zezhong Wang, Benjamin Bach, Shan Hao, Larissa Pschetz
+Authors: Shan Hao, Zezhong Wang, Benjamin Bach, Larissa Pschetz
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146944)
 
@@ -6228,14 +6228,14 @@ Authors: Zezhong Wang, Benjamin Bach, Shan Hao, Larissa Pschetz
 
 ## Drivers and Pedestrians A
 ### Inter-regional Lens on the Privacy Preferences of Drivers for ITS and Future VANETs
-Authors: Lejla Islami, Simone Fischer-Hübner, Agnieszka Kitkowska
+Authors: Lejla Islami, Agnieszka Kitkowska, Simone Fischer-Hübner
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146934)
 
 
 
 ### AdaptiveVoice: Cognitively Adaptive Voice Interface for Driving Assistance
-Authors: Yukang Yan, Songming Ping, Hai-Ning Liang, Xuhai "Orson" Xu, Shaoyue Wen, Jialin Wang
+Authors: Shaoyue Wen, Songming Ping, Jialin Wang, Hai-Ning Liang, Xuhai "Orson" Xu, Yukang Yan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147590)
 
@@ -6244,7 +6244,7 @@ Authors: Yukang Yan, Songming Ping, Hai-Ning Liang, Xuhai "Orson" Xu, Shaoyue We
 ### Portobello: Extending Driving Simulation from the Lab to the Road
 HONORABLE_MENTION
 
-Authors: Mark Colley, Wendy Ju, Stacey Li, David Goedicke, Gyanendra Sharma, Fanjun Bu
+Authors: Fanjun Bu, Stacey Li, David Goedicke, Mark Colley, Gyanendra Sharma, Wendy Ju
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146873)
 
@@ -6253,14 +6253,14 @@ Authors: Mark Colley, Wendy Ju, Stacey Li, David Goedicke, Gyanendra Sharma, Fan
 ### SYNC-VR: Synchronizing Your Senses to Conquer Motion Sickness for Enriching In-Vehicle Virtual Reality
 HONORABLE_MENTION
 
-Authors: Aya Ataya, SeungJun Kim, Eunsol An, Ahmed Elsharkawy, Dohyeon Yeo, Seokhyun Hwang
+Authors: Ahmed Elsharkawy, Aya Ataya, Dohyeon Yeo, Eunsol An, Seokhyun Hwang, SeungJun Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147287)
 
 
 
 ### Can You Hazard a Guess?: Evaluating the Effect of Augmented Reality Cues on Driver Hazard Prediction
-Authors: Frank Pollick, Thomas Goodge, Stephen Brewster
+Authors: Thomas Goodge, Frank Pollick, Stephen Brewster
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146912)
 
@@ -6276,21 +6276,21 @@ Authors: Mark Colley, Omid Rajabi, Enrico Rukzio
 
 
 ### Understanding Human-machine Cooperation in Game-theoretical Driving Scenarios amid Mixed Traffic
-Authors: Morgan Frank, Edmond Awad, Yutong Zhang, Na Du, Peng Liu
+Authors: Yutong Zhang, Edmond Awad, Morgan Frank, Peng Liu, Na Du
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147435)
 
 
 
 ### An Eye Gaze Heatmap Analysis of Uncertainty Head-Up Display Designs for Conditional Automated Driving
-Authors: Michael Gerber, Daniel Johnson, Andry Rakotonirainy, Jonny Kuo, Mike Lenné, Christian Janssen, Ronald Schroeter
+Authors: Michael Gerber, Ronald Schroeter, Daniel Johnson, Christian Janssen, Andry Rakotonirainy, Jonny Kuo, Mike Lenné
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147765)
 
 
 
 ### From Slow-Mo to Ludicrous Speed: Comfortably Manipulating the Perception of Linear In-Car VR Motion Through Vehicular Translational Gain and Attenuation
-Authors: Katharina Pöhlmann, Graham Wilson, Mark McGill, Stephen Brewster, Gang Li
+Authors: Katharina Pöhlmann, Graham Wilson, Gang Li, Mark McGill, Stephen Brewster
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148305)
 
@@ -6306,21 +6306,21 @@ Authors: Min Zhang, Arosha Bandara
 
 ## Drone Interaction
 ### Swarm Body: Embodied Swarm Robots
-Authors: Mai Nishimura, So Kuroki, Sosuke Ichihashi, Takefumi Hiraki, Shigeo Yoshida, Kazumi Kasaura, Kazutoshi Tanaka
+Authors: Sosuke Ichihashi, So Kuroki, Mai Nishimura, Kazumi Kasaura, Takefumi Hiraki, Kazutoshi Tanaka, Shigeo Yoshida
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146948)
 
 
 
 ### Exploring Intended Functions of Indoor Flying Robots Interacting With Humans in Proximity
-Authors: Xiaowei Chen, Ziming Wang, Shiwei Yang, Morten Fjeld, Yiqian Wu, Björn Rohles
+Authors: Ziming Wang, Yiqian Wu, Shiwei Yang, Xiaowei Chen, Björn Rohles, Morten Fjeld
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147793)
 
 
 
 ### Firefighters' Perceptions on Collaboration and Interaction with Autonomous Drones: Results of a Field Trial
-Authors: Dzmitry Katsiuba, Moyi Li, Mateusz Dolata, Gerhard Schwabe
+Authors: Moyi Li, Dzmitry Katsiuba, Mateusz Dolata, Gerhard Schwabe
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147198)
 
@@ -6329,14 +6329,14 @@ Authors: Dzmitry Katsiuba, Moyi Li, Mateusz Dolata, Gerhard Schwabe
 ### HIFuzz: Human Interaction Fuzzing for Small Unmanned Aerial Vehicles
 HONORABLE_MENTION
 
-Authors: Salil Purandare, Theodore Chambers, Ankit Agrawal, Michael Vierhauser, Myra Cohen, Michael Murphy, Jason Matthew Brauer, Jane Cleland-Huang
+Authors: Theodore Chambers, Michael Vierhauser, Ankit Agrawal, Michael Murphy, Jason Matthew Brauer, Salil Purandare, Myra Cohen, Jane Cleland-Huang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147755)
 
 
 
 ### Dances with Drones: Spatial Matching and Perceived Agency in Improvised Movements with Drone and Human Partners
-Authors: Pakpong Chirarattananon, Kaixu Dong, Zhiyuan Zhang, Xiaoyu CHANG, RAY LC
+Authors: Kaixu Dong, Zhiyuan Zhang, Xiaoyu CHANG, Pakpong Chirarattananon, RAY LC
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147482)
 
@@ -6345,35 +6345,35 @@ Authors: Pakpong Chirarattananon, Kaixu Dong, Zhiyuan Zhang, Xiaoyu CHANG, RAY L
 
 ## Fabrication and Tangible Interaction A
 ### MoiréWidgets: High-Precision, Passive Tangible Interfaces via Moiré Effect
-Authors: Mustafa Doga Dogan, Alexa Siu, Chang Xiao, Eunyee Koh, Daniel Campos Zamora
+Authors: Daniel Campos Zamora, Mustafa Doga Dogan, Alexa Siu, Eunyee Koh, Chang Xiao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147630)
 
 
 
 ### DungeonMaker: Embedding Tangible Creation and Destruction in Hybrid Board Games through Personal Fabrication Technology
-Authors: Anja Schikorr, Omid Rajabi, Ali Askari, Julian Frommel, Tobias Wagner, Evgeny Stemasov, Enrico Rukzio, Jessica Janek, Jan Gugenheimer
+Authors: Evgeny Stemasov, Tobias Wagner, Ali Askari, Jessica Janek, Omid Rajabi, Anja Schikorr, Julian Frommel, Jan Gugenheimer, Enrico Rukzio
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146888)
 
 
 
 ### Squishy, Yet Satisfying: Exploring Deformable Shapes' Cross-Modal Correspondences with Colours and Emotions
-Authors: Michael Proulx, Kim Sauvé, Crescent Jicol, Cameron Steer, Omosunmisola Lawal, Jason Alexander, Anika Jain
+Authors: Cameron Steer, Kim Sauvé, Anika Jain, Omosunmisola Lawal, Michael Proulx, Crescent Jicol, Jason Alexander
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148261)
 
 
 
 ### PaperTouch: Tangible Interfaces through Paper Craft and Touchscreen Devices
-Authors: Zhen Zhou Yong, Clement Zheng, Bo Han, Ching Chiuan Yen, Qian Ye
+Authors: Qian Ye, Zhen Zhou Yong, Bo Han, Ching Chiuan Yen, Clement Zheng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146860)
 
 
 
 ### WooDowel: Electrode Isolation for Electromagnetic Shielding in Triboelectric Plywood Sensors
-Authors: Xing-Dong Yang, Yonghao Shi, Te-Yen Wu, Yuning Su, Chenzheng Li
+Authors: Yonghao Shi, Chenzheng Li, Yuning Su, Xing-Dong Yang, Te-Yen Wu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147211)
 
@@ -6382,21 +6382,21 @@ Authors: Xing-Dong Yang, Yonghao Shi, Te-Yen Wu, Yuning Su, Chenzheng Li
 
 ## Fabrication and Tangible Interaction B
 ### Tandem: Reproducible Digital Fabrication Workflows as Multimodal Programs
-Authors: Jasper Tran O'Leary, Nadya Peek, Octi Zhang, Thrisha Ramesh
+Authors: Jasper Tran O'Leary, Thrisha Ramesh, Octi Zhang, Nadya Peek
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146800)
 
 
 
 ### ecSkin: Low-Cost Fabrication of Epidermal Electrochemical Sensors for Detecting Biomarkers in Sweat
-Authors: Mohammad Janghorban, Aditya Shekhar Nittala, Richa Pandey, Vrahant Nagoria, Chang Lee, Sai Nandan Panigrahy
+Authors: Sai Nandan Panigrahy, Chang Lee, Vrahant Nagoria, Mohammad Janghorban, Richa Pandey, Aditya Shekhar Nittala
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147205)
 
 
 
 ### VabricBeads : Variable Stiffness Structured Fabric using Artificial Muscle in Woven Beads
-Authors: Hideki Koike, Shio Miyafuji, Nobuhiro Takahashi, Jefferson Pardomuan
+Authors: Jefferson Pardomuan, Shio Miyafuji, Nobuhiro Takahashi, Hideki Koike
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147426)
 
@@ -6405,14 +6405,14 @@ Authors: Hideki Koike, Shio Miyafuji, Nobuhiro Takahashi, Jefferson Pardomuan
 ### DisplayFab: The State of the Art and a Roadmap in the Personal Fabrication of Free-Form Displays Using Active Materials and Additive Manufacturing.
 HONORABLE_MENTION
 
-Authors: Mike Fraser, Ollie Hanton, Anne Roudaut
+Authors: Ollie Hanton, Mike Fraser, Anne Roudaut
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147502)
 
 
 
 ### pARam: Leveraging Parametric Design in Extended Reality to Support the Personalization of Artifacts for Personal Fabrication
-Authors: Simon Demharter, Max Rädler, Evgeny Stemasov, Enrico Rukzio, Jan Gugenheimer
+Authors: Evgeny Stemasov, Simon Demharter, Max Rädler, Jan Gugenheimer, Enrico Rukzio
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147551)
 
@@ -6421,35 +6421,35 @@ Authors: Simon Demharter, Max Rädler, Evgeny Stemasov, Enrico Rukzio, Jan Gugen
 
 ## Game Design A
 ### Not All the Same: Understanding and Informing Similarity Estimation in Tile-Based Video Games
-Authors: Christian Guckelsberger, Vanessa Volz, Laurissa Tokarchuk, Sebastian Berns, Sam Snodgrass
+Authors: Sebastian Berns, Vanessa Volz, Laurissa Tokarchuk, Sam Snodgrass, Christian Guckelsberger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147878)
 
 
 
 ### Find the Bot!: Gamifying Facial Emotion Recognition for Both Human Training and Machine Learning Data Collection
-Authors: John Chung, Jean Song, Ahyeon Shin, Yeonsun Yang, Huidam Woo, Nayoung Kim
+Authors: Yeonsun Yang, Ahyeon Shin, Nayoung Kim, Huidam Woo, John Chung, Jean Song
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148164)
 
 
 
 ### Cheat Codes as External Support for Players Navigating Fear of Failure and Self-Regulation Challenges In Digital Games
-Authors: Susanne Poeller, Nicola Baumann, Martin Dechant, Karla Waldenmeier, Regan Mandryk
+Authors: Karla Waldenmeier, Susanne Poeller, Martin Dechant, Nicola Baumann, Regan Mandryk
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147333)
 
 
 
 ### How does Juicy Game Feedback Motivate? Testing Curiosity, Competence, and Effectance
-Authors: Kathrin Gerling, Sebastian Deterding, Dominic Kao, Nick Ballou, Heiko Breitsohl
+Authors: Dominic Kao, Nick Ballou, Kathrin Gerling, Heiko Breitsohl, Sebastian Deterding
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148171)
 
 
 
 ### "Ah! I see'' - Facilitating Process Reflection in Gameplay through a Novel Spatio-Temporal Visualization System
-Authors: Sai Siddartha Maram, Jennifer Villareale, Erica Kleinman, Jichen Zhu, Magy Seif El-Nasr
+Authors: Sai Siddartha Maram, Erica Kleinman, Jennifer Villareale, Jichen Zhu, Magy Seif El-Nasr
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147359)
 
@@ -6458,35 +6458,35 @@ Authors: Sai Siddartha Maram, Jennifer Villareale, Erica Kleinman, Jichen Zhu, M
 
 ## Game Design B
 ### A Game of Love for Women: Social Support in Otome Game Mr. Love: Queen’s Choice in China
-Authors: Jingyi Guo, Hiu Man Ho, Ran Tang, Qinyuan Lei, Zilu Tang, Han Zhou
+Authors: Qinyuan Lei, Ran Tang, Hiu Man Ho, Han Zhou, Jingyi Guo, Zilu Tang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147914)
 
 
 
 ### Independent Validation of the Player Experience Inventory: Findings from a Large Set of Video Game Players
-Authors: Klaus Opwis, Sebastian Perrig, Lena Aeschbach, Nicolas Scharowski, Florian Brühlmann, Nick von Felten
+Authors: Sebastian Perrig, Nicolas Scharowski, Florian Brühlmann, Nick von Felten, Klaus Opwis, Lena Aeschbach
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147606)
 
 
 
 ### Effects of a Gaze-Based 2D Platform Game on User Enjoyment, Perceived Competence, and Digital Eye Strain
-Authors: Mark Colley, Pascal Jansen, Julian Frommel, Max Rädler, Beate Wanner, Teresa Hirzle, Enrico Rukzio, Marcel Rötzer
+Authors: Mark Colley, Beate Wanner, Max Rädler, Marcel Rötzer, Julian Frommel, Teresa Hirzle, Pascal Jansen, Enrico Rukzio
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148322)
 
 
 
 ### Damage Optimization in Video Games: A Player-Driven Co-Creative Approach
-Authors: Erica Kleinman, Manik Charan, Johannes Pfau, Magy Seif El-Nasr
+Authors: Johannes Pfau, Manik Charan, Erica Kleinman, Magy Seif El-Nasr
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147749)
 
 
 
 ### The Trick is to Stay Behind?: Defining and Exploring the Design Space of Player Balancing Mechanics
-Authors: Pedro Pais, André Rodrigues, Daniel Barros, Tiago Guerreiro, João Guerreiro, David Gonçalves
+Authors: David Gonçalves, Daniel Barros, Pedro Pais, João Guerreiro, Tiago Guerreiro, André Rodrigues
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147203)
 
@@ -6495,7 +6495,7 @@ Authors: Pedro Pais, André Rodrigues, Daniel Barros, Tiago Guerreiro, João Gue
 
 ## Generative AI for Design
 ### The Effects of Generative AI on Design Fixation and Divergent Thinking
-Authors: Ryan Kelly, Saumya Pareek, Samangi Wadinambiarachchi, Eduardo Velloso, Qiushi Zhou
+Authors: Samangi Wadinambiarachchi, Ryan Kelly, Saumya Pareek, Qiushi Zhou, Eduardo Velloso
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147562)
 
@@ -6504,7 +6504,7 @@ Abstract: Generative AI systems have been heralded as tools for augmenting human
 
 
 ### Beyond Numbers: Creating Analogies to Enhance Data Comprehension and Communication with Generative AI
-Authors: Zhida Sun, Jiyao Zhang, Wei Shuai, Nan Cao, Qing Chen
+Authors: Qing Chen, Wei Shuai, Jiyao Zhang, Zhida Sun, Nan Cao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146906)
 
@@ -6513,19 +6513,19 @@ Abstract: Unfamiliar measurements usually hinder readers from grasping the scale
 
 
 ### RoomDreaming: Generative-AI Approach to Facilitating Iterative, Preliminary Interior Design Exploration
-Authors: Alwena Lin, Ching-Yi Tsai, Serena Chen, Mike Chen, Wei-Chung Su, Marta Misztal, Yu Chen, Katherine Cheng, Shun-Yu Wang
+Authors: Shun-Yu Wang, Wei-Chung Su, Serena Chen, Marta Misztal, Katherine Cheng, Alwena Lin, Yu Chen, Ching-Yi Tsai, Mike Chen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147375)
 
-Abstract: Interior design aims to create aesthetically pleasing and functional environments within an architectural space. For a simple room, the preliminary design exploration currently takes multiple meetings and days of work for interior designers to incorporate homeowners' personal preferences through layout, furnishings, form, colors, and materials.
-We present RoomDreaming, a generative AI-based approach designed to facilitate preliminary interior design exploration. It empowers owners and designers to rapidly and efficiently iterate through a broad range of AI-generated, photo-realistic design alternatives, each uniquely tailored to fit actual space layouts and individual design preferences.
-We conducted a series of formative and summative studies with a total of 18 homeowners and 20 interior designers to help design, improve, and evaluate RoomDreaming.
+Abstract: Interior design aims to create aesthetically pleasing and functional environments within an architectural space. For a simple room, the preliminary design exploration currently takes multiple meetings and days of work for interior designers to incorporate homeowners' personal preferences through layout, furnishings, form, colors, and materials.
+We present RoomDreaming, a generative AI-based approach designed to facilitate preliminary interior design exploration. It empowers owners and designers to rapidly and efficiently iterate through a broad range of AI-generated, photo-realistic design alternatives, each uniquely tailored to fit actual space layouts and individual design preferences.
+We conducted a series of formative and summative studies with a total of 18 homeowners and 20 interior designers to help design, improve, and evaluate RoomDreaming.
 Owners reported that RoomDreaming effectively increased the breadth and depth of design exploration with higher efficiency and satisfaction. Designers reported that one hour of collaborative designing with RoomDreaming yielded results comparable to several days of traditional owner-designer meetings, plus days to weeks worth of designer work to develop and refine designs.
 
 
 
 ### Design Principles for Generative AI Applications
-Authors: Justin Weisz, Gabriela Hoefer, Michael Muller, Rachel Miles, Werner Geyer, Jessica He
+Authors: Justin Weisz, Jessica He, Michael Muller, Gabriela Hoefer, Rachel Miles, Werner Geyer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147832)
 
@@ -6534,11 +6534,11 @@ Abstract: Generative AI applications present unique design challenges. As genera
 
 
 ### User Experience Design Professionals’ Perceptions of Generative Artificial Intelligence
-Authors: Jie Li, Hancheng Cao, Ruihao Zhu, Abdallah El Ali, Youyang Hou, Laura Lin
+Authors: Jie Li, Hancheng Cao, Laura Lin, Youyang Hou, Ruihao Zhu, Abdallah El Ali
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148101)
 
-Abstract: Among creative professionals, Generative Artificial Intelligence (GenAI) has sparked excitement over its capabilities and fear over unanticipated consequences. How does GenAI impact User Experience Design (UXD) practice, and are fears warranted? We interviewed 20 UX Designers, with diverse experience and across companies (startups to large enterprises). We probed them to characterize their practices, and sample their attitudes, concerns, and expectations. We found that experienced designers are confident in their originality, creativity, and empathic skills, and find GenAI’s role as assistive. They emphasized the unique human factors of “enjoyment” and “agency”, where humans remain the arbiters of “AI alignment”. However, skill degradation, job replacement, and creativity exhaustion can adversely impact junior designers. We discuss implications for human-GenAI collaboration, specifically copyright and ownership, human creativity and agency, and AI literacy and access. Through the lens of responsible and participatory AI, we contribute a deeper understanding of GenAI fears and opportunities for UXD.
+Abstract: Among creative professionals, Generative Artificial Intelligence (GenAI) has sparked excitement over its capabilities and fear over unanticipated consequences. How does GenAI impact User Experience Design (UXD) practice, and are fears warranted? We interviewed 20 UX Designers, with diverse experience and across companies (startups to large enterprises). We probed them to characterize their practices, and sample their attitudes, concerns, and expectations. We found that experienced designers are confident in their originality, creativity, and empathic skills, and find GenAI’s role as assistive. They emphasized the unique human factors of “enjoyment” and “agency”, where humans remain the arbiters of “AI alignment”. However, skill degradation, job replacement, and creativity exhaustion can adversely impact junior designers. We discuss implications for human-GenAI collaboration, specifically copyright and ownership, human creativity and agency, and AI literacy and access. Through the lens of responsible and participatory AI, we contribute a deeper understanding of GenAI fears and opportunities for UXD.
 
 
 
@@ -6548,21 +6548,21 @@ Abstract: Among creative professionals, Generative Artificial Intelligence (GenA
 ### Touching the Moon: Leveraging Passive Haptics, Embodiment and Presence for Operational Assessments in Virtual Reality
 BEST_PAPER
 
-Authors: Nikolai Callus, Aidan Cowley, Olivier Christmann, André Zenner, Tommy Nilsson, Geoffrey Gorisse, Enrico Guerra, Florian Dufresne, Leonie Bensch
+Authors: Florian Dufresne, Tommy Nilsson, Geoffrey Gorisse, Enrico Guerra, André Zenner, Olivier Christmann, Leonie Bensch, Nikolai Callus, Aidan Cowley
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147838)
 
 
 
 ### A Meta-Bayesian Approach for Rapid Online Parametric Optimization for Wrist-based Interactions
-Authors: Yi-Chi Liao, Alec Pierce, Ruta Desai, Krista Taylor, Tanya Jonker, Aakar Gupta, Hrvoje Benko
+Authors: Yi-Chi Liao, Ruta Desai, Alec Pierce, Krista Taylor, Hrvoje Benko, Tanya Jonker, Aakar Gupta
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146812)
 
 
 
 ### vARitouch: Back of the Finger Device for Adding Variable Compliance to Rigid Objects
-Authors: Audrey Girouard, Valentin Martinez-Missir, Gabriela Vega, Karen Cochrane, Dennis Wittchen, Nihar Sabnis, Paul Strohmeier
+Authors: Gabriela Vega, Valentin Martinez-Missir, Dennis Wittchen, Nihar Sabnis, Audrey Girouard, Karen Cochrane, Paul Strohmeier
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147275)
 
@@ -6571,7 +6571,7 @@ Authors: Audrey Girouard, Valentin Martinez-Missir, Gabriela Vega, Karen Cochran
 ### Haptic Source-effector: Full-body Haptics via Non-invasive Brain Stimulation
 HONORABLE_MENTION
 
-Authors: Jacob Serfaty, Pedro Lopes, Yudai Tanaka
+Authors: Yudai Tanaka, Jacob Serfaty, Pedro Lopes
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147704)
 
@@ -6580,7 +6580,7 @@ Authors: Jacob Serfaty, Pedro Lopes, Yudai Tanaka
 ### MouseRing: Always-available Touchpad Interaction with IMU Rings
 HONORABLE_MENTION
 
-Authors: Xutong Wang, Yuanchun Shi, Xiyuan Shen, Chen Liang, Chun Yu, Haozhan Chen
+Authors: Xiyuan Shen, Chun Yu, Xutong Wang, Chen Liang, Haozhan Chen, Yuanchun Shi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148332)
 
@@ -6589,14 +6589,14 @@ Authors: Xutong Wang, Yuanchun Shi, Xiyuan Shen, Chen Liang, Chun Yu, Haozhan Ch
 
 ## Haptics and Embodied Interaction B
 ### Thermal Masking: When the Illusion Takes Over the Real
-Authors: Hyunjae Gil, Yatharth Singhal, Jin Ryong Kim, Haokun Wang
+Authors: Haokun Wang, Yatharth Singhal, Hyunjae Gil, Jin Ryong Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147304)
 
 
 
 ### Haptic Permeability: Adding Holes to Tactile Devices Improves Dexterity
-Authors: Shan-Yuan Teng, Pedro Lopes, Aryan Gupta
+Authors: Shan-Yuan Teng, Aryan Gupta, Pedro Lopes
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146851)
 
@@ -6605,7 +6605,7 @@ Authors: Shan-Yuan Teng, Pedro Lopes, Aryan Gupta
 ### Don’t Look Now: Audio/Haptic Guidance for 3D Scanning of Landmarks
 HONORABLE_MENTION
 
-Authors: Gabriel Brostow, Liv Urwin, Jessica Van Brummelen, Mohamed Sayed, Oliver Johnston
+Authors: Jessica Van Brummelen, Liv Urwin, Oliver Johnston, Mohamed Sayed, Gabriel Brostow
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147615)
 
@@ -6614,7 +6614,7 @@ Authors: Gabriel Brostow, Liv Urwin, Jessica Van Brummelen, Mohamed Sayed, Olive
 ### ErgoPulse: Electrifying Your Lower Body With Biomechanical Simulation-based Electrical Muscle Stimulation Haptic System in Virtual Reality
 HONORABLE_MENTION
 
-Authors: Minwoo Seong, SeungJun Kim, Seongjun Kang, Jeongseok Oh, Ahmed Elsharkawy, Seokhyun Hwang
+Authors: Seokhyun Hwang, Jeongseok Oh, Seongjun Kang, Minwoo Seong, Ahmed Elsharkawy, SeungJun Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147568)
 
@@ -6641,7 +6641,7 @@ Authors: Gifty Ayoka, Giulia Barbareschi, Richard Cave, Catherine Holloway
 
 
 ### Hearing Community Voices in HCI4D: Establishing Safe Places to Co-Create Counter-Collective Narratives with Women Farmers in Bangladesh
-Authors: Delvin Varghese, Patrick Olivier, Gillian Oliver, Jessica Watterson, Stephen Lindsay, Syed Ishtiaque Ahmed, Ms Mallika Saha, Tom Bartindale, Manika Saha
+Authors: Manika Saha, Stephen Lindsay, Jessica Watterson, Tom Bartindale, Delvin Varghese, Ms Mallika Saha, Gillian Oliver, Syed Ishtiaque Ahmed, Patrick Olivier
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147578)
 
@@ -6655,7 +6655,7 @@ Authors: Ghadeer Awwad, Kentaro Toyama
 
 
 ### "Unrest and trauma stays with you!": Navigating mental health and professional service-seeking in Kashmir
-Authors: Asra Wani, Ishika Joshi, Pushpendra Singh, Nadia Nahvi
+Authors: Asra Wani, Ishika Joshi, Nadia Nahvi, Pushpendra Singh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147671)
 
@@ -6680,14 +6680,14 @@ Authors: Sukhnidh Kaur, Manohar Swaminathan, Kalika Bali, Aditya Vashistha
 
 
 ### Expanding Concepts of Non-Consensual Image-Disclosure Abuse: A Study of NCIDA in Pakistan
-Authors: Mustafa Naseem, Amna Batool, Kentaro Toyama
+Authors: Amna Batool, Mustafa Naseem, Kentaro Toyama
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146885)
 
 
 
 ### Viewer2Explorer: Designing a Map Interface for Spatial Navigation in Linear 360 Museum Exhibition Video
-Authors: HyeonBeom Yi, Chaeeun Lee, Woohun Lee, Jinwook Kim
+Authors: Chaeeun Lee, Jinwook Kim, HyeonBeom Yi, Woohun Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147613)
 
@@ -6703,7 +6703,7 @@ Authors: Ian Solano-Kamaiko, Dibyendu Mishra, Nicola Dell, Aditya Vashistha
 
 ## Healthy Aging
 ### Redefining Activity Tracking Through Older Adults' Reflections on Meaningful Activities
-Authors: Bongshin Lee, Margaret Danilovich, Eun Kyoung Choe, Mengying Li, David E Conroy, Amanda Lazar, Yiwen Wang, Young-Ho Kim, Hernisa Kacorri
+Authors: Yiwen Wang, Mengying Li, Young-Ho Kim, Bongshin Lee, Margaret Danilovich, Amanda Lazar, David E Conroy, Hernisa Kacorri, Eun Kyoung Choe
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148041)
 
@@ -6724,14 +6724,14 @@ Authors: Togtokhtur Batbold, Alessandro Soro, Ronald Schroeter
 
 
 ### Navigating the Maze of Routine Disruption: Exploring How Older Adults Living Alone Navigate Barriers to Establishing and Maintaining Physical Activity Habits
-Authors: Karyn Moffatt, Muhe Yang
+Authors: Muhe Yang, Karyn Moffatt
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147390)
 
 
 
 ### LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults
-Authors: Mingming Fan, Xiaoying Wei, Zhen Song, Haiyan Jiang, Qiuxin Du, Dongdong Weng
+Authors: Qiuxin Du, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147594)
 
@@ -6740,7 +6740,7 @@ Authors: Mingming Fan, Xiaoying Wei, Zhen Song, Haiyan Jiang, Qiuxin Du, Dongdon
 
 ## Interaction and Input in Immersive Environments
 ### Spatial Gaze Markers: Supporting Effective Task Switching in Augmented Reality
-Authors: Hans Gellersen, Jens Emil Grønbæk, Tobias Langlotz, Mathias Lystbæk, Ken Pfeuffer
+Authors: Mathias Lystbæk, Ken Pfeuffer, Tobias Langlotz, Jens Emil Grønbæk, Hans Gellersen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147964)
 
@@ -6749,7 +6749,7 @@ Abstract: Task switching can occur frequently in daily routines with physical ac
 
 
 ### The RayHand Navigation: A Virtual Navigation Method with Relative Position between Hand and Gaze-Ray
-Authors: Gun Lee, Sei Kang, Soo-Hyung Kim, Hyung-Jeong Yang, Seungwon Kim, Jaejoon Jeong
+Authors: Sei Kang, Jaejoon Jeong, Gun Lee, Soo-Hyung Kim, Hyung-Jeong Yang, Seungwon Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148284)
 
@@ -6762,13 +6762,13 @@ Authors: Kim Kargut, Carl Gutwin, Andy Cockburn
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147581)
 
-Abstract: Virtual Reality systems are increasingly proposed as a platform for everyday interactive software. Many applications are dependent on actions such as navigation and selection, but it is not clear how well immersive environments support these basic activities. Previous studies have suggested advantages for spatial learning in VR, so we carried out a study that investigated two aspects of immersion on spatial memory and selection: the degree to which the user is immersed in the data, and whether the system uses immersive input and output. The study showed that more-immersive conditions had substantially worse selection performance, and did not improve spatial learning. However, most participants believed that the immersive conditions were better for learning object locations, and most people preferred the immersive layout and the HMD. Our study suggests that designers should be cautious about assuming that everyday software applications will benefit from being deployed in an immersive VR environment.
+Abstract: Virtual Reality systems are increasingly proposed as a platform for everyday interactive software. Many applications are dependent on actions such as navigation and selection, but it is not clear how well immersive environments support these basic activities. Previous studies have suggested advantages for spatial learning in VR, so we carried out a study that investigated two aspects of immersion on spatial memory and selection: the degree to which the user is immersed in the data, and whether the system uses immersive input and output. The study showed that more-immersive conditions had substantially worse selection performance, and did not improve spatial learning. However, most participants believed that the immersive conditions were better for learning object locations, and most people preferred the immersive layout and the HMD. Our study suggests that designers should be cautious about assuming that everyday software applications will benefit from being deployed in an immersive VR environment.
 
 
 
 
 ### Rowing Beyond: Investigating Steering Methods for Rowing-based Locomotion in Virtual Environments
-Authors: Gerrit Meixner, Andrii Matviienko, Martin Hedlund, Cristian Bogdan
+Authors: Martin Hedlund, Cristian Bogdan, Gerrit Meixner, Andrii Matviienko
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147740)
 
@@ -6777,7 +6777,7 @@ Abstract: Rowing has great potential in Virtual Reality (VR) exergames as it req
 
 
 ### Sicknificant Steps: A Systematic Review and Meta-analysis of VR Sickness in Walking-based Locomotion for Virtual Reality
-Authors: Niels Christian Nilsson, Joanna Bergström, Teresa Hirzle, Thomas van Gemert
+Authors: Thomas van Gemert, Niels Christian Nilsson, Teresa Hirzle, Joanna Bergström
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147138)
 
@@ -6788,19 +6788,19 @@ Abstract: Walking-based locomotion techniques in virtual reality (VR) can use re
 
 ## Reality and Un-Reality in Immersive Interactions
 ### The Effects of False but Stable Heart Rate Feedback on Cybersickness and User Experience in Virtual Reality
-Authors: Hanseob Kim, DongYun Joo, Gerard Kim
+Authors: DongYun Joo, Hanseob Kim, Gerard Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148245)
 
-Abstract: Virtual reality (VR) offers a compelling and immersive experience; however, cybersickness (or VR sickness) stands as a significant obstacle to its widespread adoption. 
-When a user experiences cybersickness, one's physical condition deteriorates with various symptoms, often accompanied by an increased and destabilized heart rate and even altered perception of one's state. In this paper, we propose to provide ``False but Stable Heart rate (FSH)'' feedback through auditory and vibrotactile stimulation to reversely induce a stably perceived heart rate and, thereby, alleviate cybersickness while navigating a sickness-inducing VR content. 
-The validation of the human experiment confirmed the intended effect in a statistically significant way. Furthermore, it was found that the lesser compatible FSH feedback had a more substantial sickness reduction effect but distracted the user with the reduced immersive experience. 
+Abstract: Virtual reality (VR) offers a compelling and immersive experience; however, cybersickness (or VR sickness) stands as a significant obstacle to its widespread adoption. 
+When a user experiences cybersickness, one's physical condition deteriorates with various symptoms, often accompanied by an increased and destabilized heart rate and even altered perception of one's state. In this paper, we propose to provide ``False but Stable Heart rate (FSH)'' feedback through auditory and vibrotactile stimulation to reversely induce a stably perceived heart rate and, thereby, alleviate cybersickness while navigating a sickness-inducing VR content. 
+The validation of the human experiment confirmed the intended effect in a statistically significant way. Furthermore, it was found that the lesser compatible FSH feedback had a more substantial sickness reduction effect but distracted the user with the reduced immersive experience. 
 The compatible FSH feedback still showed moderate sickness reduction with the maintained sense of presence and immersion. 
 
 
 
 ### Was it Real or Virtual? Confirming the Occurrence and Explaining Causes of Memory Source Confusion between Reality and Virtual Reality
-Authors: Julian Frommel, Elise Bonnail, Eric Lecolinet, Samuel Huron, Jan Gugenheimer
+Authors: Elise Bonnail, Julian Frommel, Eric Lecolinet, Samuel Huron, Jan Gugenheimer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147768)
 
@@ -6809,7 +6809,7 @@ Abstract: Source confusion occurs when individuals attribute a memory to the wro
 
 
 ### Socially Late, Virtually Present: The Effects of Transforming Asynchronous Social Interactions in Virtual Reality
-Authors: Jeremy Bailenson, Anna Queiroz, Mark Miller, Portia Wang
+Authors: Portia Wang, Mark Miller, Anna Queiroz, Jeremy Bailenson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148136)
 
@@ -6818,7 +6818,7 @@ Abstract: Social Virtual Reality (VR) typically entails users interacting in rea
 
 
 ### “I’d rather drink in VRChat”: Understanding Drinking in Social Virtual Reality
-Authors: Qijia Chen, Giulio Jacucci, Andrea Bellucci
+Authors: Qijia Chen, Andrea Bellucci, Giulio Jacucci
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147852)
 
@@ -6827,7 +6827,7 @@ Abstract: Drinking in social VR has become popular, yet little is known about ho
 
 
 ### Using Feedforward to Reveal Interaction Possibilities in Virtual Reality
-Authors: Kasper Hornbæk, Andreea Muresan, Jess McIntosh
+Authors: Andreea Muresan, Jess McIntosh, Kasper Hornbæk
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150634)
 
@@ -6838,7 +6838,7 @@ Abstract: In virtual reality (VR), interactions may fail when users encounter ne
 
 ## Large Language Models
 ### Model Compression in Practice: Lessons Learned from Practitioners Creating On-device Machine Learning Experiences
-Authors: Donghao Ren, Fred Hohman, Dominik Moritz, Mary Beth Kery
+Authors: Fred Hohman, Mary Beth Kery, Donghao Ren, Dominik Moritz
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147982)
 
@@ -6849,7 +6849,7 @@ Abstract: On-device machine learning (ML) promises to improve the privacy, respo
 ### Talaria: Interactively Optimizing Machine Learning Models for Efficient Inference
 HONORABLE_MENTION
 
-Authors: Zhile Ren, Cecile Foret, Fred Hohman, Chaoqun Wang, Jeffrey Bigham, Jochen Görtler, Dominik Moritz, Xiaoyi Zhang, Qi Shan, Jinmook Lee
+Authors: Fred Hohman, Chaoqun Wang, Jinmook Lee, Jochen Görtler, Dominik Moritz, Jeffrey Bigham, Zhile Ren, Cecile Foret, Qi Shan, Xiaoyi Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146741)
 
@@ -6858,7 +6858,7 @@ Abstract: On-device machine learning (ML) moves computation from the cloud to pe
 
 
 ### Luminate: Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation
-Authors: Bryan Min, Toby Li, Haijun Xia, Sangho Suh, Meng Chen
+Authors: Sangho Suh, Meng Chen, Bryan Min, Toby Li, Haijun Xia
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147623)
 
@@ -6869,7 +6869,7 @@ Abstract: Thanks to their generative capabilities, large language models (LLMs) 
 ### Narrating Fitness: Leveraging Large Language Models for Reflective Fitness Tracker Data Interpretation
 HONORABLE_MENTION
 
-Authors: Stanislas Henry, Jasmin Niess, Paweł W. Woźniak, Tim Johansson, Konstantin Strömel
+Authors: Konstantin Strömel, Stanislas Henry, Tim Johansson, Jasmin Niess, Paweł W. Woźniak
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147608)
 
@@ -6878,7 +6878,7 @@ Abstract: While fitness trackers generate and present quantitative data, past re
 
 
 ### RELIC: Investigating Large Language Model Responses using Self-Consistency
-Authors: Mennatallah El-Assady, Hendrik Strobelt, Simran Arora, Vilém Zouhar, Mrinmaya Sachan, Furui Cheng
+Authors: Furui Cheng, Vilém Zouhar, Simran Arora, Mrinmaya Sachan, Hendrik Strobelt, Mennatallah El-Assady
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147472)
 
@@ -6896,28 +6896,28 @@ Authors: Vanessa Figueiredo, Catherine Ann Cameron
 
 
 ### Interactive Murals: New Opportunities for Collaborative STEAM Learning
-Authors: Alyshia Bustos, Fiona Bell, Leah Buechley, Nanibah Chacon, Mia Shaw
+Authors: Alyshia Bustos, Mia Shaw, Nanibah Chacon, Fiona Bell, Leah Buechley
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147930)
 
 
 
 ### From Prisons to Programming: Fostering Self-Efficacy via Virtual Web Design Curricula in Prisons and Jails
-Authors: Faraz Faruqi, Raechel Soicher, Martin Nisser, Joshua Long, Marisa Gaetz, Andrew Fishberg
+Authors: Martin Nisser, Marisa Gaetz, Andrew Fishberg, Raechel Soicher, Faraz Faruqi, Joshua Long
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147558)
 
 
 
 ### Mapping Accessibility Assignments into Core Computer Science Topics: An Empirical Study with Interviews and Surveys of Instructors and Students
-Authors: Emily Kuang, Kristen Shinohara, Catherine Baker, Di Pham, Yasmine Elglaly, Selah Bellscheidt
+Authors: Emily Kuang, Selah Bellscheidt, Di Pham, Kristen Shinohara, Catherine Baker, Yasmine Elglaly
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147853)
 
 
 
 ### The Matchmaker Inclusive Design Curriculum: A Faculty-Enabling Curriculum to Teach Inclusive Design Throughout Undergraduate CS
-Authors: Maria Jesus Alzugaray-Orellana, Gail Verdi, Heather Garcia, Spencer Madsen, Patricia Morreale, Elizabeth Li, Geraldine Jimena Noa, Rosalinda Garcia, Margaret Burnett
+Authors: Rosalinda Garcia, Patricia Morreale, Gail Verdi, Heather Garcia, Geraldine Jimena Noa, Spencer Madsen, Maria Jesus Alzugaray-Orellana, Elizabeth Li, Margaret Burnett
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147021)
 
@@ -6926,14 +6926,14 @@ Authors: Maria Jesus Alzugaray-Orellana, Gail Verdi, Heather Garcia, Spencer Mad
 
 ## Learning and Teaching Technologies A
 ### Investigating the Effects of Real-time Student Monitoring Interface on Instructors’ Monitoring Practices in Online Teaching
-Authors: Seora Park, Ha Yeon Lee, Esther Hehsun Kim, Hajin Lim, Joonhwan Lee, Jiyeon Seo
+Authors: Ha Yeon Lee, Seora Park, Esther Hehsun Kim, Jiyeon Seo, Hajin Lim, Joonhwan Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146670)
 
 
 
 ### Bridging the Literacy Gap for Adults: Streaming and Engaging in Adult Literacy Education through Livestreaming
-Authors: Emily Kuang, Mingming Fan, Shihan Fu, Jianhao Chen
+Authors: Shihan Fu, Jianhao Chen, Emily Kuang, Mingming Fan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148074)
 
@@ -6942,21 +6942,21 @@ Authors: Emily Kuang, Mingming Fan, Shihan Fu, Jianhao Chen
 ### ClassMeta: Designing Interactive Virtual Classmate to Promote VR Classroom Participation
 HONORABLE_MENTION
 
-Authors: Xiyun Hu, Kylie Peppler, Karthik Ramani, Ziyi Liu, Lijun Zhu, Enze Jiang, Zhengzhe Zhu
+Authors: Ziyi Liu, Zhengzhe Zhu, Lijun Zhu, Enze Jiang, Xiyun Hu, Kylie Peppler, Karthik Ramani
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147941)
 
 
 
 ### Simulator-based Mixed Reality eVTOL Pilot Training: The Instructor Operator Station
-Authors: Sharina Kimura, Florian Holzapfel, Michael Zintl, Claudius Hammann
+Authors: Sharina Kimura, Michael Zintl, Claudius Hammann, Florian Holzapfel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146971)
 
 
 
 ### Privacy Concerns of Student Data Shared with Instructors in an Online Learning Management System
-Authors: Avanya Kohli, Prashanth Rajivan, Monika Kwapisz
+Authors: Monika Kwapisz, Avanya Kohli, Prashanth Rajivan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146719)
 
@@ -6965,35 +6965,35 @@ Authors: Avanya Kohli, Prashanth Rajivan, Monika Kwapisz
 
 ## Learning and Teaching Technologies B
 ### “Oh My God! It’s Recreating Our Room!” Understanding Children’s Experiences with A Room-Scale Augmented Reality Authoring Toolkit
-Authors: Yinmiao Li, Uri Wilensky, Mike Horn, Zhennian Xie, Lexie Zhao, John Chen
+Authors: John Chen, Lexie Zhao, Yinmiao Li, Zhennian Xie, Uri Wilensky, Mike Horn
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147001)
 
 
 
 ### ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development
-Authors: S Sushil, Angela Stewart, Prasenjit Mitra, Saranya Venkatraman, Neil Thawani, John Zimmerman, Ung-Sang Lee, Amy Ogan, Sherice Clarke, Tricia Ngoon
+Authors: Tricia Ngoon, S Sushil, Angela Stewart, Ung-Sang Lee, Saranya Venkatraman, Neil Thawani, Prasenjit Mitra, Sherice Clarke, John Zimmerman, Amy Ogan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146615)
 
 
 
 ### Virtual Reality, Real Pedagogy: A Contextual Inquiry of Instructor Practices with VR Video
-Authors: Yu Liu, Bo Han, Feng Qian, Qiao Jin, Svetlana Yarosh, Ye Yuan
+Authors: Qiao Jin, Yu Liu, Ye Yuan, Bo Han, Feng Qian, Svetlana Yarosh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146868)
 
 
 
 ### Investigating Demographics and Motivation in Engineering Education Using Radio and Phone-Based Educational Technologies
-Authors: Darren Butler, Judith Uchidiuno, John Stamper, Christine Kwon, Amy Ogan
+Authors: Christine Kwon, Darren Butler, Judith Uchidiuno, John Stamper, Amy Ogan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147291)
 
 
 
 ### Xylocode: A Novel Approach to Fostering Interest in Computer Science via an Embodied Music Simulation
-Authors: Brian Magerko, Jiaxi Yang, Duri Long, Cassandra Naomi
+Authors: Duri Long, Jiaxi Yang, Cassandra Naomi, Brian Magerko
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146705)
 
@@ -7002,14 +7002,14 @@ Authors: Brian Magerko, Jiaxi Yang, Duri Long, Cassandra Naomi
 
 ## Music
 ### A Way for Deaf and Hard of Hearing People to Enjoy Music by Exploring and Customizing Cross-modal Music Concepts
-Authors: Jin-Hyuk Hong, Yeo-Gyeong Noh, ChungHa Lee, Youjin Choi, Junryeol Jeon
+Authors: Youjin Choi, Junryeol Jeon, ChungHa Lee, Yeo-Gyeong Noh, Jin-Hyuk Hong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147004)
 
 
 
 ### Capturing Cancer as Music: Cancer Mechanisms Expressed through Musification
-Authors: Rostyslav Hnatyshyn, Jiayi Hong, Christopher Norby, Carlo C. Maley, Ross Maciejewski
+Authors: Rostyslav Hnatyshyn, Jiayi Hong, Ross Maciejewski, Christopher Norby, Carlo C. Maley
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146927)
 
@@ -7025,14 +7025,14 @@ Authors: Alexander Wang, Yi Fei Cheng, David Lindlbauer
 
 
 ### Challenges of Music Score Writing and the Potentials of Interactive Surfaces
-Authors: Caroline Appert, Catherine Letondal, Emmanuel Pietriga, Vincent Cavez
+Authors: Vincent Cavez, Catherine Letondal, Emmanuel Pietriga, Caroline Appert
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148089)
 
 
 
 ### Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers
-Authors: Purnima Kamath, Priambudi Lintang Bagaskara, Fabio Morreale, Yize Wei, Suranga Nanayakkara
+Authors: Purnima Kamath, Fabio Morreale, Priambudi Lintang Bagaskara, Yize Wei, Suranga Nanayakkara
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148093)
 
@@ -7043,21 +7043,21 @@ Authors: Purnima Kamath, Priambudi Lintang Bagaskara, Fabio Morreale, Yize Wei, 
 ### Sweating the Details: Emotion Recognition and the Influence of Physical Exertion in Virtual Reality Exergaming
 HONORABLE_MENTION
 
-Authors: Tarini Sehgal, Dominic Potts, Zoe Broad, Christopher Clarke, Christof Lutteroth, Eamonn O'Neill, Joseph Hartley, Crescent Jicol
+Authors: Dominic Potts, Zoe Broad, Tarini Sehgal, Joseph Hartley, Eamonn O'Neill, Crescent Jicol, Christopher Clarke, Christof Lutteroth
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148111)
 
 
 
 ### Exploring the association between engagement with location-based game features and getting inspired about environmental issues and nature
-Authors: Samuli Laato, Bastian Kordyaka, Sebastian Weber, Bjoern Niehaves, Juho Hamari
+Authors: Bastian Kordyaka, Samuli Laato, Sebastian Weber, Juho Hamari, Bjoern Niehaves
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147451)
 
 
 
 ### ``Backseat Gaming" A Study of Co-Regulated Learning within a Collegiate Male Esports Community
-Authors: Garrett Powell, Brent Reeves, Erica Kleinman, James Prather, Reza Habibi, Magy Seif El-Nasr
+Authors: Erica Kleinman, Reza Habibi, Garrett Powell, Brent Reeves, James Prather, Magy Seif El-Nasr
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147778)
 
@@ -7066,7 +7066,7 @@ Authors: Garrett Powell, Brent Reeves, Erica Kleinman, James Prather, Reza Habib
 ### Quantifying Wrist-Aiming Habits with A Dual-Sensor Mouse: Implications for Player Performance and Workload
 HONORABLE_MENTION
 
-Authors: Donghyeon Kang, Namsub Kim, June-Seop Yoon, Sunjun Kim, Byungjoo Lee, Daekaun Kang
+Authors: Donghyeon Kang, Namsub Kim, Daekaun Kang, June-Seop Yoon, Sunjun Kim, Byungjoo Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146862)
 
@@ -7082,7 +7082,7 @@ Authors: Samuli Laato, Bastian Kordyaka, Juho Hamari
 
 ## Understanding Player Experiences
 ### Tunnel Runner: a Proof-of-principle for the Feasibility and Benefits of Facilitating Players' Sense of Control in Cognitive Assessment Games
-Authors: Max Birk, Panos Markopoulos, Benny Markovitch
+Authors: Benny Markovitch, Panos Markopoulos, Max Birk
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147125)
 
@@ -7091,21 +7091,21 @@ Authors: Max Birk, Panos Markopoulos, Benny Markovitch
 ### "I Know What You Mean": Context-Aware Recognition to Enhance Speech-Based Games
 HONORABLE_MENTION
 
-Authors: Thomas Muender, Mohamed Lamine Fetni, Nima Zargham, Rainer Malaka, Laura Spillner
+Authors: Nima Zargham, Mohamed Lamine Fetni, Laura Spillner, Thomas Muender, Rainer Malaka
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147848)
 
 
 
 ### Screenless Interactive Tabletop Gaming with Capacitive Surface Sensing
-Authors: Anna Walczak, Julia Dominiak, Krzysztof Adamkiewicz, Paweł W. Woźniak, Andrzej Romanowski
+Authors: Krzysztof Adamkiewicz, Julia Dominiak, Anna Walczak, Andrzej Romanowski, Paweł W. Woźniak
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147873)
 
 
 
 ### Characterizing and Quantifying Expert Input Behavior in League of Legends
-Authors: Youngjung Uh, Seyeon Lee, Hanbyeol Lee, Byungjoo Lee, Rohan Nallapati
+Authors: Hanbyeol Lee, Seyeon Lee, Rohan Nallapati, Youngjung Uh, Byungjoo Lee
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148156)
 
@@ -7123,21 +7123,21 @@ Authors: Julian Frommel, Regan Mandryk
 
 ## Reflecting on Online Content
 ### Help Me Reflect: Leveraging Self-Reflection Interface Nudges to Enhance Deliberativeness on Online Deliberation Platforms
-Authors: Simon Perrault, Weiyu Zhang, Gionnieve Lim, ShunYi Yeo, Jie Gao
+Authors: ShunYi Yeo, Gionnieve Lim, Jie Gao, Weiyu Zhang, Simon Perrault
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147640)
 
 
 
 ### Capra: Making Use of Multiple Perspectives for Capturing, Noticing and Revisiting Hiking Experiences Over Time
-Authors: Tal Amram, Henry Lin, MinYoung Yoo, Samuel Barnett, Nico Brand, William Odom, Jordan White
+Authors: William Odom, Jordan White, Samuel Barnett, Nico Brand, Henry Lin, MinYoung Yoo, Tal Amram
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148073)
 
 
 
 ### AI-Driven Mediation Strategies for Audience Depolarisation in Online Debates
-Authors: Jorge Goncalves, Jarod Govers, Vassilis Kostakos, Eduardo Velloso
+Authors: Jarod Govers, Eduardo Velloso, Vassilis Kostakos, Jorge Goncalves
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147072)
 
@@ -7146,14 +7146,14 @@ Authors: Jorge Goncalves, Jarod Govers, Vassilis Kostakos, Eduardo Velloso
 ### Debate Chatbots to Facilitate Critical Thinking on YouTube: Social Identity and Conversational Style Make A Difference
 BEST_PAPER
 
-Authors: Sidney Fels, Dongwook Yoon, Luanne Sinnamon, Thitaree Tanprasert
+Authors: Thitaree Tanprasert, Sidney Fels, Luanne Sinnamon, Dongwook Yoon
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147628)
 
 
 
 ### Viblio: Introducing Credibility Signals and Citations to Video-Sharing Platforms
-Authors: Renee Wang, Tanushree Mitra, Tony Li, Prerna Juneja, Amy Zhang, Emelia Hughes
+Authors: Emelia Hughes, Renee Wang, Prerna Juneja, Tony Li, Tanushree Mitra, Amy Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148085)
 
@@ -7162,28 +7162,28 @@ Authors: Renee Wang, Tanushree Mitra, Tony Li, Prerna Juneja, Amy Zhang, Emelia 
 
 ## Security
 ### Comparing the Use and Usefulness of Four IoT Security Labels
-Authors: Jacob Abbott, Peter Caven, Zitao Zhang, Xinyao Ma, LJean Camp
+Authors: Peter Caven, Zitao Zhang, Jacob Abbott, Xinyao Ma, LJean Camp
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147913)
 
 
 
 ### Better Together: The Interplay Between a Phishing Awareness Video and a Link-centric Phishing Support Tool
-Authors: Mattia Mossano, Benjamin Berens, Melanie Volkamer, Florian Schaub
+Authors: Benjamin Berens, Florian Schaub, Mattia Mossano, Melanie Volkamer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147585)
 
 
 
 ### The Effects of Group Discussion and Role-playing Training on Self-efficacy, Support-seeking, and Reporting Phishing Emails: Evidence from a Mixed-design Experiment
-Authors: Xiaowei Chen, Gabriele Lenzini, Anastasia Sergeeva, Verena Distler, Margault Sacré, Samuel Greiff
+Authors: Xiaowei Chen, Margault Sacré, Gabriele Lenzini, Samuel Greiff, Verena Distler, Anastasia Sergeeva
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146688)
 
 
 
 ### Usable News Authentication: How the Presentation and Location of Cryptographic Information Impacts the Usability of Provenance Information and Perceptions of News Articles
-Authors: Kimberly Brown, Ayana Monroe, Samya Potlapalli, Catherine Barwulor, Julia Jose, Errol Francis II, Kelly Caine, Susan McGregor, Emily Sidnam-Mauch, Kediel Morales
+Authors: Errol Francis II, Catherine Barwulor, Ayana Monroe, Kediel Morales, Samya Potlapalli, Kimberly Brown, Julia Jose, Emily Sidnam-Mauch, Susan McGregor, Kelly Caine
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147602)
 
@@ -7192,7 +7192,7 @@ Authors: Kimberly Brown, Ayana Monroe, Samya Potlapalli, Catherine Barwulor, Jul
 ### Interdisciplinary Approaches to Cybervulnerability Impact Assessment for Energy Critical Infrastructure 
 HONORABLE_MENTION
 
-Authors: Katya Le Blanc, Lorrie Cranor, Lujo Bauer, Robert Erbes, Andrea Gallardo
+Authors: Andrea Gallardo, Robert Erbes, Katya Le Blanc, Lujo Bauer, Lorrie Cranor
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147155)
 
@@ -7201,7 +7201,7 @@ Authors: Katya Le Blanc, Lorrie Cranor, Lujo Bauer, Robert Erbes, Andrea Gallard
 
 ## Sensemaking with AI A
 ### Selenite: Scaffolding Online Sensemaking with Comprehensive Overviews Elicited from Large Language Models
-Authors: Aniket Kittur, Brad Myers, Michael Xieyang Liu, Franklin Mingzhe Li, Tongshuang Wu, Tianying Chen
+Authors: Michael Xieyang Liu, Tongshuang Wu, Tianying Chen, Franklin Mingzhe Li, Aniket Kittur, Brad Myers
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148071)
 
@@ -7212,7 +7212,7 @@ Abstract: Sensemaking in unfamiliar domains can be challenging, demanding consid
 ### Supporting Sensemaking of Large Language Model Outputs at Scale
 HONORABLE_MENTION
 
-Authors: Ziwei Gu, Chelse Swoopes, Jonathan Kummerfeld, Katy Gero, Elena Glassman
+Authors: Katy Gero, Chelse Swoopes, Ziwei Gu, Jonathan Kummerfeld, Elena Glassman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146937)
 
@@ -7223,7 +7223,7 @@ Abstract: Large language models (LLMs) are capable of generating multiple respon
 ### Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making
 HONORABLE_MENTION
 
-Authors: Maria De-Arteaga, Niklas Kühl, Jakob Schoeffer
+Authors: Jakob Schoeffer, Maria De-Arteaga, Niklas Kühl
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147316)
 
@@ -7232,7 +7232,7 @@ Abstract: In this work, we study the effects of feature-based explanations on di
 
 
 ### Unraveling the Dilemma of AI Errors: Exploring the Effectiveness of Human and Machine Explanations for Large Language Models
-Authors: Mark Hancock, Marvin Pafla, Kate Larson
+Authors: Marvin Pafla, Kate Larson, Mark Hancock
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147603)
 
@@ -7241,7 +7241,7 @@ Abstract: The field of eXplainable artificial intelligence (XAI) has produced a 
 
 
 ### "Are You Really Sure?'' Understanding the Effects of Human Self-Confidence Calibration in AI-Assisted Decision Making
-Authors: Shuai Ma, Chuhan Shi, Xinru Wang, Xiaojuan Ma, Ying Lei, Ming Yin
+Authors: Shuai Ma, Xinru Wang, Ying Lei, Chuhan Shi, Ming Yin, Xiaojuan Ma
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147034)
 
@@ -7252,7 +7252,7 @@ Abstract: In AI-assisted decision-making, it is crucial but challenging for huma
 
 ## Sensemaking with AI B
 ### Towards a Diffractive Analysis of Prompt-Based Generative AI
-Authors: Jon McCormack, Maria Teresa Llano Rodriguez, Nina Rajcic
+Authors: Nina Rajcic, Maria Teresa Llano Rodriguez, Jon McCormack
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148226)
 
@@ -7263,7 +7263,7 @@ Abstract: Recent developments in prompt-based generative AI has given rise to di
 ### Where Are We So Far? Understanding Data Storytelling Tools from the Perspective of Human-AI Collaboration
 HONORABLE_MENTION
 
-Authors: Haotian Li, Huamin Qu, Yun Wang
+Authors: Haotian Li, Yun Wang, Huamin Qu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146630)
 
@@ -7272,7 +7272,7 @@ Abstract: Data storytelling is powerful for communicating data insights, but it 
 
 
 ### Dissecting users' needs for search result explanations
-Authors: Alex Jaimes, Wenjuan Zhang, Joel Tetreault, Prerna Juneja, Alison Smith-Renner, Hemank Lamba
+Authors: Prerna Juneja, Wenjuan Zhang, Alison Smith-Renner, Hemank Lamba, Joel Tetreault, Alex Jaimes
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148160)
 
@@ -7281,7 +7281,7 @@ Abstract: There is a growing demand for transparency in search engines to unders
 
 
 ### Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models
-Authors: Kwon Ko, Hyeon Jeon, Dae Hyun Kim, Jinwook Seo, Juho Kim, Gwanmo Park, Nam Wook Kim
+Authors: Kwon Ko, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, Jinwook Seo
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147000)
 
@@ -7290,7 +7290,7 @@ Abstract: We introduce VL2NL, a Large Language Model (LLM) framework that genera
 
 
 ### Marco: Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models
-Authors: Tong Sun, Alexa Siu, Nedim Lipka, Raymond Fok
+Authors: Raymond Fok, Nedim Lipka, Tong Sun, Alexa Siu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147634)
 
@@ -7301,35 +7301,35 @@ Abstract: Knowledge workers often need to extract and analyze information from a
 
 ## Smart Homes and Environments
 ### Decide Yourself or Delegate - User Preferences Regarding the Autonomy of Personal Privacy Assistants in Private IoT-Equipped Environments
-Authors: Paul Gerber, Alina Stöver, Karola Marky, Max Mühlhäuser, Verena Zimmermann, Sarah Prange, Kira Bleck, Florian Müller, Florian Alt
+Authors: Karola Marky, Alina Stöver, Sarah Prange, Kira Bleck, Paul Gerber, Verena Zimmermann, Florian Müller, Florian Alt, Max Mühlhäuser
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146932)
 
 
 
 ### “You can’t write down the logic”: Bringing smart technology into the water infrastructure control room
-Authors: Jacquelyn Schmidt, Branko Kerkez, Ariel Roy
+Authors: Jacquelyn Schmidt, Ariel Roy, Branko Kerkez
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147334)
 
 
 
 ### Tagnoo: Enabling Smart Room-Scale Environments with RFID-Augmented Plywood
-Authors: Tingyu Zhang, Xing-Dong Yang, Yonghao Shi, Te-Yen Wu, Yuning Su, Jiuen Feng
+Authors: Yuning Su, Tingyu Zhang, Jiuen Feng, Yonghao Shi, Xing-Dong Yang, Te-Yen Wu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148075)
 
 
 
 ### Who Should Hold Control? Rethinking Empowerment in Home Automation among Cohabitants through the Lens of Co-Design
-Authors: Xinyi Fu, Xiao XUE, Xinyang Li, Jiachen Du, Boyang Jia
+Authors: Xiao XUE, Xinyang Li, Boyang Jia, Jiachen Du, Xinyi Fu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147601)
 
 
 
 ### Understanding Users' Interaction with Login Notifications
-Authors: Markus Dürmuth, Leona Lassak, Philipp Markert, Maximilian Golla
+Authors: Philipp Markert, Leona Lassak, Maximilian Golla, Markus Dürmuth
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147051)
 
@@ -7345,14 +7345,14 @@ Authors: Kentaro Yasu
 
 
 ### Shape-Changing Clay-Dough: Taking a Material-Oriented Approach to 3D Printing Ceramic Forms
-Authors: Fiona Bell, Ruby Ta, Erin McClure, Leah Buechley, Camila Friedman-Gerlicz
+Authors: Fiona Bell, Erin McClure, Camila Friedman-Gerlicz, Ruby Ta, Leah Buechley
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146926)
 
 
 
 ### Waxpaper Actuator: Sequentially and Conditionally Programmable Wax Paper for Morphing Interfaces
-Authors: Di Wu, Yunjia Zhang, Qiuyu Lu, Lining Yao, Hsuanju Lai, Emily Guan
+Authors: Di Wu, Emily Guan, Yunjia Zhang, Hsuanju Lai, Qiuyu Lu, Lining Yao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148150)
 
@@ -7368,7 +7368,7 @@ Authors: Roland Aigner, Mira Haberfellner, Michael Haller
 
 
 ### Cymatics Cup: Shape-Changing Drinks by Leveraging Cymatics
-Authors: Yun Suen Pai, Yang Yang, Kao-Hua Liu, Junichi Yamaoka, Weijen Chen, Kouta Minamizawa
+Authors: Weijen Chen, Yang Yang, Kao-Hua Liu, Yun Suen Pai, Junichi Yamaoka, Kouta Minamizawa
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147592)
 
@@ -7386,14 +7386,14 @@ Authors: Laura Guntrum
 ### Designing for Harm Reduction: Communication Repair for Multicultural Users' Voice Interactions
 BEST_PAPER
 
-Authors: Geoff Kaufman, Kimi Wenzel
+Authors: Kimi Wenzel, Geoff Kaufman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147425)
 
 
 
 ### Persuasion or Insulting? Unpacking Discursive Strategies of Gender Debate in Everyday Feminism in China
-Authors: Zheng Chen, Bo Li, Changyang He, Zhicong Lu, Yue DENG
+Authors: Yue DENG, Zheng Chen, Changyang He, Zhicong Lu, Bo Li
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147170)
 
@@ -7413,14 +7413,14 @@ Authors: Hayoun Noh, Soohyun Yoon, Hyunah Jo, Max Van Kleek, Younah Kang
 ### FabSound: Audio-Tactile and Affective Fabric Experiences Through Mid-air Haptics
 HONORABLE_MENTION
 
-Authors: Patricia Cornelio, Christopher Dawes, Roberto Montano Murillo, William Frier, Marianna Obrist, Jing Xue
+Authors: Jing Xue, Roberto Montano Murillo, Christopher Dawes, William Frier, Patricia Cornelio, Marianna Obrist
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147299)
 
 
 
 ### Exploring Collaborative Movement Improvisation Towards the Design of LuminAI—a Co-Creative AI Dance Partner
-Authors: Andrea Knowlton, Brian Magerko, Milka Trajkova, Manoj Deshpande, Duri Long
+Authors: Milka Trajkova, Duri Long, Manoj Deshpande, Andrea Knowlton, Brian Magerko
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147151)
 
@@ -7429,7 +7429,7 @@ Authors: Andrea Knowlton, Brian Magerko, Milka Trajkova, Manoj Deshpande, Duri L
 ### Understanding Feedback in Rhythmic Gymnastics Training: An Ethnographic-Informed Study of a Competition Class
 BEST_PAPER
 
-Authors: Leonor Portugal da Fonseca, Paula Alexandra Silva, Francisco Nunes
+Authors: Leonor Portugal da Fonseca, Francisco Nunes, Paula Alexandra Silva
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148223)
 
@@ -7438,14 +7438,14 @@ Authors: Leonor Portugal da Fonseca, Paula Alexandra Silva, Francisco Nunes
 ### Designing and Evaluating an Advanced Dance Video Comprehension Tool with In-situ Move Identification Capabilities
 HONORABLE_MENTION
 
-Authors: Garreth Tigwell, Caluã de Lacerda Pataca, Saad Hassan, Laleh Nourian, Will Silver Wagman, Briana Davis
+Authors: Saad Hassan, Caluã de Lacerda Pataca, Laleh Nourian, Garreth Tigwell, Briana Davis, Will Silver Wagman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147258)
 
 
 
 ### DoodleTunes: Interactive Visual Analysis of Music-Inspired Children Doodles with Automated Feature Annotation
-Authors: Mingtian Tao, Huayuan Ye, Changbo Wang, Jia Bu, Shuqi Liu, Shiqi Jiang, Chenhui Li, Juntong Chen, Liping Guo
+Authors: Shuqi Liu, Jia Bu, Huayuan Ye, Juntong Chen, Shiqi Jiang, Mingtian Tao, Liping Guo, Changbo Wang, Chenhui Li
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147267)
 
@@ -7454,14 +7454,14 @@ Authors: Mingtian Tao, Huayuan Ye, Changbo Wang, Jia Bu, Shuqi Liu, Shiqi Jiang,
 
 ## Supporting Accessibility of Text, Image and Video A
 ### “It’s Kind of Context Dependent”: Understanding Blind and Low Vision People’s Video Accessibility Preferences Across Viewing Scenarios
-Authors: Crescentia Jung, Mahika Phutane, Lucy Jiang, Abigale Stangl, Shiri Azenkot
+Authors: Lucy Jiang, Crescentia Jung, Mahika Phutane, Abigale Stangl, Shiri Azenkot
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146788)
 
 
 
 ### GazePrompt: Enhancing Low Vision People's Reading Experience with Gaze-Aware Augmentations
-Authors: Yun Ho, Sanbrita Mondal, Linxiu Zeng, Yuhang Zhao, Ru Wang, Daniel Killough, Zach Potter
+Authors: Ru Wang, Zach Potter, Yun Ho, Daniel Killough, Linxiu Zeng, Sanbrita Mondal, Yuhang Zhao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147371)
 
@@ -7477,7 +7477,7 @@ Authors: Nikhita Joshi, Daniel Vogel
 
 
 ### Making Short-Form Videos Accessible with Hierarchical Video Summaries
-Authors: Tess Van Daele, Akhil Iyer, Amy Pavel, Yuning Zhang, Mina Huh, Jalyn Derry
+Authors: Tess Van Daele, Akhil Iyer, Yuning Zhang, Jalyn Derry, Mina Huh, Amy Pavel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148297)
 
@@ -7488,35 +7488,35 @@ Authors: Tess Van Daele, Akhil Iyer, Amy Pavel, Yuning Zhang, Mina Huh, Jalyn De
 ### Caption Royale: Exploring the Design Space of Affective Captions from the Perspective of Deaf and Hard-of-Hearing Individuals
 HONORABLE_MENTION
 
-Authors: Caluã de Lacerda Pataca, Roshan Peiris, Saad Hassan, Matt Huenerfauth, Nathan Tinker
+Authors: Caluã de Lacerda Pataca, Saad Hassan, Nathan Tinker, Roshan Peiris, Matt Huenerfauth
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148008)
 
 
 
 ### SPICA: Interactive Video Content Exploration through Augmented Audio Descriptions for Blind or Low-Vision Viewers
-Authors: Zheng Ning, Kaiwen Jiang, Brianna Wimer, Toby Li, Jerrick Ban, Yuhang Zhao, Keyi Chen, Yapeng Tian
+Authors: Zheng Ning, Brianna Wimer, Kaiwen Jiang, Keyi Chen, Jerrick Ban, Yapeng Tian, Yuhang Zhao, Toby Li
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147481)
 
 
 
 ### An AI-Resilient Text Rendering Technique for Reading and Skimming Documents
-Authors: Ziwei Gu, Jonathan Kummerfeld, Ian Arawjo, Elena Glassman, Kenneth Li
+Authors: Ziwei Gu, Ian Arawjo, Kenneth Li, Jonathan Kummerfeld, Elena Glassman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147987)
 
 
 
 ### Investigating Use Cases of AI-Powered Scene Description Applications for Blind and Low Vision People
-Authors: Jazmin Collins, Ricardo Gonzalez Penuela, Shiri Azenkot, Cynthia Bennett
+Authors: Ricardo Gonzalez Penuela, Jazmin Collins, Cynthia Bennett, Shiri Azenkot
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147196)
 
 
 
 ### From Provenance to Aberrations: Image Creator and Screen Reader User Perspectives on Alt Text for AI-Generated Images
-Authors: Shaun Kane, Meredith Morris, Alexander Fiannaca, Maitraye Das, Cynthia Bennett
+Authors: Maitraye Das, Alexander Fiannaca, Meredith Morris, Shaun Kane, Cynthia Bennett
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148306)
 
@@ -7525,7 +7525,7 @@ Authors: Shaun Kane, Meredith Morris, Alexander Fiannaca, Maitraye Das, Cynthia 
 
 ## Supporting Communication Needs A
 ### Lights, Camera, Access: A Closeup on Audiovisual Media Accessibility and Aphasia
-Authors: Elena Simperl, Alexandre Nevsky, Madeline Cruice, Timothy Neate
+Authors: Alexandre Nevsky, Timothy Neate, Elena Simperl, Madeline Cruice
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147404)
 
@@ -7534,7 +7534,7 @@ Abstract: The presence of audiovisual media is a mainstay in the lives of many, 
 
 
 ### Co-Designing QuickPic: Automated Topic-Specific Communication Boards from Photographs for AAC-Based Language Instruction
-Authors: Karyn Moffatt, Howard C. Shane, Christina Yu, Mauricio Fontana de Vargas
+Authors: Mauricio Fontana de Vargas, Christina Yu, Howard C. Shane, Karyn Moffatt
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147269)
 
@@ -7543,18 +7543,18 @@ Abstract:  Traditional topic-specific communication boards for Augmentative and 
 
 
 ### Empowering Independence Through Design: Investigating Standard Digital Design Patterns For Easy-to-Read Users.
-Authors: Ann Bessemans, Sabina Sieghart, Björn Rohles
+Authors: Sabina Sieghart, Björn Rohles, Ann Bessemans
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148221)
 
-Abstract: As designers and researchers, it is our duty to ensure information accessibility for all, irrespective of cognitive abilities. Currently, Easy-to-Read (ETR) is commonly used to simplify text for individuals with cognitive impairments. Although design aspects of text
-comprehensibility have recently gained attention, digital design patterns remain relatively unexplored. Our understanding of how ETR users interact with digital media, and how to design specifically for their needs, is still limited. Our study involved observing 20 German
+Abstract: As designers and researchers, it is our duty to ensure information accessibility for all, irrespective of cognitive abilities. Currently, Easy-to-Read (ETR) is commonly used to simplify text for individuals with cognitive impairments. Although design aspects of text
+comprehensibility have recently gained attention, digital design patterns remain relatively unexplored. Our understanding of how ETR users interact with digital media, and how to design specifically for their needs, is still limited. Our study involved observing 20 German
 ETR users engaging with a digital PDF and a website designed in a participatory process. We collected data on their access to digital media, personal use and workarounds, and their interaction with digital design patterns. Tasks on the smartphone were completed mostly successfully, while only 50% could navigate a digital PDF. In both cases, visual cues played a significant role. Our findings contribute recommendations for beneficial digital design patterns and future research.
 
 
 
 ### ChatDirector: Enhancing Video Conferencing with Space-Aware Scene Rendering and Speech-Driven Layout Transition
-Authors: Brian Collins, Ruofei Du, Karthik Ramani, Yinda Zhang, David Kim, Feitong Tan, Alex Olwal, Xun Qian
+Authors: Xun Qian, Feitong Tan, Yinda Zhang, Brian Collins, David Kim, Alex Olwal, Karthik Ramani, Ruofei Du
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148295)
 
@@ -7565,7 +7565,7 @@ Abstract: Remote video conferencing systems (RVCS) are widely adopted in persona
 ### COR Themes for Readability from Iterative Feedback
 HONORABLE_MENTION
 
-Authors: Bernard Kerr, Zoya Bylinskii, Michael Kraley, Aleena Niklaus, Tianyuan Cai
+Authors: Tianyuan Cai, Aleena Niklaus, Bernard Kerr, Michael Kraley, Zoya Bylinskii
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148158)
 
@@ -7576,7 +7576,7 @@ Abstract: Digital reading applications give readers the ability to customize fon
 
 ## Supporting Communication Needs B
 ### COMPA: Using Conversation Context to Achieve Common Ground in AAC
-Authors: Henny Admoni, Yufei Wu, Stephanie Valencia, Zixuan Zheng, Amy Pavel, Jessica Huynh, Jeffrey Bigham, Teresa Wan, Emma Jiang
+Authors: Stephanie Valencia, Jessica Huynh, Emma Jiang, Yufei Wu, Teresa Wan, Zixuan Zheng, Henny Admoni, Jeffrey Bigham, Amy Pavel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146686)
 
@@ -7603,7 +7603,7 @@ Abstract: People living with complex communication needs employ multimodal pathw
 
 
 ### "It Is Easy Using My Apps:" Understanding Technology Use and Needs of Adults with Down Syndrome
-Authors: Audra Sterling, Hailey Johnson, Bilge Mutlu
+Authors: Hailey Johnson, Audra Sterling, Bilge Mutlu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147214)
 
@@ -7612,7 +7612,7 @@ Abstract: Assistive technologies for adults with Down syndrome (DS) need designs
 
 
 ### Voice Assistive Technology for Activities of Daily Living: Developing an Alexa Telehealth Training for Adults with Cognitive-Communication Disorders
-Authors: Yao Du, Ginna Byun, Lauren Kim, Priyal Vora, Siona Amrgousian, Claire O'Connor
+Authors: Yao Du, Claire O'Connor, Ginna Byun, Lauren Kim, Siona Amrgousian, Priyal Vora
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147679)
 
@@ -7623,21 +7623,21 @@ Abstract: Individuals with cognitive-communication disorders (CCDs) due to neuro
 
 ## Supporting Programmers and Learners A
 ### Understanding the Needs of Novice Developers in Creating Self-Powered IoT
-Authors: Tian Min, Chengshuo Xia, Daxing Zhang, Congsi Wang
+Authors: Chengshuo Xia, Tian Min, Daxing Zhang, Congsi Wang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147080)
 
 
 
 ### AQuA: Automated Question-Answering in Software Tutorial Videos with Visual Anchors 
-Authors: Saelyne Yang, George Fitzmaurice, Justin Matejka, Jo Vermeulen
+Authors: Saelyne Yang, Jo Vermeulen, George Fitzmaurice, Justin Matejka
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148273)
 
 
 
 ### Meta-Manager: A Tool for Collecting and Exploring Meta Information about Code
-Authors: Brad Myers, Amber Horvath, Andrew Macvean
+Authors: Amber Horvath, Andrew Macvean, Brad Myers
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147791)
 
@@ -7653,7 +7653,7 @@ Authors: Zihan Wu, Barbara Ericson
 ### Taking ASCII Drawings Seriously: How Programmers Diagram Code
 HONORABLE_MENTION
 
-Authors: Brian Hempel, Philip Guo, William Duan, Devamardeep Hayatpur, Haijun Xia, Kathy Chen
+Authors: Devamardeep Hayatpur, Brian Hempel, Kathy Chen, William Duan, Philip Guo, Haijun Xia
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147729)
 
@@ -7662,35 +7662,35 @@ Authors: Brian Hempel, Philip Guo, William Duan, Devamardeep Hayatpur, Haijun Xi
 
 ## Supporting Programmers and Learners B
 ### "Do You Want Me to Participate or Not?": Investigating the Accessibility of Software Development Meetings for Blind and Low Vision Professionals
-Authors: André van der Hoek, Emory Edwards, Stacy Branham, Jessy Ayala, Yoonha Cha, Isabela Figueira, Joshua Garcia
+Authors: Yoonha Cha, Isabela Figueira, Jessy Ayala, Emory Edwards, Joshua Garcia, André van der Hoek, Stacy Branham
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147835)
 
 
 
 ### MµSE: Supporting Exploration of Software-Hardware Interactions Through Examples
-Authors: Stefan Ramson, Robert Hirschfeld, Tom Beckmann, Paul Methfessel, Patrick Rein
+Authors: Paul Methfessel, Tom Beckmann, Patrick Rein, Stefan Ramson, Robert Hirschfeld
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148162)
 
 
 
 ### Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions
-Authors: Samia Kabir, Bonan Kou, David N. Udo-Imeh, Tianyi Zhang
+Authors: Samia Kabir, David N. Udo-Imeh, Bonan Kou, Tianyi Zhang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146667)
 
 
 
 ### CoPrompt: Supporting Prompt Sharing and Referring in Collaborative Natural Language Programming
-Authors: Mingming Fan, Zhicong Lu, Jian Zhao, Ryan Yen, Yuzhe You, Li Feng
+Authors: Li Feng, Ryan Yen, Yuzhe You, Mingming Fan, Jian Zhao, Zhicong Lu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147317)
 
 
 
 ### Understanding Documentation Use Through Log Analysis: A Case Study of Four Cloud Services
-Authors: Brad Myers, Daye Nam, Andrew Macvean, Bogdan Vasilescu
+Authors: Daye Nam, Andrew Macvean, Brad Myers, Bogdan Vasilescu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147074)
 
@@ -7713,14 +7713,14 @@ Authors: Rajvardhan Oak, Zubair Shafiq
 
 
 ### Trust, Privacy, and Safety Factors Associated with Decision Making in P2P Markets Based on Social Networks: A Case Study of Facebook Marketplace in USA and Canada
-Authors: Masoud Mehrabi Koushki, Yue Huang, Konstantin (Kosta) Beznosov, Guillaume Humbert, Borke Obada-Obieh, Azadeh Mokhberi
+Authors: Azadeh Mokhberi, Yue Huang, Guillaume Humbert, Masoud Mehrabi Koushki, Borke Obada-Obieh, Konstantin (Kosta) Beznosov
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148310)
 
 
 
 ### Profiling the Dynamics of Trust & Distrust in Social Media: A Survey Study
-Authors: Jacqueline Griffin, Yimeng Wang, Joseph Gaggiano, Andrea Parker, Yixuan Zhang, Miso Kim, Nurul Suhaimi, Nutchanon Yongsatianchot, Anne Okrah
+Authors: Yixuan Zhang, Yimeng Wang, Nutchanon Yongsatianchot, Joseph Gaggiano, Nurul Suhaimi, Anne Okrah, Jacqueline Griffin, Miso Kim, Andrea Parker
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148331)
 
@@ -7736,14 +7736,14 @@ Authors: Farnaz Jahanbakhsh, David Karger
 
 ## Wellbeing in Aging
 ### An Iterative Participatory Design Approach to Develop Collaborative Augmented Reality Activities for Older Adults in Long-Term Care Facilities 
-Authors: Mahrukh Tauseef, Cathy Maxwell, JUDITH TATE, Nilanjan Sarkar, Lorraine Mion, Akshith Ullal, Alexandra Watkins, Lisa Juckett
+Authors: Akshith Ullal, Mahrukh Tauseef, Alexandra Watkins, Lisa Juckett, Cathy Maxwell, JUDITH TATE, Lorraine Mion, Nilanjan Sarkar
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147541)
 
 
 
 ### Understanding Socio-technical Opportunities for Enhancing Communication Between Older Adults and their Remote Family
-Authors: Xueliang Li, Baihui Chen
+Authors: Baihui Chen, Xueliang Li
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146735)
 
@@ -7752,21 +7752,21 @@ Authors: Xueliang Li, Baihui Chen
 ### Designing for Inclusive Experiences: Investigating Opportunities for Supporting Older Adults in Community-based Social Programs
 HONORABLE_MENTION
 
-Authors: Yushan Xing, Ryan Kelly, Kashifa Aslam, Melissa Rogerson, Jenny Waycott
+Authors: Yushan Xing, Ryan Kelly, Melissa Rogerson, Jenny Waycott, Kashifa Aslam
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147962)
 
 
 
 ### Exploring the Design of Generative AI in Supporting Music-based Reminiscence for Older Adults
-Authors: Wanling Cai, Yizhe Zhang, Tonglin Jiang, Li Chen, Gavin Doherty, Yucheng Jin
+Authors: Yucheng Jin, Wanling Cai, Li Chen, Yizhe Zhang, Gavin Doherty, Tonglin Jiang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147408)
 
 
 
 ### Dancing with the Roles: Towards Designing Technology that Supports the Multifaceted Roles of Caregivers for Older Adults
-Authors: Chia-Fang Chung, Long-Jing Hsu
+Authors: Long-Jing Hsu, Chia-Fang Chung
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147745)
 
@@ -7775,14 +7775,14 @@ Authors: Chia-Fang Chung, Long-Jing Hsu
 
 ## Working Practices and Tools B
 ### The Impact of Social Norms on Hybrid Workers’ Well-Being: A Cross-Cultural Comparison of Japan and the United States
-Authors: Momoko Nakatani, Ryo Hashimoto, Jack Jamieson, Wataru Akahori, Masahiro Watanabe, Naomi Yamashita
+Authors: Wataru Akahori, Naomi Yamashita, Jack Jamieson, Momoko Nakatani, Ryo Hashimoto, Masahiro Watanabe
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146875)
 
 
 
 ### Mental Models of Meeting Goals: Supporting Intentionality in Meeting Technologies
-Authors: Lev Tankelevitch, Ava Scott, Sean Rintel
+Authors: Ava Scott, Lev Tankelevitch, Sean Rintel
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146999)
 
@@ -7796,7 +7796,7 @@ Authors: Sharon Ferguson, Michael Massimi
 
 
 ### Exploring the Diminishing Allure of Paper and Low-Fidelity Prototyping Among Designers in the Software Industry: Impacts of Hybrid Work, Digital Tools, and Corporate Culture
-Authors: Dongwook Yoon, Jonathan Chen
+Authors: Jonathan Chen, Dongwook Yoon
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146922)
 
@@ -7805,7 +7805,7 @@ Authors: Dongwook Yoon, Jonathan Chen
 ### Reinforcing and Reclaiming The Home: Co-speculating Future Technologies to Support Remote and Hybrid Work
 HONORABLE_MENTION
 
-Authors: Dasom Choi, Junnan Yu, Stephen Voida, Janghee Cho
+Authors: Janghee Cho, Dasom Choi, Junnan Yu, Stephen Voida
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146980)
 
@@ -7814,21 +7814,21 @@ Authors: Dasom Choi, Junnan Yu, Stephen Voida, Janghee Cho
 
 ## Working Practices and Tools C
 ### Practice-informed Patterns for Organising Large Groups in Distributed Mixed Reality Collaboration
-Authors: Jens Emil Grønbæk, Germán Leiva, Eduardo Velloso, Emily Wong, Juan Sánchez Esquivel
+Authors: Emily Wong, Juan Sánchez Esquivel, Germán Leiva, Jens Emil Grønbæk, Eduardo Velloso
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147880)
 
 
 
 ### Whispering Through Walls: Towards Inclusive Backchannel Communication in Hybrid Meetings
-Authors: Jens Emil Grønbæk, Qianqian Mu, Eve Hoggan, Marcel Borowski, Susanne Bødker
+Authors: Qianqian Mu, Marcel Borowski, Jens Emil Grønbæk, Susanne Bødker, Eve Hoggan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148087)
 
 
 
 ### DISCERN: Designing Decision Support Interfaces to Investigate the Complexities of Workplace Social Decision-Making With Line Managers
-Authors: Kate Nowak, Lindy Le, Shamsi Iqbal, Pranav Khadpe, Jina Suh
+Authors: Pranav Khadpe, Lindy Le, Kate Nowak, Shamsi Iqbal, Jina Suh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147698)
 
@@ -7855,14 +7855,14 @@ Authors: Donghan Hu, Sang Won Lee
 ### Generative Echo Chamber? Effect of LLM-Powered Search Systems on Diverse Information Seeking
 BEST_PAPER
 
-Authors: Ziang Xiao, Nikhil Sharma, Q. Vera Liao
+Authors: Nikhil Sharma, Q. Vera Liao, Ziang Xiao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147446)
 
 
 
 ### SwapVid: Integrating Video Viewing and Document Exploration with Direct Manipulation
-Authors: Kazuki Takashima, Kotaro Hara, Kazuyuki Fujita, Taichi Murakami, Yoshifumi Kitamura
+Authors: Taichi Murakami, Kazuyuki Fujita, Kotaro Hara, Kazuki Takashima, Yoshifumi Kitamura
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147489)
 
@@ -7871,7 +7871,7 @@ Authors: Kazuki Takashima, Kotaro Hara, Kazuyuki Fujita, Taichi Murakami, Yoshif
 ### rTisane: Externalizing conceptual models for data analysis increases engagement with domain knowledge and improves statistical model quality
 BEST_PAPER
 
-Authors: Jeffrey Heer, Eunice Jun, Edward Misback, Rene Just
+Authors: Eunice Jun, Edward Misback, Jeffrey Heer, Rene Just
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147809)
 
@@ -7880,14 +7880,14 @@ Authors: Jeffrey Heer, Eunice Jun, Edward Misback, Rene Just
 ### Odds and Insights: Decision Quality in Exploratory Data Analysis Under Uncertainty
 HONORABLE_MENTION
 
-Authors: Matthew Kay, Michael Correll, Abhraneel Sarma, Yuan Cui, Xiaoying Pu, Eli Brown
+Authors: Abhraneel Sarma, Xiaoying Pu, Yuan Cui, Eli Brown, Michael Correll, Matthew Kay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146941)
 
 
 
 ### Using Open Data to Automatically Generate Localized Analogies
-Authors: Daniel Goldstein, Sofia Eleni Spatharioti, Jake Hofman
+Authors: Sofia Eleni Spatharioti, Daniel Goldstein, Jake Hofman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147137)
 
@@ -7896,7 +7896,7 @@ Authors: Daniel Goldstein, Sofia Eleni Spatharioti, Jake Hofman
 
 ## Immersive Experiences: Design and Evaluation
 ### Milliways: Taming Multiverses through Principled Evaluation of Data Analysis Paths
-Authors: Matthew Kay, Abhraneel Sarma, Kyle Hwang, Jessica Hullman
+Authors: Abhraneel Sarma, Kyle Hwang, Jessica Hullman, Matthew Kay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146939)
 
@@ -7907,7 +7907,7 @@ Abstract: Multiverse analyses involve conducting all combinations of reasonable 
 ### Development and Validation of the Collision Anxiety Questionnaire for VR Applications
 HONORABLE_MENTION
 
-Authors: Julius Tietenberg, Patrizia Ring, Katharina Emmerich, Maic Masuch
+Authors: Patrizia Ring, Julius Tietenberg, Katharina Emmerich, Maic Masuch
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147339)
 
@@ -7916,7 +7916,7 @@ Abstract: The high degree of sensory immersion is a distinctive feature of head-
 
 
 ### Assessing User Apprehensions About Mixed Reality Artifacts and Applications: The Mixed Reality Concerns (MRC) Questionnaire
-Authors: Aodi Chen, Luu Viet Trinh Le, John Uschold, Christopher Katins, Paweł W. Woźniak, Ihsan Tumay, Thomas Kosch
+Authors: Christopher Katins, Paweł W. Woźniak, Aodi Chen, Ihsan Tumay, Luu Viet Trinh Le, John Uschold, Thomas Kosch
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146992)
 
@@ -7925,7 +7925,7 @@ Abstract: Current research in Mixed Reality (MR) presents a wide range of novel 
 
 
 ### Virtual Unreality: Augmentation-Oriented Ideation Through Design Cards
-Authors: Marc Hassenzahl, Daniel Courtney, Robin Neuhaus, Madlen Kneile, Ronda Ringfort-Felner
+Authors: Robin Neuhaus, Ronda Ringfort-Felner, Daniel Courtney, Madlen Kneile, Marc Hassenzahl
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148278)
 
@@ -7934,7 +7934,7 @@ Abstract: While realism is a common design goal for virtual reality (VR), VR als
 
 
 ### Evaluating Navigation and Comparison Performance of Computational Notebooks on Desktop and in Virtual Reality
-Authors: Yalong Yang, Chris North, Sungwon In, Eric Krokos, Kirsten Whitley
+Authors: Sungwon In, Eric Krokos, Kirsten Whitley, Chris North, Yalong Yang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146704)
 
@@ -7945,7 +7945,7 @@ Abstract: The computational notebook serves as a versatile tool for data analysi
 
 ## Understanding Immersive Experiences
 ### Fast-Forward Reality: Authoring Error-Free Context-Aware Policies with Real-Time Unit Tests in Extended Reality
-Authors: Kashyap Todi, Tanya Jonker, Tianyi Wang, Xun Qian, Xuhai "Orson" Xu
+Authors: Xun Qian, Tianyi Wang, Xuhai "Orson" Xu, Tanya Jonker, Kashyap Todi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147548)
 
@@ -7954,7 +7954,7 @@ Abstract: Advances in ubiquitous computing have enabled end-user authoring of co
 
 
 ### Towards Building Condition-Based Cross-Modality Intention-Aware Human-AI Cooperation under VR Environment
-Authors: Ziyao He, Yunpeng Song, Shiyuan Li, Zhongmin Cai
+Authors: Ziyao He, Shiyuan Li, Yunpeng Song, Zhongmin Cai
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147782)
 
@@ -7963,7 +7963,7 @@ Abstract: To address critical challenges in effectively identifying user intent 
 
 
 ### Predicting the Noticeability of Dynamic Virtual Elements in Virtual Reality
-Authors: Yukang Yan, Yi Fei Cheng, Zhipeng Li, David Lindlbauer
+Authors: Zhipeng Li, Yi Fei Cheng, Yukang Yan, David Lindlbauer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148043)
 
@@ -7972,11 +7972,11 @@ Abstract: While Virtual Reality (VR) systems can present virtual elements such a
 
 
 ### Just Undo It: Exploring Undo Mechanics in Multi-User Virtual Reality
-Authors: Julian Rasch, Yannick Weiss, Florian Perzl, Florian Müller
+Authors: Julian Rasch, Florian Perzl, Yannick Weiss, Florian Müller
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147280)
 
-Abstract: With the proliferation of VR and a metaverse on the horizon, many multi-user activities are migrating to the VR world, calling for effective collaboration support. As one key feature, traditional collaborative systems provide users with undo mechanics to reverse errors and other unwanted changes. While undo has been extensively researched in this domain and is now considered industry standard, it is strikingly absent for VR systems in research and industry.
+Abstract: With the proliferation of VR and a metaverse on the horizon, many multi-user activities are migrating to the VR world, calling for effective collaboration support. As one key feature, traditional collaborative systems provide users with undo mechanics to reverse errors and other unwanted changes. While undo has been extensively researched in this domain and is now considered industry standard, it is strikingly absent for VR systems in research and industry.
 This work addresses this research gap by exploring different undo techniques for basic object manipulation in different collaboration modes in VR. We conducted a study involving 32 participants organized in teams of two. Here, we studied users' performance and preferences in a tower stacking task, varying the available undo techniques and their mode of collaboration. The results suggest that users desire and use undo in VR and that the choice of the undo technique impacts users' performance and social connection.
 
 
@@ -7984,7 +7984,7 @@ This work addresses this research gap by exploring different undo techniques for
 
 ## Immersive Experiences: UIs and Personalisation
 ### UI Mobility Control in XR: Switching UI Positionings between Static, Dynamic, and Self Entities
-Authors: Yang Zhang, Ruofei Du, Alex Olwal, Siyou Pei, David Kim
+Authors: Siyou Pei, David Kim, Alex Olwal, Yang Zhang, Ruofei Du
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147970)
 
@@ -7993,7 +7993,7 @@ Abstract: Extended reality (XR) has the potential for seamless user interface (U
 
 
 ### ProInterAR: A Visual Programming Platform for Creating Immersive AR Interactions
-Authors: Karan Singh, Hongbo Fu, Hui Ye, Jiaye Leng, Pengfei Xu
+Authors: Hui Ye, Jiaye Leng, Pengfei Xu, Karan Singh, Hongbo Fu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148242)
 
@@ -8002,7 +8002,7 @@ Abstract: AR applications commonly contain diverse interactions among different 
 
 
 ### MineXR: Mining Personalized Extended Reality Interfaces
-Authors: Kashyap Todi, Yukang Yan, Missie Smith, Hyunsung Cho, Mark Parent, Tanya Jonker, David Lindlbauer, Hrvoje Benko
+Authors: Hyunsung Cho, Yukang Yan, Kashyap Todi, Mark Parent, Missie Smith, Tanya Jonker, Hrvoje Benko, David Lindlbauer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147924)
 
@@ -8011,7 +8011,7 @@ Abstract: Extended Reality (XR) interfaces offer engaging user experiences, but 
 
 
 ### VirtuWander: Enhancing Multi-modal Interaction for Virtual Tour Guidance through Large Language Models
-Authors: Linping Yuan, Wei Zeng, Liangwei Wang, Bingchuan Jiang, Zhan Wang
+Authors: Zhan Wang, Linping Yuan, Liangwei Wang, Bingchuan Jiang, Wei Zeng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148243)
 
@@ -8022,7 +8022,7 @@ Abstract: Tour guidance in virtual museums encourages multi-modal interactions t
 
 ## Immersive Experiences: Creating and Communicating
 ### Elastica: Adaptive Live Augmented Presentations with Elastic Mappings Across Modalities
-Authors: Li-Yi Wei, Deepali Aneja, Haijun Xia, Rubaiat Habib Kazi, Yining Cao
+Authors: Yining Cao, Rubaiat Habib Kazi, Li-Yi Wei, Deepali Aneja, Haijun Xia
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147635)
 
@@ -8031,7 +8031,7 @@ Abstract: Augmented presentations offer compelling storytelling by combining spe
 
 
 ### Unlocking Understanding: An Investigation of Multimodal Communication in Virtual Reality Collaboration
-Authors: Ryan P. McMahan, Eugene Taranta, Yahya Hmaiti, Mykola Maslych, Ravi Kiran Kattoju, Joseph LaViola, Ryan Ghamandi
+Authors: Ryan Ghamandi, Ravi Kiran Kattoju, Yahya Hmaiti, Mykola Maslych, Eugene Taranta, Ryan P. McMahan, Joseph LaViola
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146938)
 
@@ -8040,7 +8040,7 @@ Abstract: Communication in collaboration, especially synchronous, remote communi
 
 
 ### Meaning Follows Purpose: Unravelling the Architectural Design Conventions in the Contemporary Metaverse
-Authors: Andrew Vande Moere, Adalberto Simeone, Jihae Han
+Authors: Jihae Han, Andrew Vande Moere, Adalberto Simeone
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147826)
 
@@ -8051,7 +8051,7 @@ Abstract: Thousands of people regularly meet, work and play in the architectural
 ### LLMR: Real-time Prompting of Interactive Worlds using Large Language Models
 HONORABLE_MENTION
 
-Authors: Fernanda De La Torre, Cathy Mengying Fang, Han Huang, Jaron Lanier, Judith Amores, Andrzej Banburski-Fahey
+Authors: Fernanda De La Torre, Cathy Mengying Fang, Han Huang, Andrzej Banburski-Fahey, Judith Amores, Jaron Lanier
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146847)
 
@@ -8060,7 +8060,7 @@ Abstract: We present Large Language Model for Mixed Reality (LLMR), a framework 
 
 
 ### Using the Visual Language of Comics to Alter Sensations in Augmented Reality
-Authors: Kasper Hornbæk, Henning Pohl, Arpit Bhatia, Hasti Seifi, Teresa Hirzle
+Authors: Arpit Bhatia, Henning Pohl, Teresa Hirzle, Hasti Seifi, Kasper Hornbæk
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147047)
 
@@ -8071,7 +8071,7 @@ Abstract: Augmented Reality (AR) excels at altering what we see but non-visual s
 
 ## Highlight on Health
 ### Shared Responsibility in Collaborative Tracking for Children with Type 1 Diabetes and their Parents
-Authors: Yoon Jeong Cha, Sun Young Park, Mark Newman, Alice Wou, Yasemin Gunal, Joyce Lee
+Authors: Yoon Jeong Cha, Yasemin Gunal, Alice Wou, Joyce Lee, Mark Newman, Sun Young Park
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147031)
 
@@ -8085,7 +8085,7 @@ Authors: Aurel Ruben Mäder, Lakmal Meegahapola, Daniel Gatica-Perez
 
 
 ### Somaesthetic Meditation Wearable: Exploring the Effect of Targeted Warmth Technology on Meditators' Experiences
-Authors: Oren Zuckerman, Talia Ezer, Jonathan Giron, Hadas Erel
+Authors: Talia Ezer, Jonathan Giron, Hadas Erel, Oren Zuckerman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148124)
 
@@ -8094,35 +8094,35 @@ Authors: Oren Zuckerman, Talia Ezer, Jonathan Giron, Hadas Erel
 ### Using and Appropriating Technology to Support The Menopause Journey in the UK
 HONORABLE_MENTION
 
-Authors: Aisling Ann O'Kane, Marianela Ciolfi Felice, Emily Lopez Burst
+Authors: Emily Lopez Burst, Marianela Ciolfi Felice, Aisling Ann O'Kane
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147124)
 
 
 
 ### "It's Sink or Swim": Exploring Patients' Challenges and Tool Needs for Self-Management of Postoperative Acute Pain
-Authors: Sylvain Bédard, M. Gabrielle Pagé, Jinghui Cheng, Mélanie Lussier, Souleima Zghab
+Authors: Souleima Zghab, M. Gabrielle Pagé, Mélanie Lussier, Sylvain Bédard, Jinghui Cheng
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146987)
 
 
 
 ### Individual Differences and Technology Affordances Combine to Predict Mobile Social Media Distraction Behaviors and Consequences
-Authors: Peter Monge, Emily Sidnam-Mauch
+Authors: Emily Sidnam-Mauch, Peter Monge
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147042)
 
 
 
 ### "Speech is Silver, Silence is Golden " Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides
-Authors: Giulia Barbareschi, Kai Kunze, Christopher Kim, George Chernyshov, Tarika Kumar
+Authors: Giulia Barbareschi, Tarika Kumar, Christopher Kim, George Chernyshov, Kai Kunze
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147500)
 
 
 
 ### "If This Person is Suicidal, What Do I Do?": Designing Computational Approaches to Help Online Volunteers Respond to Suicidality
-Authors: Haiyi Zhu, Cindy Liu, Sunniva Liu, Logan Stapleton, Stevie Chancellor, Robert Kraut, Irene Hong
+Authors: Logan Stapleton, Sunniva Liu, Cindy Liu, Irene Hong, Stevie Chancellor, Robert Kraut, Haiyi Zhu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147747)
 
@@ -8131,28 +8131,28 @@ Authors: Haiyi Zhu, Cindy Liu, Sunniva Liu, Logan Stapleton, Stevie Chancellor, 
 ### Mindfulness-based Embodied Tangible Interactions for Stroke Rehabilitation at Home
 BEST_PAPER
 
-Authors: Catherine Holloway, Wen Mo, Preetham Nagaraj
+Authors: Preetham Nagaraj, Wen Mo, Catherine Holloway
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146728)
 
 
 
 ### Quantifying the Pollan Effect: Investigating the Impact of Emerging Psychiatric Interventions on Online Mental Health Discourse
-Authors: Munmun De Choudhury, Sachin Pendse, Neha Kumar
+Authors: Sachin Pendse, Neha Kumar, Munmun De Choudhury
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146755)
 
 
 
 ### Holding AI to Account: Challenges for the Delivery of Trustworthy AI in Healthcare
-Authors: Mark Rouncefield, Peter Tolmie, Rob Procter
+Authors: Rob Procter, Peter Tolmie, Mark Rouncefield
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150872)
 
 
 
 ### “If Someone Walks In On Us Talking, Pretend to be My Friend, Not My Therapist": Challenges and Opportunities for Digital Mental Health Support in Saudi Arabia
-Authors: Nigel Shadbolt, Max Van Kleek, Deemah Alateeq, Sarah Aldaweesh
+Authors: Sarah Aldaweesh, Deemah Alateeq, Max Van Kleek, Nigel Shadbolt
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147711)
 
@@ -8161,14 +8161,14 @@ Authors: Nigel Shadbolt, Max Van Kleek, Deemah Alateeq, Sarah Aldaweesh
 
 ## Highlight on Interaction and Cultures
 ### Commoning as a Strategy for HCI Research and Design in South Asia
-Authors: Robert Soden, Aarjav Chauhan
+Authors: Aarjav Chauhan, Robert Soden
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147596)
 
 
 
 ### Better Little People Pictures: Generative Creation of Demographically Diverse Anthropographics
-Authors: Lauren Perera, Wesley Willett, Priya Dhawka
+Authors: Priya Dhawka, Lauren Perera, Wesley Willett
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147622)
 
@@ -8184,14 +8184,14 @@ Authors: Yuchao Zhao
 ### Justice-oriented Design Listening: Participatory Ecoacoustics with a Ghanaian Forest Community
 HONORABLE_MENTION
 
-Authors: Alan Blackwell, Emmanuel Acheampong, Joycelyn Longdon, Jennifer Gabrys, Benjamin Ossom, Michelle Westerlaken, Adham Ashton-Butt
+Authors: Joycelyn Longdon, Michelle Westerlaken, Alan Blackwell, Jennifer Gabrys, Benjamin Ossom, Adham Ashton-Butt, Emmanuel Acheampong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147917)
 
 
 
 ### Politics of the Past: Understanding the Role of Memory, Postmemory, and Remembrance in Navigating the History of Migrant Families
-Authors: Cosmin Munteanu, Carolina Reyes Marquez, Marisol Wong-Villacres, Mohammad Rashidujjaman Rifat, Syed Ishtiaque Ahmed, Nabila Chowdhury, Azhagu Meena SP, Natasha Shokri, Negin Dahya, Cibeles Valera
+Authors: Nabila Chowdhury, Natasha Shokri, Cibeles Valera, Azhagu Meena SP, Carolina Reyes Marquez, Mohammad Rashidujjaman Rifat, Marisol Wong-Villacres, Cosmin Munteanu, Negin Dahya, Syed Ishtiaque Ahmed
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146983)
 
@@ -8200,28 +8200,28 @@ Authors: Cosmin Munteanu, Carolina Reyes Marquez, Marisol Wong-Villacres, Mohamm
 ### Migrant Farmworkers' Experiences of Agricultural Technologies: Implications for Worker Sociality and Desired Change
 HONORABLE_MENTION
 
-Authors: Olivia Doggett, Priyank Chandra, Matt Ratto
+Authors: Olivia Doggett, Matt Ratto, Priyank Chandra
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147193)
 
 
 
 ### Play Across Boundaries: Exploring Cross-Cultural Maldaimonic Game Experiences
-Authors: Shruti Chandra, Sota Kobuki, Katie Seaborn, Satoru Iseya, Shun Hidaka
+Authors: Katie Seaborn, Satoru Iseya, Shun Hidaka, Sota Kobuki, Shruti Chandra
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147448)
 
 
 
 ### Air/time Travel: Rethinking Appropriation in Global HCI and Futures of Electronic Exchange
-Authors: Christopher Csikszentmihalyi, Daniel Mwesigwa
+Authors: Daniel Mwesigwa, Christopher Csikszentmihalyi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148174)
 
 
 
 ### Low-Resourced Languages and Online Knowledge Repositories: A Need-Finding Study.
-Authors: Hellina Hailu Nigatu, Sarah Chasins, John Canny
+Authors: Hellina Hailu Nigatu, John Canny, Sarah Chasins
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147539)
 
@@ -8230,14 +8230,14 @@ Authors: Hellina Hailu Nigatu, Sarah Chasins, John Canny
 
 ## Highlight on Fabrication
 ### Towards More Sustainable Interactive Textiles: A Literature Review on The Use of Biomaterials for eTextiles. 
-Authors: Sofía Guridi, Emmi Pouta, Matteo Iannacchero
+Authors: Sofía Guridi, Matteo Iannacchero, Emmi Pouta
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147272)
 
 
 
 ### ExCell: High Expansion Ratio Moisture-Responsive Wooden Actuators for DIY Shape-Changing and Deployable Structures
-Authors: Shuhong Wang, Lining Yao, Tucker Rae-Grant
+Authors: Tucker Rae-Grant, Shuhong Wang, Lining Yao
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147588)
 
@@ -8253,7 +8253,7 @@ Authors: Alice Haynes, Jürgen Steimle
 ### Evaluating ActuAir: Building Occupants' Experiences of a Shape-Changing Air Quality Display
 HONORABLE_MENTION
 
-Authors: David Kirk, Abigail Durrant, Eleni Margariti, Vasilis Vlachokyriakos
+Authors: Eleni Margariti, Vasilis Vlachokyriakos, Abigail Durrant, David Kirk
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146904)
 
@@ -8271,7 +8271,7 @@ Abstract: Mental health and wellbeing have become one of the significant challen
 
 
 ### Implementation of Virtual Reality Motivated Physical Activity via Omnidirectional Treadmill in a Supported Living Facility for Older Adults: A Mixed-Methods Evaluation.
-Authors: Leonie Cooper, Hannah Bradwell, Rory Baxter, Ray Jones, Katie Jane Edwards, Anna Whittaker, Simone Tomaz
+Authors: Hannah Bradwell, Leonie Cooper, Rory Baxter, Simone Tomaz, Katie Jane Edwards, Anna Whittaker, Ray Jones
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148214)
 
@@ -8282,7 +8282,7 @@ Abstract: Virtual reality (VR) can support healthy ageing, but few devices have 
 ### MobileGravity: Mobile Simulation of a High Range of Weight in Virtual Reality
 HONORABLE_MENTION
 
-Authors: Niels Henze, Tien-Julian Ho, Alexander Kalus, Johannes Klein, Lee-Ann Seegets
+Authors: Alexander Kalus, Johannes Klein, Tien-Julian Ho, Lee-Ann Seegets, Niels Henze
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147373)
 
@@ -8291,7 +8291,7 @@ Abstract: Simulating accurate weight forces in Virtual Reality (VR) is an unsolv
 
 
 ### Behind the Scenes: Adapting Cinematography and Editing Concepts to Navigation in Virtual Reality
-Authors: Dorota Glowacka, Alan Medlar, Mari Lehtikari
+Authors: Alan Medlar, Mari Lehtikari, Dorota Glowacka
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147397)
 
@@ -8300,7 +8300,7 @@ Abstract: Teleportation is a popular method of navigation in virtual reality (VR
 
 
 ### The Impact of Avatar Completeness on Embodiment and the Detectability of Hand Redirection in Virtual Reality
-Authors: Anthony Tang, André Zenner, Antonio Krüger, Martin Feick, Simon Seibert
+Authors: Martin Feick, André Zenner, Simon Seibert, Anthony Tang, Antonio Krüger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147279)
 
@@ -8329,7 +8329,7 @@ Abstract: A Mixed Reality (MR) system encompasses various aspects, such as visua
 
 ## Highlight on AI
 ### Mind The Gap: Designers and Standards on Algorithmic System Transparency for Users
-Authors: bianca schor, Chris Norval, Jat Singh, Ellen Charlesworth
+Authors: bianca schor, Chris Norval, Ellen Charlesworth, Jat Singh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147422)
 
@@ -8347,7 +8347,7 @@ Abstract: Many companies are turning to algorithms to determine prices. However,
 
 
 ### Towards a Non-Ideal Methodological Framework for Responsible ML
-Authors: Ramaravind Kommiya Mothilal, Syed Ishtiaque Ahmed, Shion Guha
+Authors: Ramaravind Kommiya Mothilal, Shion Guha, Syed Ishtiaque Ahmed
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148062)
 
@@ -8356,7 +8356,7 @@ Abstract: Though ML practitioners increasingly employ various Responsible ML (RM
 
 
 ### (Beyond) Reasonable Doubt: Challenges that Public Defenders Face in Scrutinizing AI in Court
-Authors: Niloufar Salehi, Angela Jin
+Authors: Angela Jin, Niloufar Salehi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146685)
 
@@ -8365,7 +8365,7 @@ Abstract: Accountable use of AI systems in high-stakes settings relies on making
 
 
 ### “The bus is nothing without us”: Making Visible the Labor of Bus Operators amid the Ongoing Push Towards Transit Automation
-Authors: Sarah Fox, Alice Xiaodi Tang, Chinar Mehta, Bonnie Fan, Nikolas Martelaro, Hunter Akridge
+Authors: Hunter Akridge, Bonnie Fan, Alice Xiaodi Tang, Chinar Mehta, Nikolas Martelaro, Sarah Fox
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147433)
 
@@ -8374,7 +8374,7 @@ Abstract:  This paper describes how the complexity of circumstances bus operator
 
 
 ### Care-Based Eco-Feedback Augmented with Generative AI: Fostering Pro-Environmental Behavior through Emotional Attachment
-Authors: Adrian Holzer, Bruno Kocher, Manon Berney, Vladimir Macko, Abdessalam Ouaazki
+Authors: Manon Berney, Abdessalam Ouaazki, Vladimir Macko, Bruno Kocher, Adrian Holzer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147985)
 
@@ -8383,7 +8383,7 @@ Abstract: Lights out! With the escalating climate crisis, eco-feedback has gaine
 
 
 ### DeepTreeSketch: Neural Graph Prediction for Faithful 3D Tree Modeling from Sketches
-Authors: Ruiyuan Zhang, Naoto Yokoya, Zhanglin Cheng, Zhihao Liu, Yu LI, Fangyuan Tu
+Authors: Zhihao Liu, Yu LI, Fangyuan Tu, Ruiyuan Zhang, Zhanglin Cheng, Naoto Yokoya
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147555)
 
@@ -8392,7 +8392,7 @@ Abstract: We present DeepTreeSketch, a novel AI-assisted sketching system that e
 
 
 ### Amplifying Human Capabilities in Prostate Cancer Diagnosis: An Empirical Study of Current Practices and AI Potentials in Radiology
-Authors: Volkmar Pipek, Sheree May Saßmannshausen, Aparecido Fabiano Pinatti de Carvalho, Mark Rouncefield, Nazmun Ontika
+Authors: Sheree May Saßmannshausen, Nazmun Ontika, Aparecido Fabiano Pinatti de Carvalho, Mark Rouncefield, Volkmar Pipek
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147429)
 
@@ -8401,7 +8401,7 @@ Abstract: This paper examines the potential of Human-Centered AI (HCAI) solution
 
 
 ### Data Ethics Emergency Drill: A Toolbox for Discussing Responsible AI for Industry Teams
-Authors: Dylan Rees, Paul Marshall, David Hopkinson, Vanessa Aisyahsari Hanschke, Merve Alanyali
+Authors: Vanessa Aisyahsari Hanschke, Dylan Rees, Merve Alanyali, David Hopkinson, Paul Marshall
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147218)
 
@@ -8412,7 +8412,7 @@ Abstract: Researchers urge technology practitioners such as data scientists to c
 ### JupyterLab in Retrograde: Contextual Notifications That Highlight Fairness and Bias Issues for Data Scientists
 BEST_PAPER
 
-Authors: Aleksander Binion, Ahmad Bamba, Luca Dovichi, Kevin Bryson, Arthur Borem, Blase Ur, Galen Harrison
+Authors: Galen Harrison, Kevin Bryson, Ahmad Bamba, Luca Dovichi, Aleksander Binion, Arthur Borem, Blase Ur
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147904)
 
@@ -8421,7 +8421,7 @@ Abstract: Current algorithmic fairness tools focus on auditing completed models,
 
 
 ### Understanding Contestability on the Margins: Implications for the Design of Algorithmic Decision-making in Public Services
-Authors: Sohini Upadhyay, Naveena Karusala, Rajesh Veeraraghavan, Krzysztof Gajos
+Authors: Naveena Karusala, Sohini Upadhyay, Rajesh Veeraraghavan, Krzysztof Gajos
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148034)
 
@@ -8430,7 +8430,7 @@ Abstract: Policymakers have established that the ability to contest decisions ma
 
 
 ### 	In-Between Visuals and Visible: The Impacts of Text-to-Image Generative AI Tools on Digital Image-making Practices in the Global South
-Authors: Syed Ishtiaque Ahmed, Arundhuti Dey, Sadaf Khan, Dipannita Nandi, Nusrat Jahan Mim
+Authors: Nusrat Jahan Mim, Dipannita Nandi, Sadaf Khan, Arundhuti Dey, Syed Ishtiaque Ahmed
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147687)
 
@@ -8441,14 +8441,14 @@ Abstract: This paper joins the growing body of HCI work on critical AI studies a
 
 ## Highlight on Learning and Education
 ### Emergency Remote Education in Nigeria: Challenges and Design Opportunities
-Authors: Rebecca Nicholson, Opeyemi Dele-Ajayi, Kemi Fasae, Rebecca Strachan
+Authors: Rebecca Nicholson, Rebecca Strachan, Opeyemi Dele-Ajayi, Kemi Fasae
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147787)
 
 
 
 ### Establishing Heuristics for Improving the Usability of GUI Machine Learning Tools for Novice Users
-Authors: Haifa Al-Shammare, Malak Baslyman, Asma Yamani
+Authors: Asma Yamani, Haifa Al-Shammare, Malak Baslyman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148181)
 
@@ -8457,35 +8457,35 @@ Authors: Haifa Al-Shammare, Malak Baslyman, Asma Yamani
 ### Envisioning Support-Centered Technologies for Language Practice and Use: Needs and Design Opportunities for Immigrant English Language Learners (ELLs)
 HONORABLE_MENTION
 
-Authors: Geoff Kaufman, Adinawa Adjagbodjou
+Authors: Adinawa Adjagbodjou, Geoff Kaufman
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146672)
 
 
 
 ### Understanding Takeovers and Telestration in Laparoscopic Surgery to Inform Telementoring System Design
-Authors: Jocelyne Troccaz, Sandrine Voros, Geoffroy Canlorbe, Ignacio Avellino, Solène Lambert
+Authors: Solène Lambert, Sandrine Voros, Geoffroy Canlorbe, Jocelyne Troccaz, Ignacio Avellino
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147383)
 
 
 
 ### WriteUpRight: Regulating Children’s Handwriting Body Posture by Unobstrusively Error Amplification via Slow Visual Stimuli on Tablets
-Authors: Chenyang Wang, Daniel Tozadore, Pierre Dillenbourg, Barbara Bruno
+Authors: Chenyang Wang, Daniel Tozadore, Barbara Bruno, Pierre Dillenbourg
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146950)
 
 
 
 ### Interrupting for Microlearning: Understanding Perceptions and Interruptibility of Proactive Conversational Microlearning Services
-Authors: Uichin Lee, Chanhee Lee, Jiwook Lee, Minyeong Kim, Youngji Koh, Auk Kim
+Authors: Minyeong Kim, Jiwook Lee, Youngji Koh, Chanhee Lee, Uichin Lee, Auk Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148333)
 
 
 
 ### The Realities of Evaluating Educational Technology in School Settings
-Authors: Susan Lechelt, Rebecca Nicholson, Ahmed Kharrufa, Abrar Almjally, Anthony Trory, Kate Howland, Megan Venn-Wycherley, Vidya Sarangapani
+Authors: Megan Venn-Wycherley, Ahmed Kharrufa, Susan Lechelt, Rebecca Nicholson, Kate Howland, Abrar Almjally, Anthony Trory, Vidya Sarangapani
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150648)
 
@@ -8494,21 +8494,21 @@ Authors: Susan Lechelt, Rebecca Nicholson, Ahmed Kharrufa, Abrar Almjally, Antho
 
 ## Highlight on Input and Control Techniques
 ### Ultrasonic Mid-Air Haptics on the Face: Effects of Lateral Modulation Frequency and Amplitude on Users’ Responses
-Authors: Xu Sun, Bingjian Liu, Ruiheng Lan, Qingfeng Wang
+Authors: Ruiheng Lan, Xu Sun, Qingfeng Wang, Bingjian Liu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148049)
 
 
 
 ### Model-based Evaluation of Recall-based Interaction Techniques
-Authors: Bruno Fruchard, Gilles Bailly, Julien Gori
+Authors: Julien Gori, Bruno Fruchard, Gilles Bailly
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147569)
 
 
 
 ### Behavioral Differences between Tap and Swipe: Observations on Time, Error, Touch-point Distribution, and Trajectory for Tap-and-swipe Enabled Targets
-Authors: Hiroki Usuba, Junichi Sato, Shota Yamanaka
+Authors: Shota Yamanaka, Hiroki Usuba, Junichi Sato
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147678)
 
@@ -8522,28 +8522,28 @@ Authors: Céline Coutrix, Camélia Prost
 
 
 ### Controlling the Rooms: How People Prefer Using Gestures to Control Their Smart Homes
-Authors: Susanne Boll, Heiko Mueller, Masoumehsadat Hosseini
+Authors: Masoumehsadat Hosseini, Heiko Mueller, Susanne Boll
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147598)
 
 
 
 ### Grip-Reach-Touch-Repeat: A Refined Model of Grasp to Encompass One-Handed Interaction with Arbitrary Form Factor Devices
-Authors: Marcos Serrano, Tao Xu, Liang He, Chaoyi Wu, Anne Roudaut, Kaixing Zhao
+Authors: Kaixing Zhao, Chaoyi Wu, Tao Xu, Liang He, Marcos Serrano, Anne Roudaut
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146671)
 
 
 
 ### Take a Seat, Make a Gesture: Charting User Preferences for On-Chair and From-Chair Gesture Input
-Authors: Alexandru-Tudor Andrei, Radu-Daniel Vatavu, Laura-Bianca Bilius
+Authors: Alexandru-Tudor Andrei, Laura-Bianca Bilius, Radu-Daniel Vatavu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147142)
 
 
 
 ### Simulating Interaction Movements via Model Predictive Control
-Authors: Florian Fischer, Arthur Fleig, Markus Klar, Jörg Müller, Miroslav Bachinski
+Authors: Markus Klar, Florian Fischer, Arthur Fleig, Miroslav Bachinski, Jörg Müller
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150926)
 
@@ -8552,14 +8552,14 @@ Authors: Florian Fischer, Arthur Fleig, Markus Klar, Jörg Müller, Miroslav Bac
 
 ## Highlight on Security and Privacy
 ### Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World 
-Authors: Ruba Abu-Salma, Mark Warner, Dilisha Patel, Ina Kaleva, Lisa Malki
+Authors: Lisa Malki, Ina Kaleva, Dilisha Patel, Mark Warner, Ruba Abu-Salma
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147278)
 
 
 
 ### Counting Carrds: Investigating Personal Disclosure and Boundary Management in Transformative Fandom
-Authors: Kelly Wang, Dan Bially Levy, Kien Nguyen, Abigail Marsh, Ada Lerner
+Authors: Kelly Wang, Dan Bially Levy, Kien Nguyen, Ada Lerner, Abigail Marsh
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147455)
 
@@ -8575,7 +8575,7 @@ Authors: Sandy Gould
 ### ‘We Do Not Have the Capacity to Monitor All Media’: A Design Case Study on Cyber Situational Awareness in Computer Emergency Response Teams
 BEST_PAPER
 
-Authors: Christian Reuter, Markus Bayer, Thea Riebe, Marc-André Kaufhold
+Authors: Marc-André Kaufhold, Thea Riebe, Markus Bayer, Christian Reuter
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146975)
 
@@ -8584,7 +8584,7 @@ Authors: Christian Reuter, Markus Bayer, Thea Riebe, Marc-André Kaufhold
 ### Analyzing Security and Privacy Advice During the 2022 Russian Invasion of Ukraine on Twitter
 HONORABLE_MENTION
 
-Authors: Stefan Dietze, Sascha Fahl, Noah Wöhler, Harshini Sri Ramulu, Christian Stransky, Dominik Wermke, Juliane Schmüser, Felix Bensmann, Dimitar Dimitrov, Sebastian Schellhammer, Yasemin Acar
+Authors: Juliane Schmüser, Harshini Sri Ramulu, Noah Wöhler, Christian Stransky, Felix Bensmann, Dimitar Dimitrov, Sebastian Schellhammer, Dominik Wermke, Stefan Dietze, Yasemin Acar, Sascha Fahl
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147984)
 
@@ -8593,14 +8593,14 @@ Authors: Stefan Dietze, Sascha Fahl, Noah Wöhler, Harshini Sri Ramulu, Christia
 ### In Focus, Out of Privacy: The Wearer's Perspective on the Privacy Dilemma of Camera Glasses
 HONORABLE_MENTION
 
-Authors: Adrian Dabrowski, Shreya Tomar, Divyanshu Bhardwaj, Katharina Krombholz, Alexander Ponticello
+Authors: Divyanshu Bhardwaj, Alexander Ponticello, Shreya Tomar, Adrian Dabrowski, Katharina Krombholz
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147215)
 
 
 
 ### The Impact of Risk Appeal Approaches on Users’ Sharing Confidential Information
-Authors: Peter Story, Elham Al Qahtani, Mohamed Shehab
+Authors: Elham Al Qahtani, Peter Story, Mohamed Shehab
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148170)
 
@@ -8611,21 +8611,21 @@ Authors: Peter Story, Elham Al Qahtani, Mohamed Shehab
 ### Comic-making to Study Game-making: Using Comics in Qualitative Longitudinal Research on Game Development
 HONORABLE_MENTION
 
-Authors: Annakaisa Kultima, Solip Park, Perttu Hämäläinen
+Authors: Solip Park, Perttu Hämäläinen, Annakaisa Kultima
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147421)
 
 
 
 ### Understanding Neurodiverse Social Play Between Autistic and Non-Autistic Children
-Authors: Alison Oldfield, Oussama Metatla, Brooke Morris, Hayati Havlucu
+Authors: Brooke Morris, Hayati Havlucu, Alison Oldfield, Oussama Metatla
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147697)
 
 
 
 ### Ecological In/Congruence: Becoming Sensitised to Nature in Video Games through Humanistic First-Person Research
-Authors: Oğuz 'Oz' Buruk, Velvet Spors, Juho Hamari
+Authors: Velvet Spors, Oğuz 'Oz' Buruk, Juho Hamari
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147799)
 
@@ -8639,21 +8639,21 @@ Authors: Bjarke Larsen, Elin Carstensdottir
 
 
 ### A Design Framework for Reflective Play
-Authors: Matthew Whitby, Seth Cooper, Elisa Mekler, Ioanna Iacovides, Kutub Gandhi, Josh Aaron Miller, Mehmet Kosa
+Authors: Josh Aaron Miller, Kutub Gandhi, Matthew Whitby, Mehmet Kosa, Seth Cooper, Elisa Mekler, Ioanna Iacovides
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146677)
 
 
 
 ### Playing on Hard Mode: Accessibility, Difficulty and Joy in Video Game Adoption for Gamers with Disabilities
-Authors: Jon Froehlich, James Fogarty, Jesse Martinez
+Authors: Jesse Martinez, Jon Froehlich, James Fogarty
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146616)
 
 
 
 ### Outplay Your Weaker Self: A Mixed-Methods Study on Gamification to Overcome Procrastination in Academia
-Authors: Sofia Schöbel, Harald von Korflesch, Manuel Schmidt-Kraepelin, Ali Sunyaev, Mathias Ullrich, Jeanine Kirchner-Krath
+Authors: Jeanine Kirchner-Krath, Manuel Schmidt-Kraepelin, Sofia Schöbel, Mathias Ullrich, Ali Sunyaev, Harald von Korflesch
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147416)
 
@@ -8662,21 +8662,21 @@ Authors: Sofia Schöbel, Harald von Korflesch, Manuel Schmidt-Kraepelin, Ali Sun
 
 ## Highlight on Diversity In HCI
 ### A Playbook to be Proud of: Making the Case for LGBTQ+ Inclusive User Account Design 
-Authors: Morgan Ames, Beatrice Fadrigon, Jane Lupica, Princess Gordon
+Authors: Beatrice Fadrigon, Princess Gordon, Jane Lupica, Morgan Ames
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148092)
 
 
 
 ### Unpacking Norms, Narratives, and Nourishment: A Feminist HCI Critique on Food Tracking Technologies
-Authors: Max Birk, Daisy O'Neill, Regan Mandryk
+Authors: Daisy O'Neill, Max Birk, Regan Mandryk
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148303)
 
 
 
 ### Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI
-Authors: Ellen Simpson, Haiyi Zhu, Jed Brubaker, Sarah Fox, Jordan Taylor, Anh-Ton Tran
+Authors: Jordan Taylor, Ellen Simpson, Anh-Ton Tran, Jed Brubaker, Sarah Fox, Haiyi Zhu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147332)
 
@@ -8685,35 +8685,35 @@ Authors: Ellen Simpson, Haiyi Zhu, Jed Brubaker, Sarah Fox, Jordan Taylor, Anh-T
 ### Silver-Tongued and Sundry: Exploring Intersectional Pronouns with ChatGPT
 HONORABLE_MENTION
 
-Authors: Takao Fujii, Madeleine Steeds, Katie Seaborn
+Authors: Takao Fujii, Katie Seaborn, Madeleine Steeds
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148287)
 
 
 
 ### Deus Ex Machina and Personas from Large Language Models: Investigating the Composition of AI-Generated Persona Descriptions
-Authors: Jianxing Chi, Chang Liu, Joni Salminen, Essi Häyhänen, Wenjing Pian, Bernard Jansen
+Authors: Joni Salminen, Chang Liu, Wenjing Pian, Jianxing Chi, Essi Häyhänen, Bernard Jansen
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148256)
 
 
 
 ### Designing an Archive of Feelings: Queering Tangible Interaction with Button Portraits
-Authors: Noura Howell, Sylvia Janicki, Alexandra Teixeira Riggs, Anne Sullivan
+Authors: Alexandra Teixeira Riggs, Sylvia Janicki, Noura Howell, Anne Sullivan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147424)
 
 
 
 ### Designing Diverse Pathways for Participation
-Authors: Lisa Hofer, Ralf Vetter, Anna Blumenkranz, Jeanette Falk, Moritz Kubesch, Christopher Frauenberger
+Authors: Jeanette Falk, Anna Blumenkranz, Moritz Kubesch, Ralf Vetter, Lisa Hofer, Christopher Frauenberger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146734)
 
 
 
 ### SustAInable: How Values in the Form of Individual Motivation Shape Algorithms’ Outcomes. An Example Promoting Ecological and Social Sustainability
-Authors: Siegmar Otto, Sarah Zabel
+Authors: Sarah Zabel, Siegmar Otto
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147851)
 
@@ -8727,7 +8727,7 @@ Authors: Aisha Sobey
 
 
 ### Blueprints: Systematizing Behavior Change Designs - The Case of Social Comparison Theory
-Authors: Geke Ludden, Mailin Lemke, Roelof de Vries
+Authors: Roelof de Vries, Mailin Lemke, Geke Ludden
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150871)
 
@@ -8736,49 +8736,49 @@ Authors: Geke Ludden, Mailin Lemke, Roelof de Vries
 
 ## Highlight on Communities and Online Platforms
 ### Think Fast, Think Slow, Think Critical: Designing an Automated Propaganda Detection Tool
-Authors: Zoya Katashinskaya, Liudmila Zavolokina, Daniel Gordon Jones, Kilian Sprenkamp, Gerhard Schwabe
+Authors: Liudmila Zavolokina, Kilian Sprenkamp, Zoya Katashinskaya, Daniel Gordon Jones, Gerhard Schwabe
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147239)
 
 
 
 ### "Caption it in an Accessible Way That is Also Enjoyable": Characterizing User-Driven Captioning Practices on TikTok
-Authors: Jon Froehlich, Tessa Eagle, Emma McDonnell, Leah Findlater, Kathryn Ringland, Soo Hyun Moon, Pitch Sinlapanuntakul
+Authors: Emma McDonnell, Tessa Eagle, Pitch Sinlapanuntakul, Soo Hyun Moon, Jon Froehlich, Kathryn Ringland, Leah Findlater
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147777)
 
 
 
 ### SolarClub: Supporting Renewable Energy Communities through an Interactive Coordination System
-Authors: Hannah Knox, Georgia Panagiotidou, Kyrill Potapov, Michael Fell, Farhan Samanani, Enrico Costanza, Sonia Nkatha
+Authors: Georgia Panagiotidou, Enrico Costanza, Kyrill Potapov, Sonia Nkatha, Michael Fell, Farhan Samanani, Hannah Knox
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146855)
 
 
 
 ### Examining the Role of Peer Acknowledgements on Social Annotations: Unraveling the Psychological Underpinnings
-Authors: Haolun Wu, Susanne Lajoie, Xiaoshan Huang, Xue Liu
+Authors: Xiaoshan Huang, Haolun Wu, Xue Liu, Susanne Lajoie
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147427)
 
 
 
 ### "Community Guidelines Make this the Best Party on the Internet": An In-Depth Study of Online Platforms' Content Moderation Policies
-Authors: Brennan Schaffner, Jay Shen, Genevieve Lakier, Chenhao Tan, Jacqueline Mei, Siyuan Cheng, Marshini Chetty, Arjun Nitin Bhagoji, Grace Wang, Nick Feamster
+Authors: Brennan Schaffner, Arjun Nitin Bhagoji, Siyuan Cheng, Jacqueline Mei, Jay Shen, Grace Wang, Marshini Chetty, Nick Feamster, Genevieve Lakier, Chenhao Tan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148026)
 
 
 
 ### A Quantitative Approach to Identifying Emergent Editor Roles in Open Street Map
-Authors: Bowen Zhang, Dipto Sarkar, Jennings Anderson, Robert Soden
+Authors: Bowen Zhang, Jennings Anderson, Dipto Sarkar, Robert Soden
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147183)
 
 
 
 ### Insights Into Legacy: Issues of Handover from a Partner-Initiated Project
-Authors: Boriana Koleva, Jocelyn Spence, Steven Benford, Emily Thorn
+Authors: Emily Thorn, Jocelyn Spence, Boriana Koleva, Steven Benford
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146665)
 
@@ -8789,7 +8789,7 @@ Authors: Boriana Koleva, Jocelyn Spence, Steven Benford, Emily Thorn
 ### Thinking with Sound: Exploring the Experience of Listening to an Ultrasonic Art Installation 
 HONORABLE_MENTION
 
-Authors: Nick Bryan-Kinns, Andrew McPherson, Nicole Robson
+Authors: Nicole Robson, Andrew McPherson, Nick Bryan-Kinns
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147210)
 
@@ -8798,21 +8798,21 @@ Authors: Nick Bryan-Kinns, Andrew McPherson, Nicole Robson
 ### What Counts as ‘Creative’ Work? Articulating Four Epistemic Positions in Creativity-Oriented HCI Research
 BEST_PAPER
 
-Authors: Sarah Fdili Alaoui, Marianela Ciolfi Felice, Wendy Mackay, Stacy Hsueh
+Authors: Stacy Hsueh, Marianela Ciolfi Felice, Sarah Fdili Alaoui, Wendy Mackay
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148122)
 
 
 
 ### The Illusion of Increased Customization: Framing Choices as a Creative Process Increases Perceived Customization
-Authors: Maarten Bos, Alice Moon
+Authors: Alice Moon, Maarten Bos
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146702)
 
 
 
 ### Heart and Soul: The Ethics of Biometric Capture in Immersive Artistic Performance
-Authors: Ryan Kelly, Margaret Osborne, Lucy Sparrow, Ben Loveridge, Solange Glasser, Caiti Galwey
+Authors: Lucy Sparrow, Caiti Galwey, Ben Loveridge, Solange Glasser, Margaret Osborne, Ryan Kelly
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147399)
 
@@ -8821,49 +8821,49 @@ Authors: Ryan Kelly, Margaret Osborne, Lucy Sparrow, Ben Loveridge, Solange Glas
 ### Entangling Entanglement: A Diffractive Dialogue on HCI and Musical Interactions
 HONORABLE_MENTION
 
-Authors: Landon Morrison, Andrew McPherson
+Authors: Andrew McPherson, Landon Morrison
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147415)
 
 
 
 ### Living with Cyanobacteria: Exploring Materiality in Caring for Microbes in Everyday Life
-Authors: Jiwei Zhou, Elvin Karana, Zjenja Doubrovski, Elisa Giaccardi
+Authors: Jiwei Zhou, Zjenja Doubrovski, Elisa Giaccardi, Elvin Karana
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147186)
 
 
 
 ### PhotoScout: Synthesis-Powered Multi-Modal Image Search
-Authors: Qiaochu Chen, Celeste Barnaby, Chenglong Wang, Isil Dillig
+Authors: Celeste Barnaby, Qiaochu Chen, Chenglong Wang, Isil Dillig
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147573)
 
 
 
 ### "Please Be Nice": Robot Responses to User Bullying - Measuring Performance Across Aggression Levels
-Authors: Yushan Pan, Di Wu, Yiming Luo, Hao Wang, Shihao Liu
+Authors: Yiming Luo, Shihao Liu, Di Wu, Hao Wang, Yushan Pan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147077)
 
 
 
 ### GustosonicSense: Towards understanding the design of playful gustosonic eating experiences
-Authors: Florian Mueller, Flora Salim, Zhuying Li, Yan Wang, Humphrey Obie, John Grundy
+Authors: Yan Wang, Humphrey Obie, Zhuying Li, Flora Salim, John Grundy, Florian Mueller
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148023)
 
 
 
 ### A Design Framework for Ingestible Play
-Authors: Florian Mueller, Zhuying Li, Nathan Semertzidis, Yan Wang, Josh Andres, Stefan Greuter
+Authors: Zhuying Li, Yan Wang, Josh Andres, Nathan Semertzidis, Stefan Greuter, Florian Mueller
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150650)
 
 
 
 ### Algorithmic Ways of Seeing: Using Object Detection to Facilitate Art Exploration
-Authors: Peter Kun, Louie Meyer, Johanne Engel Aaen, Anitamalina Regitse Tranberg, Sebastian Risi, Anders Løvlie, Matthias Freiberger
+Authors: Louie Meyer, Johanne Engel Aaen, Anitamalina Regitse Tranberg, Peter Kun, Matthias Freiberger, Sebastian Risi, Anders Løvlie
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147105)
 
@@ -8872,28 +8872,28 @@ Authors: Peter Kun, Louie Meyer, Johanne Engel Aaen, Anitamalina Regitse Tranber
 
 ## Highlight on Design and Design Methods
 ### What's the Rush?: Alternative Values in Navigation Technologies for Urban Placemaking
-Authors: Carolina Nobre, Taneea Agrawaal, Robert Soden, Aarjav Chauhan
+Authors: Taneea Agrawaal, Aarjav Chauhan, Carolina Nobre, Robert Soden
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147044)
 
 
 
 ### Input Visualization: Collecting and Modifying Data with Visual Representations
-Authors: Jordan Louis, Nathalie Bressa, Wesley Willett, Samuel Huron
+Authors: Nathalie Bressa, Jordan Louis, Wesley Willett, Samuel Huron
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147820)
 
 
 
 ### Multimedia-Enabled 911: Exploring 911 Callers’ Experience of Call Taker Controlled Video Calling in Simulated Emergencies
-Authors: Wolfgang Stuerzlinger, Punyashlok Dash, Benett Axtell, Carman Neustaedter, Denise Y. Geiskkovitch
+Authors: Punyashlok Dash, Benett Axtell, Denise Y. Geiskkovitch, Carman Neustaedter, Wolfgang Stuerzlinger
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148116)
 
 
 
 ### eKichabi v2: Designing and Scaling a Dual-Platform Technology in Rural Tanzania
-Authors: Yunqi Wang, Richard Anderson, Fanchong Wang, Yunwei Zhao, Hosea Mpogole, Alexander Metzger, Hans Easton, Ananditha Raghunath, XunMei Liu
+Authors: Ananditha Raghunath, Alexander Metzger, Hans Easton, XunMei Liu, Fanchong Wang, Yunqi Wang, Yunwei Zhao, Hosea Mpogole, Richard Anderson
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147861)
 
@@ -8902,28 +8902,28 @@ Authors: Yunqi Wang, Richard Anderson, Fanchong Wang, Yunwei Zhao, Hosea Mpogole
 ### Designing a Data-Driven Survey System: Leveraging Participants' Online Data to Personalize Surveys
 HONORABLE_MENTION
 
-Authors: Michelle Mazurek, Kévin Huguenin, Bertil Chapuis, Lev Velykoivanenko, Kavous Salehzadeh Niksirat, Stefan Teofanovic
+Authors: Lev Velykoivanenko, Kavous Salehzadeh Niksirat, Stefan Teofanovic, Bertil Chapuis, Michelle Mazurek, Kévin Huguenin
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147705)
 
 
 
 ### “Is Text-Based Music Search Enough to Satisfy Your Needs?” A New Way to Discover Music with Images 
-Authors: Hyorim Shin, Jeongeun Park, Ha Young Kim, Changhoon Oh
+Authors: Jeongeun Park, Hyorim Shin, Changhoon Oh, Ha Young Kim
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148282)
 
 
 
 ### Writing out the Storm: Designing and Evaluating Tools for Weather Risk Messaging
-Authors: Priyank Chandra, Lydia Chilton, Sophia Jit, Robert Soden, Jennifer Spinney
+Authors: Sophia Jit, Jennifer Spinney, Priyank Chandra, Lydia Chilton, Robert Soden
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147048)
 
 
 
 ### “What’s Your Name Again?”: How Race and Gender Dynamics Impact Codesign Processes and Output 
-Authors: Judith Uchidiuno, Erik Harpstead, Ross Higashi, Jonaya Kemper, Jessica Hammer, Jaemarie Solyst
+Authors: Judith Uchidiuno, Jaemarie Solyst, Jonaya Kemper, Erik Harpstead, Ross Higashi, Jessica Hammer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150848)
 
@@ -8934,7 +8934,7 @@ Authors: Judith Uchidiuno, Erik Harpstead, Ross Higashi, Jonaya Kemper, Jessica 
 ### CareJournal: A Voice-Based Conversational Agent for Supporting Care Communications
 HONORABLE_MENTION
 
-Authors: Mingyi Li, John Rudnik, Sharadhi Raghuraj, Robin Brewer
+Authors: John Rudnik, Sharadhi Raghuraj, Mingyi Li, Robin Brewer
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147253)
 
@@ -8948,35 +8948,35 @@ Authors: Ruben Albers, Marc Hassenzahl
 
 
 ### Unpacking ICT-supported Social Connections and Support of Late-life Migration: From the Lens of Social Convoys
-Authors: Shuai Ma, Yuling Sun, Ying Lei
+Authors: Ying Lei, Shuai Ma, Yuling Sun
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147033)
 
 
 
 ### Networks of care in digital domestic labour economies
-Authors: Adrian Petterson, Olivia Doggett, Priyank Chandra, Isabella Jaimes Rodriguez
+Authors: Adrian Petterson, Isabella Jaimes Rodriguez, Olivia Doggett, Priyank Chandra
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147318)
 
 
 
 ### Hostile Systems: A Taxonomy of Harms Articulated by Citizens Living with Socio-Economic Deprivation
-Authors: Adam Parnaby, Clara Crivellaro, Ahmed Kharrufa, Colin Watson
+Authors: Colin Watson, Clara Crivellaro, Adam Parnaby, Ahmed Kharrufa
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148328)
 
 
 
 ### Digital Comprehensibility Assessment of Simplified Texts among Persons with Intellectual Disabilities
-Authors: Sarah Ebling, Andreas Säuberli, Silvana Deilen, Silvia Hansen-Schirra, Laura Schiffl, Patrick Haller, Franz Holzknecht
+Authors: Andreas Säuberli, Franz Holzknecht, Patrick Haller, Silvana Deilen, Laura Schiffl, Silvia Hansen-Schirra, Sarah Ebling
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147152)
 
 
 
 ### Understanding Antenatal Care Needs through Co-Creation with Roma Women to Inform the Design of mHealth Technologies 
-Authors: Caroline Claisse, Mabel Lie, Abigail Durrant
+Authors: Caroline Claisse, Abigail Durrant, Mabel Lie
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146924)
 
@@ -8994,7 +8994,7 @@ Abstract: Artificial intelligence (AI) has the potential to bring significant be
 
 
 ### HILL: A Hallucination Identifier for Large Language Models
-Authors: Sven Eckhardt, Florian Leiser, Ali Sunyaev, Alexander Mädche, Valentin Leuthe, Gerhard Schwabe, Merlin Knaeble
+Authors: Florian Leiser, Sven Eckhardt, Valentin Leuthe, Merlin Knaeble, Alexander Mädche, Gerhard Schwabe, Ali Sunyaev
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147556)
 
@@ -9005,7 +9005,7 @@ Abstract: Large language models (LLMs) are prone to hallucinations, i.e., nonsen
 ### Synlogue with Aizuchi-bot: Investigating the Co-Adaptive and Open-Ended Interaction Paradigm
 HONORABLE_MENTION
 
-Authors: Dominique Chen, Olaf Witkowski, Kazumi Yoshimura
+Authors: Kazumi Yoshimura, Dominique Chen, Olaf Witkowski
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147480)
 
@@ -9014,17 +9014,17 @@ Abstract: In contrast to dialogue, wherein the exchange of completed messages oc
 
 
 ### Empowering Calibrated (Dis-)Trust in Conversational Agents: A User Study on the Persuasive Power of Limitation Disclaimers vs. Authoritative Style
-Authors: Luise Metzger, Johannes Kraus, Linda Miller, Martin Baumann
+Authors: Luise Metzger, Linda Miller, Martin Baumann, Johannes Kraus
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148239)
 
-Abstract: While conversational agents based on Large Language Models (LLMs) can drive progress in many domains, they are prone to generating faulty information. To ensure an efficient, safe, and satisfactory user experience maximizing benefits of these systems, users must be empowered to judge the reliability of system outputs. In this, both disclaimers and agents' communicative style are pivotal design instances. 
+Abstract: While conversational agents based on Large Language Models (LLMs) can drive progress in many domains, they are prone to generating faulty information. To ensure an efficient, safe, and satisfactory user experience maximizing benefits of these systems, users must be empowered to judge the reliability of system outputs. In this, both disclaimers and agents' communicative style are pivotal design instances. 
 In an online study with 594 participants, we investigated how these affect users' trust and a mock-up agent's persuasiveness, based on an established framework from social psychology. While prior information on potential inaccuracies or faulty information did not affect trust, an authoritative communicative style elicited more trust. Also, a trusted agent was more persuasive resulting in more positive attitudes regarding the subject of the conversation. Results imply that disclaimers on agents' limitations fail to effectively alter users' trust but can be supported by appropriate communicative style during interaction.
 
 
 
 ### DiaryMate: Understanding User Perceptions and Experience in Human-AI Collaboration for Personal Journaling
-Authors: Hwajung Hong, Donghoon Shin, Taewan Kim, Young-Ho Kim
+Authors: Taewan Kim, Donghoon Shin, Young-Ho Kim, Hwajung Hong
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148343)
 
@@ -9035,21 +9035,21 @@ Abstract: With their generative capabilities, large language models (LLMs) have 
 
 ## Text Entry Techniques
 ### PonDeFlick: A Japanese Text Entry on Smartwatch Commonalizing Flick Operation with Smartphone Interface
-Authors: Kai Akamine, Akihiro Tamura, Tsuneo Kato, Ryotaro Tsuchida
+Authors: Kai Akamine, Ryotaro Tsuchida, Tsuneo Kato, Akihiro Tamura
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147586)
 
 
 
 ### ARTiST: Automated Text Simplification for Task Guidance in Augmented Reality
-Authors: Jing Qian, Guande Wu, Sonia Castelo Quispe, Shaoyu Chen, João Rulff, Claudio Silva
+Authors: Guande Wu, Jing Qian, Sonia Castelo Quispe, Shaoyu Chen, João Rulff, Claudio Silva
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147808)
 
 
 
 ### Exploration of Foot-based Text Entry Techniques for Virtual Reality Environments
-Authors: Liangyuting Zhang, Hongyu Yang, Hai-Ning Liang, Pourang Irani, Lingyun Yu, Tingjie Wan
+Authors: Tingjie Wan, Liangyuting Zhang, Hongyu Yang, Pourang Irani, Lingyun Yu, Hai-Ning Liang
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146722)
 
@@ -9065,7 +9065,7 @@ Authors: Songyan Teng, Simon D'Alfonso, Vassilis Kostakos
 
 ## Writing and AI C
 ### CharacterMeet: Supporting Creative Writers' Entire Story Character Construction Processes Through Conversation with LLM-Powered Chatbot Avatars
-Authors: Mingming Fan, Pan Hui, Shan Jin, Hua Xuan Qin, Ze Gao
+Authors: Hua Xuan Qin, Shan Jin, Ze Gao, Mingming Fan, Pan Hui
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146770)
 
@@ -9074,7 +9074,7 @@ Abstract: Support for story character construction is as essential as characters
 
 
 ### PANDALens: Towards AI-Assisted In-Context Writing on OHMD During Travels
-Authors: Can Liu, Yang Chen, Shengdong Zhao, Lucia Wang, Runze Cai, Nuwan Janaka
+Authors: Runze Cai, Nuwan Janaka, Yang Chen, Lucia Wang, Shengdong Zhao, Can Liu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146640)
 
@@ -9083,7 +9083,7 @@ Abstract: While effective for recording and sharing experiences, traditional in-
 
 
 ### AI-Augmented Brainwriting: Investigating the use of LLMs in group ideation
-Authors: Angelora Cooper, Osnat Mokryn, Andrew Kun, Orit Shaer, Hagit Ben Shoshan
+Authors: Orit Shaer, Angelora Cooper, Osnat Mokryn, Andrew Kun, Hagit Ben Shoshan
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147572)
 
@@ -9092,7 +9092,7 @@ Abstract: The growing availability of generative AI technologies such as large l
 
 
 ### LegalWriter: An Intelligent Writing Support System for Structured and Persuasive Legal Case Writing for Novice Law Students
-Authors: Thiemo Wambsganss, Florian Weber, Matthias Soellner, Seyed Parsa Neshaei
+Authors: Florian Weber, Thiemo Wambsganss, Seyed Parsa Neshaei, Matthias Soellner
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147647)
 
@@ -9103,21 +9103,21 @@ Abstract: Novice students in law courses or students who encounter legal educati
 
 ## Social Activism C
 ### Social Justice in HCI: A Systematic Literature Review
-Authors: Alyssa Sheehan, Ashley Boone, Christopher Le Dantec, Lynn Dombrowski, Kathryn Ringland, Ishita Chordia, Angela D. R. Smith, Leya Breanna Baltaxe-Admony
+Authors: Ishita Chordia, Leya Breanna Baltaxe-Admony, Ashley Boone, Alyssa Sheehan, Lynn Dombrowski, Christopher Le Dantec, Kathryn Ringland, Angela D. R. Smith
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148051)
 
 
 
 ### Seam Work and Simulacra of Societal Impact in Networking Research: A Critical Technical Practice Approach
-Authors: Jen Liu, Phoebe Sengers, Gloire Rubambiza, Hakim Weatherspoon
+Authors: Gloire Rubambiza, Phoebe Sengers, Hakim Weatherspoon, Jen Liu
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/146610)
 
 
 
 ### Addressing Interpersonal Harm in Online Gaming Communities: The Opportunities and Challenges for a Restorative Justice Approach
-Authors: Niloufar Salehi, Shagun Jhaver, Sijia Xiao
+Authors: Sijia Xiao, Shagun Jhaver, Niloufar Salehi
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/150929)
 
@@ -9133,35 +9133,35 @@ Authors: Erina Seh-Young Moon, Shion Guha
 
 ## Designing with Users
 ### Older Adults Imagining Future Technologies in Participatory Design Workshops: Supporting Continuity in the Pursuit of Meaningful Activities
-Authors: Ryan Kelly, Wei Zhao, Melissa Rogerson, Jenny Waycott
+Authors: Wei Zhao, Ryan Kelly, Melissa Rogerson, Jenny Waycott
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147953)
 
 
 
 ### Co-design Partners as Transformative Learners: Imagining Ideal Technology for Schools by Centering Speculative Relationships 
-Authors: Michael Chang, Arturo Cortez, Sidney D'Mello, Thomas Breideband, Thomas M Philip, Richmond Wong, Ashieda McKoy
+Authors: Michael Chang, Richmond Wong, Thomas Breideband, Thomas M Philip, Ashieda McKoy, Arturo Cortez, Sidney D'Mello
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147225)
 
 
 
 ### Co-Designing Situated Displays for Family Co-Regulation with ADHD Children
-Authors: Clarisse Bonang, Kimberley Lakes, Jesus Beltran, Lucas Silva, Aehong Min, Elissa Monteiro, Arpita Bhattacharya, Gillian Hayes, Franceli Cibrian, Sabrina Schuck, Daniel Epstein
+Authors: Lucas Silva, Franceli Cibrian, Clarisse Bonang, Arpita Bhattacharya, Aehong Min, Elissa Monteiro, Jesus Beltran, Sabrina Schuck, Kimberley Lakes, Gillian Hayes, Daniel Epstein
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148144)
 
 
 
 ### Guidelines for Integrating Value Sensitive Design in Responsible AI Toolkits
-Authors: Celine Mougenot, Marios Constantinides, Malak Sadek, Daniele Quercia
+Authors: Malak Sadek, Marios Constantinides, Daniele Quercia, Celine Mougenot
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/148342)
 
 
 
 ### Co-design Accessible Public Robots: Insights from People with Mobility Disability, Robotic Practitioners and Their Collaborations
-Authors: Sarah Fox, Nikolas Martelaro, Alesandra Baca Vazquez, Franklin Mingzhe Li, Howard Han, Daragh Byrne
+Authors: Howard Han, Franklin Mingzhe Li, Alesandra Baca Vazquez, Daragh Byrne, Nikolas Martelaro, Sarah Fox
 
 [Link](https://programs.sigchi.org/chi/2024/program/content/147032)
 

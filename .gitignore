@@ -10,6 +10,7 @@
 *.avi
 *.bib
 *.txt
+.DS_Store
 !requirements.txt
 
 # User-specific files
