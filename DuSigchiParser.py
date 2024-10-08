@@ -2,6 +2,7 @@ import os
 import json
 import markdown
 
+FOLDER_NAME = 'sigchi2'
 
 def convert_markdown_to_html(file_path):
   # Read the Markdown file
@@ -19,24 +20,30 @@ def convert_markdown_to_html(file_path):
   print(f"Converted {file_path} to {output_file_path}")
 
 
-def parse(filename_raw, data, indent=0, program='chi', year='2024'):
-  filename = 'sigchi/' + filename_raw[:-4] + 'md'
+def parse(filename_raw, data, indent=0, program='uist', year='2024'):
+  filename = FOLDER_NAME + '/' + filename_raw[:-4] + 'md'
 
   # with open(filename + 'session.md', 'w', encoding='utf-8') as ff:
   with open(filename, 'w', encoding='utf-8') as f:
     # Iterate over sessions and extract paper titles, session names, and author names
     for session in data['sessions']:
       session_name = session['name']
-      if not (session['typeId'] == 13269):
+      # if not (session['typeId'] == 13269): # CHI 2024
+      if not (session['typeId'] == 13748): # UIST 2024
         continue  # Checks if it's a paper session.
       f.write(f"\n## {session_name}\n")
       # ff.write(f"\n## {session_name}\n")
       for content_id in session['contentIds']:
         content = next((c for c in data['contents'] if c['id'] == content_id),
                        None)
+        # if content and content['typeId'] in [
+        #     13269, 13341
+        # ]:  # Check if the content is a paper or journal in CHI
+
         if content and content['typeId'] in [
-            13269, 13341
-        ]:  # Check if the content is a paper or journal
+            13748
+        ]:  # Check if the content is a paper in UIST
+
           paper_title = content['title']
           authors = []
           for author in content['authors']:
@@ -55,10 +62,10 @@ def parse(filename_raw, data, indent=0, program='chi', year='2024'):
           f.write(f"[Link]({link})\n\n")
           KEYWORDS = [
               'Reality', 'XR', 'Virtual', 'LLM', 'AI', 'Large', 'Immersive',
-              'Communication', 'Gaze'
+              'Communication', 'Gaze', 'Dynamic', 'Perception', 'realities'
           ]
-          if any(keyword in session_name for keyword in KEYWORDS):
-            f.write(f"Abstract: {abstract}\n\n")
+          # if any(keyword in session_name for keyword in KEYWORDS):
+          f.write(f"Abstract: {abstract}\n\n")
           f.write('\n\n')
 
   convert_markdown_to_html(filename)
@@ -68,7 +75,7 @@ def read_and_process_json_files(directory_path):
   # Loop through all files in the specified directory
   for filename in os.listdir(directory_path):
     # Check if the file is a JSON file and contains 'CHI_2024' in the filename
-    if filename.endswith(".json") and "CHI_2024" in filename:
+    if filename.endswith(".json"):
       filename_raw = filename
       file_path = os.path.join(directory_path, filename)
       # Open and read the JSON file with UTF-8 encoding
@@ -81,5 +88,5 @@ def read_and_process_json_files(directory_path):
 # Get the current working directory
 current_directory = os.getcwd()
 # Specify the directory containing JSON files
-directory_path = os.path.join(current_directory, "sigchi/")
+directory_path = os.path.join(current_directory, FOLDER_NAME)
 read_and_process_json_files(directory_path)
