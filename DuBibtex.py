@@ -55,7 +55,8 @@ class Re:
   doiAcmUrl = re.compile(
       r'https:\/\/dl\.acm\.org\/doi\/(?:\w+\/)?([\w\d\.\-\\\/]+)',
       flags=re.MULTILINE)
-  doiJavascript = re.compile(r'doi\"\:\"([\w\d\.\-\\\/]+)\"', flags=re.MULTILINE)
+  doiJavascript = re.compile(r'doi\"\:\"([\w\d\.\-\\\/]+)\"',
+                             flags=re.MULTILINE)
   doiText = re.compile(r'"DOI":"([\w\.\\\/]*)"', flags=re.MULTILINE)
   doiSpringer = re.compile(r'chapter\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
   doiWiley = re.compile(r'doi\/abs\/([\w\.\\\/\_\-]+)', flags=re.MULTILINE)
@@ -66,7 +67,8 @@ class Re:
   acm = re.compile(r'citation\.cfm\?id\=([\d\.]+)', flags=re.MULTILINE)
   acmBib = re.compile(r'<PRE id="[\d\.]+">(.+)<\/pre>',
                       flags=re.MULTILINE | re.IGNORECASE | re.S)
-  ieee = re.compile(r'ieee\.org(?:\/abstract)?\/document\/(\d+)', flags=re.MULTILINE)
+  ieee = re.compile(r'ieee\.org(?:\/abstract)?\/document\/(\d+)',
+                    flags=re.MULTILINE)
   neurips = re.compile(r'proceedings.neurips.cc', flags=re.MULTILINE)
   year = re.compile(r'\w+(\d+)')
 
@@ -87,7 +89,8 @@ class Parser:
     config.read("config.ini")
     Paras.header['User-Agent'] = config.get(Paras.section, "header").strip()
     Paras.searchDOI = config.getboolean(Paras.section, "searchDOI")
-    Paras.useOfflineDOI = use_offline_doi if use_offline_doi is not None else config.getboolean(Paras.section, "useOfflineDOI")
+    Paras.useOfflineDOI = use_offline_doi if use_offline_doi is not None else config.getboolean(
+        Paras.section, "useOfflineDOI")
     Paras.printSelfInfo = config.getboolean(Paras.section, "printSelfInfo")
     Paras.keepComments = config.getboolean(Paras.section, "keepComments")
     Paras.debugBibCrawler = config.getboolean(Paras.section, "debugBibCrawler")
@@ -96,7 +99,8 @@ class Parser:
     Paras.inputFileList = config.get(Paras.section,
                                      "inputFileList").strip().split(",")
     Paras.doiJsonFile = config.get(Paras.section, "doiJsonFile").strip()
-    Paras.outputFile = output_file if output_file else config.get(Paras.section, "outputFile").strip()
+    Paras.outputFile = output_file if output_file else config.get(
+        Paras.section, "outputFile").strip()
     Paras.fieldRemovalList = config.get(Paras.section,
                                         "fieldRemovalList").strip().split(",")
     Paras.minYear = config.getint(Paras.section, "minYear")
@@ -192,10 +196,11 @@ class Parser:
       # Searches for DOI.
       self.debug_bib('Missing DOI, search "%s"...' % self.cur['title'])
 
-      
       title_without_brackets = re.sub(r'\{|\}', '', self.cur['title'])
-      if ('journal' in self.cur and any([x in self.cur['journal'].lower() for x in ["ieee"]]) or
-          'booktitle' in self.cur and any([x in self.cur['booktitle'].lower() for x in ["ieee", "iccv"]])):
+      if ('journal' in self.cur and
+          any([x in self.cur['journal'].lower() for x in ["ieee"]]) or
+          'booktitle' in self.cur and
+          any([x in self.cur['booktitle'].lower() for x in ["ieee", "iccv"]])):
         d = ieee_xplore_lookup(title_without_brackets, self)
         if d:
           self.fix_doi(d)
@@ -294,7 +299,6 @@ class Parser:
     if m and len(m.groups()) > 0:
       self.cur[m.groups()[0].lower()] = m.groups()[1]
 
-
   def copy_from_parsed_entry(self, entry):
     self.add_new_bib(entry.key, entry.entry_type)
     for field in entry.fields:
@@ -348,24 +352,29 @@ def levenshtein(s1, s2):
 
   return previous_row[-1]
 
+
 def ieee_xplore_lookup(s, parser):
   # Search IEEE Xplore
-  xplore_search_url='https://ieeexplore.ieee.org/rest/search'
-  payload={
-    "newsearch": "true",
-    "queryText": s,
-    "highlight": "true",
-    "returnFacets": [
-      "ALL"
-    ],
-    "returnType": "SEARCH",
-    "matchPubs": "true"
+  xplore_search_url = 'https://ieeexplore.ieee.org/rest/search'
+  payload = {
+      "newsearch": "true",
+      "queryText": s,
+      "highlight": "true",
+      "returnFacets": ["ALL"],
+      "returnType": "SEARCH",
+      "matchPubs": "true"
   }
-  response = requests.post(xplore_search_url, json=payload, headers={
-    "User-Agent": Paras.header["User-Agent"],
-    "Origin": "https://ieeexplore.ieee.org",
-    "Referer": "https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText="
-  })
+  response = requests.post(
+      xplore_search_url,
+      json=payload,
+      headers={
+          "User-Agent":
+              Paras.header["User-Agent"],
+          "Origin":
+              "https://ieeexplore.ieee.org",
+          "Referer":
+              "https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText="
+      })
   try:
     result = response.json()
     if result["records"]:
@@ -373,6 +382,7 @@ def ieee_xplore_lookup(s, parser):
   except Exception as e:
     pass
   return None
+
 
 def google_lookup_ieee_only(s, parser):
   # Search Google with IEEE keyword
@@ -388,12 +398,16 @@ def google_lookup_ieee_only(s, parser):
       return res
   return None
 
+
 def google_lookup(s, parser):
   html = request_url('https://www.google.com/search?q=%s' % s)
   with open('debug.txt', 'w', encoding='utf8') as f:
     f.write(html)
 
-  url_regexes = ['doiAcmUrl', 'acm', 'doiSpringer', 'doiWiley', 'doiUrl', 'ieee', 'doiCaltech', 'doiPubmed', 'neurips']
+  url_regexes = [
+      'doiAcmUrl', 'acm', 'doiSpringer', 'doiWiley', 'doiUrl', 'ieee',
+      'doiCaltech', 'doiPubmed', 'neurips'
+  ]
 
   found_urls = []
   for url_regex in url_regexes:
@@ -488,7 +502,7 @@ def google_lookup(s, parser):
 
     if url_regex == 'doiCaltech' and m and len(m.groups()) > 0:
       html_cal = request_url('https://authors.library.caltech.edu/%s' %
-                            m.groups()[0])
+                             m.groups()[0])
       m = Re.doiUrl.search(html_cal, re.M)
       if m and len(m.groups()) > 0:
         res = m.groups()[0]
@@ -496,7 +510,7 @@ def google_lookup(s, parser):
         print("DOI from Google and Caltech: %s\n" % res)
         return res
 
-    if url_regex == 'doiPubmed' and m  and len(m.groups()) > 0:
+    if url_regex == 'doiPubmed' and m and len(m.groups()) > 0:
       html_pubmed = request_url('https://www.ncbi.nlm.nih.gov/pubmed/%s' %
                                 m.groups()[0])
       m = Re.doiUrl.search(html_pubmed, re.M)
@@ -505,7 +519,7 @@ def google_lookup(s, parser):
         res = res.replace('\\', '')
         print("DOI from Google and PubMed: %s\n" % res)
         return res
-    
+
   # Nowadays, CVPR papers are hard to fetch DOI without ieee keyword.
   html = request_url('https://www.google.com/search?q=ieee+%s' % s)
   m = Re.ieee.search(html)
