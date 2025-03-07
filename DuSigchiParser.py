@@ -20,7 +20,7 @@ def convert_markdown_to_html(file_path):
   print(f"Converted {file_path} to {output_file_path}")
 
 
-def parse(filename_raw, data, indent=0, program='uist', year='2024'):
+def parse(filename_raw, data, indent=0, program='chi', year='2025'):
   filename = FOLDER_NAME + '/' + filename_raw[:-4] + 'md'
 
   # with open(filename + 'session.md', 'w', encoding='utf-8') as ff:
@@ -28,8 +28,8 @@ def parse(filename_raw, data, indent=0, program='uist', year='2024'):
     # Iterate over sessions and extract paper titles, session names, and author names
     for session in data['sessions']:
       session_name = session['name']
-      # if not (session['typeId'] == 13269): # CHI 2024
-      if not (session['typeId'] == 13748): # UIST 2024
+      if not (session['typeId'] == 13945): # CHI 2025
+      # if not (session['typeId'] == 13748): # UIST 2024
         continue  # Checks if it's a paper session.
       f.write(f"\n## {session_name}\n")
       # ff.write(f"\n## {session_name}\n")
@@ -41,7 +41,7 @@ def parse(filename_raw, data, indent=0, program='uist', year='2024'):
         # ]:  # Check if the content is a paper or journal in CHI
 
         if content and content['typeId'] in [
-            13748
+            13945
         ]:  # Check if the content is a paper in UIST
 
           paper_title = content['title']
