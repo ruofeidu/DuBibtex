@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Title Capitalization Tool - APA Style & More</title>
+    <meta
+      name="description"
+      content="Free online title capitalization tool that converts text to APA style, title case, sentence case, uppercase, and lowercase. Perfect for academic papers, blog posts, and professional documents."
+    />
+    <meta
+      name="keywords"
+      content="title case converter, APA style capitalization, title capitalization tool, sentence case converter, uppercase generator, lowercase converter, academic formatting tool, title case generator APA, capitalize titles correctly"
+    />
+    <meta name="author" content="Title Capitalization Tool" />
+    <meta
+      property="og:title"
+      content="Title Capitalization Tool - APA Style & More"
+    />
+    <meta
+      property="og:description"
+      content="Instant title case conversion tool supporting APA style, academic formatting, and multiple capitalization modes."
+    />
+    <link rel="stylesheet" href="title.css" />
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-29242802-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);}gtag("js", new Date());gtag("config""UA-29242802-1");
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Title Capitalization Tool</h1>
+      <textarea
+        id="input"
+        placeholder="Enter awesome title of your paper / proposal / email here..."
+        title="Hover to select all"
+      ></textarea>
+      <div class="button-row">
+        <button data-mode="apa" class="active">APA Title (Alt+1)</button>
+        <button data-mode="title">Title Case (Alt+2)</button>
+        <button data-mode="sentence">Sentence case (Alt+3)</button>
+        <button data-mode="upper">UPPERCASE (Alt+4)</button>
+        <button data-mode="lower">lowercase (Alt+5)</button>
+      </div>
+      <div class="output-container">
+        <textarea id="output" readonly></textarea>
+        <button id="copyBtn" title="Copy to clipboard">📋</button>
+      </div>
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const input = document.getElementById("input");
+        const output = document.getElementById("output");
+        const copyBtn = document.getElementById("copyBtn");
+        const buttons = document.querySelectorAll(".button-row button");
+        let currentMode = "apa";
+
+        // Hover to select all for input
+        input.addEventListener("mouseover", function () {
+          this.select();
+        });
+
+        // Conversion functions
+        const converters = {
+          apa: (text) => {
+            const minorWords = new Set([
+              "a",
+              "an",
+              "the",
+              "and",
+              "but",
+              "or",
+              "nor",
+              "for",
+              "so",
+              "yet",
+              "at",
+              "by",
+              "down",
+              "from",
+              "in",
+              "into",
+              "like",
+              "near",
+              "of",
+              "off",
+              "on",
+              "onto",
+              "out",
+              "over",
+              "past",
+              "to",
+              "upon",
+              "with",
+              "as",
+              "t",
+            ]);
+
+            return text
+              .trim()
+              .split(/\s+/)
+              .map((word, i, arr) => {
+                const isFirstOrLast = i === 0 || i === arr.length - 1;
+                const processed = word
+                  .split("-")
+                  .map((part) => {
+                    const lowerPart = part.toLowerCase();
+                    if (isFirstOrLast || !minorWords.has(lowerPart)) {
+                      return (
+                        part[0].toUpperCase() + part.slice(1).toLowerCase()
+                      );
+                    }
+                    return lowerPart;
+                  })
+                  .join("-");
+                return processed;
+              })
+              .join(" ");
+          },
+
+          title: (text) =>
+            text
+              .toLowerCase()
+              .split(/\s+/)
+              .map((word) =>
+                word
+                  .split("-")
+                  .map((part) => part[0].toUpperCase() + part.slice(1))
+                  .join("-")
+              )
+              .join(" "),
+
+          sentence: (text) => {
+            if (!text) return "";
+            return text[0].toUpperCase() + text.slice(1).toLowerCase();
+          },
+
+          upper: (text) => text.toUpperCase(),
+          lower: (text) => text.toLowerCase(),
+        };
+
+        function updateOutput() {
+          output.value = converters[currentMode](input.value);
+        }
+
+        // Event listeners
+        input.addEventListener("input", updateOutput);
+
+        output.addEventListener("mouseover", function () {
+          this.select();
+        });
+
+        buttons.forEach((button) => {
+          button.addEventListener("click", () => {
+            currentMode = button.dataset.mode;
+            buttons.forEach((b) => b.classList.remove("active"));
+            button.classList.add("active");
+            updateOutput();
+          });
+        });
+
+        document.addEventListener("keydown", (e) => {
+          if (e.altKey && e.key >= "1" && e.key <= "5") {
+            const index = parseInt(e.key) - 1;
+            if (buttons[index]) {
+              buttons[index].click();
+            }
+          }
+        });
+
+        copyBtn.addEventListener("click", async () => {
+          try {
+            await navigator.clipboard.writeText(output.value);
+            copyBtn.textContent = "✓";
+            setTimeout(() => (copyBtn.textContent = "📋"), 2000);
+          } catch (err) {
+            console.error("Failed to copy:", err);
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
