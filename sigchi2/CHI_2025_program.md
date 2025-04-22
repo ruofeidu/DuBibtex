@@ -1,14 +1,5 @@
 
 ## 3D Design and Fabrication
-### SpineLoft: Interactive Spine-based 2D-to-3D Modeling
-Authors: Alexandre Thiault, Telo Philippe, Amal Dev Parakkat, Elmar Eisemann, Ramanathan Muthuganapathy, Takeo Igarashi
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189410)
-
-Abstract: 3D artists (professionals and novices alike) often take inspiration from sketches or photos to guide their designs. Yet, existing modeling systems are not tailored to fully make use of such input. Consequently, significant effort and expertise are needed when creating model prototypes or exploring design options. In this work, we introduce a system to support the exploratory modeling process by enabling the transformation of 2D image elements into geometric 3D objects. Our solution relies on a novel d2 distance function, supporting a region-based lofting process, and delivers easily-editable 3D geometric "spine-rib" representations. The user draws a spine, and the system generates and modifies a generalized cylinder around it, considering image edges. The proposed approach, driven by simple user-defined scribble definitions, can robustly handle various image sources, ranging from photos to hand-drawn content.
-
-
-
 ### Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs
 Authors: Cyrus Vachha, Yixiao Kang, Zach Dive, Ashwat Chidambaram, Anik Gupta, Eunice Jun, Bjoern Hartmann
 
@@ -48,6 +39,8 @@ Abstract: In 3D design, specifying design objectives and visualizing complex sha
 
 
 ### Xstrings: 3D Printing Cable-Driven Mechanism for Actuation, Deformation, and Manipulation
+HONORABLE_MENTION
+
 Authors: Jiaji Li, Shuyue Feng, Maxine Perroni-Scharf, Yujia Liu, Emily Guan, Guanyun Wang, Stefanie Mueller
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189169)
@@ -90,7 +83,7 @@ Authors: Jaemarie Solyst, Lauren Wilcox, Michael Madaio
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189512)
 
-Abstract: Responsible AI (RAI) practices are increasingly important for practitioners in anticipating and addressing potential harms of AI, and emerging research suggests that AI practitioners often learn about RAI on-the-job. Learning at work is often social. Thus, this work explores the interpersonal aspects of learning about RAI on-the-job. Through workshops with 21 industry-based RAI educators, we offer the first empirical investigation into interpersonal aspects of learning about RAI at work. This study finds key phases of RAI work are sites for ongoing interpersonal learning, such as critical reflection about potential RAI impacts and collective sense-making about operationalizing RAI principles. We uncover a significant gap between this social reality and current industry approaches. Finally, we identify barriers and bolsters that impact interpersonal learning about RAI. We close by discussing opportunities to better support interpersonal learning about RAI on-the-job and the broader implications of such support for how AI gets developed.
+Abstract: Responsible AI (RAI) practices are increasingly important for practitioners in anticipating and addressing potential harms of AI, and emerging research suggests that AI practitioners often learn about RAI on-the-job. More generally, learning at work is social; thus, this work explores the interpersonal aspects of learning about RAI on-the-job. Through workshops with 21 industry-based RAI educators, we offer the first empirical investigation into interpersonal processes and dimensions of learning about RAI at work. This study finds key phases of RAI are sites for ongoing interpersonal learning, such as critical reflection about potential RAI impacts and collective sense-making about operationalizing RAI principles. We uncover a significant gap between these interpersonal learning processes and current approaches to learning about RAI. Finally, we identify barriers and supports for interpersonal learning about RAI. We close by discussing opportunities to better enable interpersonal learning about RAI on-the-job and the broader implications of interpersonal learning for RAI.
 
 
 
@@ -104,6 +97,8 @@ Abstract: Risk reporting is essential for documenting AI models, yet only 14% of
 
 
 ### Perceptions of Sentient AI and Other Digital Minds: Evidence from the AI, Morality, and Sentience (AIMS) Survey
+HONORABLE_MENTION
+
 Authors: Jacy Anthis, Janet Pauketat, Ali Ladak, Aikaterina Manoli
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189317)
@@ -159,15 +154,6 @@ Abstract: Serious games, particularly board games, have long been employed in pr
 
 
 
-### From Passive Watching to Active Learning: Empowering Proactive Participation in Digital Classrooms with AI Video Assistant
-Authors: Anna Bodonhelyi, Enkeleda Thaqi, Süleyman Özdel, Efe Bozkir, Enkelejda Kasneci
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189131)
-
-Abstract: In online education, innovative tools are crucial for enhancing learning outcomes. SAM (Study with AI Mentor) is an advanced platform that integrates educational videos with a context-aware chat interface powered by large language models. SAM encourages students to ask questions and explore unclear concepts in real time, offering personalized, context-specific assistance, including explanations of formulas, slides, and images. We evaluated SAM in two studies: one with 25 university students and another with 80 crowdsourced participants, using pre- and post-knowledge tests to compare a group using SAM and a control group. The results demonstrated that SAM users achieved greater knowledge gains specifically for younger learners and individuals in flexible working environments, such as students, supported by a 97.6% accuracy rate in the chatbot's responses. Participants also provided positive feedback on SAM’s usability and effectiveness. SAM’s proactive approach to learning not only enhances learning outcomes but also empowers students to take full ownership of their educational experience, representing a promising future direction for online learning tools.
-
-
-
 ### TutorUp: What If Your Students Were Simulated? Training Tutors to Address Engagement Challenges in Online Learning
 Authors: Sitong Pan, Robin Schmucker, Bernardo Garcia Bulle Bueno, Salome Aguilar Llanes, Fernanda Albo Alarcón, Hangxiao Zhu, Adam Teo, Meng Xia
 
@@ -178,6 +164,8 @@ Abstract: With the rise of online learning, many novice tutors lack experience e
 
 
 ### Learning Behaviors Mediate the Effect of AI-powered Support for Metacognitive Calibration on Learning Outcomes
+HONORABLE_MENTION
+
 Authors: HaeJin Lee, Frank Stinar, Ruohan Zong, Hannah Valdiviejas, Dong Wang, Nigel Bosch
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189433)
@@ -197,7 +185,7 @@ Abstract: Teaching literature under interdisciplinary contexts (e.g., science, a
 
 
 ## AI-Assisted Creativity
-### Productive vs Reflective: How Different Ways of Integrating AI into Design Workflows Affects Cognition and Motivation
+### Productive vs. Reflective: How Different Ways of Integrating AI into Design Workflows Affect Cognition and Motivation
 Authors: Tone Xu, Arina Konnova, Bianca Gao, Cindy Peng, Dave Vo, Steven Dow
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188290)
@@ -234,6 +222,8 @@ Abstract: In product design, effective design space exploration (DSE) is crucial
 
 
 ### Human Creativity in the Age of LLMs: Randomized Experiments on Divergent and Convergent Thinking
+HONORABLE_MENTION
+
 Authors: Harsh Kumar, Jonathan Vincentius, Ewan Jordan, Ashton Anderson
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188441)
@@ -346,6 +336,8 @@ Abstract: This study proposes a time prediction model for locomotion along a pol
 
 
 ### Bridging Simulation and Reality: Augmented Virtuality for Mass Casualty Triage Training - From Landscape Analysis to Empirical Insights
+HONORABLE_MENTION
+
 Authors: Yang Chen, Katherine Fennedy, Jiayi Zhang, Yong Jie Sim, Clement Zheng, Ching Chiuan Yen
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188534)
@@ -374,6 +366,8 @@ Abstract: Social virtual reality (VR) platforms offer unique features that can f
 
 
 ### Understanding "Mutes" in Social Virtual Reality
+HONORABLE_MENTION
+
 Authors: Qijia Chen, Andrea Bellucci, Jie Cai, Matti Nelimarkka, Giulio Jacucci
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188511)
@@ -434,6 +428,8 @@ Abstract: Today’s mapping tools fail to address the varied experiences of diff
 
 
 ### Towards More Accessible Scientific PDFs for People with Visual Impairments: Step-by-Step PDF Remediation to Improve Tag Accuracy
+HONORABLE_MENTION
+
 Authors: Felix Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Alireza Darvishy
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189246)
@@ -443,6 +439,8 @@ Abstract: PDF inaccessibility is an ongoing challenge that hinders individuals w
 
 
 ### The Dilemma of Building Do-It-Yourself (DIY) Solutions For Workplace Accessibility
+HONORABLE_MENTION
+
 Authors: Yoonha Cha, Victoria Jackson, Karina Kohl, Rafael Prikladnicki, André van der Hoek, Stacy Branham
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189526)
@@ -472,6 +470,8 @@ Abstract: Pedagogical approaches focusing on stereotypical code solutions, known
 
 
 ### Pagebreaks: Multi-Cell Scopes in Computational Notebooks
+HONORABLE_MENTION
+
 Authors: Eric Rawn, Sarah Chasins
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188913)
@@ -491,6 +491,8 @@ Abstract: Computational notebooks, widely used for ad-hoc analysis and often sha
 
 
 ### Slowness, Politics, and Joy: Values That Guide Technology Choices in Creative Coding Classrooms
+HONORABLE_MENTION
+
 Authors: Andrew McNutt, Sam Cohen, Ravi Chugh
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188908)
@@ -529,6 +531,8 @@ Abstract: Programming education is increasingly seen as an important curricular 
 
 ## Agent Design
 ### DreamGarden: A Designer Assistant for Growing Games from a Single Prompt
+BEST_PAPER
+
 Authors: Sam Earle, Samyak Parajuli, Andrzej Banburski-Fahey
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189640)
@@ -565,6 +569,8 @@ Abstract: Equine-Assisted Interventions (EAIs) aim to improve participant health
 
 
 ### Prompting an Embodied AI Agent: How Embodiment and Multimodal Signaling Affects Prompting Behaviour
+HONORABLE_MENTION
+
 Authors: Tianyi Zhang, Colin Au Yeung, Emily Aurelia, Yuki Onishi, Neil Chulpongsatorn, Jiannan Li, Anthony Tang
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189484)
@@ -577,16 +583,6 @@ These findings underscore the importance of designing multimodal signalling comm
 
 
 
-### AppAgent: Multimodal Agents as Smartphone Users
-Authors: Chi Zhang, Zhao Yang, Jiaxuan Liu, Yanda Li, Yucheng Han, Xin Chen, Zebiao Huang, bin fu, Gang Yu
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189419)
-
-Abstract: Recent advancements in large language models (LLMs) have led to the creation of intelligent agents capable of performing complex tasks. This paper introduces a novel LLM-based multimodal agent framework designed to operate smartphone applications. Our framework allows the agent to mimic human-like interactions such as tapping and swiping through a simplified action space, eliminating the need for system back-end access and enhancing its versatility across various apps.  Central to the agent's functionality is an innovative in-context learning method, where it either autonomously explores or learns from human demonstrations, creating a knowledge base used to execute complex tasks across diverse applications. We conducted extensive testing with our agent on over 50 tasks spanning 10 applications, ranging from social media to sophisticated image editing tools. Additionally, a user study confirmed the agent's superior performance and practicality in handling a diverse array of high-level tasks, demonstrating its effectiveness in real-world settings. Our project page is available at \url{https://appagent-official.github.io/}.
-
-
-
-
 ### Persistent Assistant: Seamless Everyday AI Interactions via Intent Grounding and Multimodal Feedback
 Authors: Hyunsung Cho, Jacqui Fashimpaur, Naveen Sendhilnathan, Jonathan Browder, David Lindlbauer, Tanya Jonker, Kashyap Todi
 
@@ -596,9 +592,20 @@ Abstract: Current AI assistants predominantly use natural language interactions,
 
 
 
+### The People Behind the Robots: How Wizards Wrangle Robots in Public Deployments
+Authors: Hannah Pelikan, Fanjun Bu, Wendy Ju
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/189125)
+
+Abstract: In the Wizard-of-Oz study paradigm, human "wizards" perform not-yet-implemented system behavior, simulating, among others, how autonomous robots could interact in public to see how unwitting bystanders respond. This paper analyzes a 60-minute video recording of two wizards in a public plaza who are operating two trash-collecting robots within their line of sight. We take an ethnomethodology and conversation analysis perspective to scrutinize interactions between the wizards and the people in the plaza, focusing on critical instances where one robot gets stuck and requires collaborative intervention by the wizards. Our analysis unpacks how the wizards deal with emergent problems by pushing one robot into the other, how they manage front and backstage interactions, and how they monitor the location of each other's robots. We discuss how scrutinizing the work of wizards can inform explorative Wizard-of-Oz paradigms, the design of multi-agent robot systems, and the operation of urban robots from a distance.
+
+
+
 
 ## Assistive Technologies
 ### Speculating Deaf Tech: Reimagining Technologies Centering Deaf People
+BEST_PAPER
+
 Authors: Robin Angelini, Katta Spiel, Maartje De Meulder
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188899)
@@ -665,7 +672,19 @@ Abstract: Despite the prevalence of autism spectrum disorder (ASD) and other dev
 
 
 ## Auditory UI
+### AppAgent: Multimodal Agents as Smartphone Users
+Authors: Chi Zhang, Zhao Yang, Jiaxuan Liu, Yanda Li, Yucheng Han, Xin Chen, Zebiao Huang, bin fu, Gang Yu
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/189419)
+
+Abstract: Recent advancements in large language models (LLMs) have led to the creation of intelligent agents capable of performing complex tasks. This paper introduces a novel LLM-based multimodal agent framework designed to operate smartphone applications. Our framework allows the agent to mimic human-like interactions such as tapping and swiping through a simplified action space, eliminating the need for system back-end access and enhancing its versatility across various apps.  Central to the agent's functionality is an innovative in-context learning method, where it either autonomously explores or learns from human demonstrations, creating a knowledge base used to execute complex tasks across diverse applications. We conducted extensive testing with our agent on over 50 tasks spanning 10 applications, ranging from social media to sophisticated image editing tools. Additionally, a user study confirmed the agent's superior performance and practicality in handling a diverse array of high-level tasks, demonstrating its effectiveness in real-world settings. Our project page is available at \url{https://appagent-official.github.io/}.
+
+
+
+
 ### SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization
+BEST_PAPER
+
 Authors: Artem Dementyev, Dimitri Kanevsky, Samuel Yang, Mathieu Parvaix, Chiong Lai, Alex Olwal
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189502)
@@ -692,7 +711,7 @@ Abstract: Non-speech sounds play an important role in setting the mood of a vide
 
 
 
-### Weaving Sound Information to Support Real-time Sensemaking of Auditory Environments: Co-designing with a DHH User
+### Weaving Sound Information to Support Real-Time Sensemaking of Auditory Environments: Co-Designing with a DHH User
 Authors: Jeremy Huang, Jaylin Herskovitz, Liang-Yuan Wu, Cecily Morrison, Dhruv Jain
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188590)
@@ -752,6 +771,8 @@ were resolved. The study’s findings contribute to the ongoing development of H
 
 
 ### Augmented Journeys: Interactive Points of Interest for In-Car Augmented Reality
+HONORABLE_MENTION
+
 Authors: Robin Schramm, Ginevra Fedrizzi, Markus Sasalovici, Jann Philipp Freiwald, Ulrich Schwanecke
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189132)
@@ -827,6 +848,8 @@ Abstract: It is often argued that effective human-centered explainable artificia
 
 
 ### OptiCarVis: Improving Automated Vehicle Functionality Visualizations Using Bayesian Optimization to Enhance User Experience
+HONORABLE_MENTION
+
 Authors: Pascal Jansen, Mark Colley, Svenja Krauß, Daniel Hirschle, Enrico Rukzio
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189387)
@@ -845,6 +868,8 @@ Abstract: This study investigated the relationship between trust in automation, 
 
 
 ### Moving Beyond the Simulator: Interaction-Based Drunk Driving Detection in a Real Vehicle Using Driver Monitoring Cameras and Real-Time Vehicle Data
+BEST_PAPER
+
 Authors: Robin Deuber, Patrick Langer, Mathias Kraus, Matthias Pfäffli, Matthias Bantle, Filipe Barata, Florian von Wangenheim, Elgar Fleisch, Wolfgang Weinmann, Felix Wortmann
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189280)
@@ -870,15 +895,6 @@ Authors: Merel van den Berg, Armağan Karahanoğlu, Matthijs Noordzij, Els Maeck
 [Link](https://programs.sigchi.org/chi/2025/program/content/189386)
 
 Abstract: Research and technological advancements have driven the development of wearable technology for stress management. Previous reviews primarily focused on its performance and effectiveness in health contexts. In contrast, this review takes a human-centric approach and reviews studies on users’ attitudes and experiences. We conducted a narrative review to identify (1) the facilitators and barriers of wearable stress management technology (WSMT) and (2) design considerations for human-centered WSMT. We identified 28 articles reporting user perspectives on stress management technology, primarily based on evaluation studies in which user perspectives were gathered through qualitative methods. We found five facilitators and barriers of WSMT (i.e., usefulness, functionality/interactivity, seamlessness, user privacy, and technology’s image). Additionally, we synthesized 18 design considerations, highlighted two main design challenges, and proposed a value-sensitive approach for future research. This review adds to the HCI literature by demonstrating the complexity of designing human-centered WSMT and the need for actionable recommendations.
-
-
-
-### Digital Phenotyping as Felt Informatics: Designing AI-Based Mental Health Diagnostic Tools Through Aesthetics
-Authors: Karin Bogdanova, Nazli Cila, Olya Kudina, Alessandro Bozzon
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189102)
-
-Abstract: With psychiatry lagging behind other medical fields in terms of innovation in instruments and methods, AI provides it an opportunity to catch up. Advocates of digital phenotyping promise to provide an objective tool that detects symptoms by analysing data from personal devices. We argue that digital phenotyping requires a more reflexive and critical approach to its design and an alignment of the clinicians' interests in generating relevant evidence with the needs of service users who seek tools to manage their condition. We propose a felt informatics approach, situating digital phenotyping design within the problem space of pragmatist aesthetics. Within this perspective, felt life becomes a central object and a site for digital phenotyping design.  This paper reveals the ways diagnostic data mediates mental ill health experience, emphasises the cultivation of aesthetic sensibility as a fundamental element of digital phenotyping and includes design considerations for practitioners and researchers.
 
 
 
@@ -941,6 +957,8 @@ Abstract: This paper explores flexibility in platform-mediated work through a mu
 
 
 ### Gig2Gether: Datasharing to Empower, Unify and Demistify Gig Work
+HONORABLE_MENTION
+
 Authors: Jane Hsieh, Angie Zhang, Sajel Surati, Sijia Xie, Yeshua Ayala, Nithila Sathiya, Tzu-Sheng Kuo, Min Kyung Lee, Haiyi Zhu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188645)
@@ -959,6 +977,8 @@ Abstract: We present a qualitative study that investigates the implications of c
 
 
 ### Exploring Data-Driven Advocacy in Home Health Care Work
+BEST_PAPER
+
 Authors: Joy Ming, Hawi Tolera, Jiamin Tu, Ella Yitzhaki, Chit Sum Eunice Ngai, Madeline Sterling, Ariel C. Avgar, Aditya Vashistha, Nicola Dell
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188399)
@@ -977,6 +997,8 @@ Abstract: Procrastination, the voluntary delay of tasks despite potential negati
 
 
 ### Letters from Future Self: Augmenting the Letter-Exchange Exercise with LLM-based Agents to Enhance Young Adults' Career Exploration
+BEST_PAPER
+
 Authors: Hayeon Jeon, Suhwoo Yoon, Keyeun Lee, Seo Hyeong Kim, Esther Hehsun Kim, Seonghye Cho, Yena Ko, Soeun Yang, Laura Dabbish, John Zimmerman, Eun-mee Kim, Hajin Lim
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189421)
@@ -985,9 +1007,20 @@ Abstract: Young adults often encounter challenges in career exploration. Self-gu
 
 
 
+### Nurturing Capabilities: Unpacking the Gap in Human-Centered Evaluations of AI-Based Systems
+Authors: Aman Khullar, Nikhil Nalin, Abhishek Prasad, Ann John Mampilli, Neha Kumar
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/189556)
+
+Abstract: Human-Computer Interaction (HCI) scholarship has studied how Artificial Intelligence (AI) can be leveraged to support care work(ers) by recognizing, reducing, and redistributing workload. Assessment of AI's impact on workers requires scrutiny and is a growing area of inquiry within human-centered evaluations of AI. We add to these conversations by unpacking the sociotechnical gap between the broader aspirations of workers from an AI-based system and the narrower existing definitions of success. We conducted a mixed-methods study and drew on Amartya Sen's Capability Approach to analyze the gap. We shed light on the social factors---on top of performance on evaluation metrics---that guided the AI model choice and determined whose wellbeing must be evaluated while conducting such evaluations. We argue for assessing broader achievements enabled through AI's use when conducting human-centered evaluations of AI. We discuss and recommend the dimensions to consider while conducting such evaluations.
+
+
+
 
 ## Bias and Identity
 ### Designed & Discovered Euphoria: Insights from Trans-Femme Players' Experiences of Gender Euphoria in Video Games
+HONORABLE_MENTION
+
 Authors: Shano Liang, Michelle Cormier, Rose Bohrer, Phoebe Toups Dugas
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188924)
@@ -997,6 +1030,8 @@ Abstract: Many transgender (and cisgender) people experience gender euphoria -- 
 
 
 ### Saying No to "Yes Means Yes": Limitations of Affirmative Consent for Mitigating Unwanted Behavior Online According to Women and LGBTQIA+ Stakeholders
+HONORABLE_MENTION
+
 Authors: Braeden Burger, Devin Tebbe, Emma Walquist, Toby Kind, Douglas Zytko
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189658)
@@ -1015,6 +1050,8 @@ Abstract: As HCI research turns to women's reproductive health as a topic of int
 
 
 ###  Why Can’t Black Women Just Be?: Black Femme Content Creators Navigating Algorithmic Monoliths
+HONORABLE_MENTION
+
 Authors: Gianna Williams, Natalie Chen, Michael Ann DeVito, Alexandra To
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189062)
@@ -1049,6 +1086,8 @@ Abstract: In Spring 2020, digital review-based platform Yelp added the searchabl
 
 
 ###  “I am a Technology Creator”: Black Girls as Technosocial Change Agents in a Culturally-Responsive Robotics Camp
+BEST_PAPER
+
 Authors: Chun Li, Jaemarie Solyst, Safiyyah Scott, Gabriella Howse, Tara Nkrumah, Erin Walker, Amy Ogan, Angela Stewart
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188676)
@@ -1058,11 +1097,13 @@ Abstract: Black girls and women have long been creators in computing spaces. How
 
 
 ### “It feels like we're not meeting the criteria": Examining and Mitigating the Cascading Effects of Bias in Automatic Speech Recognition in Spoken Language Interfaces.
+HONORABLE_MENTION
+
 Authors: Kelechi Ezema, Chelsea Chandler, Rosy Southwell, Niranjan Cholendiran, Sidney D'Mello
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188618)
 
-Abstract: Researchers have demonstrated that automatic speech recognizers (ASR) perform differently across demographic groups (i.e. show bias), yet their downstream impact on spoken language interfaces remains unexplored. We examined this question in the context of a real-world AI-powered interface that provides tutors with feedback on the quality of their discourse. Research Question 1 found that Whisper ASR had lower accuracy for Black vs. white tutors, likely due to differences in acoustic patterns. Research Question 2 found that downstream automated discourse classifiers were less accurate for Black tutors when presented with ASR input. While Black tutors demonstrated higher-quality discourse, this trend was obfuscated due to ASR bias. Research Question 3 experimented with methods to reduce ASR bias, finding that fine-tuning the ASR on Black speech reduced but did not eliminate ASR bias and its effects. We discuss implications for AI-based spoken language interfaces aimed at providing unbiased assessments to improve performance outcomes.
+Abstract: Researchers have demonstrated that Automatic Speech Recognition (ASR) systems perform differently across demographic groups (i.e. show bias), yet their downstream impact on spoken language interfaces remains unexplored. We examined this question in the context of a real-world AI-powered interface that provides tutors with feedback on the quality of their discourse. We found that the Whisper ASR had lower accuracy for Black vs. white tutors, likely due to differences in acoustic patterns of speech. The downstream automated discourse classifiers of tutor talk were correspondingly less accurate for Black tutors when presented with ASR input. As a result, although Black tutors demonstrated higher-quality discourse on human transcripts, this trend was not evident on ASR transcripts. We experimented with methods to reduce ASR bias, finding that fine-tuning the ASR on Black speech reduced, but did not eliminate, ASR bias and its downstream effects. We discuss implications for AI-based spoken language interfaces aimed at providing unbiased assessments to improve performance outcomes.
 
 
 
@@ -1143,15 +1184,6 @@ Abstract: Long-distance running is introduced as an example of a sport-specific 
 
 
 
-### Technical Responses To Critique: The Case Of Skin Tone
-Authors: Sayan Bhattacharjee, David Ribes
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189018)
-
-Abstract: How do technical actors respond to critique by developing novel technologies? In this paper, we follow the actors that have positioned themselves as critics of technology; we examine the inspirations and sources of their critical capacities and; we trace the development of concrete technological artifacts designed to respond to those critiques. To illustrate our approach, we outline the case of digital cameras tuned to capture diverse human skin tones, a technical response to long-standing critiques of whiteness bias in photography. Our investigative approach synthesizes three theoretical threads: the sociology of critical capacities, the anthropology of ethics, and studies of valuation. To trace the arc of technical responses to critique: (i) inspect the conditions under which actors are, or are not, capacitated to be critical; (ii) the conditions in which critiques are communicated, disputed, modified, furthered or ignored; and (iii) trace how matters of concern are materialized in technical outcomes.
-
-
-
 ### Integrating Technology into Self-Management Ecosystems: Young Adults with Type 1 Diabetes in the UK using Smartwatches
 Authors: Sam Gordon James, Miranda Elaine Glynis Armstrong, Zahraa Abdallah, Harry Emerson, Aisling Ann O'Kane
 
@@ -1180,6 +1212,8 @@ Abstract: Designing technologies that clothe, adorn, or are otherwise placed on 
 
 
 ### Toward Feminist Ways of Sensing the Menstruating Body
+HONORABLE_MENTION
+
 Authors: Nadia Campo Woytuk, Anupriya Tuli, Joo Young Park, Laia Turmo Vidal, Deirdre Tobin, Anuradha Reddy, Beatrice Vincenzi, Jan Maslik, Marianela Ciolfi Felice, Madeline Balaam
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188967)
@@ -1210,6 +1244,8 @@ develop a more accurate assessment of their own abilities, and improve their ove
 
 
 ### CT4ALL: Towards Putting Teachers in the Loop to Advance Automated Computational Thinking Metric Assessments in Game-Based Learning
+HONORABLE_MENTION
+
 Authors: Giovanni Troiano, Michael Cassidy, Daniel Escobar Morales, Guillermo Pons, Amir Abdollahi, Gregorio Robles, Gillian Puttick, Casper Harteveld
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189218)
@@ -1223,7 +1259,7 @@ Authors: Jin Yu, Poojita Garg, DoangJoo Synn, HyunJoo Oh
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189000)
 
-Abstract: Tangible programming engages children through hands-on and collaborative learning but often lacks integration with widely used programming platforms, which limits their extensibility and relevance in existing educational contexts. To address this, we propose Tangible-MakeCode (T-MC), a system that combines physical coding blocks with MakeCode. T-MC enables students, including beginners in coding, to design and program interactive wireless communication projects. Students assemble the blocks, capture an image with a webcam, and convert it into code for the MakeCode, which they can simulate and upload to their micro: bit boards. We describe the iterative design of T-MC, informed by participatory design workshops with 53 children and feedback from expert interviews with six teachers. A pilot study with 21 children (ages 12–14; 𝐹 = 11, 𝑀 = 10) demonstrates that T-MC is an engaging and inclusive tool that empowers beginners to contribute to team projects by providing an accessible platform for prototyping ideas.
+Abstract: Tangible programming engages children through hands-on and collaborative learning but often lacks integration with widely used programming platforms, which limits their extensibility and relevance in existing educational contexts. To address this, we propose Tangible-MakeCode (T-MC), a system that combines physical coding blocks with MakeCode. T-MC enables students, including beginners in coding, to design and program interactive wireless communication projects. Students assemble the blocks, capture an image with a webcam, and convert it into code for MakeCode, which they can simulate and upload to their micro:bit boards. We describe the iterative design of T-MC, informed by participatory design workshops with 53 children and feedback from expert interviews with six teachers. A pilot study with 21 children (ages 12-14; M=10, F=11) demonstrates that T-MC is an engaging and inclusive tool that empowers beginners to contribute to team projects by providing an accessible platform for prototyping ideas.
 
 
 
@@ -1263,15 +1299,6 @@ Authors: Jared Lim, Grace Barkhuff, Jane Awuah, Sophie Clyde, Riya Sogani, Chris
 [Link](https://programs.sigchi.org/chi/2025/program/content/188481)
 
 Abstract: There are many initiatives that teach Artificial Intelligence (AI) literacy to K-12 students. Most downsize college-level instructional materials to grade-level appropriate formats, overlooking students' unique perspectives in the design of curricula. To investigate the use of educational games as a vehicle for uncovering youth's understanding of AI instruction, we co-designed games with 39 Black, Hispanic, and Asian high school girls and non-binary youth to create engaging learning materials for their peers. We conducted qualitative analyses on the designed game artifacts, student discourse, and their feedback on the efficacy of learning activities. This study highlights the benefits of co-design and learning games to uncover students' understanding and ability to apply AI concepts in game-based learning, their emergent perspectives of AI, and the prior knowledge that informs their game design choices. Our research uncovers students' AI misconceptions and informs the design of educational games and grade-level appropriate AI instruction.
-
-
-
-### Oral History and Qualitative Analysis with Youth: A Method for Cultivating Attachments
-Authors: Samar Sabie, Robert Soden, Tapan Parikh
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188613)
-
-Abstract: Urban environments can inhibit the formation of publics due to their distracting nature and distant social ties. Yet, forming publics is critical for bringing and mobilizing citizens around issues. In this paper, we introduce a methodology  that combines oral history collection and qualitative analysis to foster connections among youth in a North American public school. During our project, the youth interviewed classmates, guardians, and strangers from their community about the meaning of home, then collectively analyzed the oral histories using qualitative analysis techniques. Our findings highlight that this process generated unexpected connections around shared experiences despite the different backgrounds of project participants, thus fostering a sense of attachment to home as a cause for public formation. Our paper demonstrates the effectiveness of such approach in building attachments as a pre-cursor to public formation in community-centered work, while reflecting on the associated practical challenges like skill development, sustained engagement, and emotional labor.
 
 
 
@@ -1353,6 +1380,8 @@ Abstract: Educators and policymakers are increasingly trying to control youth ac
 
 
 ### Co-designing Large Language Model Tools for Project-Based Learning with K12 Educators
+HONORABLE_MENTION
+
 Authors: Prerna Ravi, John Masla, Gisella Kakoti, Grace Lin, Emma Anderson, Matt Taylor, Anastasia Ostrowski, Cynthia Breazeal, Eric Klopfer, Hal Abelson
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188779)
@@ -1471,6 +1500,8 @@ Abstract: Fully autonomous teams of LLM-powered AI agents are emerging that coll
 
 
 ### “It’s a spectrum”: Exploring Autonomy, Competence, and Relatedness in Software Development Processes and Tools
+HONORABLE_MENTION
+
 Authors: Novia Wong, Nai-Yu Cheng, Bruna Oewel, Katherine Genuario, Sarah Elizabeth Stoeckl, Stephen Schueller, Iftekhar Ahmed, André van der Hoek, Madhu Reddy
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188398)
@@ -1489,11 +1520,13 @@ Abstract: AI programming tools enable powerful code generation, and recent proto
 
 
 ### Beyond Code Generation: LLM-supported Exploration of the Program Design Space
+HONORABLE_MENTION
+
 Authors: J.D. Zamfirescu-Pereira, Eunice Jun, Michael Terry, Qian Yang, Bjoern Hartmann
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188895)
 
-Abstract: In this work, we explore explicit support for iterative design of computer programs. Program design, like other design activity, is characterized by navigating a space of alternative problem formulations and associated solutions in an iterative fashion. LLMs are potentially powerful tools in helping this exploration; however, by default, code-generation LLMs deliver code that represents a particular point solution. This obscures the larger space of possible alternatives, many of which might be preferable to the LLM’s default interpretation and its generated code. We contribute an IDE that supports program design through generating and showing new ways to frame problems alongside alternative solutions, tracking design decisions, and identifying implicit decisions made by either the programmer or the LLM. In a user study, we find that with our IDE, users combine and parallelize design phases to explore a broader design space. 
+Abstract: In this work, we explore explicit Large Language Model (LLM)-powered support for the iterative design of computer programs. Program design, like other design activity, is characterized by navigating a space of alternative problem formulations and associated solutions in an iterative fashion. LLMs are potentially powerful tools in helping this exploration; however, by default, code-generation LLMs deliver code that represents a particular point solution. This obscures the larger space of possible alternatives, many of which might be preferable to the LLM’s default interpretation and its generated code. We contribute an IDE that supports program design through generating and showing new ways to frame problems alongside alternative solutions, tracking design decisions, and identifying implicit decisions made by either the programmer or the LLM. In a user study, we find that with our IDE, users combine and parallelize design phases to explore a broader design space---but also struggle to keep up with LLM-originated changes to code and other information overload. These findings suggest a core challenge for future IDEs that support program design through higher-level instructions given to LLM-based agents: carefully managing attention and deciding what information agents should surface to program designers and when.
 
 
 
@@ -1502,9 +1535,9 @@ Authors: Hanxi Fang, Supawit Chockchowwat, Hari Sundaram, Yongjoo Park
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188385)
 
-Abstract: There is a significant gap between how people explore data and how Jupyter-like computational notebooks are designed. People explore data nonlinearly, using execution undos, branching, and/or complete reverts, whereas computational notebooks are designed for sequential exploration only. Recent works like ForkIt are still insufficient to support these multiple modes of nonlinear exploration in a unified way.
+Abstract: There is a gap between how people explore data and how Jupyter-like computational notebooks are designed. People explore data nonlinearly, using execution undos, branching, and/or complete reverts, whereas notebooks are designed for sequential exploration. Recent works like ForkIt are still insufficient to support these multiple modes of nonlinear exploration in a unified way.
+In this work, we address the challenge by introducing two dimensional code+data space versioning for computational notebooks and verifying its effectiveness using our prototype system, Kishuboard, which integrates with Jupyter. By adjusting code and data knobs, users of Kishuboard can intuitively manage the state of computational notebooks in a flexible way, thereby achieving both execution rollbacks and checkouts across complex multi-branch exploration history. Moreover, this two-dimensional versioning mechanism can easily be presented along with a friendly one-dimensional history. Human subject studies indicate that Kishuboard significantly enhances user productivity in various data science tasks.
 
-In this work, we address the challenge by proposing two-dimensional code+data space versioning for computational notebooks and verifying its effectiveness using our prototype, Kishuboard, which seamlessly integrates with Jupyter. By adjusting code and data knobs, users of Kishuboard can intuitively manage the state of computational notebooks in a flexible way, thereby achieving both execution rollbacks and checkouts across complex multi-branch exploration history. Moreover, this two-dimensional versioning mechanism can easily be presented along with a friendly one-dimensional history. Human subject studies indicate that Kishuboard can significantly enhance user productivity in various data science tasks.
 
 
 
@@ -1538,6 +1571,8 @@ Abstract: As virtual reality (VR) continues to evolve as a platform for gatherin
 
 
 ### Women Security Experts Are Not The Enemy: A Qualitative Study on Gender-Related Communication Challenges
+HONORABLE_MENTION
+
 Authors: Asli Yardim, Stefan Horstmann, Raphael Serafini, Joshua Speckels, Alena Naiakshina
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189598)
@@ -1561,6 +1596,8 @@ From a three-month deployment in 18 channels reaching 500+ researchers, we obser
 
 
 ### Conversational Agents on Your Behalf: Opportunities and Challenges of Shared Autonomy in Voice Communication for Multitasking
+BEST_PAPER
+
 Authors: Yi Fei Cheng, Hirokazu Shirado, Shunichi Kasahara
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188939)
@@ -1652,18 +1689,11 @@ Abstract: User-centered design necessitates researchers deeply understanding tar
 
 
 
-### Relational AI: Facilitating Intergroup Cooperation with Socially Aware Conversational Support
-Authors: Elijah Claggett, Robert Kraut, Hirokazu Shirado
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188519)
-
-Abstract: Cooperation is challenging when group identities are involved. While people readily cooperate with in-group members, they struggle to build trust with out-group members. This study examines how text suggestions generated by Large Language Models (LLMs) can mitigate in-group-out-group bias and facilitate intergroup cooperation through conversations. We conducted an experiment with 482 participants who communicated with either in-group partners sharing their views or out-group partners with differing views, based on a preliminary survey. Participants received either "personalized" message suggestions aligned with their own views and conversation styles or "relational" suggestions using conversation styles tailored to whether their partner was in-group or out-group. Following the conversations, participants engaged in a cooperation game designed to measure trust behaviorally. Our results show that while personalized assistance widened the cooperation gap, relational assistance significantly improved out-group cooperation to match in-group levels. We discuss design implications for integrating social awareness into AI-driven conversational support systems.
-
-
-
 
 ## Content Moderation
 ### "We're utterly ill-prepared to deal with something like this": Teachers' Perspectives on Student Generation of Synthetic Nonconsensual Explicit Imagery
+HONORABLE_MENTION
+
 Authors: Miranda Wei, Christina Yeung, Franziska Roesner, Tadayoshi Kohno
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188654)
@@ -1685,6 +1715,8 @@ Like Western platforms, Douyin's moderation approaches are often ambiguous; but 
 
 
 ### "I have never seen that for Deaf people's content:" Deaf and Hard-of-Hearing User Experiences with Misinformation, Moderation, and Debunking on Social Media in the US
+HONORABLE_MENTION
+
 Authors: Filipo Sharevski, Oliver Alonzo, Sarah Hau
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188796)
@@ -1723,6 +1755,8 @@ Abstract: Nascent research on human-computer interaction concerns itself with fa
 
 
 ### The End of “Trust and Safety”?: Examining the Future of Content Moderation and Upheavals in Professional Online Safety Efforts
+HONORABLE_MENTION
+
 Authors: Rachel Moran, Joseph Schafer, Mert Bayar, Kate Starbird
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188338)
@@ -1771,6 +1805,8 @@ Abstract: Mobile emailing demands efficiency in diverse situations, which motiva
 
 
 ### Understanding and Supporting Formal Email Exchange by Answering AI-Generated Questions
+HONORABLE_MENTION
+
 Authors: Yusuke Miura, Chi-Lan Yang, Masaki Kuribayashi, Keigo Matsumoto, Hideaki Kuzuoka, Shigeo Morishima
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188934)
@@ -1793,6 +1829,8 @@ Results demonstrate that users interacting with a conversational AI enhanced by 
 
 
 ### Developing a Social Support Framework: Understanding the Reciprocity in Human-Chatbot Relationship
+HONORABLE_MENTION
+
 Authors: Shuyi Pan, Maartje de Graaf
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188209)
@@ -1804,6 +1842,8 @@ Abstract: Chatbots are increasingly used to provide social support for individua
 
 ## Creative Tools
 ### AMUSE: Human-AI Collaborative Songwriting with Multimodal Inspirations
+BEST_PAPER
+
 Authors: Yewon Kim, Sung-Ju Lee, Chris Donahue
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188559)
@@ -1824,6 +1864,8 @@ Abstract: It has been increasingly recognized that effective human-AI co-creatio
 
 
 ### 4D Bioforming with Bees: An Industry-Compatible Prototyping Method for Polymorphic Honeycomb Creation
+HONORABLE_MENTION
+
 Authors: Yixiong Wang, Huajie Suen, Shengfeng Duan, Chen Liang
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188535)
@@ -1879,15 +1921,6 @@ Abstract: Creative Problem-Solving (CPS) promotes creative and critical thinking
 
 
 
-### Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design
-Authors: Syeda Masooma Naqvi, Ruichen He, Harmanpreet Kaur
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188545)
-
-Abstract: Generative AI image creation tools have the potential to transform design education and practice, but raise critical concerns for creativity and ownership. We leverage the 2022 launch of tools like Midjourney and DALL.E as a point dividing design enthusiasts into pre- and post-tool learners. In this paper, we conduct 28 artifact-based interviews with designers at varying levels of tool introduction, to understand how they perceive and use generative AI in their design roles. Our results indicate a rift in the value system of designers, with experienced designers being more circumspect about the loss of traditional creativity and foundational design skills. On the practical side, there exists a tension between the growing marketability of AI-related skills for design vs. the limited affordances of these tools for achieving meaningful designs. We discuss implications for the shifting definitions of design as a field, creativity and ownership, and AI in the design curriculum. 
-
-
-
 ### "You'll Be Alice Adventuring in Wonderland!" Processes, Challenges, and Opportunities of Creating Animated Virtual Reality Stories
 Authors: Lin-Ping Yuan, Feilin Han, Liwenhan Xie, Junjie Zhang, Jian Zhao, Huamin Qu
 
@@ -1921,6 +1954,8 @@ Analysis of the human-AI collaboration process revealed that participants were s
 
 
 ### Exploring the Needs of Practising Musicians in Co-Creative AI Through Co-Design
+HONORABLE_MENTION
+
 Authors: Stephen Krol, Maria Teresa Llano Rodriguez, Miguel Loor Paredes
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189222)
@@ -1961,6 +1996,8 @@ Abstract: This paper examines the potential for localized adaptation, appropriat
 
 
 ### Empowering Adults with AI Literacy: Using Short Videos to Transform Understanding and Harness Fear for Critical Thinking
+HONORABLE_MENTION
+
 Authors: Huajie Cao, Hee Rin Lee, Wei Peng
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189345)
@@ -1993,7 +2030,8 @@ Authors: Nanna Inie, Jeanette Falk, Raghavendra Selvan
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188378)
 
-Abstract: The energy cost of developing and deploying Generative AI (GenAI) models has exploded with their mass adoption, as has the ensuing carbon emissions. The climate impact of this is currently unknown. In Human-Computer Interaction, GenAI models are rarely trained but often used. Based on detailed review of 282 papers, we estimate this footprint from energy consumption of the total use of GenAI for CHI 2024 research as between 10,628.26 and 10,754.19 kg CO2e - equal to driving a car for about 100,000 km. We show that in CHI research, GenAI is most often used for Prototyping, Evaluation & User studies, and that Data Collection and Fine-tuning models incurs the highest CO2st. We find that CHI submissions are unlikely to report GenAI use transparently, which makes precise calculations difficult. By measuring the usage of a subset of the papers on local hardware, we obtain estimations of the energy consumption and carbon footprint. Based on this evidence, we discuss and demonstrate ways to mitigate the issues of GenAI carbon footprint and lack of transparency.
+Abstract: The energy cost of developing and deploying Generative AI (GenAI) models has exploded with their mass adoption, as has the ensuing carbon emissions. The climate impact of this is currently unknown. In Human-Computer Interaction, GenAI models are rarely trained but often used. Based on detailed review of 282 papers, we estimate this footprint from energy consumption of the total use of GenAI for CHI 2024 research as between 10,769.63 and 10,925.12 kg CO2e — equal to driving a car for more than 100,000 km. We
+show that in CHI research, GenAI is most often used for Prototyping, Evaluation & User studies, and that Data Collection and Fine-tuning models incurs the highest CO2st. We find that CHI submissions are unlikely to report GenAI use transparently, which makes precise calculations difficult. By measuring the usage of a subset of the papers on local hardware, we obtain estimations of the energy consumption and carbon footprint. Based on this evidence, we discuss and demonstrate ways to mitigate the issues of GenAI carbon footprint and lack of transparency.
 
 
 
@@ -2018,6 +2056,8 @@ Abstract: In a 'digital by default’ society, essential services must be access
 
 
 ### Deploying and Examining Beacon for At-Home Patient Self-Monitoring with Critical Flicker Frequency
+BEST_PAPER
+
 Authors: Richard Li, Philip Vutien, Sabrina Omer, Michael Yacoub, George Ioannou, Ravi Karkar, Sean Munson, James Fogarty
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189311)
@@ -2097,6 +2137,8 @@ Abstract: A growing body of research investigates how to make captioning experie
 
 
 ### Around the World in 60 Cyclists: Evaluating Autonomous Vehicle-Cyclist Interfaces Across Cultures
+HONORABLE_MENTION
+
 Authors: Ammar Al-Taie, Andrii Matviienko, Joseph O'Hagan, Frank Pollick, Stephen Brewster
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188950)
@@ -2124,6 +2166,8 @@ Abstract: Young children increasingly interact with Artificial Intelligence (AI)
 
 
 ### Towards Youth-Sensitive Hateful Content Reporting: An Inclusive Focus Group Study in Germany
+HONORABLE_MENTION
+
 Authors: Julian Bäumler, Helen Bader, Marc-André Kaufhold, Christian Reuter
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189287)
@@ -2144,7 +2188,7 @@ Abstract: Live Q&A sessions at English-based, international academic conferences
 
 ## Dark Patterns and Content Moderation
 ### A Comparative Study of How People With and Without ADHD Recognise and Avoid Dark Patterns on Social Media
-Authors: Thomas Mildner, Daniel Fidel, Evropi Stefanidi, Pawel Woźniak, Rainer Malaka, Jasmin Niess
+Authors: Thomas Mildner, Daniel Fidel, Evropi Stefanidi, Paweł W. Woźniak, Rainer Malaka, Jasmin Niess
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188947)
 
@@ -2162,6 +2206,8 @@ Abstract: Dark patterns are ubiquitous in digital systems, impacting users throu
 
 
 ### From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns
+BEST_PAPER
+
 Authors: Jingzhou Ye, Yao Li, Wenting Zou, Xueqiang Wang
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188521)
@@ -2180,6 +2226,8 @@ Abstract: To protect consumer privacy, the California Consumer Privacy Act (CCPA
 
 
 ### Placebo Effect of Control Settings in Feeds Are Not Always Strong
+BEST_PAPER
+
 Authors: Silas Hsu, Vinay Koshy, Kristen Vaccaro, Christian Sandvig, Karrie Karahalios
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188697)
@@ -2197,23 +2245,6 @@ Abstract: Modern algorithmic recommendation systems seek to engage users through
 based on engagement metrics, others like TikTok deliver interest-based content, resulting in recommendations perceived to be hyper-personalized compared to other platforms. TikTok's robust recommendation engine has led some users
 to suspect that the algorithm knows users “better than they know themselves," but this is not always true. In this paper, we explore TikTok users’ perceptions of recommended content on their For You Page (FYP), specifically
 calling attention to unwanted recommendations. Through qualitative interviews of 14 current and former TikTok users, we find themes of frustration with recommended content, attempts to rid themselves of unwanted content, and various degrees of success in eschewing such content. We discuss implications in the larger context of folk theorization and contribute concrete tactical and behavioral examples of \textit{algorithmic persistence}.
-
-
-
-### The Role of Expertise in Effectively Moderating Harmful Social Media Content
-Authors: Nuredin Ali Abdelkadir, Tianling Yang, Shivani Kapania, Meron Estefanos, Fasica Gebrekidan, Zecharias Zelalem, Messai Ali, Rishan Berhe, Dylan Baker, Zeerak Talat, Milagros Miceli, Alex Hanna, Timnit Gebru
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189355)
-
-Abstract: Social media platforms played a significant role in spreading genocidal content in the 2020-2022 Tigray war where the worst genocide of the 21𝑠𝑡 century was plausibly committed. While linguistic expertise is clearly needed to accurately flag such content, we ask:
-
-What additional expertise is needed?
-Why and to what extent do experts disagree on what constitutes harmful content, and what is the best way to resolve these
-disagreements?
-What do social media platforms do instead?
-
-We examine these questions through a 4-month study with 7 experts labeling 340 Twitter (X) posts, and by interviewing 15 commercial content moderators. We find in-depth cultural knowledge and dialects to be most important for accurate hate speech annotation, knowledge which social media platforms don’t prioritize. Even amongst experts, disagreements are high (71%), dropping to 40% after deliberation meetings. Based on these results, we present 4 recommendations to improve hate speech annotation and moderation practices.
-
 
 
 
@@ -2285,6 +2316,15 @@ Abstract: Location-based recommendation systems are becoming increasingly ubiqui
 
 
 
+### Intimate Data Sharing: Enhancing Transparency and Control in Fertility Tracking
+Authors: Anna Ida Hudig, Jat Singh
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/189318)
+
+Abstract: Fertility trackers are popular for self-monitoring menstrual cycles and managing other aspects of reproductive or sexual health. However, the intimate nature of fertility tracking raises particular concerns about potential data (mis)use. Our study deepens understandings of fertility tracker data sharing and presents co-created mechanisms to enhance user agency over their data in intimate contexts. To achieve this, we first analysed the network transmissions from eight fertility tracker products, observing that many data transmissions appear to be tied to particular uses of the tracker and that the products communicate with endpoints associated with various organisations across different countries. This raises concerns about how intimate data is governed, used, and shared. To understand user attitudes towards data sharing in intimate contexts, we then conducted a survey exploring factors influencing user data sharing preferences. Our findings reveal that users desire transparency and control mechanisms and that their willingness to share data is influenced by contextual factors, including the third parties involved, the purposes of data collection, and the sensitivity of the data. Building on these findings, we worked with users to co-design ten concrete mechanisms for enhancing data transparency and control throughout fertility tracker product usage lifecycles. In all, our mixed-method study provides an in-depth understanding of fertility tracker data flows and preferences and proposes actionable mechanisms designers can utilise to support and protect data rights in intimate data ecosystems.
+
+
+
 ### Privacy Perceptions of Custom GPTs by Users and Creators
 Authors: Rongjun Ma, Caterina Maidhof, Juan Carlos Carrillo, Janne Lindqvist, Jose Such
 
@@ -2300,15 +2340,6 @@ Authors: Qiurong Song, Yanlai Wu, Rie Helene (Lindy) Hernandez, Yao Li, Yubo Kou
 [Link](https://programs.sigchi.org/chi/2025/program/content/188875)
 
 Abstract: Personally identifiable information (PII) is a fundamental concept in privacy research and regulations. Understanding users' perspectives on PII is critical, as their understanding of PII can significantly affect their privacy decisions and practices. While much research has explored users’ privacy perceptions and disclosure preferences regarding PII, less attention has been focused on how users internally define and conceptualize PII. In this study, we conducted interviews with 32 participants to investigate their conceptualization and understanding of PII, using period and fertility tracking apps as the context. Our findings reveal how users perceive the processes and contexts through which personal information, by becoming identifiable, transitions into PII, as well as concerns about data sharing and misuse in these apps. We conclude by advocating for addressing the misalignment between users' perceptions of PII and the regulatory protections and privacy designs surrounding it.
-
-
-
-### "I'm not as afraid as a woman might be about sharing my exact location:" On the Intersection of Identity and Privacy Concerns in Fitness Tracking
-Authors: Yeeun Jo, Mahnoor Jameel, Camille Cobb, Adam Bates
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189501)
-
-Abstract: Users’ perceptions of fitness tracking privacy is a subject of active study, but how do various aspects of social identity inform these perceptions? We conducted an online survey (N=322) that explores the influence of identity on fitness tracking privacy perceptions and practices, considering participants’ gender, race, age, and whether or not they identify as LGTBQ*. Participants reported how com- fortable they felt sharing fitness data, commented on whether they believed their identity impacted this comfort, and brainstormed several data sharing risks and a possible mitigation for each risk. For each surveyed dimension of social identity, we find one or more reliable effects on participants’ level of comfort sharing fitness data, specifically when considering institutional groups like employers, insurers, and advertisers. Further, 64% of participants indicate at least one of their identity characteristics informs their comfort. We also find evidence that the perceived risks of sharing fitness data vary by identity, but do not find evidence of difference in the strategies used to manage these risks. This work highlights a path towards reasoning about the privacy challenges of fitness tracking with respect for the lived experiences of all users.
 
 
 
@@ -2331,6 +2362,8 @@ Abstract: Location privacy leaks can lead to unauthorised tracking, identity the
 
 
 ### Out of Sight, Out of Mind? Exploring Data Protection Practices for Personal Data in Usable Security & Privacy Studies
+HONORABLE_MENTION
+
 Authors: Florin Martius, Luisa Jansen, Lukas Struck, Arthi Arumugam, Lisa Geierhaas, Anna-Marie Ortloff, Matthew Smith, Christian Tiefenau
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188546)
@@ -2361,6 +2394,8 @@ Abstract: Amid the recent uptake of Generative AI, sociotechnical scholars and c
 
 
 ### Plurals: A System for Guiding LLMs via Simulated Social Ensembles
+HONORABLE_MENTION
+
 Authors: Joshua Ashkinaze, Emily Fry, Narendra Edara, Eric Gilbert, Ceren Budak
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188538)
@@ -2459,16 +2494,6 @@ Abstract: News reading helps individuals stay informed about events and developm
 
 
 
-### Can AI Model the Complexities of Human Moral Decision-making? A Qualitative Study of Kidney Allocation Decisions
-Authors: Vijay Keswani, Vincent Conitzer, Walter Sinnott-Armstrong, Breanna Nguyen, Hoda Heidari, Jana Schaich Borg
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189051)
-
-Abstract: A growing body of work in Ethical AI attempts to capture human moral judgments through simple computational models. The key question we address in this work is whether such simple AI models capture the critical nuances of moral decision-making by focusing on the use case of kidney allocation. We conducted twenty interviews where participants explained their rationale for their judgments about who should receive a kidney. We observe participants: (a) value patients' morally-relevant attributes to different degrees; (b) use diverse decision-making processes, citing heuristics to reduce decision complexity; (c) can change their opinions; (d) sometimes lack confidence in their decisions (e.g., due to incomplete information); and (e) express enthusiasm and concern regarding AI assisting humans in kidney allocation decisions. Based on these findings, we discuss challenges of computationally modeling moral judgments as a stand-in for human input, highlight drawbacks of current approaches, and suggest future directions to address these issues.
-
-
-
-
 ### Persuasion in Pixels and Prose: The Effects of Emotional Language and Visuals in Agent Conversations on Decision-Making
 Authors: Hüseyin Uğur Genç, Senthil Chandrasegaran, Tilman Dingler, Himanshu Verma
 
@@ -2508,6 +2533,8 @@ Abstract: This study investigates how 18-year-old students, parents, and experts
 
 
 ### Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making
+HONORABLE_MENTION
+
 Authors: Shuai Ma, Qiaoyi Chen, Xinru Wang, Chengbo Zheng, Zhenhui Peng, Ming Yin, Xiaojuan Ma
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188842)
@@ -2517,6 +2544,8 @@ Abstract: Traditional AI-assisted decision-making systems often provide fixed re
 
 
 ### How a Clinical Decision Support System Changed the Diagnosis Process: Insights from an Experimental Mixed-Method Study in a Full-Scale Anesthesiology Simulation
+HONORABLE_MENTION
+
 Authors: Sara Wolf, Tobias Grundgeiger, Raphael Zähringer, Lora Shishkova, Franzisca Maas, Christina Dilling, Oliver Happel
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189591)
@@ -2572,6 +2601,8 @@ Abstract: Generative AI (GenAI) has been widely applied in UX design, yet its po
 
 
 ### Creativity Supportive Ecosystems: A Framework for Understanding Function and Disruption in Online Art Worlds
+HONORABLE_MENTION
+
 Authors: Shm Almeda, Joy Kim, Bjoern Hartmann
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188675)
@@ -2620,11 +2651,13 @@ Abstract: This paper explores the design and future potential of virtual funeral
 
 ## Design for Diverse Needs
 ### Towards AI-driven Sign Language Generation with Non-manual Markers
+HONORABLE_MENTION
+
 Authors: Han Zhang, Rotem Shalev-Arkushin, Vasileios Baltatzis, Connor Gillis, Gierad Laput, Raja Kushalnagar, Lorna Quandt, Leah Findlater, Abdelkareem Bedri, Colin Lea
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189085)
 
-Abstract: Sign languages are essential for the Deaf and Hard-of-Hearing (DHH) community. Sign language generation systems have the potential to support communication by translating from written languages, such as English, into signed videos. However, current systems often fail to meet user needs due to misalignment with grammatical structures, the absence of facial information, and insufficient visual and motion fidelity. To address these challenges, we introduce SignMeUp, an approach for ASL video generation that aims to produce natural-looking AI signers from text. Leveraging LLMs and image-to-image models, our system translates English sentences into written representations that contain both the manual and non-manual components of ASL, which are then transformed into skeletal poses using a Motion Matching approach and synthesized into sign video frames. Through technical assessment and a preliminary user study with DHH participants, we highlight how these approaches improve the signing video quality and discuss areas for future development. 
+Abstract: Sign languages are essential for the Deaf and Hard-of-Hearing (DHH) community. Sign language generation systems have the potential to support communication by translating from written languages, such as English, into signed videos. However, current systems often fail to meet user needs due to poor translation of grammatical structures, the absence of facial cues and body language, and insufficient visual and motion fidelity. We address these challenges by building on recent advances in LLMs and video generation models to translate English sentences into natural-looking AI ASL signers. The text component of our model extracts information for manual and non-manual components of ASL, which are used to synthesize skeletal pose sequences and corresponding video frames. Our findings from a user study with 30 DHH participants and thorough technical evaluations demonstrate significant progress and identify critical areas necessary to meet user needs. 
 
 
 
@@ -2669,11 +2702,13 @@ Authors: Kate Glazko, JunHyeok Cha, Aaleyah Lewis, Ben Kosa, Brianna Wimer, Andr
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188946)
 
-Abstract: Generative AI (GAI) has become ubiquitous in both daily and professional life, with emerging research highlighting its efficacy as an accessibility tool. Neurodivergent people, often left out by existing accessibility technologies, have developed strategies to navigate normative expectations. GAI offers new opportunities for access, but understanding how neurodivergent ``power users''—successful early adopters—engage with it and the challenges they face is crucial. Likewise, the ways in which stigma, marginalization, and intersectional identities shape their GAI experience remain underexplored. Our findings reveal the complexities of using GAI to navigate normative expectations, showing how it can both support and complicate tasks like code-switching, emotional regulation, and accessing information. We also identify challenges such as balancing authentic self-representation with societal conformity and the ongoing barriers to achieving true accessibility despite GAI’s potential.
+Abstract: Generative AI (AI) has become ubiquitous in both daily and professional life, with emerging research demonstrating its potential as a tool for accessibility. Neurodivergent people, often left out by existing accessibility technologies, develop their own ways of navigating normative expectations. GAI offers new opportunities for access, but it is important to understand how neurodivergent “power users”—successful early adopters—engage with it and the challenges they face. Further, we must understand how marginalization and intersectional identities influence their interactions with GAI. Our autoethnography, enhanced by privacy-preserving GAI-based diaries and interviews, reveals the intricacies of using GAI to navigate normative environments and expectations. Our findings demonstrate how GAI can both support and complicate tasks like code-switching, emotional regulation, and accessing information. We show that GAI can help neurodivergent users to reclaim their agency in systems that diminish their autonomy and self-determination. However, challenges such as balancing authentic self-expression with societal conformity, alongside other risks, create barriers to realizing GAI's full potential for accessibility.
 
 
 
 ### "I Need Your Help!" : Facilitating Psychological Communication Between Left-Behind Children and Their Parents with an AI-Powered Sandbox
+HONORABLE_MENTION
+
 Authors: Yan Shi, Lidan Gong, Yiwen Lu, Lijuan Liu, Chao Zhang, shujun zhang, Longfei Wang, Shan Zhou
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189234)
@@ -2742,15 +2777,6 @@ Abstract: Financial technology (fintech), including online banking and digital p
 
 
 
-### Designing Accessible Audio Nudges for Voice Interfaces
-Authors: Hira Jamshed, Novia Nurain, Robin Brewer
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189333)
-
-Abstract: Older adults (65+) increasingly use voice assistants for information-seeking, but experience challenges and uncertainty in assessing information quality due to limited visual cues. HCI researchers have primarily used nudging, subtle approaches to guide users towards better decision-making, in visual interfaces to mitigate online misinformation and facilitate critical thinking. Thus, we extend nudging to voice-based systems to help older adults alleviate uncertainty in voice-based searches. We evaluate four audio nudge prototypes (i.e., non-speech and speech-based) with older adults (n = 34). Findings show that speech nudges more effectively prompt critical reflection than non-speech nudges because they are more disruptive. We discuss the significance of these findings for designing accessible audio nudges, highlighting the tension between disruption and accessibility best practices. Further, we propose that effective audio nudges should be explanatory and interactive to help older adults mitigate information uncertainty and raise open questions for the community about designing reflective nudges.
-
-
-
 
 ## Designs for Blind and Low Vision People
 ### LifeInsight: Design and Evaluation of an AI-Powered Assistive Wearable for Blind and Low Vision People Across Multiple Everyday Life Scenarios
@@ -2782,6 +2808,8 @@ Abstract: 3D printed models (3DPMs) are increasingly used to support the educati
 
 
 ### DanmuA11y: Making Time-Synced On-Screen Video Comments (Danmu) Accessible to Blind and Low Vision Users via Multi-Viewer Audio Discussions
+HONORABLE_MENTION
+
 Authors: Shuchang Xu, Xiaofu Jin, Huamin Qu, Yukang Yan
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188308)
@@ -2808,18 +2836,11 @@ Abstract: Landmarks are critical in navigation, supporting self-orientation and 
 
 
 
-### IncluSim: An Accessible Educational Electronic Circuit Simulator for Blind and Low-Vision Learners
-Authors: Aya Mouallem, Mirelys Mendez Pons, Ali Malik, Trini Rogando, Gene Kim, Trisha Kulkarni, Charlene Chong, Danyang Fan, Shloke Nirav Patel, Lauren Shluzas, Helen Chen, Sheri D. Sheppard
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189565)
-
-Abstract: Electronic circuit simulation is a core skill for electronics-based education. However, conventional introductory simulators often rely on visual tasks and features and are inherently inaccessible to learners who are blind or have low vision (BLV). In this work, we present IncluSim, a novel, open-source BLV-accessible circuit simulator tool, incorporating tactile elements and a digital interface. We relied on extensive needfinding to identify barriers faced by BLV learners in electronics-based education. Next, with the larger BLV community, and as a team of BLV and sighted researchers, we adopted the co-design method over 2.5 years to design and develop the simulator tool. Over two studies, BLV participants completed different circuit design and simulation tasks using the IncluSim tool. Our findings indicate that IncluSim, via its hardware-digital medium, enables BLV learners to successfully design, simulate and debug circuits, overcoming the accessibility barriers of conventional simulators.
-
-
-
 
 ## Digital Fabrication
 ### Layered Interactions: Exploring Non-Intrusive Digital Craftsmanship Design Through Lacquer Art Interfaces
+HONORABLE_MENTION
+
 Authors: Yan Dong, Hanjie Yu, Yanran Chen, Zipeng Zhang, Wu Qiong
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188372)
@@ -2829,6 +2850,8 @@ Abstract: Integrating technology with the distinctive characteristics of craftsm
 
 
 ### American Indian Pottery and Clay 3D Printing: An Exploration of Opportunities and Risks in Professional Practice
+HONORABLE_MENTION
+
 Authors: Monica Silva Lovato, Jeff Suina, Jared Tso, alexis kaminsky, Camila Friedman-Gerlicz, Leah Buechley
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188963)
@@ -2838,6 +2861,8 @@ Abstract: We describe an artist residency program in which three professional Am
 
 
 ### ColdGlass: Full-Color Desktop 3D Printing in Glass
+HONORABLE_MENTION
+
 Authors: Camila Friedman-Gerlicz, Jaime Gould, Fiona Bell, Leah Buechley
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189207)
@@ -2847,6 +2872,8 @@ Abstract: ColdGlass is a new material and workflow for accessible, affordable, a
 
 
 ### Enabling Recycling of Multi-Material 3D Printed Objects through Computational Design and Disassembly by Dissolution
+BEST_PAPER
+
 Authors: Xin Wen, S. Sandra Bae, Michael Rivera
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188414)
@@ -2932,36 +2959,6 @@ Abstract: Expressing stressful experiences in words is proven to improve mental 
 
 
 
-### “A Bridge to Nowhere”: A Healthcare Case Study for Non-Reformist Design
-Authors: Linda Huber
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189641)
-
-Abstract: In the face of intensified datafication and automation in public-
-sector industries, frameworks like design justice and the feminist
-practice of refusal provide help to identify and mitigate structural
-harm and challenge inequities reproduced in digitized infrastruc-
-tures. This paper applies those frameworks to emerging efforts
-across the U.S. healthcare industry to automate prior authoriza-
-tion - a process whereby insurance companies determine whether
-a treatment or service is “medically necessary” before agreeing to
-cover it. Federal regulatory interventions turn to datafication and
-automation to reduce the harms of this widely unpopular process
-shown to delay vital treatments and create immense administrative
-burden for healthcare providers and patients. This paper explores
-emerging prior authorization reforms as a case study, applying
-the frameworks of design justice and refusal to highlight the in-
-herent conservatism of interventions oriented towards improving
-the user experience of extractive systems. I further explore how
-the abolitionist framework of non-reformist reform helps to clarify
-alternative interventions that would mitigate the harms of prior
-authorization in ways that do not reproduce or extend the power
-of insurance companies. I propose a set of four tenets for non-
-reformist design to mitigate structural harms and advance design
-justice in a broad set of domains.
-
-
-
 ### Understanding Adolescents’ Perceptions of Benefits and Risks in Health AI Technologies through Design Fiction 
 Authors: Jamie Lee, Kyuha Jung, Erin Newman, Emilie Chow, Yunan Chen
 
@@ -2973,15 +2970,6 @@ Abstract: Despite the growing research on users’ perceptions of health AI, ado
 
 
 ## Digital Health for Diverse Needs
-### Voice Assistants for Health Self-Management: Designing for and with Older Adults
-Authors: Amama Mahmood, Shiye Cao, Maia Stiber, Victor Antony, Chien-Ming Huang
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189583)
-
-Abstract: Supporting older adults in health self-management is crucial for promoting independent aging, particularly given the growing strain on healthcare systems. While voice assistants (VAs) hold the potential to support aging in place, they often lack tailored assistance and present usability challenges. We addressed these issues through a five-stage design process with older adults to develop a personal health assistant. Starting with in-home interviews (N = 17), we identified two primary challenges in older adult's health self-management: health awareness and medical adherence. To address these challenges, we developed a high-fidelity LLM-powered VA prototype to debrief doctor's after-visit summary and generate tailored medication reminders. We refined our prototype with feedback from co-design workshops (N = 10) and validated its usability through in-home studies (N = 5). Our work highlights key design features for personal health assistants and provides broader insights into desirable VA characteristics, including personalization, adapting to user context, and respect for user autonomy.
-
-
-
 ### Exploring the Effects of Social VR Coupling Modes on Engagement and Task Performance for Older Adults
 Authors: Thuan Vo, Satabdi Das, Shamim Noroozi, Lakshay Dang, Jaisie Sin, Jennifer Boger, Jennifer Jakobi, Khalad Hasan
 
@@ -3028,11 +3016,25 @@ Abstract: Despite recent advances in cancer treatments that prolong patients' li
 
 
 ### Towards Hormone Health: An Autoethnography of Long-Term Holistic Tracking to Manage PCOS
+BEST_PAPER
+
 Authors: Daye Kang, Jingjin Li, Gilly Leshed, Jeffrey Rzeszotarski, Xi Lu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188485)
 
 Abstract: Polycystic ovary syndrome (PCOS) is a common hormonal disorder affecting 11-13% of women of reproductive age, characterized by a wide range of symptoms (e.g., menstrual irregularity, acne, and obesity) that varies among individuals. While self-tracking tools help PCOS patients to monitor their symptoms and find personalized treatment, they often focus on regular periods of healthy women with inadequate support for the 1) personalization and 2) long-term holistic tracking necessary for managing complex chronic conditions like PCOS. To bridge this gap, the first author (who has PCOS) conducted an autoethnographic study of holistic self-tracking over a period of ten months in an effort to manage her condition. Our results highlight the challenges of personalized, holistic, long-term tracking in medical, socio-cultural, temporal, technical, and spatial contexts. Based on these insights, we provide design implications for tracking tools that are more inclusive and sustainable.
+
+
+
+### From Concept to Clinic: Multidisciplinary Design, Development, and Clinical Validation of Augmented Reality-Assisted Open Pancreatic Surgery
+Authors: Hamraz Javaheri, Omid Ghamarnejad, Paul Lukowicz, Gregor Stavrou, Jakob Karolus
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/189200)
+
+Abstract: Wearable augmented reality (AR) systems have significant potential to enhance surgical outcomes through in-situ visualization of patient-specific data. Yet, efforts to develop AR-based systems for open surgery have been limited, lacking comprehensive interdisciplinary research and actual clinical evaluations in real surgical environments. 
+Our research addresses this gap by presenting a user-centered design and development process of ARAS, an AR assistance for open pancreatic surgery. ARAS provides in-situ visualization of critical structures, such as the vascular system and the tumor, while offering a robust dual-layer registration method ensuring accurate registration during relevant phases of the surgery.
+We evaluated ARAS in clinical trials of 20 patients with pancreatic tumors. Accuracy validation and postoperative surgeon interviews confirmed its successful deployment, supporting surgeons in vascular localization and critical decision-making.
+Our work showcases AR's potential to fundamentally transform procedures for complex surgical operations, advocating a research shift toward ecological validation in open surgery.
 
 
 
@@ -3053,6 +3055,15 @@ Authors: Adam Parnaby, Ahmed Kharrufa, Clara Crivellaro
 [Link](https://programs.sigchi.org/chi/2025/program/content/188650)
 
 Abstract: The widespread digitalisation of critical civic services in contexts of economic austerity, neoliberalism, and the COVID-19 pandemic, has renewed focus in HCI on interventions to enable digital access for populations considered ‘digitally excluded’. While digital inclusion (DI) practitioners play a critical role in this area, their perspectives remain under-explored in HCI. This paper reports on a series of asset-based engagements with digital inclusion practitioners in the North East of England. These engagements explored the values, assets, and needs comprising their practices and used these insights as design material to ideate strategies for future intervention. We contribute findings describing the complexities, contradictions, and diversity of digital inclusion practices and efforts. Based on these findings, we argue for a shift towards considering DI practice through the lens of care, and provide directions for future HCI research to support DI practitioners in doing care work.
+
+
+
+### Savouring Slow Gifts: Reflection from the Field Study of Hybrid Gifting
+Authors: Hyosun Kwon, Steven Benford, Boriana Koleva
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/188784)
+
+Abstract: Despite the prevalence of digital gifting, designing meaningful and emotionally engaging digital gifts remains a challenge. One promising approach is Hybrid gifting, which combines digital and physical elements to improve the perceived value of gifts and provide opportunities for interpersonalisation. However, there is limited understanding of how hybridity shapes the dynamics of gifting in everyday contexts. To explore this, we developed a connected coffee machine prototype as a technology probe to study how givers personalise hybrid gifts and how recipients experience them. A study with seven pairs in intimate relationships revealed key insights: hybridity fosters slow, deliberate engagement; supports personalisation aligned with daily routines; grants recipients autonomy in receiving gifts; and reveals tensions between giver anxiety and recipient enjoyment. We discuss design implications for hybrid gifting systems that encourage recipients to savour digital gifts through slow, reflective interactions.
 
 
 
@@ -3082,15 +3093,6 @@ Authors: Annika Waern, Fredrika Mårtensson, Jon Back, Anna Litsmark, Eva-Lotta 
 
 Abstract: While digital play installations for outdoor use are becoming more common, little work has been done on how such technology shapes play in nature-rich environments. We performed a study of children’s self-directed play with access to nature as well as digital installations. Our findings show that play with nature materials and digital installations emerged in different ways. Most notably, imaginative play was observed emerging in close interaction with nature, while the digital installations mostly inspired rule-based play. Furthermore, engagement with digital installations typically involved an active exploration phase which was not observed with nature materials. Nature materials instead engaged the children’s senses more immediately, and often offered opportunities for collection and consumption, paving way for fluent play activities roaming large areas. We argue that these differences motivate rethinking the design of digital installations for play in nature and suggest guidelines to this purpose.
 
-
-
-
-### Savouring Slow Gifts: Reflection from the Field Study of Hybrid Gifting
-Authors: Hyosun Kwon, Steven Benford, Boriana Koleva
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188784)
-
-Abstract: Despite the prevalence of digital gifting, designing meaningful and emotionally engaging digital gifts remains a challenge. One promising approach is Hybrid gifting, which combines digital and physical elements to improve the perceived value of gifts and provide opportunities for interpersonalisation. However, there is limited understanding of how hybridity shapes the dynamics of gifting in everyday contexts. To explore this, we developed a connected coffee machine prototype as a technology probe to study how givers personalise hybrid gifts and how recipients experience them. A study with seven pairs in intimate relationships revealed key insights: hybridity fosters slow, deliberate engagement; supports personalisation aligned with daily routines; grants recipients autonomy in receiving gifts; and reveals tensions between giver anxiety and recipient enjoyment. We discuss design implications for hybrid gifting systems that encourage recipients to savour digital gifts through slow, reflective interactions.
 
 
 
@@ -3125,6 +3127,8 @@ Abstract: We introduce Toyteller, an AI-powered storytelling system where users 
 
 
 ### TravelGalleria: Supporting Remembrance and Reflection of Travel Experiences through Digital Storytelling in Virtual Reality
+HONORABLE_MENTION
+
 Authors: Michael Yin, Robert Xiao
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188402)
@@ -3161,6 +3165,8 @@ Abstract: Generative AI is increasingly used to create images from text, but its
 
 
 ### Micro-narratives: A Scalable Method for Eliciting Stories of People’s Lived Experience
+HONORABLE_MENTION
+
 Authors: Amira Skeggs, Ashish Mehta, Valerie Yap, Seray Ibrahim, Charla "Aubrey" Rhodes, James J. Gross, Sean Munson, Predrag Klasnja, Amy Orben, Petr Slovak
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189083)
@@ -3171,16 +3177,9 @@ Abstract: Engaging with people's lived experiences is foundational for HCI resea
 
 
 ## Earable and Hearable
-### Spatial Speech Translation: Translating Across Space With Binaural Hearables
-Authors: Tuochao Chen, Qirui Wang, Runlin He, Shyamnath Gollakota
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189450)
-
-Abstract: Imagine being in a crowded space where people speak a different language and having hearables that transform the auditory space into your native language, while preserving the spatial cues for all speakers. We introduce spatial speech translation, a novel concept for hearables that translate  speakers in the  wearer's environment,  while maintaining the direction and unique voice characteristics of each speaker in the binaural output. To achieve this, we tackle several technical challenges  spanning blind source separation, localization, real-time expressive translation, and binaural rendering to preserve the speaker directions in the translated audio, while achieving real-time inference on the Apple M2 silicon. Our proof-of-concept evaluation with a prototype binaural headset shows that, unlike existing models, which fail in the presence of interference, we achieve a BLEU score of upto 22.01 when translating between languages, despite strong interference from other speakers in the environment. User studies further confirm the system’s effectiveness in spatially rendering the translated speech in previously unseen real-world reverberant environments. Taking a step back, this work marks the first step towards integrating spatial perception into speech translation.
-
-
-
 ### EchoBreath: Continuous Respiratory Behavior Recognition in the  Wild via Acoustic Sensing on Smart Glasses
+HONORABLE_MENTION
+
 Authors: Kaiyi Guo, Qian Zhang, Dong Wang
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188450)
@@ -3246,6 +3245,8 @@ Abstract: With advancements in interactive technologies, research in human-food 
 
 
 ### Living Bento: Heartbeat-Driven Noodles for Enriched Dining Dynamics
+HONORABLE_MENTION
+
 Authors: Weijen Chen, Qingyuan Gao, Hu Zheng, Kouta Minamizawa, Yun Suen Pai
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188285)
@@ -3255,6 +3256,8 @@ Abstract: To enhance focused eating and dining socialization, previous Human-Foo
 
 
 ### ViFeed: Promoting Slow Eating and Food Awareness through Strategic Video Manipulation during Screen-Based Dining
+HONORABLE_MENTION
+
 Authors: Yang Chen, Felicia Fang-Yi Tan, Zhuoyu Wang, Xing Liu, Jiayi Zhang, Yun Huang, Shengdong Zhao, Ching Chiuan Yen
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188840)
@@ -3273,6 +3276,8 @@ Abstract: While interest in blending sound with culinary experiences has grown i
 
 
 ### Rethinking Lived Experience in Chronic Illness: Navigating Bodily Doubt with Consumer Technology in Atrial Fibrillation Self-Care
+HONORABLE_MENTION
+
 Authors: Rachel Keys, Paul Marshall, Graham Stuart, Aisling Ann O'Kane
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188509)
@@ -3329,6 +3334,8 @@ Abstract: Understanding neuromusculoskeletal mechanisms significantly impacts sk
 
 
 ### TelePulse: Enhancing the Teleoperation Experience through Biomechanical Simulation-Based Electrical Muscle Stimulation in Virtual Reality
+BEST_PAPER
+
 Authors: Seokhyun Hwang, Seongjun Kang, Jeongseok Oh, Jeongju Park, Semoo Shin, Yiyue Luo, Joseph DelPreto, Sangbeom Lee, Kyoobin Lee, Wojciech Matusik, Daniela Rus, SeungJun Kim
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189007)
@@ -3358,6 +3365,8 @@ Abstract: When several individuals collaborate on a shared task, their brain act
 
 ## Embodiment and Immersion
 ### Does Random Movements mean Random Results? Why Asynchrony in Experiments on Body Ownership does not Work as Intended
+HONORABLE_MENTION
+
 Authors: Olga Iarygina, Kasper Hornbæk, Aske Mottelson
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189422)
@@ -3394,6 +3403,8 @@ Abstract: Remapping techniques in VR such as repositioning, redirection, and res
 
 
 ### "It Brought the Model to Life": Exploring the Embodiment of Multimodal I3Ms for People who are Blind or have Low Vision
+BEST_PAPER
+
 Authors: Samuel Reinders, Matthew Butler, Kim Marriott
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188320)
@@ -3463,6 +3474,8 @@ In this paper, we present a novel concept of generating a personalized experienc
 
 
 ### "All Day, Every Day, Listening to Trauma": Investigating Features of Digital Interventions for Empathy-Based Stress and Burnout
+HONORABLE_MENTION
+
 Authors: Connie Chau, Colleen Norton, Kaylee Kruzan, Maia Jacobs
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188577)
@@ -3541,7 +3554,7 @@ Authors: Suleiman Saka, Sanchari Das
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189514)
 
-Abstract: The proliferation of \lq\lq Internet of Things (IoT)\rq\rq~ provides older adults with critical support for \lq\lq health monitoring\rq\rq~ and independent living, yet significant concerns about security and privacy persist. In this paper, we report on these issues through a two-phase user study, including a survey ($N=22$) and semi-structured interviews ($n=9$) with adults aged $65+$. We found that while $81.82\%$ of our participants are aware of security features like \lq\lq two-factor authentication (2FA)\rq\rq~ and encryption, $63.64\%$ express serious concerns about unauthorized access to sensitive health data. Only $13.64\%$ feel confident in existing protections, citing confusion over \lq\lq data sharing policies\rq\rq~ and frustration with \lq\lq complex security settings\rq\rq~ which lead to distrust and anxiety. To cope, our participants adopt various strategies, such as relying on family or professional support and limiting feature usage leading to disengagement. Thus, we recommend \lq\lq adaptive security mechanisms,\rq\rq~ simplified interfaces, and real-time transparency notifications to foster trust and ensure \lq\lq privacy and security by design\rq\rq~ in IoT health systems for older adults.
+Abstract: The proliferation of “Internet of Things (IoT)” provides older adults with critical support for “health monitoring” and independent living, yet significant concerns about security and privacy persist. In this paper, we report on these issues through a two-phase user study, including a survey (N = 22) and semi-structured interviews (n = 9) with adults aged 65+. We found that while 81.82% of our participants are aware of security features like “two-factor authentication (2FA)” and encryption, 63.64% express serious concerns about unauthorized access to sensitive health data. Only 13.64% feel confident in existing protections, citing confusion over “data sharing policies” and frustration with “complex security settings” which lead to distrust and anxiety. To cope, our participants adopt various strategies, such as relying on family or professional support and limiting feature usage leading to disengagement. Thus, we recommend “adaptive security mechanisms,” simplified interfaces, and real-time transparency notifications to foster trust and ensure “privacy and security by design” in IoT health systems for older adults.
 
 
 
@@ -3556,7 +3569,7 @@ Abstract: The proliferation of consumer Internet of Things (IoT) devices has rai
 
 
 ## Engaging with Data
-### Management, Cooperation, and Sustainability: Unpacking the Financial Data Practices of a Housing Cooperative
+### Management, Cooperation, and Sustainability: Unpacking the Data Practices of Housing Cooperatives
 Authors: Priyanka Verma, Mohammad Rashidujjaman Rifat, Samar Sabie
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188643)
@@ -3566,6 +3579,8 @@ Abstract: Despite significant work in HCI on understanding the role of data tool
 
 
 ### Disentangling the Power Dynamics in Participatory Data Physicalisation
+HONORABLE_MENTION
+
 Authors: Silvia Cazacu, Georgia Panagiotidou, Therese Steenberghen, Andrew Vande Moere
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188914)
@@ -3592,6 +3607,8 @@ Abstract: Dimensionality reduction (DR) techniques are essential for visually an
 
 
 ### Access Denied: Meaningful Data Access for Quantitative Algorithm Audits
+HONORABLE_MENTION
+
 Authors: Juliette Zaccour, Reuben Binns, Luc Rocher
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189156)
@@ -3639,6 +3656,8 @@ Abstract: Friction -- disagreement and breakdown -- is an omnipresent aspect of 
 
 
 ### Development of the Critical Reflection and Agency in Computing Index
+HONORABLE_MENTION
+
 Authors: Aadarsh Padiyath, Mark Guzdial, Barbara Ericson
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189541)
@@ -3657,6 +3676,8 @@ Abstract: A plethora of toolkits, checklists, and workshops have been developed 
 
 
 ### Ethical Reflexivity Canvas: Resourcing Ethical Sensitivity for HCI Educators
+HONORABLE_MENTION
+
 Authors: Naseem Ahmadpour, Ajit Pillai, Wendy Qi Zhang, Lian Loke, Thida Sachathep, Zhaohua Zhou, Phillip Gough
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188236)
@@ -3684,6 +3705,8 @@ Abstract: Although it is now well recognized that HCI must take a greater accoun
 
 
 ### A Feminist Care Ethics Toolkit for Community-Based Design: Bridging Theory and Practice
+HONORABLE_MENTION
+
 Authors: Ana Henriques, Anna Carter, Beatriz Severes, Reem Talhouk, Angelika Strohmayer, Ana Cristina Pires, Colin Gray, Kyle Montague, Hugo Nicolau
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188224)
@@ -3771,6 +3794,8 @@ Abstract: Advancing technologies enable machine learning applications that repli
 
 
 ### ClueCart: Supporting Game Story Interpretation and Narrative Inference from Fragmented Clues
+BEST_PAPER
+
 Authors: Xiyuan Wang, Yi-Fan Cao, Junjie Xiong, Sizhe Chen, wenxuan li, Junjie Zhang, Quan Li
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188409)
@@ -3881,6 +3906,8 @@ Abstract: Individuals tend to apply preferences and beliefs as heuristics to eff
 
 
 ### Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies
+HONORABLE_MENTION
+
 Authors: Sunnie S. Y. Kim, Jennifer Wortman Vaughan, Q. Vera Liao, Tania Lombrozo, Olga Russakovsky
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188664)
@@ -4003,6 +4030,8 @@ Abstract: Displays are crucial in modern smart devices, conveying information vi
 
 
 ### Slip Casting as a Machine for Making Textured Ceramic Interfaces
+HONORABLE_MENTION
+
 Authors: Bo Han, Jared Lim, Kianne Lim, Adam Choo, Ching Chiuan Yen, Genevieve Ang, Clement Zheng
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189001)
@@ -4023,6 +4052,8 @@ Abstract: We present BioTube, a sustainable and highly accessible DIY fabricatio
 
 ## Fabrication and Interaction Tools
 ### Intermittent Interaction in Digital Fabrication: User Perception of Periodic Intervention in Semi-Automated Creation Tasks
+HONORABLE_MENTION
+
 Authors: Ludwig Wall, Oliver Schneider, Daniel Vogel
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189459)
@@ -4036,6 +4067,8 @@ We contribute evidence that intermittent interaction is generally acceptable for
 
 
 ### SplatOverflow: Asynchronous Hardware Troubleshooting
+HONORABLE_MENTION
+
 Authors: Amritansh Kwatra, Tobias Weinberg, Ilan Mandel, Ritik Batra, Peter He, Francois Guimbretiere, Thijs Roumen
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188214)
@@ -4060,6 +4093,8 @@ Abstract: With generative AI acquiring the right training data is a critical par
 
 
 ### It's Not the Shape, It's the Settings: Tools for Exploring, Documenting, and Sharing Physical Fabrication Parameters in 3D Printing
+HONORABLE_MENTION
+
 Authors: Blair Subbaraman, Nathaneal Bursch, Nadya Peek
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188257)
@@ -4078,6 +4113,8 @@ Abstract: Hybrid paper interfaces leverage augmented reality to combine the desi
 
 
 ### "A Tool for Freedom": Co-Designing Mobility Aid Improvements Using Personal Fabrication and Physical Interface Modules with Primarily Young Adults
+HONORABLE_MENTION
+
 Authors: Jerry Cao, Krish Jain, Julie Zhang, Yuecheng Peng, Shwetak Patel, Jennifer Mankoff
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188927)
@@ -4117,6 +4154,8 @@ authors and methodologically consistent. Our contributions include a current sna
 
 
 ### The Sharply Decreasing Disruptiveness of HCI
+HONORABLE_MENTION
+
 Authors: Zhilong Chen, Yong Li
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189339)
@@ -4191,6 +4230,8 @@ Abstract: While virtual reality (VR) games offer immersive experiences, prolonge
 
 
 ### Pathways of Desire: Enhancing Navigation and Sense of Community Through Player-Generated Desire Paths
+HONORABLE_MENTION
+
 Authors: Michael Lankes, Günter Wallner, Martin Kocur
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189276)
@@ -4200,6 +4241,8 @@ Abstract: Navigating is essential in many video games. However, previous work su
 
 
 ### RetroSketch: A Retrospective Method for Measuring Emotions and Presence in Virtual Reality
+HONORABLE_MENTION
+
 Authors: Dominic Potts, Miloni Gada, Aastha Gupta, Kavya Goel, Klaus Krzok, Genevieve Pate, Joseph Hartley, Mark Weston-Arnold, Jakob Aylott, Christopher Clarke, Crescent Jicol, Christof Lutteroth
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188756)
@@ -4209,6 +4252,8 @@ Abstract: Virtual Reality (VR) designers and researchers often need to measure e
 
 
 ### "Don't You Dare Go Hollow": How Dark Souls Helps Players Cope with Depression, a Thematic Analysis of Reddit Discussions
+HONORABLE_MENTION
+
 Authors: Jaakko Väkevä, Perttu Hämäläinen, Janne Lindqvist
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189213)
@@ -4256,6 +4301,8 @@ Abstract: Good sleep hygiene is essential for quality sleep. This study investig
 
 
 ### "The System is Made to Inherently Push Child Gambling in my Opinion": Child Safety, Monetization, and Moderation on Roblox
+HONORABLE_MENTION
+
 Authors: Yubo Kou, Rie Helene (Lindy) Hernandez, Xinning Gui
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189378)
@@ -4321,6 +4368,8 @@ Abstract: This work introduces the concept of Embodied Measurement (EM), designe
 
 
 ### Moving Towards Epistemic Autonomy: A Paradigm Shift for Centering Participant Knowledge
+HONORABLE_MENTION
+
 Authors: Leah Ajmani, Talia Bhatt, Michael Ann DeVito
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188724)
@@ -4330,6 +4379,8 @@ Abstract: Justice, epistemology, and marginalization are rich areas of study in 
 
 
 ### How Do HCI Researchers Study Cognitive Biases? A Scoping Review
+HONORABLE_MENTION
+
 Authors: Nattapat Boonprakong, Benjamin Tag, Jorge Goncalves, Tilman Dingler
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188918)
@@ -4339,6 +4390,8 @@ Abstract: Computing systems are increasingly designed to adapt to users' cogniti
 
 
 ### Triangulating on Possible Futures: Conducting User Studies on Several Futures Instead of Only One
+BEST_PAPER
+
 Authors: Antti Salovaara, Leevi Vahvelainen
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188727)
@@ -4357,8 +4410,10 @@ Abstract: Hardware Reverse Engineering (HRE) is a technique for analyzing integr
 
 
 
-## HCI Methodology
+## HCI Methods
 ### Micro-Phenomenology as a Method for Studying User Experience in Human-Computer Interaction
+HONORABLE_MENTION
+
 Authors: Katrin Heimann, Minke Nouwens, Suneetha Saggurthi, Peter Dalsgaard
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189385)
@@ -4368,7 +4423,7 @@ Abstract: We examine how micro-phenomenology, a qualitative research method deve
 
 
 ### Large Language Models in Qualitative Research: Uses, Tensions, and Intentions
-Authors: Hope Schroeder, Marianne Aubin Le Quere, Casey Randazzo, David Mimno, Sarita Schoenebeck
+Authors: Hope Schroeder, Marianne Aubin Le Quéré, Casey Randazzo, David Mimno, Sarita Schoenebeck
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189141)
 
@@ -4377,6 +4432,8 @@ Abstract: Qualitative researchers use tools to collect, sort, and analyze their 
 
 
 ### Theorising in HCI using Causal Models
+HONORABLE_MENTION
+
 Authors: Eduardo Velloso, Kasper Hornbæk
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189328)
@@ -4395,6 +4452,8 @@ Abstract: Researchers ask a lot from their study participants: data, time, atten
 
 
 ### A Qualitative Study on How Usable Security and HCI Researchers Judge the Size and Importance of Odds Ratio and Cohen's d Effect Sizes
+BEST_PAPER
+
 Authors: Anna-Marie Ortloff, Julia Angelika Grohs, Simon Lenau, Matthew Smith
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188575)
@@ -4412,9 +4471,21 @@ Abstract: Statistical reporting, especially of effect sizes, is at the root of m
 
 
 
+### The Robotability Score: Enabling Harmonious Robot Navigation on Urban Streets
+Authors: Matthew Franchi, Maria Teresa Parreira, Fanjun Bu, Wendy Ju
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/188872)
+
+Abstract: This paper introduces the Robotability Score (R), a novel metric that quantifies the suitability of urban environments for autonomous robot navigation. Through expert interviews and surveys, we identify and weigh key features contributing to R for wheeled robots on urban streets. Our findings reveal that pedestrian density, crowd dynamics and pedestrian flow are the most critical factors, collectively accounting for 28% of the total score. Computing robotability across New York City yields significant variation; the area of highest R is 3.0 times more "robotable'' than the area of lowest R. Deployments of a physical robot on high and low robotability areas show the adequacy of the score in anticipating the ease of robot navigation. This new framework for evaluating urban landscapes aims to reduce uncertainty in robot deployment while respecting established mobility patterns and urban planning principles, contributing to the discourse on harmonious human-robot environments.
+
+
+
+
 
 ## HCI Methods and Practices
 ### Developing and Validating the Perceived System Curiosity Scale (PSC): Measuring Users' Perceived Curiosity of Systems
+HONORABLE_MENTION
+
 Authors: Jan Leusmann, Steeven Villa, Burak Berberoglu, Chao Wang, Sven Mayer
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189193)
@@ -4428,11 +4499,13 @@ Authors: Divyanshu Kumar Singh, Dipto Das, Bryan Semaan
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189612)
 
-Abstract: Language is more than communication; it is a form of power. Whereas science has been scrutinized for privileging White and western values and norms, what has been less explored is scientific linguistic performance (e.g. writing). The enforcement of English as the “normative standard” has prioritized hegemonic values and assumptions, thereby shaping the expectations of scientific performance. HCI/CSCW is dominated by heteropatriarchal western practices, overlooking entangled values and assumptions impacting non-western colleagues. Our work presents a design fiction (fictitious case study) envisioning a research contribution which embodies non-western linguistic nuances as an alternative “normative standard” for scientific communication. Through this work, not only are we championing care in developing responsible linguistic practices in HCI/CSCW, but also epistemically challenging readers with intentional confusion. We establish a call to action for acknowledging and embracing different writing practices that are more inclusive of the diverse representation of scholars in HCI/CSCW.
+Abstract: Language is more than communication; it is a form of power. Whereas science has been scrutinized for privileging Western values and norms, what has been less explored is scientific linguistic performance (e.g. writing). The enforcement of English as the “normative standard” has prioritized hegemonic values and assumptions, thereby shaping the expectations of scientific performance. HCI/CSCW is dominated by heteropatriarchal Western practices, overlooking entangled values and assumptions impacting non-Western colleagues. Our work presents a design fiction (fictitious case study) envisioning a research contribution which embodies non-Western linguistic nuances as an alternative “normative standard” for scientific communication. Through this work, not only are we championing care in developing responsible linguistic practices in HCI/CSCW, but also epistemically challenging readers with intentional confusion. We establish a call to action for acknowledging and embracing different writing practices that are more inclusive of the diverse representation of scholars in HCI/CSCW.
 
 
 
 ### Let’s Talk Futures: A Literature Review of HCI’s Future Orientation 
+HONORABLE_MENTION
+
 Authors: Camilo Sanchez, Sui Wang, Kaisa Savolainen, Felix Epp, Antti Salovaara
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188300)
@@ -4442,6 +4515,8 @@ Abstract: HCI is future-oriented by nature: it explores new human--technology in
 
 
 ### How Should We Design Technology With Diverse Stakeholders Who Wish Not to Attend Design Activities Together?
+BEST_PAPER
+
 Authors: OBINNA OTUU, Deepak Sahoo
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188549)
@@ -4451,6 +4526,8 @@ Abstract: The relationship between the Nigerian police and citizens is strained,
 
 
 ### Simulacrum of stories: Examining Large Language Models as Qualitative Research Participants
+HONORABLE_MENTION
+
 Authors: Shivani Kapania, William Agnew, Motahhare Eslami, Hoda Heidari, Sarah Fox
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189306)
@@ -4468,12 +4545,15 @@ Abstract: The reference to assumptions in how practitioners use or interact with
 
 
 
-### Making Hardware Devices at Scale is Still Hard: Challenges and Opportunities for the HCI Community.
+### Making Hardware Devices at Scale is Still Hard: Challenges and Opportunities for the HCI Community
+HONORABLE_MENTION
+
 Authors: Bo Kang, Steve Hodges, Per Ola Kristensson
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189184)
 
-Abstract: Embedded systems and interactive devices form an essential interface between the physical and digital world and are understandably an important focus for the HCI research community. However, scaling an interactive prototype of a new device concept to enable effective evaluation or to support the transition to a production-ready device is incredibly challenging. To better understand the issues innovators face when scaling up interactive device prototypes we report the results from 22 interviews with practitioners in the interactive device field. Our analysis identified four main themes: creating relationships with industry is hard, effective communication requires a lot of effort, understanding the manufacturer's perspective can be difficult, and prototyping is nothing like production. Additionally, our university-based participants gave us further insights and helped us to identify challenges specific to the academic context, pointing to a number of opportunities relating to hardware device scaling.
+Abstract: Embedded systems and interactive devices form an essential interface between the physical and digital world and are understandably an important focus for the HCI research community. However, scaling an interactive prototype of a new device concept to enable effective evaluation or to support the transition to a production-ready device is incredibly challenging. To better understand the issues innovators face when scaling up interactive device prototypes we report the results from 22 interviews with practitioners in the interactive device field, including eight academics involved in the HCI and manufacturing research communities. In our two-phase analysis we identify and  validate the following four recurring themes. First and foremost is the observation that ``creating relationships with industry'' is hard. Second, ``effective communication requires a lot of effort'' despite the availability of modern collaboration tools. Thirdly, we observed that ``understanding the manufacturer's perspective'' can be difficult. Finally, ``prototyping is nothing like production''---the vast difference between these two activities still surprises many.
+Additionally, our university-based participants gave us further insights and helped us to identify challenges specific to the academic context, pointing to a number of opportunities relating to hardware device scaling.
 
 
 
@@ -4588,6 +4668,8 @@ Abstract: Virtual reality (VR) expands opportunities for social interaction, yet
 
 
 ### Shape-Kit: A Design Toolkit for Crafting On-Body Expressive Haptics
+HONORABLE_MENTION
+
 Authors: Ran Zhou, Jianru Ding, Chenfeng Gao, Wanli Qian, Benjamin Erickson, Madeline Balaam, Daniel Leithinger, Ken Nakagaki
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188982)
@@ -4635,6 +4717,8 @@ Abstract: Nudging participants with text-based reflective nudges enhances delibe
 
 
 ### The Centers and Margins of Modeling Humans in Well-being Technologies
+HONORABLE_MENTION
+
 Authors: Jichen Zhu, Pedro Sanches, Vasiliki Tsaknaki, Willem van der Maden, Irene Kaklopoulou
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188712)
@@ -4649,15 +4733,6 @@ Authors: Florian Debackere, Céline Clavel, Alexandra Rören, François Rannou, 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189039)
 
 Abstract: The mobile health market is rapidly developing, but few apps follow evidence-based guidelines. Literature recommends personalized systems grounded in behavioral science, involving healthcare professionals in design to maximize effectiveness. To address this, we propose a metamodel to guide designers. This article discusses its application to low back pain self-management, focusing on four patient profiles: Unmotivated, Cautious, Depressed, and Confident. We evaluated the app over one month with 60 users. Of these, 32 users received a version of the application tailored to their profile, and 28 users received a version of the application without tailoring (no recommendations or motivational messages). We assessed user experience, engagement and psychological characteristics involved in the behavior change process. Results showed satisfactory user experience, impact of tailoring on user behavior and features to reduce fears and false beliefs and increase self-efficacy. Further efforts are needed to increase user engagement and observe an impact on long-term behavior.
-
-
-
-### (Re)discovering Sexual Pleasure after Cancer: Understanding the Design Space
-Authors: Céline Offerman, Jacky Bourgeois, Jules van Beurden, Alessandro Bozzon
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189229)
-
-Abstract: Cancer treatments often lead to sexual health challenges that greatly impact cancer survivors’ quality of life. Current interventions primarily address physiological aspects, like medication or vaginal care, overlooking psychological, social, and cultural dimensions. This paper explores how HCI can address this gap by supporting post-cancer sexual health with interventions for survivors and their partners, considering their lived experiences. Through reflexive thematic analysis of interviews with (N=6) medical sexologists, we identified five themes: perceiving the body as a medical object, the hot potato problem in oncology, sociotechnical sexploration, reuniting what treatment has divided, and designing interventions with openness in a highly situated context. These themes highlight cancer survivors’ experiences, the (in)effectiveness of current interventions, and provision of care. This research outlines the design space for post-cancer sexual health by providing specific design directions (“what”) and ways for designing them (“how”), while advancing the broader discourse on intimacy and design within HCI.
 
 
 
@@ -4679,6 +4754,15 @@ Abstract: Remote patient monitoring can significantly enhance post-operative hom
 
 
 
+### Digital Phenotyping as Felt Informatics: Designing AI-Based Mental Health Diagnostic Tools Through Aesthetics
+Authors: Karin Bogdanova, Nazli Cila, Olya Kudina, Alessandro Bozzon
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/189102)
+
+Abstract: With psychiatry lagging behind other medical fields in terms of innovation in instruments and methods, AI provides it an opportunity to catch up. Advocates of digital phenotyping promise to provide an objective tool that detects symptoms by analysing data from personal devices. We argue that digital phenotyping requires a more reflexive and critical approach to its design and an alignment of the clinicians' interests in generating relevant evidence with the needs of service users who seek tools to manage their condition. We propose a felt informatics approach, situating digital phenotyping design within the problem space of pragmatist aesthetics. Within this perspective, felt life becomes a central object and a site for digital phenotyping design.  This paper reveals the ways diagnostic data mediates mental ill health experience, emphasises the cultivation of aesthetic sensibility as a fundamental element of digital phenotyping and includes design considerations for practitioners and researchers.
+
+
+
 
 ## High-Stake Situations
 ### Perceptions of the Fairness Impacts of Multiplicity in Machine Learning
@@ -4691,6 +4775,8 @@ Abstract: Machine learning (ML) is increasingly used in high-stakes settings, ye
 
 
 ### Human-Precision Medicine Interaction: Public Perceptions of Polygenic Risk Score for Genetic Health Prediction
+HONORABLE_MENTION
+
 Authors: Yuhao Sun, Albert Tenesa, John Vines
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188474)
@@ -4720,6 +4806,8 @@ Abstract: Emotion artificial intelligence (AI) is deployed in many high-impact a
 
 
 ### Exploring the Impact of Intervention Methods on Developers’ Security Behavior in a Manipulated ChatGPT Study
+HONORABLE_MENTION
+
 Authors: Raphael Serafini, Asli Yardim, Alena Naiakshina
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189041)
@@ -4749,6 +4837,8 @@ Abstract: Some people suggest that deliberately watching the camera during video
 
 ## Human-AI Collaboration
 ### Supporting Co-Adaptive Machine Teaching through Human Concept Learning and Cognitive Theories
+BEST_PAPER
+
 Authors: Simret Gebreegziabher, Yukun Yang, Elena Glassman, Toby Li
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188869)
@@ -4758,6 +4848,8 @@ Abstract: An important challenge in interactive machine learning, particularly i
 
 
 ### "When Two Wrongs Don't Make a Right" - Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology
+HONORABLE_MENTION
+
 Authors: Emely Rosbach, Jonas Ammeling, Sebastian Krügel, Angelika Kießig, Alexis Fritz, Jonathan Ganz, Chloé Puget, Taryn Donovan, Andrea Klang, Maximilian C. Köller, Pompei Bolfa, Marco Tecilla, Daniela Denk, Matti Kiupel, Georgios Paraschou, Mun Keong Kok, Alexander Haake, Ronald R. de Krijger, Andreas F.-P. Sonnen, Tanit Kasantikul, Gerry M. Dorrestein, Rebecca C. Smedley, Nikolas Stathonikos, Matthias Uhl, Christof A. Bertram, Andreas Riener, Marc Aubreville
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188685)
@@ -4785,6 +4877,8 @@ Abstract: In response to various environmental and societal challenges, co-housi
 
 
 ### Script&Shift: A Layered Interface Paradigm for Integrating Content Development and Rhetorical Strategy with LLM Writing Assistants
+HONORABLE_MENTION
+
 Authors: Momin Siddiqui, Roy Pea, Hariharan Subramonyam
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189176)
@@ -4851,6 +4945,8 @@ Abstract: AI models are constantly evolving, with new versions released frequent
 
 
 ### Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+BEST_PAPER
+
 Authors: Pat Pataranutaporn, Chayapatr Archiwaranguprok, Samantha Chan, Elizabeth Loftus, Pattie Maes
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189485)
@@ -4890,6 +4986,8 @@ We introduce AdaptiveSliders, a tool that addresses these challenges by adapting
 
 
 ### SketchFlex: Facilitating Spatial-Semantic Coherence in Text-to-Image Generation with Region-Based Sketches
+HONORABLE_MENTION
+
 Authors: Haichuan Lin, Yilin Ye, Jiazhi Xia, Wei Zeng
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188525)
@@ -4941,6 +5039,8 @@ Abstract: The emergence of AI Image Generators (AIGs) has transformed image crea
 
 
 ### Reimagining Personal Data: Unlocking the Potential of AI-Generated Images in Personal Data Meaning-Making
+HONORABLE_MENTION
+
 Authors: Soobin Park, Hankyung Kim, Youn-kyung Lim
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189361)
@@ -4988,6 +5088,8 @@ Abstract: Sensing touch on arbitrary surfaces has long been a goal of ubiquitous
 
 
 ### Understanding Usability of VR Pointing Methods with a Handheld-style HMD for Onsite Exhibitions
+HONORABLE_MENTION
+
 Authors: Yuki Abe, Kan Kusakabe, Myungguen Choi, Daisuke Sakamoto, Tetsuo Ono
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189044)
@@ -5035,6 +5137,8 @@ Abstract: Computational thinking (CT) is regarded as a fundamental twenty-first 
 
 
 ### FluidTrack: Investigating Child-Parent Collaborative Tracking for Pediatric Voiding Dysfunction Management
+BEST_PAPER
+
 Authors: Junhyung Moon, Sukhyun Lee, Youngchan Kim, Juhee Go, Han Mo Ku, Yeohyun Jung, Seonyeong Hwang, Bongshin Lee, Yong Seung Lee, Hyun-Kyung Lee, Kyoungwoo Lee, Eun Kyoung Choe
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189491)
@@ -5071,6 +5175,8 @@ Abstract: Speech-language pathologists (SLPs) provide support to children with s
 
 
 ### AACessTalk: Fostering Communication between Minimally Verbal Autistic Children and Parents with Contextual Guidance and Card Recommendation
+BEST_PAPER
+
 Authors: Dasom Choi, SoHyun Park, Kyungah Lee, Hwajung Hong, Young-Ho Kim
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188714)
@@ -5118,21 +5224,21 @@ Abstract: Statistical literacy involves understanding, interpreting, and critica
 
 
 
-### Beyond the 'Unofficial Proxy' - Navigating Technology Support for Older Adults' Banking Activities with Close Others
-Authors: Polly Barber, Ewan Soubutts, Bran Knowles, Aneesha Singh
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188790)
-
-Abstract: In the context of extensive bank branch closures, and a rapidly ageing population, older adults’ (OAs’) reluctance to adopt digital banking platforms by themselves is concerning. However, many OAs rely on the support of close others (COs) to complete banking activities with them. This support is mostly provided through “unofficial” mechanisms such as sharing online banking credentials, which risk an OA’s privacy and security. This paper replicates a Canadian study with OAs in a UK context and extends it with co-design workshops focused on novel banking solutions for OAs and COs, helping to formalise the role of unofficial proxies within online platforms. Results show that unofficial proxy banking also occurs with COs in a UK context and co-design reveals barriers to OAs’ use of banking technology independently. We discuss recommendations for flexible, easily authenticated and easy to learn digital banking solutions for OAs in the future.
-
-
-
 ### Challenges and Opportunities for the Design of Inclusive Social Media Experiences with LGBT+ Older Adults
 Authors: Wenqi Zhu, Ewan Soubutts, Julia Wernersbach, Aneesha Singh
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189197)
 
 Abstract: Social isolation is a common experience for LGBT+ older adults (OAs) that is often compounded by prejudices of age, sexuality, or gender identity. Little research has explored the specific social needs and barriers that LGBT+ OAs face, particularly in online spaces. To address this gap, we conducted interviews with 10 LGBT+ OAs and an inclusive housing service provider. Our research highlights the importance of LGBT+ community engagement and digitally-supported social networks' role for LGBT+ OAs. We identify challenges such as managing online identity, navigating LGBT+ social media apps and websites, as well as digital disconnectedness challenges among those with lower digital literacy. Recommendations include improving social platforms allowing LGBT+ OAs to manage selective identity characteristics, promoting genuineness and trust in LGBT+ platforms by employing tiered blocking and interest-driven connections, and non-digital outreach strategies for collaborations between LGBT+ organizations and senior centers to engage hidden and isolated LGBT+ OAs.
+
+
+
+### Cataloging Augmented, Ambivalent Transgender Futures: Designing Inclusive AR Technologies for Trans Communities Through Speculative, Participatory Zine-Making
+Authors: F. Khan, Kat Brewster, Aloe DeGuia, Denny Starks, Malaya Manacop, Samuel Mayworm, Tawanna Dillahunt, Oliver Haimson
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/189546)
+
+Abstract: Technologies designed to support marginalized communities have often led to unintended harm. This frequently occurs when misaddressing or failing to understand communities' experiences, needs, and desires. User-centered research often focus on needs versus desires (leveraging deficit versus assets-based approaches), which have been contested in HCI. To promote technology design that better balances the tensions between needs and desires, we contribute participatory zine-making as an effective approach for speculatively designing trans augmented reality (AR) technologies. We facilitated in-person and virtual workshops with trans participants (n=44) focused on designing AR technologies, observing participants' zine-making processes and artifacts to gather visual ethnographic data alongside transcripts and facilitator field notes. In participants' zines we identified ambivalence as critical in addressing trans people's needs and desires, and participants conveyed this ambivalence through metaphor and anti-assimilationist aesthetics. Our participatory zine-making approach enabled us to uncover perspectives and design implications crucial to designing trans technologies. 
 
 
 
@@ -5148,6 +5254,8 @@ Abstract: Many technologists who work in robotics and AI bristle at the idea tha
 
 
 ### Investigating the Capabilities and Limitations of Machine Learning for Identifying Bias in English Language Data with Information and Heritage Professionals
+HONORABLE_MENTION
+
 Authors: Lucy Havens, Benjamin Bach, Melissa Terras, Beatrice Alex
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189589)
@@ -5166,6 +5274,8 @@ Abstract: Conversational agents that mimic people have raised questions about th
 
 
 ### Perspectives on Mixed-Ability Competition
+HONORABLE_MENTION
+
 Authors: Pedro Trindade, João Guerreiro, André Rodrigues
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188560)
@@ -5258,6 +5368,8 @@ Abstract: Waiting for system loading is a common scenario that often diminishes 
 
 
 ### Understanding Break-ability through Screen-based Affordances
+HONORABLE_MENTION
+
 Authors: Richard Grafton, Oussama Metatla, Anne Roudaut
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188435)
@@ -5426,6 +5538,8 @@ Abstract: Integrating curious behavior traits into robots is essential for them 
 
 
 ### SafeSpect: Safety-First  Augmented Reality Heads-up Display for Drone Inspections
+HONORABLE_MENTION
+
 Authors: Peisen Xu, Jérémie Garcia, Wei Tsang Ooi, Christophe Jouffrais
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188702)
@@ -5456,6 +5570,8 @@ We find that social robots vary widely in the manner and extent to which they co
 
 
 ### Signaling Human Intentions to Service Robots: Understanding the Use of Social Cues during In-Person Conversations
+HONORABLE_MENTION
+
 Authors: Hanfang Lyu, Xiaoyu Wang, Nandi Zhang, Shuai Ma, Qian Zhu, Yuhan Luo, Fugee Tsung, Xiaojuan Ma
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188965)
@@ -5585,6 +5701,8 @@ Combining this stepper and the visual mapping function provides an in-place loco
 
 
 ### HAI-AR: Exploring Hand-Anchored Interfaces in Augmented Reality while Walking
+HONORABLE_MENTION
+
 Authors: Marium-E- Jannat, Ngan Phan, Anmol Chadha, Keiko Katsuragawa, Khalad Hasan
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188936)
@@ -5594,6 +5712,8 @@ Abstract: To interact with Augmented Reality (AR) content while walking, the use
 
 
 ### Evaluating In-Car Tasks’ Distraction Effects with Drive-In Lab
+BEST_PAPER
+
 Authors: Tuomo Kujala, Abhishek Sarkar
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189205)
@@ -5772,16 +5892,9 @@ Abstract: This paper presents Pointer Assistant, a novel human-AI interaction te
 
 
 
-### Exploring the Design Space of Real-time LLM Knowledge Support Systems: A Case Study of Jargon Explanations
-Authors: Yuhan Liu, Aadit Shah, Jordan Ackerman, Manaswi Saha
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189397)
-
-Abstract: Knowledge gaps often arise during communication due to diverse backgrounds, knowledge bases, and vocabularies. With recent LLM developments, providing real-time knowledge support is increasingly viable, but is challenging due to shared and individual cognitive limitations (e.g., attention, memory, and comprehension) and the difficulty in understanding the user's context and internal knowledge. To address these challenges, we explore the key question of understanding how people want to receive real-time knowledge support. We built StopGap---a prototype that provides real-time knowledge support for explaining jargon words in videos---to conduct a design probe study (N=24) that explored multiple visual knowledge representation formats. Our study revealed individual differences in preferred representations and highlighted the importance of user agency, personalization, and mixed-initiative assistance. Based on our findings, we map out six key design dimensions for real-time LLM knowledge support systems and offer insights for future research in this space.
-
-
-
 ### Generative AI in Knowledge Work: Design Implications for Data Navigation and Decision-Making
+HONORABLE_MENTION
+
 Authors: Bhada Yun, Dana Feng, Ace Chen, Afshin Nikzad, Niloufar Salehi
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188449)
@@ -5810,15 +5923,6 @@ Abstract: Information gathering is an important capability that allows chatbots 
 
 
 
-### "Kya family planning after marriage hoti hai?": Integrating Cultural Sensitivity in an LLM Chatbot for Reproductive Health
-Authors: Roshini Deva, Dhruv Ramani, Tanvi Divate, Suhani Jalota, Azra Ismail
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188941)
-
-Abstract: Access to sexual and reproductive health information remains a challenge in many communities globally, due to cultural taboos and limited availability of healthcare providers. Public health organizations are increasingly turning to Large Language Models (LLMs) to improve access to timely and personalized information. However, recent HCI scholarship indicates that significant challenges remain in incorporating context awareness and mitigating bias in LLMs. In this paper, we study the development of a culturally-appropriate LLM-based chatbot for reproductive health with underserved women in urban India. Through user interactions, focus groups, and interviews with multiple stakeholders, we examine the chatbot’s response to sensitive and highly contextual queries on reproductive health. Our findings reveal strengths and limitations of the system in capturing local context, and complexities around what constitutes ``culture''. Finally, we discuss how local context might be better integrated, and present a framework to inform the design of culturally-sensitive chatbots for community health.
-
-
-
 ### Deconstructing Depression Stigma: Integrating AI-driven Data Collection and Analysis with Causal Knowledge Graphs
 Authors: Han Meng, Renwen Zhang, GANYI WANG, Yitian Yang, Peinuan Qin, Jungup Lee, YI-CHIEH LEE
 
@@ -5829,6 +5933,8 @@ Abstract: Mental-illness stigma is a persistent social problem, hampering both t
 
 
 ### Private Yet Social: How LLM Chatbots Support and Challenge Eating Disorder Recovery
+HONORABLE_MENTION
+
 Authors: Ryuhaerang Choi, Taehan Kim, Subin Park, Jennifer Kim, Sung-Ju Lee
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188263)
@@ -5876,6 +5982,8 @@ Abstract: Teletherapy for speech-language therapy (SLT) has become essential for
 
 
 ### BrickSmart: Leveraging Generative AI to Support Children's Spatial Language Learning in Family Block Play
+HONORABLE_MENTION
+
 Authors: Yujia Liu, Siyu Zha, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lun Yiu Nie, Chao Zhang, YINGQING XU
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188877)
@@ -5893,21 +6001,21 @@ Abstract: Measuring preverbal vocabulary comprehension of young children is vita
 
 
 
-### Lost in Translation: How Does Bilingualism Shape Reader Preferences for Annotated Charts?
-Authors: Anjana Arunkumar, Lace Padilla, Chris Bryan
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188258)
-
-Abstract: Visualizations are powerful tools for conveying information but often rely on accompanying text for essential context and guidance. This study investigates the impact of annotation patterns on reader preferences and comprehension accuracy among multilingual populations, addressing a gap in visualization research. We conducted experiments with two groups fluent in English and either Tamil (n = 557) or Arabic (n = 539) across six visualization types, each varying in annotation volume and semantic content. Full-text annotations yielded the highest comprehension accuracy across all languages, while preferences diverged: English readers favored highly annotated charts, whereas Tamil/Arabic readers preferred full-text or minimally annotated versions. Semantic variations in annotations (L1–L4) did not significantly affect comprehension, demonstrating the robustness of text comprehension across languages. English annotations were generally preferred, with a tendency to think technically in English linked to greater aversion to non-English annotations, though this diminished among participants who regularly switched languages internally. Non-English annotations incorporating visual or external knowledge were less favored, particularly in titles. Our findings highlight cultural and educational factors influencing perceptions of visual information, underscoring the need for inclusive annotation practices for diverse linguistic audiences. All data and materials are available at: https://osf.io/ckdb4/.
-
-
-
 ### Unlocking the Power of Speech: Game-Based Accent and Oral Communication Training for Immigrant English Language Learners via Large Language Models
 Authors: Yijun Zhao, Jiangyu Pan, Jiacheng Cao, Jiarong Zhang, Yan Dong, Yicheng Wang, Preben Hansen, Guanyun Wang
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189377)
 
 Abstract: With the growing number of immigrants globally, language barriers have become a significant challenge, particularly for those entering English-speaking countries. Traditional language learning methods often fail to provide sufficient practical opportunities, especially for diverse accents. To address this, we introduce Language Urban Odyssey (LUO), a serious game that leverages large language models (LLMs) and game-based learning to offer a low-cost, accessible virtual environment for English learners. Built on the Minecraft platform, LUO offers real-time speech interaction with NPCs of various accents, supported by multi-modal feedback. A controlled study (N=30) showed improvements in speaking abilities, accent comprehension, and emotional confidence. Our findings suggest that LUO provides a scalable, immersive platform that bridges gaps in language learning for immigrants facing cultural and social challenges.
+
+
+
+### Tap&Say: Touch Location-Informed Large Language Model for Multimodal Text Correction on Smartphones
+Authors: Maozheng Zhao, Michael Xuelin Huang, Nathan Huang, Shanqing Cai, Henry Huang, Michael Huang, Shumin Zhai, IV Ramakrishnan, Xiaojun Bi
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/189393)
+
+Abstract: While voice input offers a convenient alternative to traditional text editing on mobile devices, practical implementations face two key challenges: 1) reliably distinguishing between editing commands and content dictation, and 2) effortlessly pinpointing the intended edit location. We propose Tap&Say, a novel multimodal system that combines touch interactions with Large Language Models (LLMs) for accurate text correction. By tapping near an error, users signal their edit intent and location, addressing both challenges. Then, the user speaks the correction text. Tap&Say utilizes the touch location, voice input, and existing text to generate contextually relevant correction suggestions. We propose a novel touch location-informed attention layer that integrates the tap location into the LLM's attention mechanism, enabling it to utilize the tap location for text correction. We fine-tuned the touch location-informed LLM on synthetic touch locations and correction commands, achieving significantly higher correction accuracy than the state-of-the-art method VT. A 16-person user study demonstrated that Tap&Say outperforms VT with 16.4% shorter task completion time and 47.5% fewer keyboard clicks and is preferred by users.
 
 
 
@@ -5960,6 +6068,8 @@ Abstract: Sand painting is a highly aesthetic and valuable form of art but often
 
 
 ### “It’s Like Being On Stage”: Conveying Dancers’ Expressiveness Through A Haptic-Installed Contemporary Dance Performance
+BEST_PAPER
+
 Authors: Ximing Shen, Xuan Li, Youichi Kamiyama, Danny Hynds, Giulia Barbareschi, RAY LC, Sohei Wakisaka, Arata Horie, Kouta Minamizawa
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189110)
@@ -6046,15 +6156,6 @@ Abstract: Digital journaling offers a means for older adults to express themselv
 
 
 ## Living with Dementia or Visual Impairments
-### Beyond Omakase: Designing Shared Control for Navigation Robots with Blind People
-Authors: Rie Kamikubo, Seita Kayukawa, Yuka Kaniwa, Allan Wang, Hernisa Kacorri, Hironobu Takagi, Chieko Asakawa
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189539)
-
-Abstract: Autonomous navigation robots can increase the independence of blind people but often limit user control—following what is called in Japanese an "omakase" approach where decisions are left to the robot. This research investigates ways to enhance user control in social robot navigation, based on two studies conducted with blind participants. The first study, involving structured interviews (N=14), identified crowded spaces as key areas with significant social challenges. The second study (N=13) explored navigation tasks with an autonomous robot in these environments and identified design strategies across different modes of autonomy. Participants preferred an active role, termed the "boss" mode, where they managed crowd interactions, while the "monitor" mode helped them assess the environment, negotiate movements, and interact with the robot. These findings highlight the importance of shared control and user involvement for blind users, offering valuable insights for designing future social navigation robots.
-
-
-
 ### WanderGuide: Indoor Map-less Robotic Guide for Exploration by Blind People
 Authors: Masaki Kuribayashi, Kohei Uehara, Allan Wang, Shigeo Morishima, Chieko Asakawa
 
@@ -6074,6 +6175,8 @@ Abstract: Intertemporal reflection, flexibly thinking forward and backward in ti
 
 
 ### Open-ended Play For People With Dementia
+HONORABLE_MENTION
+
 Authors: Alicia Valencia, Maarten Houben, Rens Brankaert, Berry Eggen, Wijnand IJsselsteijn
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188445)
@@ -6099,6 +6202,8 @@ connection, and 3) considering age-appropriate aesthetics.
 
 
 ### Mano: Designing for Tactile Experiences in Advanced Dementia Care
+HONORABLE_MENTION
+
 Authors: Sanne Beijer, Maarten Houben, Wijnand IJsselsteijn, Rens Brankaert
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188888)
@@ -6108,7 +6213,9 @@ Abstract: Professional caregivers want to provide feelings of security and comfo
 
 
 ### Creating with Care: Co-Designing Immersive Experiences through Art-Making with People Living with Dementia
-Authors: Ethan Cheung, Sophia Ppali, Chee Siang Ang, Wan-Jou She, Alexandra Covaci
+HONORABLE_MENTION
+
+Authors: Sophia Ppali, Ethan Cheung, Alexandra Covaci, Wan-Jou She, Chee Siang Ang
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189624)
 
@@ -6118,16 +6225,9 @@ Abstract: This paper explores the integration of co-design and art-making in dev
 
 
 ## Make it Visible
-### SummAct: Uncovering User Intentions Through Interactive Behaviour Summarisation
-Authors: Guanhua Zhang, Mohamed Ahmed, Zhiming Hu, Andreas Bulling
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189642)
-
-Abstract: Recent work has highlighted the potential of modelling interactive behaviour analogously to natural language. We propose interactive behaviour summarisation as a novel computational task and demonstrate its usefulness for automatically uncovering latent user goals while interacting with graphical user interfaces. We introduce SummAct – a novel hierarchical method to summarise low-level input actions into high-level goals to tackle this task. SummAct first identifies sub-goals from user actions using a large language model and in-context learning. In a second step, high-level goals are obtained by fine-tuning the model using a novel UI element weighting mechanism to preserve detailed context information embedded within UI elements during summarisation. Through a series of evaluations, we demonstrate that SummAct significantly outperforms baseline methods across desktop and mobile user interfaces and interactive tasks by up to 21.9%. We further introduce two exciting example use cases enabled by our method: interactive behaviour forecasting and automatic behaviour synonym identification.
-
-
-
 ### GistVis: Automatic Generation of Word-scale Visualizations from Data-rich Documents
+HONORABLE_MENTION
+
 Authors: Ruishi Zou, Yinqi Tang, Jingzhu Chen, Siyu Lu, Yan Lu, Yingfan Yang, Chen Ye
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188659)
@@ -6168,6 +6268,8 @@ Abstract: Historical visualizations are a valuable resource for studying the his
 
 
 ### The Social Construction of Visualizations: Practitioner Challenges and Experiences of Visualizing Race and Gender
+HONORABLE_MENTION
+
 Authors: Priya Dhawka, Sayamindu Dasgupta
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189050)
@@ -6366,6 +6468,8 @@ Abstract: Community health workers (CHWs) provide last-mile healthcare services 
 
 
 ### Who is Trusted for a Second Opinion? Comparing Collective Advice from a Medical AI and Physicians in Biopsy Decisions After Mammography Screening
+HONORABLE_MENTION
+
 Authors: Henrik Detjen, Lars Densky, Niklas von Kalckreuth, Marvin Kopka
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188436)
@@ -6430,16 +6534,9 @@ Abstract: Meetings often suffer from a lack of intentionality, such as unclear g
 
 
 
-### Observe, Ask, Intervene: Designing AI Agents for More Inclusive Meetings
-Authors: Mo Houtti, Moyan Zhou, Loren Terveen, Stevie Chancellor
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188404)
-
-Abstract: Video conferencing meetings are more effective when they are inclusive, but inclusion often hinges on meeting leaders' and/or co-facilitators' practices. AI systems can be designed to improve meeting inclusion at scale by moderating negative meeting behaviors and supporting meeting leaders. We explored this design space by conducting 9 user-centered ideation sessions, instantiating design insights in a prototype ``virtual co-host'' system, and testing the system in a formative exploratory lab study ($n=68$ across 12 groups, 18 interviews). We found that ideation session participants wanted AI agents to ask questions before intervening, which we formalized as the ``Observe, Ask, Intervene'' (OAI) framework. Participants who used our prototype preferred OAI over fully autonomous intervention, but rationalized away the virtual co-host's critical feedback. From these findings, we derive guidelines for designing AI agents to influence behavior and mediate group work. We also contribute methodological and design guidelines specific to mitigating inequitable meeting participation.
-
-
-
 ### Co-Designing Multimodal Tools for Radically Mobile Hybrid Meetings
+HONORABLE_MENTION
+
 Authors: Julia Kleinau, Jens Emil Grønbæk, Eve Hoggan
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188235)
@@ -6495,6 +6592,8 @@ Abstract: As mental health concerns grow among Asian American communities, there
 
 
 ### Social Simulation for Everyday Self-Care: Design Insights from Leveraging VR, AR, and LLMs for Practicing Stress Relief
+HONORABLE_MENTION
+
 Authors: Anna Fang, Hriday Chhabria, Alekhya Maram, Haiyi Zhu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189496)
@@ -6534,6 +6633,8 @@ Abstract: Personal informatics (PI) systems have been utilized to help individua
 
 ## Mental and Emotional Wellbeing
 ### The Benefits of Prosociality towards AI Agents: Examining the Effects of Helping AI Agents on Human Well-Being
+BEST_PAPER
+
 Authors: Zicheng Zhu, Yugin Tan, Naomi Yamashita, YI-CHIEH LEE, Renwen Zhang
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189275)
@@ -6556,8 +6657,9 @@ Authors: Hitesh Goel, Yoobin Park, Jin Liou, Darwin Guevarra, Peggy Callahan, Jo
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189076)
 
-Abstract: Prosociality has been well-documented to positively impact mental, social, and physical well-being. However, existing studies of interventions for promoting prosociality are limited by barriers such as small sample sizes and low engagement. To address this gap, we conducted a global well-being intervention STUDY, including more than 15,000 participants from 164 countries and regions. The STUDY intervention consists of seven daily micro-acts, each adapted from validated positive psychology interventions and assembled into a week-long program to promote well-being. Our analyses reveal new insights into the impact of well-being micro-acts across diverse populations, patterns of responses, and effectiveness of specific micro-acts, linkages between improvements in prosociality and in well-being, and the potential to predict changes in prosociality.
-This study offers valuable insights into the design of future well-being and prosociality interventions. We envision our work as a stepping stone towards global-scale prosociality interventions that foster a more unified and compassionate world.
+Abstract: Prosociality has been well-documented to positively impact mental, social, and physical well-being. However, existing studies of interventions for promoting prosociality have limitations such as small sample sizes or unclear benchmarks. To address this gap, we
+conducted a global-scale well-being intervention deployment study, BIGJOY, with more than 18,000 participants from 172 countries and regions. The week-long BIGJOY intervention consists of seven daily micro-acts (i.e., brief actions that require minimal effort), each adapted from validated positive psychology interventions. The analyses of large-scale intervention data reveal unique insights into the impact of well-being micro-acts across diverse populations, patterns of responses, effectiveness of specific micro-acts and their nuanced impacts across different populations, linkages between improvements in prosociality and in well-being, as well as the potential for machine learning to predict changes in prosociality. This study offers valuable insights into a set of design guidelines for future well-being and prosociality interventions. We envision our
+work as a stepping stone towards future large-scale prosociality interventions that foster a more unified and compassionate world.
 
 
 
@@ -6590,6 +6692,8 @@ Abstract: In Affective computing, recognizing users' emotions accurately is the 
 
 
 ### Designing Daily Supports for Parent-Child Conversations about Emotion: Ecological Momentary Assessment as Intervention
+HONORABLE_MENTION
+
 Authors: Seray Ibrahim, Predrag Klasnja, James J. Gross, Petr Slovak
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189310)
@@ -6610,6 +6714,8 @@ Abstract: Large language models (LLMs) have shown exceptional performance in var
 
 
 ### PropType: Everyday Props as Typing Surfaces in Augmented Reality
+HONORABLE_MENTION
+
 Authors: Hyunjae Gil, Ashish Pratap, Iniyan Joseph, Jin Ryong Kim
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188891)
@@ -6676,31 +6782,12 @@ Abstract: Soft robots, constructed from compliant materials, offer unique flexib
 
 
 
-### The People Behind the Robots: How Wizards Wrangle Robots in Public Deployments
-Authors: Hannah Pelikan, Fanjun Bu, Wendy Ju
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189125)
-
-Abstract: In the Wizard-of-Oz study paradigm, human "wizards" perform not-yet-implemented system behavior, simulating, among others, how autonomous robots could interact in public to see how unwitting bystanders respond. This paper analyzes a 60-minute video recording of two wizards in a public plaza who are operating two trash-collecting robots within their line of sight. We take an ethnomethodology and conversation analysis perspective to scrutinize interactions between the wizards and the people in the plaza, focusing on critical instances where one robot gets stuck and requires collaborative intervention by the wizards. Our analysis unpacks how the wizards deal with emergent problems by pushing one robot into the other, how they manage front and backstage interactions, and how they monitor the location of each other's robots. We discuss how scrutinizing the work of wizards can inform explorative Wizard-of-Oz paradigms, the design of multi-agent robot systems, and the operation of urban robots from a distance.
-
-
-
 ### Peek into the `White-Box': A Field Study on Bystander Engagement with Urban Robot Uncertainty
 Authors: Xinyan Yu, Marius Hoggenmüller, Tram Tran, Yiyuan Wang, Qiuming Zhang, Martin Tomitsch
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188829)
 
 Abstract: Uncertainty inherently exists in the autonomous decision-making process of robots. Involving humans in resolving this uncertainty not only helps robots mitigate it but is also crucial for improving human-robot interactions. However, in public urban spaces filled with unpredictability, robots often face heightened uncertainty without direct human collaborators. This study investigates how robots can engage bystanders for assistance in public spaces when encountering uncertainty and examines how these interactions impact bystanders' perceptions and attitudes towards robots. We designed and tested a speculative `peephole' concept that engages bystanders in resolving urban robot uncertainty. Our design is guided by considerations of non-intrusiveness and eliciting initiative in an implicit manner, considering bystanders' unique role as non-obligated participants in relation to urban robots. Drawing from field study findings, we highlight the potential of involving bystanders to mitigate urban robots' technological imperfections to both address operational challenges and foster public acceptance of urban robots. Furthermore, we offer design implications to encourage bystanders' involvement in mitigating the imperfections.
-
-
-
-### The Robotability Score: Enabling Harmonious Robot Navigation on Urban Streets
-Authors: Matthew Franchi, Maria Teresa Parreira, Fanjun Bu, Wendy Ju
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188872)
-
-Abstract: This paper introduces the Robotability Score (R), a novel metric that quantifies the suitability of urban environments for autonomous robot navigation. Through expert interviews and surveys, we identify and weigh key features contributing to R for wheeled robots on urban streets. Our findings reveal that pedestrian density, crowd dynamics and pedestrian flow are the most critical factors, collectively accounting for 28% of the total score. Computing robotability across New York City yields significant variation; the area of highest R is 3.0 times more "robotable'' than the area of lowest R. Deployments of a physical robot on high and low robotability areas show the adequacy of the score in anticipating the ease of robot navigation. This new framework for evaluating urban landscapes aims to reduce uncertainty in robot deployment while respecting established mobility patterns and urban planning principles, contributing to the discourse on harmonious human-robot environments.
-
 
 
 
@@ -6743,6 +6830,8 @@ Abstract: This paper presents intermediate-level knowledge in the form of a taxo
 
 
 ### TH-Wood: Developing Thermo-Hygro-Coordinating Driven Wood Actuators to Enhance Human-Nature Interaction
+HONORABLE_MENTION
+
 Authors: Guanyun Wang, Chuang Chen, Xiao Jin, Yulu Chen, Yangweizhe Zheng, Qianzi Zhen, Yang Zhang, Jiaji Li, Yue Yang, Ye Tao, Shijian Luo, Lingyun Sun
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188289)
@@ -6761,6 +6850,8 @@ Abstract: Zoos aim to uphold high animal welfare standards while educating the p
 
 
 ### Designing Urban Noticing Probes for Community Animals and Cohabitation in Türkiye
+BEST_PAPER
+
 Authors: Sena Cucumak, Ozge Subasi
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188585)
@@ -6779,6 +6870,8 @@ Abstract: We introduce Being The Creek, a mobile augmented reality (MAR) experie
 
 
 ### Labour Provenance as a Lens to Reveal More-Than-Human Ecologies in Biological Design and HCI
+HONORABLE_MENTION
+
 Authors: Yuning Chen, Elise Cachat, Larissa Pschetz
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189425)
@@ -6797,7 +6890,7 @@ Abstract: Design aesthetics, predominantly concerned with artefact’s form and 
 
 
 
-## Motions and Haptics
+## Design for Diverse Physical Interactions
 ### Datamancer: Bimanual Gesture Interaction in Multi-Display Ubiquitous Analytics Environments
 Authors: Biswaksen Patnaik, Marcel Borowski, Huaishu Peng, Clemens Klokmose, Niklas Elmqvist
 
@@ -6924,6 +7017,8 @@ Abstract: Modern video games often feature moving target acquisition (MTA) tasks
 
 
 ### Does Adding Visual Signifiers in Animated Transitions Improve Interaction Discoverability?
+HONORABLE_MENTION
+
 Authors: Eva Mackamul, Fanny Chevalier, Géry Casiez, Sylvain Malacria
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188614)
@@ -6974,6 +7069,8 @@ Abstract: We introduce M^2Silent, which enables multi-user silent speech interac
 
 
 ### Why So Serious? Exploring Timely Humorous Comments in AAC Through AI-Powered Interfaces
+HONORABLE_MENTION
+
 Authors: Tobias Weinberg, Kowe Kadoma, Ricardo Gonzalez Penuela, Stephanie Valencia, Thijs Roumen
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188212)
@@ -7100,6 +7197,8 @@ Abstract: Animals living alongside humans are navigating a world increasingly fi
 
 
 ### Backyard Practices: A Liminal Approach to Designing in More-than-Human Worlds
+HONORABLE_MENTION
+
 Authors: Ron Wakkary, Doenja Oogjes, Oscar Tomico, Nazmus Sakib, Ege Kökel
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188610)
@@ -7109,6 +7208,8 @@ Abstract: As design researchers committed to more-than-human designing, we found
 
 
 ### Fabulating Bog Girl: Queer Entanglements of Body and Land Histories in More-than-Human AutoFiction and Design
+HONORABLE_MENTION
+
 Authors: Heidi Biggs
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188897)
@@ -7127,6 +7228,8 @@ Abstract: How more-than-human gatherings configure and change to support designi
 
 
 ### LivingLoom: Investigating Human-Plant Symbiosis through Integrating Living Plants into (E-)Textiles
+BEST_PAPER
+
 Authors: Jingwen Zhu, Samantha Chang, Ruth Zhao, Cindy Hsin-Liu Kao
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189142)
@@ -7166,6 +7269,8 @@ Abstract: Large Language Models (LLMs) like ChatGPT, used by over 200 million pe
 
 
 ### Towards Neuroqueer Spatial Justice: A Critical Literature Review of Public Space Technologies for Neurodivergent Populations
+HONORABLE_MENTION
+
 Authors: Patricia Piedade, Anna Carter, Rui Prada, Hugo Nicolau
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189247)
@@ -7193,6 +7298,8 @@ Abstract: While many technologies have been developed for facilitating interacti
 
 
 ### "It Helps Us Express Our Feelings Without Having To Say Anything": Exploring Accompanying Social Play Things Designed With and For Neurodiverse Groups of Children
+BEST_PAPER
+
 Authors: Brooke Morris, Hayati Havlucu, Alison Oldfield, Oussama Metatla
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188782)
@@ -7240,6 +7347,8 @@ Abstract: Indirect speech acts (ISAs) are a natural pragmatic feature of human c
 
 
 ### Trusting Tracking: Perceptions of Non-Verbal Communication Tracking in Videoconferencing
+HONORABLE_MENTION
+
 Authors: Carlota Vazquez Gonzalez, Timothy Neate, Rita Borgo
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189448)
@@ -7249,6 +7358,8 @@ Abstract: Videoconferencing is integral to modern work and living. Recently, tec
 
 
 ### User-defined Co-speech Gesture Design with Swarm Robots
+HONORABLE_MENTION
+
 Authors: Minh Duc Dang, Samira Pulatova, Lawrence Kim
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188906)
@@ -7258,6 +7369,8 @@ Abstract: Non-verbal signals, including co-speech gestures, play a vital role in
 
 
 ### From Alien to Ally: Exploring Non-Verbal Communication with Non-Anthropomorphic Avatars in a Collaborative Escape-Room
+HONORABLE_MENTION
+
 Authors: Federico Espositi, Maurizio Vetere, Andrea Bonarini
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188230)
@@ -7287,6 +7400,8 @@ Abstract: Fine-tuning Large Language Models (LLMs) is one response to the critiq
 
 
 ### Exploring Reduced Feature Sets for American Sign Language Dictionaries
+HONORABLE_MENTION
+
 Authors: Ben Kosa, Aashaka Desai, Alex Lu, Richard Ladner, Danielle Bragg
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189632)
@@ -7305,6 +7420,8 @@ Abstract: Creating new fonts requires a lot of human effort and professional typ
 
 
 ### Continual Human-in-the-Loop Optimization
+HONORABLE_MENTION
+
 Authors: Yi-Chi Liao, Paul Streli, Zhipeng Li, Christoph Gebhardt, Christian Holz
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188512)
@@ -7315,6 +7432,8 @@ Abstract: Optimal input settings vary across users due to differences in motor a
 
 
 ### Coordination Mechanisms in AI Development: Practitioner Experiences on Integrating UX Activities
+HONORABLE_MENTION
+
 Authors: Anders Bruun, Niels van Berkel, Dimitrios Raptis, Effie Law
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189235)
@@ -7353,6 +7472,8 @@ Abstract: Health-related artificial intelligence (health AI) systems are being r
 
 
 ### Participatory Design in Human-Computer Interaction: Cases, Characteristics, and Lessons
+HONORABLE_MENTION
+
 Authors: Xiang Qi, Junnan Yu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189475)
@@ -7498,24 +7619,6 @@ Abstract: Machine learning models deployed locally on social media applications 
 
 
 
-### Nurturing Capabilities: Unpacking the Gap in Human-Centered Evaluations of AI-Based Systems
-Authors: Aman Khullar, Nikhil Nalin, Abhishek Prasad, Ann John Mampilli, Neha Kumar
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189556)
-
-Abstract: Human-Computer Interaction (HCI) scholarship has studied how Artificial Intelligence (AI) can be leveraged to support care work(ers) by recognizing, reducing, and redistributing workload. Assessment of AI's impact on workers requires scrutiny and is a growing area of inquiry within human-centered evaluations of AI. We add to these conversations by unpacking the sociotechnical gap between the broader aspirations of workers from an AI-based system and the narrower existing definitions of success. We conducted a mixed-methods study and drew on Amartya Sen's Capability Approach to analyze the gap. We shed light on the social factors---on top of performance on evaluation metrics---that guided the AI model choice and determined whose wellbeing must be evaluated while conducting such evaluations. We argue for assessing broader achievements enabled through AI's use when conducting human-centered evaluations of AI. We discuss and recommend the dimensions to consider while conducting such evaluations.
-
-
-
-### Investigating User Perceptions of Epilepsy-Related Seizure Triggers in Mobile Apps: An Analysis of User Reviews
-Authors: Marcelo Eler, Wajdi Aljedaani
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188562)
-
-Abstract: Individuals with reflex epilepsy may have seizures caused by stimuli including flashing lights, colors, motion, and patterns. Many studies have investigated seizure-inducing content in multimedia, but studies addressing seizure triggers in mobile apps are still scarce. Hence, we examined user reviews aiming to identify and describe seizure triggers in mobile apps based on user's reported experiences. Our findings reveal significant patterns of how apps can unintentionally harm users with epilepsy, highlighting the need for improved design practices and more comprehensive accessibility guidelines, which are mainly focused on flashy content and animation. More specifically, we present evidences indicating that users do experience seizures triggered by mobile app interaction, which are not solely limited to multimedia interaction. Most seizure triggers are associated with flashy content and less frequently by color schemes, motion, transitions, glitches, and bugs. In addition, videos and advertisements are the most seizure-inducing content reported by users. 
-
-
-
 ### Understanding End-User Perception of Transfer Risks in Smart Contracts
 Authors: Yustynn Panicker, Ezekiel Soremekun, Sudipta Chattopadhyay, Sumei Sun
 
@@ -7537,6 +7640,8 @@ Abstract: Audits are critical mechanisms for identifying the risks and limitatio
 
 ## Personal Data and Decision-Making
 ### The Datafication of Care in Public Homelessness Services
+HONORABLE_MENTION
+
 Authors: Erina Seh-Young Moon, Devansh Saxena, Dipto Das, Shion Guha
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189601)
@@ -7559,7 +7664,7 @@ Authors: Di Yan, Chenge Tang, Senthil Chandrasegaran, Gerd Kortuem
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189269)
 
-Abstract: Data Humanism has gained prominence in personal visualization and Personal Informatics, advocating for a subjective and slow approach to engage with personal data. Collaborative sensemaking has great potential for understanding personal data, yet little is known about addressing requirements of structure and coordination when integrating Data Humanism into collaborative visualization. In this paper, we propose a set of design principles for collaborative visualizations to be both subjective and effective, while coordinating the slow sensemaking process and promoting data awareness and communication. We operationalize these principles into a personal visualization toolkit, which we evaluate with an observational study involving 16 university students (8 pairs) analyzing each other's screen-time data. Our findings reveal that implementing the proposed design principles: (1) facilitated data comparison from shared subjective perspectives, (2) helped coordinate sensemaking while allowing time for understanding personal data, and (3) helped the contextualization of data patterns, in turn aiding self-reflection.
+Abstract: Data Humanism has gained prominence in personal visualization and Personal Informatics, advocating for a subjective and slow approach to engage with personal data. Collaborative sensemaking has great potential for aiding the understanding of personal data, yet little is known about addressing requirements of structure and coordination when integrating Data Humanism into collaborative visualization. In this paper, we propose design principles for creating both subjective and effective collaborative visualizations, while coordinating the slow sensemaking process and promoting data awareness and communication. We operationalize these principles into a personal visualization toolkit, which we evaluate with an observational study involving 16 university students (8 pairs) analyzing each other's screen-time data. Our findings reveal that implementing the proposed design principles: (1) facilitated data comparison from shared subjective perspectives, (2) helped coordinate sensemaking while allowing time for understanding personal data, and (3) helped the contextualization of data patterns, in turn aiding self-reflection.
 
 
 
@@ -7573,6 +7678,8 @@ Abstract: Explanatory information helps users to evaluate the suggestions offere
 
 
 ### Encountering Friction, Understanding Crises: How Do Digital Natives Make Sense of Crisis Maps?
+HONORABLE_MENTION
+
 Authors: Laura Koesten, Antonia Saske, Sandra Starchenko, Kathleen Gregory
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188347)
@@ -7694,11 +7801,13 @@ Abstract: It is common for digital platforms to issue consequences for behaviors
 
 
 ### Building the Beloved Community: Designing Technologies for Neighborhood Safety
+HONORABLE_MENTION
+
 Authors: Ishita Chordia, Robert Wolfe, Jason Yip, Alexis Hiniker
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189570)
 
-Abstract: Neighborhood safety technologies, such as Nextdoor and Citizen, aim to enhance user safety through features like real-time alerts, interactive maps, and personalized feeds. While these platforms can support users' sense of safety, they can also fuel a local culture of policing and lateral surveillance, which disproportionately impacts racialized and unhoused members of the community. In contrast, the theory and practice of Transformative Justice was developed to ensure the safety of those populations who are constructed to be dangerous by society. We conducted a case study of a neighborhood social work program in Jackson Grove, SouthCity to understand the design implications of a Transformative Justice-oriented approach to neighborhood safety. Our findings highlight an opportunity for designers to reconceptualize safety from merely protecting users towards: 1) meeting the basic needs of a community, and 2) building relationships to support accountability. These shifts create an opportunity for designers to reimagine neighborhood safety technologies and the associated practices for users. We surface a new wave of safety research in HCI that aims to support both safety \textit{and} justice and contribute key design priorities towards this work. 
+Abstract: Neighborhood safety technologies, such as Nextdoor and Citizen, aim to enhance user safety through features like real-time alerts, interactive maps, and personalized feeds. While these platforms can support users' sense of safety, they can also fuel a local culture of policing and lateral surveillance, which disproportionately impacts racialized and unhoused members of the community. In contrast, the theory and practice of Transformative Justice was developed to ensure the safety of those populations who are constructed to be dangerous by society. We conducted a case study of a neighborhood social work program in Jackson Grove, Atlanta to understand the design implications of a Transformative Justice-oriented approach to neighborhood safety. Our findings highlight an opportunity for designers to reconceptualize safety from merely protecting users towards: 1) meeting the basic needs of a community, and 2) building relationships to support accountability. These shifts create an opportunity for designers to reimagine neighborhood safety technologies and the associated practices for users. We surface a new wave of safety research in HCI that aims to support both safety \textit{and} justice and contribute key design priorities towards this work. 
 
 
 
@@ -7750,6 +7859,8 @@ Abstract: Analyzing data subgroups is a common data science task to build intuit
 
 
 ### Exploring Empty Spaces: Human-in-the-Loop Data Augmentation
+HONORABLE_MENTION
+
 Authors: Catherine Yeh, Donghao Ren, Yannick Assogba, Dominik Moritz, Fred Hohman
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189047)
@@ -7768,6 +7879,8 @@ Abstract: Data analysts frequently employ code completion tools in writing custo
 
 
 ### TableCanoniser: Interactive Grammar-Powered Transformation of Messy, Non-Relational Tables to Canonical Tables
+HONORABLE_MENTION
+
 Authors: Kai Xiong, Cynthia Huang, Michael Wybrow, Yingcai Wu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189019)
@@ -7777,6 +7890,8 @@ Abstract: TableCanoniser is a declarative grammar and interactive system for con
 
 
 ### How To Draw Commands? An Elicitation Study for Sketching on Spreadsheets
+HONORABLE_MENTION
+
 Authors: Marc Hesenius, Mak Krvavac, Valbjörn Jón Valbjörnsson, Theresia Mita Erika, Matthias Book
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189538)
@@ -7794,15 +7909,6 @@ The sketch patterns we identified can be a first step towards developing interpr
 
 
 ## Pointing and Selection
-### Curves Ahead: Enhancing the Steering Law for Complex Curved Trajectories
-Authors: Jennie Chen, Sidney Fels
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188426)
-
-Abstract: The Steering Law has long been a fundamental model in predicting movement time for tasks involving navigating through constrained paths, such as in selecting sub-menu options, particularly for straight and circular arc trajectories. However, this does not reflect the complexities of real-world tasks where curvatures can vary arbitrarily, limiting its applications. This study aims to address this gap by introducing the total curvature parameter K into the equation to account for the overall curviness characteristic of a path. To validate this extension, we conducted a mouse-steering experiment on fixed-width paths with varying lengths and curviness levels. Our results demonstrate that the introduction of K significantly improves model fitness for movement time prediction over traditional models. These findings advance our understanding of movement in complex environments and support potential applications in fields like speech motor control and virtual navigation.
-
-
-
 ### PinchCatcher: Enabling Multi-selection for Gaze+Pinch
 Authors: Jinwook Kim, Sangmin Park, Qiushi Zhou, Mar Gonzalez-Franco, Jeongmi Lee, Ken Pfeuffer
 
@@ -7813,6 +7919,8 @@ Abstract: This paper investigates multi-selection in XR interfaces based on eye 
 
 
 ### Understanding User Behavior in Window Selection using Dragging for Multiple Targets
+HONORABLE_MENTION
+
 Authors: Jae-Yeop Jeong, Jin-Woo Jeong
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188753)
@@ -7822,6 +7930,8 @@ Abstract: Window selection is a fundamental method in desktop environments for i
 
 
 ### T2IRay: Design of Thumb-to-Index based Indirect Pointing for Continuous and Robust AR/VR Input
+HONORABLE_MENTION
+
 Authors: Jina Kim, Yang Zhang, Sang Ho Yoon
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188835)
@@ -7888,6 +7998,8 @@ AEGIS utilizes human attention, converted from eye-tracking, to guide reinforcem
 
 
 ### You Shall Not Pass: Warning Drivers of Unsafe Overtaking Maneuvers on Country Roads by Predicting Safe Sight Distance
+HONORABLE_MENTION
+
 Authors: Adrian Bauske, Arthur Fleig
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189171)
@@ -7897,6 +8009,8 @@ Abstract: Overtaking on country roads with possible opposing traffic is a danger
 
 
 ### "Create a Fear of Missing Out" – ChatGPT Implements Unsolicited Deceptive Designs in Generated Websites Without Warning
+HONORABLE_MENTION
+
 Authors: Veronika Krauß, Mark McGill, Thomas Kosch, Yolanda Thiel, Dominik Schön, Jan Gugenheimer
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189285)
@@ -7905,7 +8019,7 @@ Abstract: With the recent advancements in Large Language Models (LLMs), web deve
 
 
 
-### How to Scrape a Cookie Banner: A Cross-Country Analysis of GDPR Consent and a Flexible Method for Doing It
+### A Cross-Country Analysis of GDPR Cookie Banners and Flexible Methods for Scraping Them
 Authors: Midas Nouwens, Janus Kristensen, Kristjan Maalt, Rolf Bagge
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188543)
@@ -7981,7 +8095,7 @@ Authors: Ehsan Ul Haque, Mohammad Maifi Hasan Khan
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188656)
 
-Abstract: While companies are increasingly moving towards the `pay for privacy' model, it is unclear how consumers make privacy decisions under this model. Toward that, we conducted an incentive-compatible lottery study on Prolific to understand the factors behind users' choice to have additional data privacy controls. With 265 United States participants across two device risk conditions (High-risk: camera vs. Low-risk: light bulb) and three cash conditions (\$9.99 vs. \$19.99 vs. \$29.99), results reveal that device risk and cash offerings influence participants’ lottery choice. We further observed an interaction effect between participants’ technical literacy and cash options. Specifically, technical participants chose the data privacy controls instead of cash at a higher rate when the cash condition was \$29.99. In contrast, less technical participants favored the privacy option at a higher rate when the cash condition was \$9.99. Implications of our findings for user data privacy are discussed in the paper.
+Abstract: While companies are increasingly moving towards the ‘pay for privacy’ model, it is unclear how consumers make privacy decisions under this model. Toward that, we conducted an incentive-compatible lottery study on Prolific to understand the factors behind users’ choice to have additional data privacy controls. With 265 United States participants across two device risk conditions (High-risk: camera vs. Low-risk: light bulb) and three cash conditions ($9.99 vs. $19.99 vs. $29.99), results reveal that device risk and cash offerings influence participants’ lottery choice. We further observed an interaction effect between participants’ technical literacy and cash option. Specifically, technical participants chose the data privacy controls instead of cash at a higher rate when the cash condition was $29.99. In contrast, less technical participants favored the privacy option at a higher rate when the cash condition was $9.99. Implications of our findings for user data privacy are discussed in the paper.
 
 
 
@@ -7995,7 +8109,7 @@ Abstract: Online fraud substantially harms individuals and seniors are dispropor
 
 
 
-## Product Design
+## Exploring Physical and Digital Product Design
 ### Inkspire: Supporting Design Exploration with Generative AI through Analogical Sketching
 Authors: David Chuan-En Lin, Hyeonsu Kang, Nikolas Martelaro, Aniket Kittur, Yan-Ying Chen, Matthew Hong
 
@@ -8033,6 +8147,8 @@ Abstract: Product metaphors, which involve creating products that convey meaning
 
 
 ### I-Card: A Generative AI-Supported Intelligent Design Method Card Deck
+HONORABLE_MENTION
+
 Authors: Liuqing Chen, Wengteng Cheang, Zhaojun Jiang, Yuan Xu, Zebin Cai, Lingyun Sun, Peter Childs, Ji Han, Preben Hansen, Haoyu Zuo
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189407)
@@ -8064,6 +8180,8 @@ Abstract: Generative AI has enabled novice designers to quickly create professio
 
 ## Programming and Interaction
 ### DynEx: Dynamic Code Synthesis with Structured Design Exploration for Accelerated Exploratory Programming
+HONORABLE_MENTION
+
 Authors: Jenny Ma, Karthik Sreedhar, Vivian Liu, Pedro Perez, Sitong Wang, Riya Sahni, Lydia Chilton
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188275)
@@ -8079,6 +8197,8 @@ We conclude with a discussion of the implications of design exploration for expl
 
 
 ### An Investigation of Interaction and Information Needs for Protocol Reverse Engineering Automation
+HONORABLE_MENTION
+
 Authors: Samantha Katcher, James Mattei, Jared Chandler, Daniel Votipka
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188937)
@@ -8094,11 +8214,13 @@ Authors: Madison Pickering, Helena Williams, Alison Gan, Weijia He, Hyojae Park,
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188607)
 
-Abstract: Large language models (LLMs) like GPT-4 can convert natural-language descriptions into computer code, making them a promising interface for end-user programming. We undertake a systematic analysis of how people with and without programming experience describe information-processing tasks (IPTs) in natural language, focusing on the characteristics of successful communication. Across two online between-subjects studies, we paired crowdworkers either with one another or with an LLM, asking senders (always humans) to communicate IPTs in natural language to their receiver (either a human or LLM). Both senders and receivers tried to answer test cases, the latter based on their sender's description. While participants with programming experience tended to communicate IPTs more successfully than non-programmers, this advantage was not overwhelming. Furthermore, a user interface that solicited example test cases from senders often, but not always, improved IPT communication. Allowing receivers to interactively request clarification, though, was typically less successful at improving IPT communication.
+Abstract: Large language models (LLMs) like GPT-4 can convert natural-language descriptions of a task into computer code, making them a promising interface for end-user programming. We undertake a systematic analysis of how people with and without programming experience describe information-processing tasks (IPTs) in natural language, focusing on the characteristics of successful communication. Across two online between-subjects studies, we paired crowdworkers either with one another or with an LLM, asking senders (always humans) to communicate IPTs in natural language to their receiver (either a human or LLM). Both senders and receivers tried to answer test cases, the latter based on their sender's description. While participants with programming experience tended to communicate IPTs more successfully than non-programmers, this advantage was not overwhelming. Furthermore, a user interface that solicited example test cases from senders often, but not always, improved IPT communication. Allowing receivers to request clarification, though, was less successful at improving communication.
 
 
 
 ### InstructPipe: Generating Visual Blocks Pipelines with Human Instructions and LLMs
+HONORABLE_MENTION
+
 Authors: Zhongyi Zhou, Jing Jin, Vrushank Phadnis, Xiuxiu Yuan, Jun Jiang, Xun Qian, Kristen Wright, Mark Sherwood, Jason Mayes, Jingtao Zhou, Yiyi Huang, Zheng Xu, Yinda Zhang, Johnny Lee, Alex Olwal, David Kim, Ram Iyengar, Na Li, Ruofei Du
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189111)
@@ -8117,6 +8239,8 @@ Abstract: Although current generative AI (GenAI) enables designers to create nov
 
 
 ### Code Shaping: Iterative Code Editing with Free-form AI-Interpreted Sketching
+BEST_PAPER
+
 Authors: Ryan Yen, Jian Zhao, Daniel Vogel
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189580)
@@ -8137,6 +8261,8 @@ Abstract: Scientists across disciplines write code for critical activities like 
 
 ## Programming and Software Use
 ### Prototyping with Prompts: Emerging Approaches and Challenges in Generative AI Design for Collaborative Software Teams
+BEST_PAPER
+
 Authors: Hariharan Subramonyam, Divy Thakkar, Andrew Ku, Juergen Dieber, Anoop Sinha
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189366)
@@ -8182,6 +8308,8 @@ Abstract: This paper presents findings from a thinking-aloud protocol exploring 
 
 
 ### The Shapes of Abstraction in Data Structure Diagrams
+HONORABLE_MENTION
+
 Authors: Devamardeep Hayatpur, Brian Hempel, Richard Lin, Haijun Xia
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189516)
@@ -8230,11 +8358,13 @@ Abstract: In light of machine learning's increasing computational needs, develop
 
 
 ### What Comes After Noticing?: Reflections on Noticing Solar Energy and What Came Next
+BEST_PAPER
+
 Authors: Angella Mackey, David McCallum, Oscar Tomico, Martijn de Waal
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189272)
 
-Abstract: Many design researchers have been exploring what it means to take a more-than-human design approach in their practice. In particular, the technique of “noticing” has been explored as a way of intentionally opening a designer’s awareness to more-than-human worlds. In this paper we present autoethnographic accounts of our own efforts to notice solar energy. Through two studies we reflect on the transformative potential of noticing the more-than-human, and the difficulties in trying to sustain this change in oneself and one’s practice. We propose that noticing can lead to activating exiled capacities within the noticer, relational abilities that lie dormant in each of us. We also propose that emphasising sense-fullness in and through design can be helpful in the face of broader psychological or societal boundaries that block paths towards more relational ways of living with non-humans. 
+Abstract: Many design researchers have been exploring what it means to take a more-than-human design approach in their practice. In particular, the technique of “noticing” has been explored as a way of intentionally opening a designer’s awareness to more-than-human worlds. In this paper we present autoethnographic accounts of our own efforts to notice solar energy. Through two studies we reflect on the transformative potential of noticing the more-than-human, and the difficulties in trying to sustain this change in oneself and one’s practice. We propose that noticing can lead to activating exiled capacities within the noticer, relational abilities that lie dormant in each of us. We also propose that emphasising sense-fullness in and through design can be helpful in the face of broader psychological or societal boundaries that block paths towards more relational ways of living with non-humans.  
 
 
 
@@ -8257,6 +8387,8 @@ Abstract: Prototyping large, electronically integrated structures is challenging
 
 
 ### PCB Renewal: Iterative Reuse of PCB Substrates for Sustainable Electronic Making
+HONORABLE_MENTION
+
 Authors: Zeyu Yan, Advait Vartak, Jiasheng Li, Zining Zhang, Huaishu Peng
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188386)
@@ -8277,6 +8409,8 @@ Abstract: As story writing requires diverse resources, a single system combining
 
 
 ### PAIGE: Examining Learning Outcomes and Experiences with Personalized AI-Generated Educational Podcasts
+BEST_PAPER
+
 Authors: Tiffany Do, Usama Bin Shafqat, Elsie Ling, Nikhil Sarda
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188883)
@@ -8306,6 +8440,8 @@ Our findings provide valuable insights for designing embodied and tangible learn
 
 
 ### Hashtag Re-Appropriation for Audience Control on Recommendation-Driven Social Media Xiaohongshu (rednote)
+HONORABLE_MENTION
+
 Authors: Ruyuan Wan, Lingbo Tong, Tiffany Knearem, Toby Li, Ting-Hao Huang, Qunfang Wu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189043)
@@ -8336,6 +8472,8 @@ Abstract: Intelligent agents coexisting with humans often need to interact with 
 
 ## Risk and Privacy
 ### To Rely or Not to Rely? Evaluating Interventions for Appropriate Reliance on Large Language Models
+HONORABLE_MENTION
+
 Authors: Jessica Bo, Sophia Wan, Ashton Anderson
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188670)
@@ -8354,20 +8492,13 @@ Abstract: In light of the increasing vulnerability of citizens against cyberatta
 
 
 ### Interaction Techniques for Providing Sensitive Location Data of Interpersonal Violence with User-Defined Privacy Preservation
+HONORABLE_MENTION
+
 Authors: Alex Godwin, Jasmine Foriest, Mia Bottcher, Gretchen Baas, Michael Tsai, Daniel Wu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189066)
 
 Abstract: Violence is a significant public health issue. Interventions to reduce violence rely on data about where incidents occur. Cities have historically used incomplete law enforcement crime data, but many are shifting toward data collected from hospital patients via the Cardiff Model to form a more complete understanding of violence. Still, location data is wrought with issues related to completeness, quality, and privacy. For example, if a patient feels that sharing a detailed location may present them with additional risks, such as undesired police involvement or retaliatory violence, they may be unwilling or unable to share. Consequently, survivors of violence who are the most vulnerable may remain the most at risk. We have designed a user interface and mapping algorithm to confront these challenges and conducted an experiment with emergency department patients. The results indicate a significant improvement in location data obtained using the interface compared to the existing screening interview.
-
-
-
-### ``I am not the primary focus" - Understanding the Perspectives of Bystanders in Photos Shared Online
-Authors: Yuqi Niu, Nicole Meng-Schneider, Weidong Qiu, Nadin Kokciyan
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189577)
-
-Abstract: When taking photos in a crowd, unintended individuals, such as bystanders, are often captured alongside the main subject(s). In an effort to protect bystanders' privacy, existing methods have been developed to automatically detect bystanders. However, inconsistent definitions of who qualifies as a bystander limit their effectiveness. To better understand bystanders' perceptions, we conducted an online survey with 486 participants, analyzing their responses to 864 image-based scenarios and their comfort with sharing these images online. Our results revealed no significant correlation between comfort with public photo sharing and bystander status. We identified limitations in current bystander detection methodologies, as they often fail to recognize bystanders who are not clearly in the background, hence missing individuals with privacy concerns. Moreover, comfort with public sharing varied significantly depending on the image context. Our findings highlight the importance of considering the context of captured images to address privacy concerns in image sharing.
 
 
 
@@ -8420,6 +8551,8 @@ Abstract: The growing use of smart home devices poses considerable privacy and s
 
 
 ### Permission Rationales in the Web Ecosystem: An Exploration of Rationale Text and Design Patterns
+BEST_PAPER
+
 Authors: Yusra Elbitar, Soheil Khodayari, Marian Harbach, Gianluca De Stefano, Balazs Engedy, Giancarlo Pellegrino, Sven Bugiel
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188217)
@@ -8460,6 +8593,8 @@ Abstract: This paper presents a comprehensive Systematization of Knowledge on ta
 
 
 ### Beyond Deterrence: A Systematic Review of the Role of Autonomous Motivation in Organizational Security Behavior Studies
+HONORABLE_MENTION
+
 Authors: Xiaowei Chen, Lorin Schöni, Verena Distler, Verena Zimmermann
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189394)
@@ -8480,6 +8615,8 @@ Abstract: What if our clothes could capture our body motion accurately? This pap
 
 
 ### RheoMap: Mapping Inks, Gels, Pastes, and Slurries within a Rheological Embedding Space using Retraction-Extrusion Pressure Sensor Vectors
+HONORABLE_MENTION
+
 Authors: Hoang Vuong, Cesar Torres
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188494)
@@ -8554,6 +8691,8 @@ Abstract: Advancements in large language models (LLMs) are sparking a proliferat
 
 
 ### Deceptive Explanations by Large Language Models Lead People to Change their Beliefs About Misinformation More Often than Honest Explanations
+HONORABLE_MENTION
+
 Authors: Valdemar Danry, Pat Pataranutaporn, Matthew Groh, Ziv Epstein
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189618)
@@ -8581,6 +8720,8 @@ Abstract: Recent advances in generative AI have precipitated a proliferation of 
 
 
 ### Encountering Robotic Art: The Social, Material, and Temporal Processes of Creation with Machines
+HONORABLE_MENTION
+
 Authors: Yigang Qin, Yanheng Li, EunJeong Cheon
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188502)
@@ -8601,6 +8742,8 @@ Abstract: Digital artists use creativity support tools guided by their ideas of 
 
 ## Smart Home and Buildings
 ### What Do We Design for When We Design "Smart Buildings"? - A Scoping Review of Human Experience Design Research in Buildings
+BEST_PAPER
+
 Authors: Shruti Rao, Katja Rogers, Judith Good, Hamed Alavi
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188751)
@@ -8610,6 +8753,8 @@ Abstract: Built environments increasingly incorporate new forms of intelligence,
 
 
 ### Dramatic Things: Investigating Value Conflicts in Smart Home through Enactment and Co-speculation
+HONORABLE_MENTION
+
 Authors: Nazli Cila, Maria Luce Lupetti, Luciano Cavalcante Siebert, Janna van Grunsven
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189288)
@@ -8619,6 +8764,8 @@ Abstract: Smart home technologies embed values such as sustainability, comfort, 
 
 
 ### FamiData Hub: A Speculative Design Exploration with Families on Smart Home Datafication
+HONORABLE_MENTION
+
 Authors: Ge Wang, Jun Zhao, Max Van Kleek, Roy Pea, Nigel Shadbolt
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188801)
@@ -8699,25 +8846,7 @@ Authors: Garrett Smith, Kirsten Chapman, Tzu-Yu Weng, Haijing Hao, Mainack Monda
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189181)
 
-Abstract: Contact tracing has shown to be an effective tool in limiting the spread of transmittable diseases in countries where it is widely adopted. During the COVID-19 pandemic, contact tracing app adoption in the United States was low despite having the highest number of cases worldwide. To better understand why, we conducted a survey (N=302, matched to U.S. census demographics) and found that political orientation overwhelmingly predicted attitudes towards COVID-19 and the adoption of contact tracing apps. These attitudes also overwhelmingly shaped people's willingness to participate in contact tracing for diseases in future pandemics. Our findings suggest that the politically charged environment surrounding COVID-19 in the U.S. may have a long-term impact on American's willingness to utilize contact tracing for diseases in future pandemics. We conclude with recommendations for technology designers and policymakers on how to overcome the sharp divide that has been driven by the political discourse in the U.S.
-
-
-
-### The Role of ICTs in the Maintenance and Reproduction of Digital Border Assemblages
-Authors: Lubna Razaq, Sucheta Ghoshal
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189472)
-
-Abstract: In this paper, we extend the Digital Border Assemblages framework (DBA) by locating the role of ICTs in enabling means of racialized control at geographical boundaries or borders. Applying a critical-interpretive approach, we identify key features of DBA that contribute to such racial formations. We analyze three case studies of border technologies deployed at and beyond physical sites of border control: electronic device inspections, electronic location monitoring, and restricted transactions in financial technologies. Although a framework of DBA exists in the current paradigm of border studies, we argue that a close examination of the entanglements between borders and ICTs offers us key insights into how migrant bodies are subjected to racialized control at/by the border.  Implications for HCI researchers include studying the experiences of those impacted by this assemblage and developing methods inspired by the legal field for studying these obscure systems.
-
-
-
-### What's in a Place? On Platformization of Traditional Agricultural Marketplaces
-Authors: Anubha Singh, Patricia Garcia, Priyank Chandra
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189217)
-
-Abstract: In this paper, we pay ethnographic attention to the failed attempts at platformization of agricultural trade in one of Asia's largest onion markets, located in rural western Maharashtra. We focus on e-NAM, or the electronic National Agricultural Market, a state-sponsored digital trading platform intended to create a transparent, efficient, and frictionless online national agricultural market by collapsing geographical barriers of traditional marketplaces, commonly known as mandis. We found that despite e-NAM's intended benefits, mandis continue to be the preferred mode of transaction for trading agricultural commodities. We demonstrate that these two agricultural marketplaces foster different meanings of information transparency, efficiency, and participation among stakeholders. In agrarian societies dominated by smallholder farmers, such as India, social collectives and non-economic relationships are crucial for providing safety and risk mitigation when dealing with perishable commodities like onions. We argue that e-NAM fails because its digital intermediation prioritizes an ahistorical and depoliticized free-market approach, which treats farmers (and traders) as independent units driven solely by the economic logic of demand and supply, disconnecting them from their historical and political agrarian social class.
+Abstract: Contact tracing has shown to be an effective tool in limiting the spread of transmittable diseases in countries where it is widely adopted. During the COVID-19 pandemic, contact tracing app adoption in the United States was low despite having the highest number of recorded cases worldwide. To better understand why, we conducted a survey (N=302, matched to U.S. census demographics) and found that political orientation overwhelmingly predicted attitudes towards COVID-19 and the adoption of contact tracing apps. These attitudes also overwhelmingly shaped people's willingness to participate in contact tracing for diseases in future pandemics. Our findings suggest that the politically charged environment surrounding COVID-19 in the U.S. may have a long-term impact on American's willingness to utilize contact tracing for diseases in future pandemics. We conclude with recommendations for technology designers and policymakers on how to overcome the sharp divide that has been driven by the political discourse in the U.S.
 
 
 
@@ -8760,6 +8889,8 @@ Abstract: This paper provides an in-depth view of people's experiences with food
 
 
 ### Queer Joy on Social Media: Exploring the Expression and Facilitation of Queer Joy in Online Platforms
+HONORABLE_MENTION
+
 Authors: Madeleine Steeds, Sarah Clinch, Carolina Are, Genavee Brown, Ben Dalton, Lexi Webster, Alice Wilson, Dawn Woolley
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188925)
@@ -8769,6 +8900,8 @@ Abstract: Queer Joy is conceptualised as a form of resistance to oppression by c
 
 
 ### Tracing Change in Social Media Use: A Qualitative Longitudinal Study
+BEST_PAPER
+
 Authors: Beata Jungselius, Alexandra Weilenmann
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188488)
@@ -8851,21 +8984,22 @@ Abstract: Rapid spread of harmful misinformation has led to a dire need for effe
 
 
 
-### User Experiences with Abortion Misinformation on TikTok: Encounters, Assessment Strategies, and Response
-Authors: Filipo Sharevski, Jennifer Vander Loop, Peter Jachim, Amy Devine, Emma Pieroni
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188923)
-
-Abstract: Studying health-related misinformation, so far, has mostly focused on general “fearmongering” content spread on social media. The Supreme Court’s overturn of Roe v. Wade highlighted the need to study abortion misinformation as health-related content that could have criminal implications for users. In response to this need, we conducted a study with 60 TikTok users about the way they conceptualize, assess, and respond to misleading abortion videos. Half of our participants saw political intent behind the spread of health-related misinformation driven towards a “fear of criminalization.” Prior to Roe v. Wade, our participants encountered videos discussing the legal ramifications of abortion, but post-Roe v. Wade, they saw videos suggesting herbal alternative treatments for pregnancy termination. Roughly 30% of our participants believed in the safety and efficacy of these otherwise scientifically debunked “alternative abortion treatments,” even in the presence of a debunking label attached to a self-administering abortion video.
-
-
-
 ### Community Fact-Checks Trigger Moral Outrage in Replies to Misleading Posts on Social Media
 Authors: Yuwei Chuai, Anastasia Sergeeva, Gabriele Lenzini, Nicolas Pröllochs
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188635)
 
 Abstract: Displaying community fact-checks is a promising approach to reduce engagement with misinformation on social media. However, how users respond to misleading content emotionally after community fact-checks are displayed on posts is unclear. Here, we employ quasi-experimental methods to causally analyze changes in sentiments and (moral) emotions in replies to misleading posts following the display of community fact-checks. Our evaluation is based on a large-scale panel dataset comprising N=2,225,260 replies across 1841 source posts from X's Community Notes platform. We find that informing users about falsehoods through community fact-checks significantly increases negativity (by 7.3%), anger (by 13.2%), disgust (by 4.7%), and moral outrage (by 16.0%) in the corresponding replies. These results indicate that users perceive spreading misinformation as a violation of social norms and that those who spread misinformation should expect negative reactions once their content is debunked. We derive important implications for the design of community-based fact-checking systems.
+
+
+
+### Exploring the Nexus of Technology and Food Practices in Young Adults: A Value-Sensitive Design Perspective towards Human-Food Interaction
+Authors: Melike Balkaya, Gökçe Elif Baykal
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/189215)
+
+Abstract: This study aims to investigate the dynamics of young adults' food practices within the interplay between technology and tradition by employing a Value-Sensitive Design (VSD) approach as an analytical lens. We conducted surveys and interviews with young adults. This is complemented by a workshop involving design and gastronomy experts. Grounded in Value-Sensitive Design (VSD) and encompassing 38 core values and resulting in five value conflicts. Our analysis highlights five prominent themes: “Preservation of Culinary Heritage and Relationships”, “Technological Convenience”, “Uniqueness and  Personalisation”, “Globalised Nature of Food”, and “Sustainable Choices and Trustworthiness”.  By bridging between Human-Food Interaction (HFI) and VSD realms, this study provides insights for researchers, designers, and practitioners. The value-laden analytical perspective of the findings sheds light on the food practices of the young generation, for future HFI design studies blending traditional and technological elements.
+
 
 
 
@@ -8877,15 +9011,6 @@ Authors: Kartik Joshi, Preeti Mudliar
 [Link](https://programs.sigchi.org/chi/2025/program/content/188280)
 
 Abstract: We examine WhatsApp-based reselling practices adopted by small garment sellers in Surat, a textile city in India, as a response to the challenges posed by high commission costs, confusing dashboards, and restrictive rules of global e-commerce platforms. Through interviews and observations, we show how sellers use WhatsApp’s popularity to collaborate with women resellers and customers, enabling participation in online commerce bypassing e-commerce platforms. Using the lens of translation, we argue that WhatsApp functions as a tool and site of praxis for sellers who translate the complicated, standardized, and expensive processes of e-commerce platforms that are in English into multimodal, idiomatic, collaborative reselling practices. These are undertaken in regional languages on WhatsApp with the help of traders and women resellers economically benefiting everyone while delivering a personalized online shopping experience for customers. We discuss the politics of this translation, examining its impact on the design of e-commerce platforms while also shaping the discourse of reselling as an empowering pathway for women.
-
-
-
-### What-if Analysis for Business Professionals: Current Practices and Future Opportunities
-Authors: Sneha Gathani, Zhicheng Liu, Peter J. Haas, Çağatay Demiralp
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188827)
-
-Abstract: What-if analysis (WIA) is essential for data-driven decision-making, allowing users to assess how changes in variables impact outcomes and explore alternative scenarios. Existing WIA research primarily supports the workflows of data scientists and analysts, and largely overlooks business professionals who engage in WIA through non-technical means. To bridge this gap, we conduct a two-part user study with 22 business professionals across marketing, sales, product, and operations roles. The first study examines their existing WIA practices, tools, and challenges. Findings reveal that business professionals perform many WIA techniques independently using rudimentary tools due to various constraints. We then implement representative WIA techniques in a visual analytics prototype and use it as a probe to conduct a follow-up study evaluating business professionals' practical use of the techniques. Results show that these techniques improve decision-making efficiency and confidence while underscoring the need for better support in data preparation, risk assessment, and domain knowledge integration. Finally, we offer design recommendations to enhance future business analytics systems.
 
 
 
@@ -8930,6 +9055,8 @@ user intentions. We conducted a one-week study with 17 Android users, using a no
 
 
 ### The Many Tendrils of the Octopus Map
+HONORABLE_MENTION
+
 Authors: Eduardo Puerta, Shani Spivak, Michael Correll
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188376)
@@ -8978,6 +9105,8 @@ Abstract: Blind or low-vision (BLV) screen-reader users have a significantly lim
 
 
 ### FlexiVol: a Volumetric Display with an Elastic Diffuser to Enable Reach-Through Interaction
+HONORABLE_MENTION
+
 Authors: Elodie Bouzbib, Iosune Sarasate Azcona, Unai Javier Fernández, Ivan Fernández, Manuel Lopez-Amo, Iñigo Ezcurdia, Asier Marzo
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188533)
@@ -8992,6 +9121,17 @@ Authors: Seung Hyeon Han, Yeeun Han, Kyeongho Park, Sangjun Lee, Woohun Lee
 [Link](https://programs.sigchi.org/chi/2025/program/content/188893)
 
 Abstract: Proper placement of sensors and actuators is one of the key factors when designing spatial and proxemic interactions. However, current physical computing tools do not effectively support placing components in three-dimensional space, often forcing designers to build and test prototypes without precise spatial configuration. To address this, we propose the concept of spatial physical computing and present SpatIO, an XR-based physical computing toolkit that supports a continuous end-to-end workflow. SpatIO consists of three interconnected subsystems: SpatIO Environment for composing and testing prototypes with virtual sensors and actuators, SpatIO Module for converting virtually placed components into physical ones, and SpatIO Code for authoring interactions with spatial visualization of data flow. Through a comparative user study with 20 designers, we found that SpatIO significantly altered workflow order, encouraged broader exploration of component placement, enhanced spatial correlation between code and components, and promoted in-situ bodily testing.
+
+
+
+### Curves Ahead: Enhancing the Steering Law for Complex Curved Trajectories
+BEST_PAPER
+
+Authors: Jennie Chen, Sidney Fels
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/188426)
+
+Abstract: The Steering Law has long been a fundamental model in predicting movement time for tasks involving navigating through constrained paths, such as in selecting sub-menu options, particularly for straight and circular arc trajectories. However, this does not reflect the complexities of real-world tasks where curvatures can vary arbitrarily, limiting its applications. This study aims to address this gap by introducing the total curvature parameter K into the equation to account for the overall curviness characteristic of a path. To validate this extension, we conducted a mouse-steering experiment on fixed-width paths with varying lengths and curviness levels. Our results demonstrate that the introduction of K significantly improves model fitness for movement time prediction over traditional models. These findings advance our understanding of movement in complex environments and support potential applications in fields like speech motor control and virtual navigation.
 
 
 
@@ -9043,6 +9183,8 @@ Abstract: Interactive Digital Testimonies (IDTs) allow users to learn virtually 
 
 
 ### ShamAIn: Designing Superior Conversational AI Inspired by Shamanism
+HONORABLE_MENTION
+
 Authors: Hyungjun Cho, Jiyeon Seo, Jiwon Lee, Chang-Min Kim, Tek-Jin Nam
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189384)
@@ -9052,6 +9194,8 @@ Abstract: This paper presents the design process, outcomes, and installation of 
 
 
 ### "AI Afterlives" as Digital Legacy: Perceptions, Expectations, and Concerns
+HONORABLE_MENTION
+
 Authors: Ying Lei, Shuai Ma, Yuling Sun, Xiaojuan Ma
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189581)
@@ -9068,15 +9212,6 @@ Authors: Hyungwoo Song, Kyusik Kim, Jeongwoo Ryu, Changhoon Oh, Bongwon Suh
 [Link](https://programs.sigchi.org/chi/2025/program/content/189533)
 
 Abstract: Co-viewing, traditionally defined as watching content together in the same physical space, enhances emotional connections through shared experiences. With the rise of remote viewing during the COVID-19 pandemic, existing solutions, such as second-screen platforms and rule-based AI companions, struggle to facilitate meaningful social interactions. This study explores the potential of Large Language Models, which offer human-like interactions and personalization. Our formative study with ten participants revealed the importance of managing arousal levels, highlighting the need to balance between high- and low-arousal levels across different viewing contexts. Based on these insights, we developed `BleacherBot', a sports co-viewing agent with distinct interaction styles that vary in arousal levels. Our main study with 27 participants demonstrated that matching users' preferred arousal levels with the agent's interaction style significantly enhanced their engagement and overall enjoyment. We propose design guidelines for AI co-viewing agents that consider their role as complements to human social interactions.
-
-
-
-### Understanding the Training Experiences of Competitive Skiers with Tetraplegia
-Authors: Tamanna Motahar, YeonJae Kim, Eden Fisher, Jason Wiese
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189657)
-
-Abstract: Adaptive sports are crucial for the psychological well-being of individuals with tetraplegia---limited motor function in both arms and legs. TetraSki provides these individuals access to extreme adaptive sports through a power-assisted ski instrument, which an athlete can control independently. While athletes in other sporting contexts commonly use technology to improve their performance, no studies have explored how technology might benefit athletes with tetraplegia when training for adaptive competitive sports like TetraSki. We conducted semi-structured interviews with six TetraSki athletes and four tethers who participated in TetraSki Express 2022, the world's first and only adaptive alpine ski competition for athletes with tetraplegia. Our study provides an in-depth understanding of athletes' and tethers' current practices and challenges while working to improve their performance in this competitive environment, and points to opportunities for self-tracking technologies to support their athletic endeavors better.
 
 
 
@@ -9099,6 +9234,8 @@ Abstract: A rapidly emerging research community at the intersection of sport and
 
 
 ### Bridging Coaching Knowledge and AI Feedback to Enhance Motor Learning in Basketball Shooting Mechanics Through a Knowledge-Based SOP Framework
+HONORABLE_MENTION
+
 Authors: Jian-Jia Weng, Calvin Ku, Jo Chien Wang, Chih-Jen Cheng, Tica Lin, Yu-An Su, Tsung-Hsun Tsai, You-Yi Lin, Lun-Wei Ku, Hung-Kuo Chu, Min-Chun Hu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189628)
@@ -9140,6 +9277,8 @@ Abstract: People often apply gender stereotypes to Artificial Intelligence (AI),
 
 
 ### "Python is for girls!": Masculinity, Femininity, and Queering Inclusion at Hackathons
+HONORABLE_MENTION
+
 Authors: Siân Brooke
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188358)
@@ -9149,6 +9288,8 @@ Abstract: This paper explores how queerness intersects with hackathon culture, r
 
 
 ### Beyond the "Industry Standard": Focusing Gender-Affirming Voice Training Technologies on Individualized Goal Exploration
+HONORABLE_MENTION
+
 Authors: Kassie Povinelli, Hanxiu 'Hazel' Zhu, Yuhang Zhao
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189426)
@@ -9185,6 +9326,8 @@ Abstract: "Kawaii" is the Japanese concept of cute, which carries sociocultural 
 
 
 ### Doing the Feminist Work in AI: Reflections from an AI Project in Latin America
+BEST_PAPER
+
 Authors: Marianela Ciolfi Felice, Ivana Feldfeber, Carolina Glasserman Apicella, Yasmín Belén Quiroga, Julián Ansaldo, Luciano Lapenna, Santiago Bezchinsky, Raul Barriga Rubio, Mailén García
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189262)
@@ -9227,7 +9370,7 @@ Authors: Moritz Dück, Steffen Holter, Robin Chan, Rita Sevastjanova, Mennatalla
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189214)
 
-Abstract: Preliminary exploration of vast text corpora for generating and validating hypotheses, typical in academic inquiry, requires flexible navigation and rapid validation of claims. Navigating the corpus by titles, summaries, and abstracts might neglect information, whereas identifying the relevant context-specific claims through in-depth reading is unfeasible with rapidly increasing publication numbers. Our paper identifies three typical user pathways for hypothesis exploration and operationalizes sentence-based retrieval combined with effective contextualization and provenance tracking in a unified workflow. We contribute an interface that augments the previously laborious tasks of claim identification and consistency checking using NLP techniques while balancing user control and serendipity. Use cases, expert interviews, and a user study with 10 participants demonstrate how the proposed workflow enables users to traverse literature corpora in novel and efficient ways. For the evaluation, we instantiate the tool within two independent domains, providing novel insights into the analysis of political discourse and medical contradictions.
+Abstract: Preliminary exploration of vast text corpora for generating and validating hypotheses, typical in academic inquiry, requires flexible navigation and rapid validation of claims. Navigating the corpus by titles, summaries, and abstracts might neglect information, whereas identifying the relevant context-specific claims through in-depth reading is unfeasible with rapidly increasing publication numbers. Our paper identifies three typical user pathways for hypothesis exploration and operationalizes sentence-based retrieval combined with effective contextualization and provenance tracking in a unified workflow. We contribute an interface that augments the previously laborious tasks of claim identification and consistency checking using NLP techniques while balancing user control and serendipity. Use cases, expert interviews, and a user study with 10 participants demonstrate how the proposed workflow enables users to traverse literature corpora in novel and efficient ways. For the evaluation, we instantiate the tool within two independent domains, providing novel insights into the analysis of political discourse and medical research.
 
 
 
@@ -9241,6 +9384,8 @@ Abstract: Creating promotional posts on social platforms enables everyday users 
 
 
 ### Strollytelling: Coupling Animation with Physical Locomotion to Explore Immersive Data Stories
+HONORABLE_MENTION
+
 Authors: RADHIKA PANKAJ JAIN, Adam Drogemuller, Kadek Ananta Satriadi, Ross Smith, Andrew Cunningham
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188981)
@@ -9252,7 +9397,7 @@ design considerations, and a preliminary process for designing a strollytelling 
 
 
 
-## Sustainability
+## Sustainable Individual, Society, and Environment
 ### Designing with the Solar Internet: Towards Constraint-Based Design for Sustainable Consumption
 Authors: Fatemeh Bakhshoudeh, Rob Comber
 
@@ -9262,12 +9407,15 @@ Abstract: In response to the escalating impact of mindless consumption in the fa
 
 
 
-### Incorporating Sustainability in Electronics Design: Obstacles and Opportunities 
+### Incorporating Sustainability in Electronics Design: Obstacles and Opportunities
+HONORABLE_MENTION
+
 Authors: Zachary Englhardt, Felix Hähnlein, Yuxuan Mei, Tong Lin, Connor Sun, Zhihan Zhang, Shwetak Patel, Adriana Schulz, Vikram Iyer
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188715)
 
-Abstract: Life cycle assessment (LCA) is a methodology to holistically measure the environmental impact of a product from initial manufacturing through end-of-life disposal. However, it is currently unclear to what extent LCA informs the design of computing devices. To understand how this information is collected and utilized, we interviewed 17 industry professionals with LCA or electronics design experience, systematically coded the interviews, and investigated common themes. The themes reveal that gathering data is a key LCA challenge and depict distributed decision-making processes where it is often unclear who is responsible for sustainable design decisions and at what cost. Our analysis reveals opportunities for HCI technologies to support LCA computation and LCA integration into the design process to inform sustainability-oriented decision making. While this work focuses on nuanced discussion about sustainable design in the information and communication technologies (ICT) hardware industry, we hope our insights are also valuable for other sectors.
+Abstract: Life cycle assessment (LCA) is a methodology for holistically measuring the environmental impact of a product from initial manufacturing to end-of-life disposal. However, the extent to which LCA informs the design of computing devices remains unclear. To understand how this information is collected and applied, we interviewed 17 industry professionals with experience in LCA or electronics design, systematically coded the interviews, and investigated common themes. These themes highlight the challenge of LCA data collection and reveal distributed decision-making processes where responsibility for sustainable design choices—and their associated costs—is often ambiguous. Our analysis identifies opportunities for HCI technologies to support LCA computation and its integration into the design process to facilitate sustainability-oriented decision-making. While this work provides a nuanced discussion about sustainable design in the information and communication technologies (ICT) hardware industry, we hope our insights will also be valuable to other sectors.
+
 
 
 
@@ -9290,6 +9438,8 @@ Abstract: The increasing accessibility of large machine learning (ML) models has
 
 
 ### Cripping the Co-Design of Pacing Technologies For Energy-Limiting Conditions
+BEST_PAPER
+
 Authors: Sarah Homewood, Claudia A Hinkle, Irene Kaklopoulou
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189206)
@@ -9329,6 +9479,8 @@ Abstract: This research explores whether the rapid digital transformation due to
 
 
 ### Exploring What People Need to Know to be AI Literate: Tailoring for a Diversity of AI Roles and Responsibilities
+HONORABLE_MENTION
+
 Authors: Shixian Xie, John Zimmerman, Motahhare Eslami
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189298)
@@ -9338,6 +9490,8 @@ Abstract: AI literacy research has had great success in offering competencies th
 
 
 ### Responsibility Attribution in Human Interactions with Everyday AI Systems
+HONORABLE_MENTION
+
 Authors: Joe Brailsford, Frank Vetere, Eduardo Velloso
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189113)
@@ -9347,6 +9501,8 @@ Abstract: How do individuals perceive AI systems as responsible entities in ever
 
 
 ### Understanding the Security Advice Mechanisms of Low Socioeconomic Pakistanis
+HONORABLE_MENTION
+
 Authors: Sumair Ijaz Hashmi, Rimsha Sarfaraz, Lea Gröber, Mobin Javed, Katharina Krombholz
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188460)
@@ -9404,11 +9560,14 @@ Abstract: Human intervention is claimed to safeguard decision-subjects' rights i
 
 
 ### Contrastive Explanations That Anticipate Human Misconceptions Can Improve Human Decision-Making Skills
+HONORABLE_MENTION
+
 Authors: Zana Buçinca, Siddharth Swaroop, Amanda Paluch, Finale Doshi-Velez, Krzysztof Gajos
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189367)
 
-Abstract: People's decision-making abilities often fail to improve or may even erode when they rely on AI for decision-support, even when the AI provides informative explanations. We argue this is partly because people intuitively seek contrastive explanations, which clarify the difference between the AI's decision and their own reasoning, while most AI systems offer "unilateral" explanations that justify the AI’s decision but do not account for users’ thinking. To align human-AI knowledge on decision tasks, we introduce a framework for generating contrastive explanations which explain the difference between AI's choice and (a predicted) likely human choice about the same task. Results from a large-scale experiment (N = 628) demonstrate that contrastive explanations significantly enhance users' independent decision-making skills compared to unilateral explanations, without sacrificing decision accuracy. A path forward for growing deskilling concerns, our research demonstrates that incorporating human reasoning into AI decision-support can foster skill development.
+Abstract: People's decision-making abilities often fail to improve or may even erode when they rely on AI for decision support, even when the AI provides informative explanations. We argue this is partly because people intuitively seek contrastive explanations, which clarify the difference between the AI's decision and their own reasoning, while most AI systems offer "unilateral" explanations that justify the AI’s decision but do not account for users' knowledge and thinking. To address potential human knowledge gaps, we introduce a framework for generating human-centered contrastive explanations that explain the difference between AI's choice and a predicted, likely human choice about the same task.
+Results from a large-scale experiment (N = 628) demonstrate that contrastive explanations significantly enhance users' independent decision-making skills compared to unilateral explanations, without sacrificing decision accuracy. As concerns about deskilling in AI-supported tasks grow, our research demonstrates that integrating human reasoning into AI design can promote human skill development.
 
 
 
@@ -9436,15 +9595,6 @@ Authors: Yuansong Xu, Yuheng Shao, Jiahe Dong, Shaohan Shi, Chang Jiang, Quan Li
 [Link](https://programs.sigchi.org/chi/2025/program/content/188797)
 
 Abstract: Medical education increasingly emphasizes students' ability to apply knowledge in real-world clinical settings, focusing on evidence-based clinical reasoning and differential diagnoses. Problem-based learning (PBL) addresses traditional teaching limitations by embedding learning into meaningful contexts and promoting active participation. However, current PBL practices are often confined to medical instructional settings, limiting students' ability to self-direct and refine their approaches based on targeted improvements. Additionally, the unstructured nature of information organization during analysis poses challenges for record-keeping and subsequent review. Existing research enhances PBL realism and immersion but overlooks the construction of logic chains and evidence-based reasoning. To address these gaps, we designed e-MedLearn, a learner-centered PBL system that supports more efficient application and practice of evidence-based clinical reasoning. Through controlled study (N=19) and testing interviews (N=13), we gathered data to assess the system's impact. The findings demonstrate that e-MedLearn improves PBL experiences and provides valuable insights for advancing clinical reasoning-based learning.
-
-
-
-### Effects of LLM-based Search on Decision Making: Speed, Accuracy, and Overreliance
-Authors: Sofia Eleni Spatharioti, David Rothschild, Daniel Goldstein, Jake Hofman
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188754)
-
-Abstract: Recent advances in large language models (LLMs) are transforming online applications, including search tools that accommodate complex natural language queries and provide direct responses. There are, however, concerns about the veracity of LLM-generated content due to potential for LLMs to "hallucinate". In two online experiments, we examined how LLM-based search affects behavior compared to traditional search and explored ways to reduce overreliance on incorrect LLM-based output. Participants assigned to LLM-based search completed tasks more quickly, with fewer but more complex queries, and reported a more satisfying experience. While decision accuracy was comparable when the LLM was correct, users overrelied on incorrect information when the model erred. In a second experiment, a color-coded highlighting system helped users detect errors, improving decision accuracy without affecting other outcomes. These findings suggest that LLM-based search tools have promise as decision aids but also highlight the importance of effectively communicating uncertainty to mitigate overreliance.
 
 
 
@@ -9488,6 +9638,8 @@ Abstract: Reminiscence has been shown to provide benefits for older adults, but 
 
 
 ### Tracking and its Potential for Older Adults with Memory Concerns
+BEST_PAPER
+
 Authors: Amelia Short, Norman Su, Ruipu Hu, Eun Kyoung Choe, Hernisa Kacorri, Margaret Danilovich, David Conroy, Shannon Jette, Beth Barnett, Amanda Lazar
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189508)
@@ -9506,6 +9658,8 @@ Abstract: Parkinson's Disease (PD) significantly impacts driving abilities, ofte
 
 
 ### AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking
+HONORABLE_MENTION
+
 Authors: Mashrur Rashik, Shilpa Sweth, Nishtha Agrawal, Saiyyam Kochar, Kara Smith, Fateme Rajabiyazdi, Vidya Setlur, Narges Mahyar, Ali Sarvghad
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188469)
@@ -9570,15 +9724,6 @@ Abstract: AI-assisted learning companion robots are increasingly used in early e
 
 
 
-### One Size Doesn’t Fit All: Towards Design and Evaluation of Developmentally Appropriate Parental Control Tool
-Authors: Prakriti Dumaru, Mahdi Nasrullah Al-Ameen
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189465)
-
-Abstract: As children progress through developmental stages, they undergo substantial biological, cognitive, and social changes, creating unique needs for online safety across different age groups (e.g., young children, tweens, teens). The existing parental control tools fail to account for these differences, leaving a notable gap in the literature on parental mediation. To this end, we conducted 10 focus group sessions with a total of 20 parents to understand their preferences for age-appropriate design components that promote self-regulation and open communication, followed by an ideation workshop with four UX design experts to translate these preferences into customized features. We then evaluated these designs (presented as storyboards) through semi-structured interviews with 25 parents. Our study joins the body of work on parental mediation, providing valuable insights into customizing parental control settings as children transition through the developmental stages. Based on our findings, we offer guidelines for future research in these directions.
-
-
-
 
 ## Technologies for Sustainable Development
 ### Designing Health Technologies for Immigrant Communities: Exploring Healthcare Providers’ Communication Strategies with Patients
@@ -9611,6 +9756,8 @@ We foreground that SVSPs have reshaped rural people's daily routines and enhance
 
 
 ### The User Perspective on Island-Ready 6G Communication: A Survey of Future Smartphone Usage in Crisis-Struck Areas with Local Cellular Connectivity
+HONORABLE_MENTION
+
 Authors: Leon Janzen, Florentin Putz, Marc-André Kaufhold, Kolja Straub, Matthias Hollick
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189090)
@@ -9634,6 +9781,18 @@ Authors: Kavous Salehzadeh Niksirat, Collins Munyendo, Onicio Batista Leal Neto,
 [Link](https://programs.sigchi.org/chi/2025/program/content/188352)
 
 Abstract: While digital contact tracing has been extensively studied in Western contexts, its relevance and application in Africa remain largely unexplored. This study focuses on Kenya and Côte d’Ivoire to uncover user perceptions and inform the design of culturally resonant contact tracing technologies. Utilizing a wearable proximity sensor as a technology probe, we conducted field studies with healthcare workers and community members in rural areas through interviews (𝑁 = 19) and participatory design workshops (𝑁 = 72). Our findings identify critical barriers to adoption, including low awareness, widespread misconceptions, and social stigma. The study emphasizes the need for culturally sensitive and discreet wearables and advocates for awareness campaigns over mandates to foster adoption. Our work addresses the unique needs of Kenyan and Ivorian populations, offering vital design recommendations and insights to guide designers and policymakers in enhancing digital contact tracing adoption across Africa.
+
+
+
+### Can AI Prompt Humans? Multimodal Agents Prompt Players’ Game Actions and Show Consequences to Raise Sustainability Awareness
+Authors: Qinshi Zhang, Ruoyu Wen, Latisha Besariani Hendra, Zijian Ding, RAY LC
+
+[Link](https://programs.sigchi.org/chi/2025/program/content/189158)
+
+Abstract: Unsustainable behaviors are challenging to prevent due to their
+long-term, often unclear consequences. Serious games offer a promising solution by creating artificial environments where players can immediately experience the outcomes of their actions. To explore this potential, we developed EcoEcho, a GenAI-powered game leveraging multimodal agents to raise sustainability awareness. These agents engage players in natural conversations, prompting them to take in-game actions that lead to visible environmental impacts. We evaluated EcoEcho using a mixed-methods approach with 23 participants. Results show a significant increase in intended sustainable
+behaviors post-game, although attitudes towards sustainability had only marginal effects, suggesting that in-game actions likely can motivate intended real world behaviors despite similar opinions on sustainability. This finding highlights multimodal agents and
+action-consequence mechanics to effectively raising sustainability awareness and the potential of motivating real-world behavioral change. 
 
 
 
@@ -9685,6 +9844,8 @@ Abstract: In this paper we describe how we designed the performance Human-Comput
 
 
 ### ChoreoCraft: In-situ Crafting of Choreography in Virtual Reality through Creativity Support Tool
+HONORABLE_MENTION
+
 Authors: Hyunyoung Han, Kyungeun Jung, Sang Ho Yoon
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189364)
@@ -9732,6 +9893,8 @@ Abstract: AI-driven educational technologies (AI-EdTech) process extensive data,
 
 
 ### "Don't Forget the Teachers": Towards an Educator-Centered Understanding of Harms from Large Language Models in Education
+BEST_PAPER
+
 Authors: Emma Harvey, Allison Koenecke, Rene Kizilcec
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189409)
@@ -9797,24 +9960,6 @@ Abstract: Pedagogical questions are crucial for fostering student engagement and
 
 
 
-### Examining Student and Teacher Perspectives on Undisclosed Use of Generative AI in Academic Work
-Authors: Rudaiba Adnin, Atharva Pandkar, Bingsheng Yao, Dakuo Wang, Maitraye Das
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188250)
-
-Abstract: With the widespread adoption of Generative Artificial Intelligence (GenAI) tools, ethical issues are being raised around the disclosure of their use in publishing, journalism, or artwork. Recent research has found that college students are increasingly using GenAI tools; however, we know less about when, why, and how they choose to hide or disclose their use of GenAI in academic work. To address this gap, we conducted an online survey (n=97) and interviews with fifteen college students followed by interviews with nine teachers who had experience with students' undisclosed use of GenAI. Our findings elucidate the strategies students employ to hide their GenAI use and their justifications for doing so, alongside the strategies teachers follow to manage such non-disclosure. We unpack students' non-disclosure of GenAI through the lens of cognitive dissonance and discuss practical considerations for teachers and students regarding ways to promote transparency in GenAI use in higher education.
-
-
-
-### The World is Not Enough: Growing Waste in HPC-enabled Academic Practice
-Authors: Carolynne Lord, Adrian Friday, Adrian Jackson, Caroline Bird, Chris Preist, Simon Lambert, Gabin Kayumbi, Kelly Widdicks
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189178)
-
-Abstract: Most research depends to some extent on technologies and computational infrastructures including, and perhaps especially, HCI.  Despite the noted environmental impacts associated with information communication technology (ICT) globally, to date little consideration has been given as to how to limit the impact of research and innovation processes themselves.  Working to understand the technical and cultural drivers of this impact within the specific but resource-intensive domain of High Performance Computing (HPC), we conducted 25 interviews with academic researchers, providers, funders, and commissioners of HPC. We find intersecting socio-cultural and technical dimensions that link to research institutions like conferences, funders, and universities that reinforce and embed, rather than challenge, expectations of growth and waste.  At a time when large scale cloud systems, generative AI and ever larger models are multiplying, we argue to de-escalate demand for computing, aiming for more moderate, responsible and meaningful use of computational infrastructures - including within HCI itself.
-
-
-
 ### Toward Living Narrative Reviews: An Empirical Study of the Processes and Challenges in Updating Survey Articles in Computing Research
 Authors: Raymond Fok, Alexa Siu, Daniel Weld
 
@@ -9863,6 +10008,8 @@ Abstract: Communication with child patients is challenging due to their developi
 
 
 ### Bridging Generations using AI-Supported Co-Creative Activities
+HONORABLE_MENTION
+
 Authors: Callie Kim, Arissa J. Sato, Nathan White, Hui-Ru Ho, Christine Lee, Yuna Hwang, Bilge Mutlu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189488)
@@ -9872,6 +10019,8 @@ Abstract: Intergenerational co-creation using technology between grandparents an
 
 
 ### eaSEL: Promoting Social-Emotional Learning and Parent-Child Interaction through AI-Mediated Content Consumption
+HONORABLE_MENTION
+
 Authors: Jocelyn Shen, Jennifer King Chen, Leah Findlater, Griffin Dietz Smith
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188401)
@@ -9894,6 +10043,8 @@ We collected gestures from participants (N=28) with 10 finger combinations and 3
 
 
 ### Simulating Errors in Touchscreen Typing
+HONORABLE_MENTION
+
 Authors: Danqing Shi, Yujun Zhu, Francisco Erivaldo Fernandes Junior, Shumin Zhai, Antti Oulasvirta
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189267)
@@ -9930,6 +10081,8 @@ Abstract: Dwell-based text entry seems to peak at 20 words per minute (WPM). Yet
 
 
 ### Textoshop: Interactions Inspired by Drawing Software to Facilitate Text Editing
+HONORABLE_MENTION
+
 Authors: Damien Masson, Young-Ho Kim, Fanny Chevalier
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188215)
@@ -9967,16 +10120,6 @@ Abstract: AI development is shaped by academics and industry leaders---let us ca
 
 
 
-### Trustworthy by Design: The Viewer's Perspective on Trust in Data Visualization
-Authors: Oen McKinley, Saugat Pandey, Alvitta Ottley
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189204)
-
-Abstract: Despite the importance of viewers' trust in data visualization, there is a lack of research on the viewers’ own perspective on their trust. In addition, much of the research on trust remains relatively theoretical and inaccessible for designers. This work aims to address this gap by conducting a qualitative study to explore how viewers perceive different data visualizations and how their perceptions impact their trust.
-    Three dominant themes emerged from the data. First, users appeared to be consistent, listing similar rationale for their trust across different stimuli. Second, there were diverse opinions about what factors were most important to trust perception and about why the factors matter. Third, despite this disagreement, there were important trends to the factors that users reported as impactful. Finally, we leverage these themes to give specific and actionable guidelines for visualization designers to make more trustworthy visualizations.
-
-
-
 ### Uncertainty in Science is Malleable. Advocating for User-Agency in Defining Uncertainty in Visualizations: a Case Study in Geology
 Authors: Vanessa Peña-Araya, Consuelo Martínez Fontaine, Xiang Wei, Guillaume Delpech, Anastasia Bezerianos
 
@@ -10008,12 +10151,12 @@ Abstract: Email is ubiquitous, and in the context of phishing, it becomes critic
 
 
 
-### Usability, Efficacy, and Acceptability of the U.S. Cyber Trust Mark
-Authors: Peter Caven, Zitao Zhang, Ambarish Gurjar, Xinyao Ma, LJean Camp
+### No Silver Bullet: Towards Demonstrating Secure Software Development for Small and Medium Enterprises in a Business-to-Business Model
+Authors: Raha Asadi, Bodil Biering, Vincent van Dijk, Oksana Kulyk, Elda Paja
 
-[Link](https://programs.sigchi.org/chi/2025/program/content/188777)
+[Link](https://programs.sigchi.org/chi/2025/program/content/189617)
 
-Abstract: The U.S. Cyber Trust Mark is intended to empower consumers and enable security by demand. But is there such a demand? To explore this, we recruited 599 participants and asked them to select their desired smart device using a simulated online marketplace. Participants were informed they would receive their selected light bulbs, and they were divided into five experimental groups based on different versions of the Mark. After the product selections, we surveyed them about their priorities and preferences. We found no significant differences between the groups as a whole. However, the subset of consumers who identified cybersecurity as most important were significantly more likely to select labeled products, spending 16.5\% more. We detail these differences and preferences, then argue that an awareness program is needed to assist consumers in better understanding the long-term economic benefits of the U.S. Cyber Trust Mark.
+Abstract: Software developing small and medium enterprises (SMEs) play a crucial role as suppliers to larger corporations and public administration. It is therefore necessary for them to be able to demonstrate that their products meet certain security criteria, both to gain trust of their customers and to comply to standards that demand such a demonstration. In this study we have investigated ways for SMEs to demonstrate their security when operating in a business-to-business model, conducting semi-structured interviews (N=16) with practitioners from different SMEs in Denmark and validating our findings in a follow-up workshop (N=6). Our findings indicate five distinctive security demonstration approaches, namely: Certifications, Reports, Questionnaires, Interactive Sessions and Social Proof. We discuss the challenges, benefits, and recommendations related to these approaches, concluding that none of them is a one-size-fits all solution and that more research into relative advantages of these approaches and their combinations is needed.
 
 
 
@@ -10060,6 +10203,8 @@ Abstract: While research on trust in human-AI interactions is gaining recognitio
 
 
 ### "It’s Not the AI’s Fault Because It Relies Purely on Data": How Causal Attributions of AI Decisions Shape Trust in AI Systems
+HONORABLE_MENTION
+
 Authors: Saumya Pareek, Sarah Schömbs, Eduardo Velloso, Jorge Goncalves
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189223)
@@ -10078,6 +10223,8 @@ Abstract: As autonomous AI agents become increasingly integrated into human team
 
 
 ### Unpacking Trust Dynamics in the LLM Supply Chain: An Empirical Exploration to Foster Trustworthy LLM Production & Use
+HONORABLE_MENTION
+
 Authors: Agathe Balayn, Mireia Yurrita, Fanny Rancourt, Fabio Casati, Ujwal Gadiraju
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188689)
@@ -10126,6 +10273,8 @@ Abstract: UI/UX designers often work under constraints like brand identity, desi
 
 
 ### AI-Instruments: Embodying Prompts as Instruments to Abstract & Reflect Graphical Interface Commands as General-Purpose Tools
+HONORABLE_MENTION
+
 Authors: Nathalie Riche, Anna Offenwanger, Frederic Gmeiner, David Brown, Hugo Romat, Michel Pahud, Nicolai Marquardt, Kori Inkpen, Ken Hinckley
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188523)
@@ -10147,6 +10296,8 @@ Abstract: We present Persona-L, a novel approach for creating personas using Lar
 
 
 ### GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration
+BEST_PAPER
+
 Authors: Zhuojiang Cai, Jingkai Hong, Zhimin Wang, Feng Lu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189253)
@@ -10158,6 +10309,8 @@ Abstract: Smartphones with large screens provide users with increased display an
 
 ## Understanding and Working with Algorithms
 ### RouteFlow: Trajectory-Aware Animated Transitions
+BEST_PAPER
+
 Authors: Duan Li, Xinyuan Guo, Xinhuan Shu, Lanxi Xiao, Lingyun Yu, Shixia Liu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188457)
@@ -10172,6 +10325,8 @@ Compared with state-of-the-art methods, RouteFlow better facilitates identifying
 
 
 ### As Confidence Aligns: Understanding the Effect of AI Confidence on Human Self-confidence in Human-AI Decision Making
+HONORABLE_MENTION
+
 Authors: Jingshu Li, Yitian Yang, Q. Vera Liao, Junti Zhang, YI-CHIEH LEE
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189584)
@@ -10190,6 +10345,8 @@ Abstract: Previous research pays attention to how users strategically understand
 
 
 ### Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice
+HONORABLE_MENTION
+
 Authors: Gabriel Lima, Nina Grgić-Hlača, Markus Langer, Yixin Zou
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189621)
@@ -10218,18 +10375,11 @@ Abstract: We present an exploratory study on how people perceive visualizations 
 
 
 
-### Decline Now: A Combinatorial Model for Algorithmic Collective Action
-Authors: Dorothee Sigg, Moritz Hardt, Celestine Mendler-Dünner
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189566)
-
-Abstract: Drivers on food delivery platforms often run a loss on low-paying orders. In response, workers on DoorDash started a campaign, \#DeclineNow, to purposefully decline orders below a certain pay threshold. For each declined order, the platform returns the request to other available drivers with slightly increased pay. While contributing to overall pay increase the implementation of the strategy comes with the risk of missing out on orders for each individual driver. In this work, we propose a first combinatorial model to study the strategic interaction between workers and the platform. Within our model, we formalize key quantities such as the collective benefit of the strategy, the benefit of freeriding, as well as the benefit of participation. We extend our theoretical results with simulations. Our key insights show that the collective benefit of the strategy is always positive, while the benefit of participation is positive only for small degrees of labor oversupply. Beyond this point, the utility of participants decreases faster with increasing degree of oversupply, compared to the return of freeriding. Our work highlights the significance of labor supply levels for the effectiveness of collective action on gig platforms. We discuss organizing in shifts as a means to reduce oversupply and empower collectives. 
-
-
-
 
 ## Using AI or Not
 ### Explanatory Debiasing: Involving Domain Experts in the Data Generation Process to Mitigate Representation Bias in AI Systems
+HONORABLE_MENTION
+
 Authors: Aditya Bhattacharya, Simone Stumpf, Robin De Croon, Katrien Verbert
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188455)
@@ -10284,6 +10434,8 @@ Abstract: Social anxiety (SA) has become increasingly prevalent. Traditional cop
 
 
 ### Creative Writers’ Attitudes on Writing as Training Data for Large Language Models
+BEST_PAPER
+
 Authors: Katy Gero, Meera Desai, Carly Schnitzler, Nayun Eom, Jack Cushman, Elena Glassman
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188767)
@@ -10376,6 +10528,8 @@ Abstract: Advances in large language models (LLMs) empower new interactive capab
 
 
 ### Motion-Coupled Asymmetric Vibration for Pseudo Force Rendering in Virtual Reality
+HONORABLE_MENTION
+
 Authors: Nihar Sabnis, Maëlle Roche, Dennis Wittchen, Donald Degraen, Paul Strohmeier
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188933)
@@ -10405,6 +10559,8 @@ Abstract: In contrast to design tools for graphics and audio generation from tex
 
 
 ### Tendon Vibration for Creating Movement Illusions in Virtual Reality
+HONORABLE_MENTION
+
 Authors: Mantas Cibulskis, Difeng Yu, Erik Mortensen, Waseem Hassan, Mark Schram Christensen, Joanna Bergström
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188293)
@@ -10423,6 +10579,8 @@ Abstract: Spatialized vibrotactile feedback systems deliver tactile information 
 
 
 ### CollabJam: Studying Collaborative Haptic Experience Design for On-Body Vibrotactile Patterns
+HONORABLE_MENTION
+
 Authors: Dennis Wittchen, Alexander Ramian, Nihar Sabnis, Richard Böhme, Christopher Chlebowski, Georg Freitag, Bruno Fruchard, Donald Degraen
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188960)
@@ -10514,7 +10672,7 @@ Abstract: Displaced cultural objects often act as mediators of intercultural und
 
 
 ### A Concept at Work: A Review of Motivations, Operationalizations, and Conclusions in VR Research about Presence
-Authors: Yanxin Xiao, Difeng Yu, Kasper Hornbæk, Joanna Bergström
+Authors: Cleo Xiao, Difeng Yu, Kasper Hornbæk, Joanna Bergström
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188497)
 
@@ -10523,6 +10681,8 @@ Abstract: Presence appears an important concept for virtual reality (VR): It is 
 
 
 ### ReMirrorFugue: Examining the Emotional Experience of Presence and (Illusory) Communications Across Time
+HONORABLE_MENTION
+
 Authors: Xiao Xiao, Hayoun Noh, Adrien Lefevre, Lucy Li, Holly McKee, Alaa Algargoosh, Hiroshi Ishii
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189180)
@@ -10544,6 +10704,8 @@ Abstract: Presence is an important and widely used metric to measure the quality
 
 
 ### The Fidelity-based Presence Scale (FPS): Modeling the Effects of Fidelity on Sense of Presence
+BEST_PAPER
+
 Authors: Jacob Belga, Richard Skarbez, Yahya Hmaiti, Eric Chen, Ryan P. McMahan, Joseph LaViola
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189401)
@@ -10576,6 +10738,8 @@ Abstract: Leveraging the integration of visual and proprioceptive cues, research
 
 ## Virtual and Mixed Reality Interaction
 ### Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction
+HONORABLE_MENTION
+
 Authors: Tinghui Li, Eduardo Velloso, Anusha Withana, Zhanna Sarsenbayeva
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188605)
@@ -10607,11 +10771,13 @@ Authors: You-Jin Kim, Radha Kumaran, Jingjing Luo, Tom Bullock, Barry Giesbrecht
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189195)
 
-Abstract: Augmented reality is projected to be a primary mode of information consumption on the go, seamlessly integrating virtual content into the \red{physical} world. However, the potential perceptual demands of viewing virtual annotations while \red{navigating} a physical environment could impact user efficacy and safety, and the implications of these demands are not well understood. Here, we investigate the impact of virtual path guidance and augmentation density visual clutter on search performance and memory. Participants walked along a predefined path, searching for physical or virtual items. They experienced two levels of augmentation density, and either walked freely or with enforced speed and path guidance.} Augmentation density impacted behavior and reduced awareness of uncommon objects in the environment. Analysis of search task performance and post-experiment item recall revealed} differing attention to physical and virtual objects. On the basis of these findings we outline considerations for AR apps designed for use on the go.
+Abstract: Augmented reality is projected to be a primary mode of information consumption on the go, seamlessly integrating virtual content into the \red{physical} world. However, the potential perceptual demands of viewing virtual annotations while a physical environment could impact user efficacy and safety, and the implications of these demands are not well understood. Here, we investigate the impact of virtual path guidance and augmentation density visual clutter on search performance and memory. Participants walked along a predefined path, searching for physical or virtual items. They experienced two levels of augmentation density, and either walked freely or with enforced speed and path guidance. Augmentation density impacted behavior and reduced awareness of uncommon objects in the environment. Analysis of search task performance and post-experiment item recall revealed} differing attention to physical and virtual objects. On the basis of these findings we outline considerations for AR apps designed for use on the go.
 
 
 
 ### Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality
+HONORABLE_MENTION
+
 Authors: Hongyu Zhou, Tom Kip, Yihao Dong, Andrea Bianchi, Zhanna Sarsenbayeva, Anusha Withana
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188531)
@@ -10743,6 +10909,8 @@ While it displays limitations in terms of generalizability and accuracy, it take
 
 
 ### Libra: An Interaction Model for Data Visualization
+HONORABLE_MENTION
+
 Authors: Yue Zhao, Yunhai Wang, Xu Luo, Yanyan Wang, Jean-Daniel Fekete
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189124)
@@ -10765,6 +10933,8 @@ Abstract: Visualization literacy is the ability to both interpret and construct 
 
 
 ### Lost in Magnitudes: Exploring Visualization Designs for Large Value Ranges
+BEST_PAPER
+
 Authors: Katerina Batziakoudi, Florent Cabric, Stéphanie Rey, Jean-Daniel Fekete
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188628)
@@ -10775,24 +10945,6 @@ Abstract: We explore the design of visualizations for values spanning multiple o
 
 
 ## Well-being and Data Tracking
-### Intimate Data Sharing: Enhancing Transparency and Control in Fertility Tracking
-Authors: Anna Ida Hudig, Jat Singh
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189318)
-
-Abstract: Fertility trackers are popular for self-monitoring menstrual cycles and managing other aspects of reproductive or sexual health. However, the intimate nature of fertility tracking raises particular concerns about potential data (mis)use. Our study deepens understandings of fertility tracker data sharing and presents co-created mechanisms to enhance user agency over their data in intimate contexts. To achieve this, we first analysed the network transmissions from eight fertility tracker products, observing that many data transmissions appear to be tied to particular uses of the tracker and that the products communicate with endpoints associated with various organisations across different countries. This raises concerns about how intimate data is governed, used, and shared. To understand user attitudes towards data sharing in intimate contexts, we then conducted a survey exploring factors influencing user data sharing preferences. Our findings reveal that users desire transparency and control mechanisms and that their willingness to share data is influenced by contextual factors, including the third parties involved, the purposes of data collection, and the sensitivity of the data. Building on these findings, we worked with users to co-design ten concrete mechanisms for enhancing data transparency and control throughout fertility tracker product usage lifecycles. In all, our mixed-method study provides an in-depth understanding of fertility tracker data flows and preferences and proposes actionable mechanisms designers can utilise to support and protect data rights in intimate data ecosystems.
-
-
-
-### Beyond the Circadian Rhythm: Variable Cycles of Regularity Found in Long-Term Sleep Tracking
-Authors: Ji Won Chung, Robin Yuan, Kirsi-Marja Zitting, Jiahua Chen, Neil Xu, Nediyana Daskalova, Jeff Huang
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188438)
-
-Abstract: Sleep is more than resting eight hours a day---it contextualizes and shapes the routines during the day. Using a large-scale naturalistic dataset of 180,083 people from a popular sleep app, made possible by the widespread adoption of passive tracking, we find that people’s lives have distinct natural rhythms that can be automatically inferred from sleep routines. We discover heterogeneous behaviors: the rhythm of sleep is different for each person, as there is a different cadence for each person to achieve consistency. Some are most consistent week-to-week, while others weeks-to-weeks. We investigate changes in overall daily routines and find the interval for each person at which they show the most consistency. Through a series of comparative case analyses, we investigate the implications of designing for the weekly `norm'. Our tripartite analyses triangulate to one conclusion: we should design for people’s natural routines to account for variable cycles of regularity.  
-
-
-
 ### Exploring Modular Prompt Design for Emotion and Mental Health Recognition
 Authors: Minseo Kim, Taemin Kim, Thu Vo, Yugyeong Jung, Uichin Lee
 
@@ -10875,6 +11027,8 @@ Abstract: Most studies of Personal Informatics (PI) focus on the holistic experi
 
 
 ### Understanding Temporality of Reflection in Personal Informatics through Baby Tracking
+HONORABLE_MENTION
+
 Authors: Julianne Louie, Tara Mukund, Chau Vu, Daniel Epstein, Alexandra Papoutsaki
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188464)
@@ -10893,6 +11047,8 @@ Abstract: Personalized behavior change interventions can be effective as they dy
 
 
 ### Exploring Alternative Socio-Technical Systems for Careful Data Work in Recovery Contexts
+HONORABLE_MENTION
+
 Authors: Caroline Claisse, Alison Osborne, Elizabeth Sillence, Angela Glascott, Alisdair Cameron, Abigail Durrant
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189211)
@@ -10930,15 +11086,6 @@ Abstract: Generative AI (GAI) technologies are disrupting professional writing, 
 
 
 
-### The Making of Performative Accuracy in AI Training: Precision Labor and Its Consequences
-Authors: Ben Zefeng Zhang, Tianling Yang, Milagros Miceli, Oliver Haimson, Michaelanne Thomas
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188596)
-
-Abstract: Accuracy and precision are central values in the AI communities and the technology sector. This paper provides empirical evidence on the construction and organizational management of technical accuracy, demonstrating how technology companies' preoccupation with such values leads to harm. Drawing on nine months of multi-sited ethnographic fieldwork in China, we document how AI trainers' everyday work practices, challenges, and harms stem from clients' demands for high levels of technical accuracy. We introduce the concept of precision labor to unpack the labor dimension of constructing and performing accuracy in AI training. This concept highlights the hidden and excessive labor required to reconcile the ambiguity and uncertainty involved in this process. We argue that precision labor offers a new lens to illuminate three critical aspects of AI training: 1) the negative health and financial impacts of hidden and excessive labor on AI workers; 2) emerging harms, including workers' subordinate roles to machines and financial precarity; and 3) a conceptual contribution to contexts beyond AI training. This contribution re-centers arbitrariness in technical production, highlights the excessive demands of precision labor, and examines the legitimization of labor and harm. Our study also contributes to existing scholarship on the prevailing values and invisible labor in AI production, underscoring accuracy as performative rather than self-evident and unambiguous. A precision labor lens challenges the legitimacy and sustainability of relentlessly pursuing technical accuracy, raising new questions about its consequences and ethical implications. We conclude by proposing recommendations and alternative approaches to enhance worker agency and well-being.
-
-
-
 ### Generative AI Uses and Risks for Knowledge Workers in a Science Organization
 Authors: Kelly Wagman, Matthew Dearing, Marshini Chetty
 
@@ -10949,6 +11096,8 @@ Abstract: Generative AI could enhance scientific discovery by supporting knowled
 
 
 ### Judging Phishing Under Uncertainty: How Do Users Handle Inaccurate Automated Advice?
+HONORABLE_MENTION
+
 Authors: Tarini Saka, Kalliopi Vakali, Adam Jenkins, Nadin Kokciyan, Kami Vaniea
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189664)
@@ -10966,15 +11115,6 @@ Abstract: Large Language Models (LLMs) are seemingly infiltrating every domain, 
 
 
 
-### "It Might be Technically Impressive, But It’s Practically Useless to us":  Motivations, Practices, Challenges, and Opportunities for Cross-Functional Collaboration around AI within the News Industry
-Authors: Qing Xiao, Xianzhe Fan, Felix Simon, Bingbing Zhang, Motahhare Eslami
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/188693)
-
-Abstract: Recently, an increasing number of news organizations have integrated artificial intelligence (AI) into their workflows, leading to a further influx of AI technologists and data workers into the news industry. This has initiated cross-functional collaborations between these professionals and journalists. Although prior research has explored the impact of AI-related roles entering the news industry, there is a lack of studies on how internal cross-functional collaboration around AI unfolds between AI professionals and journalists within the news industry. Through interviews with 17 journalists, six AI technologists, and three AI workers with cross-functional experience from leading Chinese news organizations, we investigate the practices, challenges, and opportunities for internal cross-functional collaboration around AI in news industry. We first study how these journalists and AI professionals perceive existing internal cross-collaboration strategies. We explore the challenges of cross-functional collaboration and provide recommendations for enhancing future cross-functional collaboration around AI in the news industry.
-
-
-
 ### Social by Nature: How Socio-tecture Shapes the Work of SMBs and Considerations for Reimagining Collaborative Human-AI Systems
 Authors: Elizabeth Ankrah, Kagonya Awori, Stephanie Nyairo, Mercy Muchai, Millicent Ochieng, Mark Kariuki, Gillian Hayes, Jacki O'Neill
 
@@ -10987,6 +11127,8 @@ Abstract: Globally, small and medium-sized businesses (SMBs) have had to adapt t
 
 ## Workplace Interactions and Wellbeing
 ### Work Hard, Play Harder: Intense Games Enable Recovery from High Mental Workload Tasks
+HONORABLE_MENTION
+
 Authors: Linqi Zhao, Michael Knierim, Max Wilson, Patrick Dickinson, Horia Maior
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188859)
@@ -11032,6 +11174,8 @@ Abstract: Bossware, software that monitors worker activity, is a common feature 
 
 
 ### Beyond the Watercooler: Designing for Computer-Mediated Self-Disclosure among Work Colleagues
+HONORABLE_MENTION
+
 Authors: Kevin Chow, Joanna McGrenere, Thomas Fritz, Lucas Puente, Michael Massimi
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189593)
@@ -11041,8 +11185,10 @@ Abstract: Self-disclosure, the sharing of personal and professional information 
 
 
 
-## Writing Support
+## Writing Support and Content Moderation
 ### Can AI writing be salvaged? Mitigating Idiosyncrasies and Improving Human-AI Alignment in the Writing Process through Edits
+HONORABLE_MENTION
+
 Authors: Tuhin Chakrabarty, Philippe Laban, Chien-Sheng Wu
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188484)
@@ -11174,17 +11320,10 @@ Abstract: Mid-air text entry in mixed reality (MR) headsets has shown promise bu
 
 
 
-## XR Accessibility
-### Cataloging Augmented, Ambivalent Transgender Futures: Designing Inclusive AR Technologies for Trans Communities Through Speculative, Participatory Zine-Making
-Authors: F. Khan, Kat Brewster, Aloe DeGuia, Denny Starks, Malaya Manacop, Samuel Mayworm, Tawanna Dillahunt, Oliver Haimson
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189546)
-
-Abstract: Technologies designed to support marginalized communities have often led to unintended harm. This frequently occurs when misaddressing or failing to understand communities' experiences, needs, and desires. User-centered research often focus on needs versus desires (leveraging deficit versus assets-based approaches), which have been contested in HCI. To promote technology design that better balances the tensions between needs and desires, we contribute participatory zine-making as an effective approach for speculatively designing trans augmented reality (AR) technologies. We facilitated in-person and virtual workshops with trans participants (n=44) focused on designing AR technologies, observing participants' zine-making processes and artifacts to gather visual ethnographic data alongside transcripts and facilitator field notes. In participants' zines we identified ambivalence as critical in addressing trans people's needs and desires, and participants conveyed this ambivalence through metaphor and anti-assimilationist aesthetics. Our participatory zine-making approach enabled us to uncover perspectives and design implications crucial to designing trans technologies. 
-
-
-
+## XR for Diverse Needs
 ### Get Real With Me: Effects of Avatar Realism on Social Presence and Comfort in Augmented Reality Remote Collaboration and Self-Disclosure
+HONORABLE_MENTION
+
 Authors: Jonah-Noël Kaiser, Simon Kimmel, Eva Licht, Eric Landwehr, Fabian Hemmert, Wilko Heuten
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188731)
@@ -11203,6 +11342,8 @@ Abstract: Head-worn augmented reality (AR) allows audiences to be immersed and e
 
 
 ### “I can run at night!": Using Augmented Reality to Support Nighttime Guided Running for Low-vision Runners
+HONORABLE_MENTION
+
 Authors: Yuki Abe, Keisuke Matsushima, Kotaro Hara, Daisuke Sakamoto, Tetsuo Ono
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189122)
@@ -11268,6 +11409,8 @@ Abstract: Adaptive AR assistance can automatically trigger content to support us
 
 
 ### AR Cue Reliability for Interrupted Task Resumption Affects Users' Resumption Strategies and Performance
+HONORABLE_MENTION
+
 Authors: Kilian Bahnsen, Emma Dischinger, Tobias Grundgeiger
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188761)
@@ -11288,6 +11431,8 @@ Abstract: Augmented Reality (AR) is a promising medium for guiding users through
 
 
 ### Exploring the Design Space of Privacy-Driven Adaptation Techniques for Future Augmented Reality Interfaces
+HONORABLE_MENTION
+
 Authors: Shwetha Rajaram, Macarena Peralta, Janet Johnson, Michael Nebeling
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189517)
@@ -11317,6 +11462,8 @@ Abstract: Many companies are experimenting with, and developing, advertisements 
 
 
 ### The Effect of Augmented Reality on Involuntary Autobiographical Memory
+HONORABLE_MENTION
+
 Authors: Leana Petiot, Hélène Sauzeon, Pierre Dragicevic
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/189190)
@@ -11336,23 +11483,13 @@ Augmented reality (AR) can bridge the gap between the inside and outside world, 
 
 
 ### CoCreatAR: Enhancing Authoring of Outdoor Augmented Reality Experiences Through Asymmetric Collaboration
+HONORABLE_MENTION
+
 Authors: Nels Numan, Gabriel Brostow, Suhyun Park, Simon Julier, Anthony Steed, Jessica Van Brummelen
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188987)
 
 Abstract: Authoring site-specific outdoor augmented reality (AR) experiences requires a nuanced understanding of real-world context to create immersive and relevant content. Existing ex-situ authoring tools typically rely on static 3D models to represent spatial information. However, in our formative study (n=25), we identified key limitations of this approach: models are often outdated, incomplete, or insufficient for capturing critical factors such as safety considerations, user flow, and dynamic environmental changes. These issues necessitate frequent on-site visits and additional iterations, making the authoring process more time-consuming and resource-intensive. To mitigate these challenges, we introduce CoCreatAR, an asymmetric collaborative mixed reality authoring system that integrates the flexibility of ex-situ workflows with the immediate contextual awareness of in-situ authoring. We conducted an exploratory study (n=32) comparing CoCreatAR to an asynchronous workflow baseline, finding that it enhances engagement, creativity, and confidence in the authored output while also providing preliminary insights into its impact on task load. We conclude by discussing the implications of our findings for integrating real-world context into site-specific AR authoring systems.
-
-
-
-### From Concept to Clinic: Multidisciplinary Design, Development, and Clinical Validation of Augmented Reality-Assisted Open Pancreatic Surgery
-Authors: Hamraz Javaheri, Omid Ghamarnejad, Paul Lukowicz, Gregor Stavrou, Jakob Karolus
-
-[Link](https://programs.sigchi.org/chi/2025/program/content/189200)
-
-Abstract: Wearable augmented reality (AR) systems have significant potential to enhance surgical outcomes through in-situ visualization of patient-specific data. Yet, efforts to develop AR-based systems for open surgery have been limited, lacking comprehensive interdisciplinary research and actual clinical evaluations in real surgical environments. 
-Our research addresses this gap by presenting a user-centered design and development process of ARAS, an AR assistance for open pancreatic surgery. ARAS provides in-situ visualization of critical structures, such as the vascular system and the tumor, while offering a robust dual-layer registration method ensuring accurate registration during relevant phases of the surgery.
-We evaluated ARAS in clinical trials of 20 patients with pancreatic tumors. Accuracy validation and postoperative surgeon interviews confirmed its successful deployment, supporting surgeons in vascular localization and critical decision-making.
-Our work showcases AR's potential to fundamentally transform procedures for complex surgical operations, advocating a research shift toward ecological validation in open surgery.
 
 
 
@@ -11366,6 +11503,8 @@ Abstract: This research investigates the use of hybrid user interfaces to enhanc
 
 
 ### Traversing Dual Realities: Investigating Techniques for Transitioning 3D Objects between Desktop and Augmented Reality Environments
+BEST_PAPER
+
 Authors: Tobias Rau, Tobias Isenberg, Andreas Koehn, Michael Sedlmair, Benjamin Lee
 
 [Link](https://programs.sigchi.org/chi/2025/program/content/188973)
