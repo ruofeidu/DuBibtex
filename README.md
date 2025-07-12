@@ -50,10 +50,12 @@ The new bib file will be generated as output.bib by default.
 
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-## Author
+## Authors
 
-[Ruofei Du](http://duruofei.com)
+- [Ruofei Du](http://duruofei.com)
+- [David Li](https://davidl.me)
+- [Fengyuan Zhu](https://zhufyaxel.github.io)
 
 ## References
 
-[BibTeX Format Description](http://www.bibtex.org/Format)
+- [BibTeX Format Description](http://www.bibtex.org/Format)
