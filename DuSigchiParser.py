@@ -4,6 +4,7 @@ import markdown
 
 FOLDER_NAME = 'sigchi2'
 
+
 def convert_markdown_to_html(file_path):
   # Read the Markdown file
   with open(file_path, 'r', encoding='utf-8') as file:
@@ -28,8 +29,8 @@ def parse(filename_raw, data, indent=0, program='chi', year='2025'):
     # Iterate over sessions and extract paper titles, session names, and author names
     for session in data['sessions']:
       session_name = session['name']
-      if not (session['typeId'] == 13945): # CHI 2025
-      # if not (session['typeId'] == 13748): # UIST 2024
+      if not (session['typeId'] == 13945):  # CHI 2025
+        # if not (session['typeId'] == 13748): # UIST 2024
         continue  # Checks if it's a paper session.
       f.write(f"\n## {session_name}\n")
       # ff.write(f"\n## {session_name}\n")
@@ -47,10 +48,12 @@ def parse(filename_raw, data, indent=0, program='chi', year='2025'):
           paper_title = content['title']
           authors = []
           for author in content['authors']:
-              person = next((p for p in data['people'] if p['id'] == author['personId']), None)
-              if person:
-                  author_name = f"{person['firstName']} {person['lastName']}"
-                  authors.append(author_name)
+            person = next(
+                (p for p in data['people'] if p['id'] == author['personId']),
+                None)
+            if person:
+              author_name = f"{person['firstName']} {person['lastName']}"
+              authors.append(author_name)
           abstract = content['abstract']
           id = content['id']
           link = f'https://programs.sigchi.org/{program}/{year}/program/content/{id}'
