@@ -6,7 +6,7 @@ This is typically true if the bibtex item is from Google Scholar or DBLP.
 
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Reference: http://www.bibtex.org/Format/
-Sources of DOI: Google, ACM, IEEE, Springer, Caltech, Wiley
+Sources of DOI: Bing, arXiv, ACM, IEEE, Springer, Caltech, Wiley
 """
 import configparser
 import json

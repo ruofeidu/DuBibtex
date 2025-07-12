@@ -5,13 +5,14 @@ capitalize the titles, and more importantly, resolve missing DOIs, years.
 
 Sources of DOI:
 
-- Google
+- Bing
+- arXiv
+- Google (no longer available unless we create a virtual browser)
 - ACM
 - IEEE
 - Springer
 - Caltech
 - Wiley
-- arxiv
 
 Please feel free to make any pull requests!
 
