@@ -2379,7 +2379,6 @@
   "pavanatto2024working": "10.48550/arXiv.2408.10000",
   "lu2024proactive": "10.48550/arXiv.2410.12361",
   "smilkov2019tensorflow": "10.32672/jnkti.v5i6.5464",
-  "kumar2018use": "10.1109/i-smac.2018.8653666",
   "bangor2009determining": "10.7717/peerj-cs.1918/supp-1",
   "lu2021evaluating": "10.1145/3607822.3614515",
   "yang2024thinking": "10.48550/arXiv.2412.14171",
@@ -2396,5 +2395,6 @@
   "howard2017mobilenets": "10.48550/arXiv.1704.04861",
   "cai2025aiget": "10.48550/arXiv.2501.16240",
   "caetano2023arlang": "10.48550/arXiv.2411.05211",
-  "weerasinghe2022vocabulary": "10.48550/arXiv.2207.00896"
+  "weerasinghe2022vocabulary": "10.48550/arXiv.2207.00896",
+  "olwal2018braid": "10.1145/3242587.3242638"
 }
