@@ -1,186 +1,653 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Title Capitalization Tool - APA Style & More</title>
+    <title>Free Title Capitalization Tool - Best APA & Case Converter</title>
     <meta
       name="description"
-      content="Free online title capitalization tool that converts text to APA style, title case, sentence case, uppercase, and lowercase. Perfect for academic papers, blog posts, and professional documents."
+      content="The best free online title capitalization tool. Instantly convert text to APA style, Title Case, Sentence case, UPPERCASE, and lowercase with smart acronym detection for AI, XR, SEO, and more."
     />
     <meta
       name="keywords"
-      content="title case converter, APA style capitalization, title capitalization tool, sentence case converter, uppercase generator, lowercase converter, academic formatting tool, title case generator APA, capitalize titles correctly"
+      content="title capitalization, title case converter, APA style generator, sentence case, uppercase, lowercase, text formatter, SEO tool, capitalization checker, smart acronyms"
     />
-    <meta name="author" content="Title Capitalization Tool" />
-    <meta
-      property="og:title"
-      content="Title Capitalization Tool - APA Style & More"
-    />
-    <meta
-      property="og:description"
-      content="Instant title case conversion tool supporting APA style, academic formatting, and multiple capitalization modes."
-    />
-    <link rel="stylesheet" href="title.css" />
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=UA-29242802-1"
-    ></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);}gtag("js", new Date());gtag("config""UA-29242802-1");
+      tailwind.config = {
+        darkMode: "class",
+      };
     </script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Inter", sans-serif;
+      }
+      /* Custom scrollbar for textareas */
+      textarea::-webkit-scrollbar {
+        width: 8px;
+      }
+      textarea::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      textarea::-webkit-scrollbar-thumb {
+        background: #cbd5e1;
+        border-radius: 4px;
+      }
+      .dark textarea::-webkit-scrollbar-thumb {
+        background: #475569;
+      }
+      textarea::-webkit-scrollbar-thumb:hover {
+        background: #94a3b8;
+      }
+      .btn-mode {
+        transition: all 0.2s ease;
+      }
+      .btn-mode.active {
+        background-color: #2563eb; /* blue-600 */
+        color: white;
+        border-color: #2563eb;
+        box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.2);
+      }
+      /* Dark mode overrides for active button */
+      .dark .btn-mode.active {
+        background-color: #3b82f6; /* blue-500 */
+        border-color: #3b82f6;
+        color: white;
+      }
+    </style>
   </head>
-  <body>
-    <div class="container">
-      <h1>Title Capitalization Tool</h1>
-      <textarea
-        id="input"
-        placeholder="Enter awesome title of your paper / proposal / email here..."
-        title="Hover to select all"
-      ></textarea>
-      <div class="button-row">
-        <button data-mode="apa" class="active">APA Title (Alt+1)</button>
-        <button data-mode="title">Title Case (Alt+2)</button>
-        <button data-mode="sentence">Sentence case (Alt+3)</button>
-        <button data-mode="upper">UPPERCASE (Alt+4)</button>
-        <button data-mode="lower">lowercase (Alt+5)</button>
-      </div>
-      <div class="output-container">
-        <textarea id="output" readonly></textarea>
-        <button id="copyBtn" title="Copy to clipboard">📋</button>
-      </div>
+  <body
+    class="bg-gray-50 text-slate-800 min-h-screen flex flex-col items-center py-10 px-4 dark:bg-slate-900 dark:text-slate-100 transition-colors duration-300"
+  >
+    <div
+      class="w-full max-w-4xl bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100 dark:bg-slate-800 dark:border-slate-700 transition-colors duration-300"
+    >
+      <!-- Header -->
+      <header
+        class="bg-white border-b border-gray-100 p-6 md:p-8 dark:bg-slate-800 dark:border-slate-700 flex flex-col md:flex-row md:justify-between md:items-center gap-4"
+      >
+        <div>
+          <h1
+            class="text-2xl md:text-3xl font-bold text-slate-900 tracking-tight dark:text-white"
+          >
+            Title Capitalization Tool
+          </h1>
+          <p class="text-slate-500 mt-1 dark:text-slate-400">
+            Auto-formats titles for papers, blogs, and emails.
+          </p>
+        </div>
+        <div class="flex items-center gap-3 self-start md:self-center">
+          <div
+            class="text-xs font-medium bg-blue-50 text-blue-700 px-3 py-1 rounded-full border border-blue-100 dark:bg-blue-900/30 dark:text-blue-300 dark:border-blue-800"
+          >
+            Supports APA & Smart Acronyms
+          </div>
+
+          <!-- Theme Toggle Button -->
+          <button
+            id="themeToggle"
+            class="p-2 rounded-lg bg-gray-100 text-slate-600 hover:bg-gray-200 dark:bg-slate-700 dark:text-slate-300 dark:hover:bg-slate-600 transition-colors"
+            title="Toggle Dark Mode"
+          >
+            <!-- Sun Icon -->
+            <svg
+              id="sunIcon"
+              class="hidden dark:block"
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+            <!-- Moon Icon -->
+            <svg
+              id="moonIcon"
+              class="block dark:hidden"
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <!-- Main Content -->
+      <main class="p-6 md:p-8 space-y-6">
+        <!-- Input Section -->
+        <div class="relative group">
+          <label
+            for="input"
+            class="block text-sm font-medium text-slate-700 mb-2 dark:text-slate-300"
+          >
+            Original Text
+          </label>
+          <textarea
+            id="input"
+            class="w-full h-32 p-4 text-lg bg-gray-50 border border-gray-200 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all placeholder-gray-400 resize-none dark:bg-slate-900 dark:border-slate-700 dark:text-slate-200 dark:placeholder-slate-500"
+            placeholder="xr blocks: Accelerating Human-centered ai + xr Innovation"
+            spellcheck="false"
+          ></textarea>
+          <button
+            id="clearBtn"
+            class="absolute top-9 right-3 text-gray-400 hover:text-red-500 p-1 rounded-md transition-colors opacity-0 group-hover:opacity-100 dark:hover:text-red-400"
+            title="Clear text"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+
+        <!-- Controls -->
+        <div
+          class="flex flex-wrap gap-2 md:gap-3 justify-center"
+          id="modeButtons"
+        >
+          <button
+            data-mode="apa"
+            class="btn-mode px-4 py-2 rounded-lg text-sm font-medium border border-gray-200 bg-white text-slate-600 hover:bg-gray-50 active dark:bg-slate-700 dark:text-slate-300 dark:border-slate-600 dark:hover:bg-slate-600"
+          >
+            APA Style <span class="opacity-50 text-xs ml-1">(Alt+1)</span>
+          </button>
+          <button
+            data-mode="title"
+            class="btn-mode px-4 py-2 rounded-lg text-sm font-medium border border-gray-200 bg-white text-slate-600 hover:bg-gray-50 dark:bg-slate-700 dark:text-slate-300 dark:border-slate-600 dark:hover:bg-slate-600"
+          >
+            Title Case <span class="opacity-50 text-xs ml-1">(Alt+2)</span>
+          </button>
+          <button
+            data-mode="sentence"
+            class="btn-mode px-4 py-2 rounded-lg text-sm font-medium border border-gray-200 bg-white text-slate-600 hover:bg-gray-50 dark:bg-slate-700 dark:text-slate-300 dark:border-slate-600 dark:hover:bg-slate-600"
+          >
+            Sentence case <span class="opacity-50 text-xs ml-1">(Alt+3)</span>
+          </button>
+          <button
+            data-mode="upper"
+            class="btn-mode px-4 py-2 rounded-lg text-sm font-medium border border-gray-200 bg-white text-slate-600 hover:bg-gray-50 dark:bg-slate-700 dark:text-slate-300 dark:border-slate-600 dark:hover:bg-slate-600"
+          >
+            UPPERCASE <span class="opacity-50 text-xs ml-1">(Alt+4)</span>
+          </button>
+          <button
+            data-mode="lower"
+            class="btn-mode px-4 py-2 rounded-lg text-sm font-medium border border-gray-200 bg-white text-slate-600 hover:bg-gray-50 dark:bg-slate-700 dark:text-slate-300 dark:border-slate-600 dark:hover:bg-slate-600"
+          >
+            lowercase <span class="opacity-50 text-xs ml-1">(Alt+5)</span>
+          </button>
+        </div>
+
+        <!-- Output Section -->
+        <div>
+          <label
+            for="output"
+            class="block text-sm font-medium text-slate-700 mb-2 dark:text-slate-300"
+          >
+            Converted Result
+          </label>
+          <div class="relative">
+            <textarea
+              id="output"
+              readonly
+              class="w-full h-32 p-4 text-lg bg-white border border-blue-100 rounded-xl text-slate-800 shadow-sm outline-none resize-none ring-1 ring-blue-50/50 dark:bg-slate-800 dark:border-slate-600 dark:text-slate-100 dark:ring-slate-700"
+            ></textarea>
+
+            <div class="absolute bottom-3 right-3 flex gap-2">
+              <span
+                id="copyFeedback"
+                class="text-sm text-green-600 font-medium py-2 px-3 opacity-0 transition-opacity duration-300 dark:text-green-400"
+                >Copied!</span
+              >
+              <button
+                id="copyBtn"
+                class="flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors shadow-md active:transform active:scale-95 dark:bg-slate-700 dark:hover:bg-slate-600 dark:border dark:border-slate-600"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                  <path
+                    d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"
+                  ></path>
+                </svg>
+                Copy
+              </button>
+            </div>
+          </div>
+        </div>
+      </main>
+
+      <!-- Footer / Special Terms Info -->
+      <footer
+        class="bg-gray-50 border-t border-gray-100 p-6 text-sm text-slate-500 dark:bg-slate-900/50 dark:border-slate-700 dark:text-slate-400"
+      >
+        <p class="mb-2 font-semibold text-slate-600 dark:text-slate-300">
+          Smart Capitalization Enabled
+        </p>
+        <p>
+          Automatically preserves formatting for common terms:
+          <span
+            class="font-mono text-blue-600 bg-blue-50 px-1 rounded dark:bg-slate-700 dark:text-blue-400"
+            >AI</span
+          >,
+          <span
+            class="font-mono text-blue-600 bg-blue-50 px-1 rounded dark:bg-slate-700 dark:text-blue-400"
+            >VR</span
+          >,
+          <span
+            class="font-mono text-blue-600 bg-blue-50 px-1 rounded dark:bg-slate-700 dark:text-blue-400"
+            >AR</span
+          >,
+          <span
+            class="font-mono text-blue-600 bg-blue-50 px-1 rounded dark:bg-slate-700 dark:text-blue-400"
+            >XR</span
+          >,
+          <span
+            class="font-mono text-blue-600 bg-blue-50 px-1 rounded dark:bg-slate-700 dark:text-blue-400"
+            >2D</span
+          >,
+          <span
+            class="font-mono text-blue-600 bg-blue-50 px-1 rounded dark:bg-slate-700 dark:text-blue-400"
+            >3D</span
+          >,
+          <span
+            class="font-mono text-blue-600 bg-blue-50 px-1 rounded dark:bg-slate-700 dark:text-blue-400"
+            >iOS</span
+          >,
+          <span
+            class="font-mono text-blue-600 bg-blue-50 px-1 rounded dark:bg-slate-700 dark:text-blue-400"
+            >API</span
+          >, and more.
+        </p>
+      </footer>
     </div>
 
+    <!-- Logic -->
     <script>
+      /**
+       * Title Capitalization Logic
+       * Handles conversion logic, UI interactions, and Theme Toggling.
+       */
       document.addEventListener("DOMContentLoaded", () => {
-        const input = document.getElementById("input");
-        const output = document.getElementById("output");
-        const copyBtn = document.getElementById("copyBtn");
-        const buttons = document.querySelectorAll(".button-row button");
+        // --- Configuration ---
+        const ELEMENTS = {
+          input: document.getElementById("input"),
+          output: document.getElementById("output"),
+          copyBtn: document.getElementById("copyBtn"),
+          clearBtn: document.getElementById("clearBtn"),
+          copyFeedback: document.getElementById("copyFeedback"),
+          buttons: document.querySelectorAll(".btn-mode"),
+          themeToggle: document.getElementById("themeToggle"),
+          html: document.documentElement,
+        };
+
+        // Terms that should always preserve specific casing
+        const SPECIAL_TERMS = [
+          // Tech Acronyms
+          "AI",
+          "AR",
+          "VR",
+          "XR",
+          "MR",
+          "2D",
+          "3D",
+          "4D",
+          "API",
+          "HTML",
+          "CSS",
+          "JS",
+          "SQL",
+          "NoSQL",
+          "JSON",
+          "XML",
+          "REST",
+          "JWT",
+          "UI",
+          "UX",
+          "SEO",
+          "SEM",
+          "CTA",
+          "KPI",
+          "ROI",
+          "B2B",
+          "B2C",
+          "SaaS",
+          "PaaS",
+          "IoT",
+          "iOS",
+          "macOS",
+          "tvOS",
+          "iPadOS",
+          "watchOS",
+          // Hardware/Common
+          "USB",
+          "HDMI",
+          "LAN",
+          "WAN",
+          "VPN",
+          "SSD",
+          "HDD",
+          "RAM",
+          "CPU",
+          "GPU",
+          "PC",
+          "TV",
+          "ID",
+          "IP",
+          "OK",
+          "DIY",
+          "FAQ",
+          "ETA",
+          "VIP",
+          "VS",
+          "WiFi",
+          // Roles
+          "CEO",
+          "CTO",
+          "CFO",
+          "COO",
+          "CMO",
+          "VP",
+          "SVP",
+          "EVP",
+          "PhD",
+          "MD",
+          "MBA",
+          // Organizations
+          "NASA",
+          "NATO",
+          "UN",
+          "EU",
+          "USA",
+          "UK",
+          "UAE",
+          // Brands (examples)
+          "iPhone",
+          "iPad",
+          "iMac",
+          "YouTube",
+          "LinkedIn",
+          "WhatsApp",
+          "GitHub",
+        ];
+
+        // Minor words for APA style (lowercase unless first/last)
+        const APA_MINOR_WORDS = new Set([
+          "a",
+          "an",
+          "the",
+          "and",
+          "but",
+          "or",
+          "for",
+          "nor",
+          "so",
+          "yet",
+          "at",
+          "by",
+          "for",
+          "in",
+          "of",
+          "on",
+          "to",
+          "up",
+          "with",
+          "as",
+          "from",
+          "into",
+          "like",
+          "near",
+          "off",
+          "onto",
+          "out",
+          "over",
+          "past",
+          "upon",
+          "down",
+        ]);
+
         let currentMode = "apa";
 
-        // Hover to select all for input
-        input.addEventListener("mouseover", function () {
-          this.select();
-        });
+        // --- Theme Management ---
+        const initTheme = () => {
+          const savedTheme = localStorage.getItem("theme");
+          if (
+            savedTheme === "dark" ||
+            (!savedTheme &&
+              window.matchMedia("(prefers-color-scheme: dark)").matches)
+          ) {
+            ELEMENTS.html.classList.add("dark");
+          } else {
+            ELEMENTS.html.classList.remove("dark");
+          }
+        };
 
-        // Conversion functions
+        const toggleTheme = () => {
+          if (ELEMENTS.html.classList.contains("dark")) {
+            ELEMENTS.html.classList.remove("dark");
+            localStorage.setItem("theme", "light");
+          } else {
+            ELEMENTS.html.classList.add("dark");
+            localStorage.setItem("theme", "dark");
+          }
+        };
+
+        ELEMENTS.themeToggle.addEventListener("click", toggleTheme);
+        initTheme();
+
+        // --- Helpers ---
+
+        /**
+         * Replaces instances of special terms with their correct casing.
+         * Applies to APA, Title, and Sentence modes.
+         */
+        const applySpecialTerms = (text) => {
+          let result = text;
+          SPECIAL_TERMS.forEach((term) => {
+            // Create a regex to find the term (case-insensitive) bounded by word boundaries
+            // We use a custom boundary check to handle terms with special chars if needed,
+            // but \b works for most standard acronyms.
+            const regex = new RegExp(`\\b${term}\\b`, "gi");
+            result = result.replace(regex, term);
+          });
+          return result;
+        };
+
+        const capitalizeWord = (word) => {
+          if (!word) return "";
+          return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+        };
+
+        // --- Converters ---
+
         const converters = {
           apa: (text) => {
-            const minorWords = new Set([
-              "a",
-              "an",
-              "the",
-              "and",
-              "but",
-              "or",
-              "nor",
-              "for",
-              "so",
-              "yet",
-              "at",
-              "by",
-              "down",
-              "from",
-              "in",
-              "into",
-              "like",
-              "near",
-              "of",
-              "off",
-              "on",
-              "onto",
-              "out",
-              "over",
-              "past",
-              "to",
-              "upon",
-              "with",
-              "as",
-              "t",
-            ]);
+            if (!text) return "";
+            const words = text.trim().split(/\s+/);
 
-            return text
-              .trim()
-              .split(/\s+/)
-              .map((word, i, arr) => {
-                const isFirstOrLast = i === 0 || i === arr.length - 1;
-                const processed = word
-                  .split("-")
-                  .map((part) => {
-                    const lowerPart = part.toLowerCase();
-                    if (isFirstOrLast || !minorWords.has(lowerPart)) {
-                      return (
-                        part[0].toUpperCase() + part.slice(1).toLowerCase()
-                      );
-                    }
-                    return lowerPart;
-                  })
-                  .join("-");
-                return processed;
-              })
-              .join(" ");
+            const convertedWords = words.map((word, index) => {
+              // Handle hyphenated words (e.g., "Follow-up")
+              if (word.includes("-")) {
+                const parts = word.split("-").map((part, pIndex) => {
+                  const lowerPart = part.toLowerCase();
+                  // In APA, capitalize both parts of hyphenated words usually,
+                  // unless the part is a minor word and not the first part of the whole word.
+                  if (pIndex === 0 || !APA_MINOR_WORDS.has(lowerPart)) {
+                    return capitalizeWord(part);
+                  }
+                  return lowerPart;
+                });
+                return parts.join("-");
+              }
+
+              const lowerWord = word.toLowerCase();
+              const isFirst = index === 0;
+              const isLast = index === words.length - 1;
+              // Check if previous word ended in colon or em-dash (start of subtitle)
+              const prevWord = index > 0 ? words[index - 1] : "";
+              const isSubtitleStart =
+                prevWord.endsWith(":") || prevWord.endsWith("—");
+
+              if (
+                isFirst ||
+                isLast ||
+                isSubtitleStart ||
+                !APA_MINOR_WORDS.has(lowerWord)
+              ) {
+                return capitalizeWord(word);
+              }
+              return lowerWord;
+            });
+
+            return applySpecialTerms(convertedWords.join(" "));
           },
 
-          title: (text) =>
-            text
+          title: (text) => {
+            // General Title Case: Capitalize all words except likely articles (simple approach)
+            if (!text) return "";
+            const processed = text
               .toLowerCase()
               .split(/\s+/)
-              .map((word) =>
-                word
+              .map((word) => {
+                return word
                   .split("-")
-                  .map((part) => part[0].toUpperCase() + part.slice(1))
-                  .join("-")
-              )
-              .join(" "),
+                  .map((part) => capitalizeWord(part))
+                  .join("-");
+              })
+              .join(" ");
+            return applySpecialTerms(processed);
+          },
 
           sentence: (text) => {
             if (!text) return "";
-            return text[0].toUpperCase() + text.slice(1).toLowerCase();
+            const lowered = text.toLowerCase();
+            const sentenced =
+              lowered.charAt(0).toUpperCase() + lowered.slice(1);
+            return applySpecialTerms(sentenced);
           },
 
           upper: (text) => text.toUpperCase(),
+
           lower: (text) => text.toLowerCase(),
         };
 
+        // --- Core Functions ---
+
         function updateOutput() {
-          output.value = converters[currentMode](input.value);
+          const rawText = ELEMENTS.input.value;
+          if (!rawText) {
+            ELEMENTS.output.value = "";
+            return;
+          }
+          ELEMENTS.output.value = converters[currentMode](rawText);
         }
 
-        // Event listeners
-        input.addEventListener("input", updateOutput);
+        function setMode(mode) {
+          currentMode = mode;
 
-        output.addEventListener("mouseover", function () {
-          this.select();
+          // Update UI
+          ELEMENTS.buttons.forEach((btn) => {
+            if (btn.dataset.mode === mode) {
+              btn.classList.add("active");
+            } else {
+              btn.classList.remove("active");
+            }
+          });
+
+          updateOutput();
+        }
+
+        function copyToClipboard() {
+          if (!ELEMENTS.output.value) return;
+
+          navigator.clipboard
+            .writeText(ELEMENTS.output.value)
+            .then(() => {
+              ELEMENTS.copyFeedback.style.opacity = "1";
+              setTimeout(() => {
+                ELEMENTS.copyFeedback.style.opacity = "0";
+              }, 2000);
+            })
+            .catch((err) => console.error("Failed to copy:", err));
+        }
+
+        // --- Event Listeners ---
+
+        ELEMENTS.input.addEventListener("input", updateOutput);
+
+        ELEMENTS.clearBtn.addEventListener("click", () => {
+          ELEMENTS.input.value = "";
+          updateOutput();
+          ELEMENTS.input.focus();
         });
 
-        buttons.forEach((button) => {
+        ELEMENTS.copyBtn.addEventListener("click", copyToClipboard);
+
+        // Mode Switching
+        ELEMENTS.buttons.forEach((button) => {
           button.addEventListener("click", () => {
-            currentMode = button.dataset.mode;
-            buttons.forEach((b) => b.classList.remove("active"));
-            button.classList.add("active");
-            updateOutput();
+            setMode(button.dataset.mode);
           });
         });
 
+        // Keyboard Shortcuts
         document.addEventListener("keydown", (e) => {
+          // Alt + 1-5
           if (e.altKey && e.key >= "1" && e.key <= "5") {
+            e.preventDefault(); // Prevent browser tab switching if any
+            const mapping = ["apa", "title", "sentence", "upper", "lower"];
             const index = parseInt(e.key) - 1;
-            if (buttons[index]) {
-              buttons[index].click();
+            if (mapping[index]) {
+              setMode(mapping[index]);
             }
           }
         });
 
-        copyBtn.addEventListener("click", async () => {
-          try {
-            await navigator.clipboard.writeText(output.value);
-            copyBtn.textContent = "✓";
-            setTimeout(() => (copyBtn.textContent = "📋"), 2000);
-          } catch (err) {
-            console.error("Failed to copy:", err);
-          }
-        });
+        // Initialize
+        updateOutput();
       });
     </script>
   </body>
